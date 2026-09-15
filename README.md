@@ -37,17 +37,15 @@ cp .env.example .env
 
 ---
 
-## 3. Despliegue con Docker Compose
+## 3. Despliegue con Docker Compose (Zero-Dependency)
+
+El proyecto utiliza **Multi-Stage Docker Builds**, por lo que **no es necesario tener Java ni Maven instalados** en el host. Docker compila el código con Java 17 y levanta toda la infraestructura automáticamente:
 
 ```bash
-# 1. Compilar el proyecto multi-módulo (requiere Java 17)
-export JAVA_HOME=$(/usr/libexec/java_home -v 17 2>/dev/null || echo $JAVA_HOME)
-mvn clean package -DskipTests
-
-# 2. Construir e iniciar contenedores en segundo plano
+# 1. Construir imágenes e iniciar contenedores en segundo plano
 docker compose up --build -d
 
-# 3. Verificar estado de los contenedores
+# 2. Verificar estado de los contenedores
 docker compose ps
 ```
 

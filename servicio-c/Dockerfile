@@ -1,16 +1,33 @@
-FROM eclipse-temurin:17-jre-jammy AS builder
+# Stage 1: Build inside Docker using Maven and Java 17
+FROM maven:3.9.9-eclipse-temurin-17 AS builder
+WORKDIR /build
+
+COPY pom.xml .
+COPY common/pom.xml common/
+COPY servicio-a/pom.xml servicio-a/
+COPY servicio-b/pom.xml servicio-b/
+COPY servicio-c/pom.xml servicio-c/
+
+COPY common/src common/src
+COPY servicio-c/src servicio-c/src
+
+RUN mvn clean package -pl common,servicio-c -am -DskipTests
+
+# Stage 2: Extract layers for fast container startup
+FROM eclipse-temurin:17-jre-jammy AS extractor
 WORKDIR /extracted
-COPY target/servicio-c-1.0.0-SNAPSHOT.jar app.jar
+COPY --from=builder /build/servicio-c/target/servicio-c-1.0.0-SNAPSHOT.jar app.jar
 RUN java -Djarmode=layertools -jar app.jar extract
 
+# Stage 3: Minimal production runtime
 FROM eclipse-temurin:17-jre-jammy
 WORKDIR /app
 RUN groupadd -r spring && useradd -r -g spring -u 10001 spring
 
-COPY --from=builder /extracted/dependencies/ ./
-COPY --from=builder /extracted/spring-boot-loader/ ./
-COPY --from=builder /extracted/snapshot-dependencies/ ./
-COPY --from=builder /extracted/application/ ./
+COPY --from=extractor /extracted/dependencies/ ./
+COPY --from=extractor /extracted/spring-boot-loader/ ./
+COPY --from=extractor /extracted/snapshot-dependencies/ ./
+COPY --from=extractor /extracted/application/ ./
 
 RUN chown -R spring:spring /app
 USER spring:spring

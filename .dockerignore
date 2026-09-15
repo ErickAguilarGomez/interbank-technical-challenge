@@ -6,8 +6,5 @@
 **/.vscode
 **/*.DS_Store
 **/README.md
-**/docker-compose.yml
-**/.mvn
-**/src/
-**/target/**
-!**/target/*.jar
+target/
+**/target/

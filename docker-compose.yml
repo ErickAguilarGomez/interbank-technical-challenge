@@ -74,8 +74,8 @@ services:
 
   servicio-a:
     build:
-      context: ./servicio-a
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: servicio-a/Dockerfile
     container_name: bank-servicio-a
     restart: unless-stopped
     networks:
@@ -108,8 +108,8 @@ services:
 
   servicio-b:
     build:
-      context: ./servicio-b
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: servicio-b/Dockerfile
     container_name: bank-servicio-b
     restart: unless-stopped
     networks:
@@ -142,8 +142,8 @@ services:
 
   servicio-c:
     build:
-      context: ./servicio-c
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: servicio-c/Dockerfile
     container_name: bank-servicio-c
     restart: unless-stopped
     networks:
