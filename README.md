@@ -93,8 +93,10 @@ curl "http://localhost:8083/api/v1/monitoring/records?page=0&size=5&status=COMPL
 
 ## 6. Pruebas Automatizadas (JUnit 5 & Mockito)
 
-Ejecución de la suite completa de pruebas:
+Ejecución de las 18 pruebas automatizadas **directamente con Docker** (sin instalar Java ni Maven en tu PC):
+
 ```bash
-export JAVA_HOME=$(/usr/libexec/java_home -v 17 2>/dev/null || echo $JAVA_HOME)
-mvn test
+docker run --rm -v $(pwd):/app -w /app -v ~/.m2:/root/.m2 maven:3.9.9-eclipse-temurin-17 mvn test
 ```
+
+*(Si tienes Java 17 instalado en tu máquina local, también puedes correr directamente: `mvn test`)*
