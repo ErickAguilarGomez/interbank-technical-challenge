@@ -40,7 +40,8 @@ cp .env.example .env
 ## 3. Despliegue con Docker Compose
 
 ```bash
-# 1. Compilar el proyecto multi-módulo
+# 1. Compilar el proyecto multi-módulo (requiere Java 17)
+export JAVA_HOME=$(/usr/libexec/java_home -v 17 2>/dev/null || echo $JAVA_HOME)
 mvn clean package -DskipTests
 
 # 2. Construir e iniciar contenedores en segundo plano
@@ -96,5 +97,6 @@ curl "http://localhost:8083/api/v1/monitoring/records?page=0&size=5&status=COMPL
 
 Ejecución de la suite completa de pruebas:
 ```bash
+export JAVA_HOME=$(/usr/libexec/java_home -v 17 2>/dev/null || echo $JAVA_HOME)
 mvn test
 ```
