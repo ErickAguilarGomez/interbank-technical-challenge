@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oralee"
+  lastname="Gilbertson"
+  city="Sana'a"
+  country="Kenya"
+  firstname2="Tabbatha"
+  lastname2="Franza"
+  email="Tabbatha.Franza@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>9.564</random_float>
+  <bool>false</bool>
+  <date>1997-04-16</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Bobinette</elt><elt>Evaleen</elt><elt>Jeanna</elt><elt>Libbie</elt><elt>Louella</elt>  
+  <Tabbatha>
+    <age>25</age>
+  </Tabbatha>
+</root>

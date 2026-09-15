@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Stacy"
+  city="Nagpur"
+  country="Korea, Republic of"
+  firstname2="Demetris"
+  lastname2="Eliathas"
+  email="Demetris.Eliathas@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>94.008</random_float>
+  <bool>true</bool>
+  <date>1994-05-10</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Susette</elt><elt>Basia</elt><elt>Deirdre</elt><elt>Asia</elt><elt>Marita</elt>  
+  <Demetris>
+    <age>74</age>
+  </Demetris>
+</root>

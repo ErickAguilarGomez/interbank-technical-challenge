@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Moina"
+  city="Pattaya"
+  country="Nicaragua"
+  firstname2="Sean"
+  lastname2="Philoo"
+  email="Sean.Philoo@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>75.865</random_float>
+  <bool>true</bool>
+  <date>1991-06-03</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Shandie</elt><elt>Joeann</elt><elt>Selma</elt><elt>Aimil</elt><elt>Ardys</elt>  
+  <Sean>
+    <age>20</age>
+  </Sean>
+</root>

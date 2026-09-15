@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Gherardo"
+  city="Saint-Denis"
+  country="Germany"
+  firstname2="Dale"
+  lastname2="Longfellow"
+  email="Dale.Longfellow@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>71.775</random_float>
+  <bool>true</bool>
+  <date>1992-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Konstance</elt><elt>Minne</elt><elt>Tera</elt><elt>Pierette</elt><elt>Nikki</elt>  
+  <Dale>
+    <age>19</age>
+  </Dale>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nariko"
+  lastname="Ruvolo"
+  city="Port-au-Prince"
+  country="Bangladesh"
+  firstname2="Alyda"
+  lastname2="Jehu"
+  email="Alyda.Jehu@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>20.682</random_float>
+  <bool>true</bool>
+  <date>1984-01-21</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Iseabal</elt><elt>Chere</elt><elt>Lanna</elt><elt>Jasmina</elt><elt>Charissa</elt>  
+  <Alyda>
+    <age>90</age>
+  </Alyda>
+</root>

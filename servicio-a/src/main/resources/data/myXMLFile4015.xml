@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leanna"
+  lastname="Montgomery"
+  city="Edinburgh"
+  country="Spain"
+  firstname2="Jaclyn"
+  lastname2="Zetta"
+  email="Jaclyn.Zetta@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>30.061</random_float>
+  <bool>false</bool>
+  <date>1993-11-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Taffy</elt><elt>Fredericka</elt><elt>Joy</elt><elt>Brena</elt><elt>Kaja</elt>  
+  <Jaclyn>
+    <age>41</age>
+  </Jaclyn>
+</root>

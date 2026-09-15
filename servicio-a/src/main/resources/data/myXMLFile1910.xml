@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zondra"
+  lastname="Stelle"
+  city="Portland"
+  country="RWANDA"
+  firstname2="Perry"
+  lastname2="Kolnick"
+  email="Perry.Kolnick@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>24.5</random_float>
+  <bool>false</bool>
+  <date>1985-02-25</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Raf</elt><elt>Rebeca</elt><elt>Mireielle</elt><elt>Hallie</elt><elt>Nicoli</elt>  
+  <Perry>
+    <age>39</age>
+  </Perry>
+</root>

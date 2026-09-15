@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Isa"
+  lastname="Thornburg"
+  city="Magadan"
+  country="Zambia"
+  firstname2="Linzy"
+  lastname2="Egbert"
+  email="Linzy.Egbert@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>63.055</random_float>
+  <bool>true</bool>
+  <date>1984-10-13</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tierney</elt><elt>Shaine</elt><elt>Tatiania</elt><elt>Ginnie</elt><elt>Chrystel</elt>  
+  <Linzy>
+    <age>28</age>
+  </Linzy>
+</root>

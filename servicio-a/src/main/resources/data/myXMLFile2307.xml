@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Eben"
+  city="Nagoya"
+  country="Lithuania"
+  firstname2="Ezmeralda"
+  lastname2="Berriman"
+  email="Ezmeralda.Berriman@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>47.263</random_float>
+  <bool>true</bool>
+  <date>1983-02-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Minda</elt><elt>Alleen</elt><elt>Gusella</elt><elt>Teddie</elt><elt>Sonni</elt>  
+  <Ezmeralda>
+    <age>47</age>
+  </Ezmeralda>
+</root>

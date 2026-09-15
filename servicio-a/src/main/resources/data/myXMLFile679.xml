@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynnea"
+  lastname="Rebecka"
+  city="Mashhad"
+  country="Gambia"
+  firstname2="Gerrie"
+  lastname2="Rossner"
+  email="Gerrie.Rossner@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>99.822</random_float>
+  <bool>false</bool>
+  <date>1997-07-23</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rayna</elt><elt>Meg</elt><elt>Carilyn</elt><elt>Calla</elt><elt>Shell</elt>  
+  <Gerrie>
+    <age>29</age>
+  </Gerrie>
+</root>

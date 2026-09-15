@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Micheline"
+  lastname="Gower"
+  city="Salzburg"
+  country="Ireland"
+  firstname2="Nerta"
+  lastname2="Azeria"
+  email="Nerta.Azeria@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>7.615</random_float>
+  <bool>true</bool>
+  <date>1999-07-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elfreda</elt><elt>Violet</elt><elt>Brynna</elt><elt>Consuela</elt><elt>Arlina</elt>  
+  <Nerta>
+    <age>94</age>
+  </Nerta>
+</root>

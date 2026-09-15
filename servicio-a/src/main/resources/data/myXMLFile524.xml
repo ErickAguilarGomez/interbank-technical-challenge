@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Candy"
+  city="Dededo"
+  country="Central African Republic"
+  firstname2="Dari"
+  lastname2="Killigrew"
+  email="Dari.Killigrew@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>6.471</random_float>
+  <bool>false</bool>
+  <date>1986-10-27</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Phylis</elt><elt>Jackie</elt><elt>Silvana</elt><elt>Belinda</elt><elt>Barbi</elt>  
+  <Dari>
+    <age>63</age>
+  </Dari>
+</root>

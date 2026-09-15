@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Codding"
+  city="Mandurah"
+  country="Belgium"
+  firstname2="Sharai"
+  lastname2="Calhoun"
+  email="Sharai.Calhoun@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>64.655</random_float>
+  <bool>false</bool>
+  <date>1988-11-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Yetty</elt><elt>Dyann</elt><elt>Gilda</elt><elt>Marline</elt><elt>Dorothy</elt>  
+  <Sharai>
+    <age>64</age>
+  </Sharai>
+</root>

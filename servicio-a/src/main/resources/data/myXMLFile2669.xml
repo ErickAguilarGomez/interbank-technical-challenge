@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rani"
+  lastname="Henrie"
+  city="New Orleans"
+  country="Virgin Islands, U.S."
+  firstname2="Rosanne"
+  lastname2="Amasa"
+  email="Rosanne.Amasa@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>56.49</random_float>
+  <bool>true</bool>
+  <date>1986-02-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Donetta</elt><elt>Barbi</elt><elt>Blinni</elt><elt>Leanna</elt><elt>Ellette</elt>  
+  <Rosanne>
+    <age>64</age>
+  </Rosanne>
+</root>

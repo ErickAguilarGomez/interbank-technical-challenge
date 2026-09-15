@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurore"
+  lastname="Louanna"
+  city="Majuro"
+  country="France"
+  firstname2="Leia"
+  lastname2="Socha"
+  email="Leia.Socha@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>59.652</random_float>
+  <bool>false</bool>
+  <date>1985-01-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Shell</elt><elt>Jaclyn</elt><elt>Frances</elt><elt>Jaime</elt><elt>Fanchon</elt>  
+  <Leia>
+    <age>79</age>
+  </Leia>
+</root>

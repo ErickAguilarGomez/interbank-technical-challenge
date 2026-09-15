@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardys"
+  lastname="Genna"
+  city="Lagos"
+  country="Christmas Island"
+  firstname2="Concettina"
+  lastname2="Salchunas"
+  email="Concettina.Salchunas@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>21.346</random_float>
+  <bool>false</bool>
+  <date>1982-07-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hyacinthe</elt><elt>Bill</elt><elt>Maridel</elt><elt>Margarette</elt><elt>Sadie</elt>  
+  <Concettina>
+    <age>94</age>
+  </Concettina>
+</root>

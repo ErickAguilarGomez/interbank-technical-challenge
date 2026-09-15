@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Henriette"
+  lastname="Viddah"
+  city="Ljubljana"
+  country="Israel"
+  firstname2="Blinni"
+  lastname2="Gilmour"
+  email="Blinni.Gilmour@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>19.099</random_float>
+  <bool>true</bool>
+  <date>1989-05-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Vevay</elt><elt>Cathyleen</elt><elt>Madeleine</elt><elt>Camile</elt><elt>Maridel</elt>  
+  <Blinni>
+    <age>46</age>
+  </Blinni>
+</root>

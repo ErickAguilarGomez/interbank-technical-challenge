@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Abernon"
+  city="Mendoza"
+  country="Philippines"
+  firstname2="Jean"
+  lastname2="Bertold"
+  email="Jean.Bertold@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>80.609</random_float>
+  <bool>true</bool>
+  <date>1982-09-06</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jacquetta</elt><elt>Fayre</elt><elt>Tabbatha</elt><elt>Mireielle</elt><elt>Eugine</elt>  
+  <Jean>
+    <age>58</age>
+  </Jean>
+</root>

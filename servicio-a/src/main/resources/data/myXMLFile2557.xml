@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Durware"
+  city="Havana"
+  country="Sao Tome and Principe"
+  firstname2="Calla"
+  lastname2="Ball"
+  email="Calla.Ball@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>77.956</random_float>
+  <bool>false</bool>
+  <date>1998-12-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Christal</elt><elt>Leanna</elt><elt>Harrietta</elt><elt>Theodora</elt><elt>Juliane</elt>  
+  <Calla>
+    <age>84</age>
+  </Calla>
+</root>

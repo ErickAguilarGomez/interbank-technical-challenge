@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Myrilla"
+  city="Assis"
+  country="Guinea"
+  firstname2="Bee"
+  lastname2="Chrystel"
+  email="Bee.Chrystel@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>42.507</random_float>
+  <bool>false</bool>
+  <date>1990-06-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brynna</elt><elt>Kylynn</elt><elt>Rebeca</elt><elt>Lucille</elt><elt>Jenilee</elt>  
+  <Bee>
+    <age>34</age>
+  </Bee>
+</root>

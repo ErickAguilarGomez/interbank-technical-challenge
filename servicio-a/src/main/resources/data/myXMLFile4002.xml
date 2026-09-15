@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Penelopa"
+  lastname="Bury"
+  city="Nagoya"
+  country="Faroe Islands"
+  firstname2="Goldie"
+  lastname2="Gavrila"
+  email="Goldie.Gavrila@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>30.481</random_float>
+  <bool>true</bool>
+  <date>1995-11-19</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mariann</elt><elt>Evaleen</elt><elt>Roberta</elt><elt>Annecorinne</elt><elt>Nananne</elt>  
+  <Goldie>
+    <age>43</age>
+  </Goldie>
+</root>

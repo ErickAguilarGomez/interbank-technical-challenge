@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Bonucci"
+  city="Tskhinvali"
+  country="Malawi"
+  firstname2="Kathi"
+  lastname2="Edee"
+  email="Kathi.Edee@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>87.298</random_float>
+  <bool>true</bool>
+  <date>1985-03-24</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Perry</elt><elt>Drucie</elt><elt>Tierney</elt><elt>Cristine</elt><elt>Iseabal</elt>  
+  <Kathi>
+    <age>28</age>
+  </Kathi>
+</root>

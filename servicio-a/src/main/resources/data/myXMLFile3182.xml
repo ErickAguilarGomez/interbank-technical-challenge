@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berta"
+  lastname="Jeanne"
+  city="Charlottetown"
+  country="Turks and Caicos Islands"
+  firstname2="Millie"
+  lastname2="Abram"
+  email="Millie.Abram@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>47.725</random_float>
+  <bool>true</bool>
+  <date>1984-09-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Melodie</elt><elt>Lorie</elt><elt>Hermione</elt><elt>Ekaterina</elt><elt>Sandie</elt>  
+  <Millie>
+    <age>36</age>
+  </Millie>
+</root>

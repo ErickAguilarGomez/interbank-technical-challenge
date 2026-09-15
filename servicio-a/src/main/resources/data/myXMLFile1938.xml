@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ottilie"
+  lastname="Valerio"
+  city="Durango"
+  country="Sri Lanka"
+  firstname2="Gianina"
+  lastname2="Aprile"
+  email="Gianina.Aprile@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>65.872</random_float>
+  <bool>false</bool>
+  <date>1986-07-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dotty</elt><elt>Karina</elt><elt>Judy</elt><elt>Merrie</elt><elt>Briney</elt>  
+  <Gianina>
+    <age>50</age>
+  </Gianina>
+</root>

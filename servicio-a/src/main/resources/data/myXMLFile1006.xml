@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ekaterina"
+  lastname="Milde"
+  city="Zagreb"
+  country="Nicaragua"
+  firstname2="Maud"
+  lastname2="Gilbertson"
+  email="Maud.Gilbertson@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>27.541</random_float>
+  <bool>false</bool>
+  <date>1990-01-24</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Alexine</elt><elt>Felice</elt><elt>Benita</elt><elt>Sheree</elt><elt>Jacquetta</elt>  
+  <Maud>
+    <age>98</age>
+  </Maud>
+</root>

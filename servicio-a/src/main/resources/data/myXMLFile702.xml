@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rubie"
+  lastname="Cyrie"
+  city="Honiara"
+  country="Pitcairn"
+  firstname2="Yetty"
+  lastname2="Morgun"
+  email="Yetty.Morgun@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>78.736</random_float>
+  <bool>false</bool>
+  <date>1981-05-13</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Wilma</elt><elt>Nonnah</elt><elt>Barbi</elt><elt>Kary</elt><elt>Thalia</elt>  
+  <Yetty>
+    <age>46</age>
+  </Yetty>
+</root>

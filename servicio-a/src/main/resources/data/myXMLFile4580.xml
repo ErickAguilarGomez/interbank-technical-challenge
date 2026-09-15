@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Layla"
+  lastname="Hurley"
+  city="Mogadishu"
+  country="Tanzania, United Republic of"
+  firstname2="Carilyn"
+  lastname2="Adore"
+  email="Carilyn.Adore@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>8.57</random_float>
+  <bool>true</bool>
+  <date>1999-12-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marika</elt><elt>Aeriela</elt><elt>Pierette</elt><elt>Gretal</elt><elt>Emylee</elt>  
+  <Carilyn>
+    <age>56</age>
+  </Carilyn>
+</root>

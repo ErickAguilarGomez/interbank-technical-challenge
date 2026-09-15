@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ketti"
+  lastname="Faso"
+  city="Zürich"
+  country="Pakistan"
+  firstname2="Jorry"
+  lastname2="Kenney"
+  email="Jorry.Kenney@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>22.746</random_float>
+  <bool>true</bool>
+  <date>1994-07-14</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ernesta</elt><elt>Elena</elt><elt>Audrie</elt><elt>Mahalia</elt><elt>Lory</elt>  
+  <Jorry>
+    <age>40</age>
+  </Jorry>
+</root>

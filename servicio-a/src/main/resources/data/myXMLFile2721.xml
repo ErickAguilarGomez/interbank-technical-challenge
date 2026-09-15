@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deane"
+  lastname="Christal"
+  city="Astana"
+  country="United States"
+  firstname2="Clarice"
+  lastname2="Briney"
+  email="Clarice.Briney@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>72.354</random_float>
+  <bool>false</bool>
+  <date>1999-05-07</date>
+  <regEx>helloo to you</regEx>
+  <enum>generator</enum>
+  <elt>Pearline</elt><elt>Melodie</elt><elt>Marylou</elt><elt>Britni</elt><elt>Debee</elt>  
+  <Clarice>
+    <age>44</age>
+  </Clarice>
+</root>

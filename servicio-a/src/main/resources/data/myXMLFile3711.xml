@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanchon"
+  lastname="Weinreb"
+  city="Strasbourg"
+  country="Morocco"
+  firstname2="Gavrielle"
+  lastname2="Berriman"
+  email="Gavrielle.Berriman@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>85.429</random_float>
+  <bool>false</bool>
+  <date>1981-06-14</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sharlene</elt><elt>Wanda</elt><elt>Gertrud</elt><elt>Joeann</elt><elt>Selia</elt>  
+  <Gavrielle>
+    <age>82</age>
+  </Gavrielle>
+</root>

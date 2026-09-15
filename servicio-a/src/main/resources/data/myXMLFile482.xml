@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Maxi"
+  city="Handan"
+  country="Grenada"
+  firstname2="Ruthe"
+  lastname2="Taima"
+  email="Ruthe.Taima@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>59.903</random_float>
+  <bool>false</bool>
+  <date>1994-07-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cissiee</elt><elt>Roberta</elt><elt>Darci</elt><elt>Netty</elt><elt>Lucille</elt>  
+  <Ruthe>
+    <age>20</age>
+  </Ruthe>
+</root>

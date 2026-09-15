@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cindelyn"
+  lastname="Hebner"
+  city="Chongjin"
+  country="Germany"
+  firstname2="Malina"
+  lastname2="Wind"
+  email="Malina.Wind@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>69.289</random_float>
+  <bool>false</bool>
+  <date>1986-12-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nananne</elt><elt>Sonni</elt><elt>Olivette</elt><elt>Adore</elt><elt>Gwenneth</elt>  
+  <Malina>
+    <age>68</age>
+  </Malina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roslyn"
+  lastname="Kristi"
+  city="Virginia Beach"
+  country="Iceland"
+  firstname2="Jolyn"
+  lastname2="Vernier"
+  email="Jolyn.Vernier@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>39.143</random_float>
+  <bool>true</bool>
+  <date>1988-03-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Moyna</elt><elt>Sherrie</elt><elt>Anica</elt><elt>Camile</elt><elt>Dolli</elt>  
+  <Jolyn>
+    <age>58</age>
+  </Jolyn>
+</root>

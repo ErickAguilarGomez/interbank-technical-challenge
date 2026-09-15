@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beth"
+  lastname="Bashemeth"
+  city="Omsk"
+  country="Oman"
+  firstname2="Suzette"
+  lastname2="Vharat"
+  email="Suzette.Vharat@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>53.926</random_float>
+  <bool>false</bool>
+  <date>1980-04-06</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Wynne</elt><elt>Ardys</elt><elt>Elena</elt><elt>Sibella</elt><elt>Devina</elt>  
+  <Suzette>
+    <age>30</age>
+  </Suzette>
+</root>

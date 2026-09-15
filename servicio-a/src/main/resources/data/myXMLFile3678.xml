@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gratia"
+  lastname="Hull"
+  city="Naples"
+  country="AndorrA"
+  firstname2="Ginnie"
+  lastname2="Allina"
+  email="Ginnie.Allina@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>40.079</random_float>
+  <bool>false</bool>
+  <date>1995-12-22</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nerta</elt><elt>Rochette</elt><elt>Gilda</elt><elt>Corly</elt><elt>Rori</elt>  
+  <Ginnie>
+    <age>49</age>
+  </Ginnie>
+</root>

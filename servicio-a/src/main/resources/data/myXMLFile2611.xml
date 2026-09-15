@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimmy"
+  lastname="Justinn"
+  city="Cartagena"
+  country="Burundi"
+  firstname2="Lita"
+  lastname2="Irmine"
+  email="Lita.Irmine@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>57.067</random_float>
+  <bool>true</bool>
+  <date>1997-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Maud</elt><elt>Lolita</elt><elt>Jacquetta</elt><elt>Jackie</elt><elt>Jobi</elt>  
+  <Lita>
+    <age>49</age>
+  </Lita>
+</root>

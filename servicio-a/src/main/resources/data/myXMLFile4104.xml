@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sam"
+  lastname="Haldas"
+  city="Riyadh"
+  country="Belgium"
+  firstname2="Molli"
+  lastname2="Keelia"
+  email="Molli.Keelia@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>51.683</random_float>
+  <bool>true</bool>
+  <date>1981-05-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jemie</elt><elt>Pierette</elt><elt>Belinda</elt><elt>Caressa</elt><elt>Marline</elt>  
+  <Molli>
+    <age>19</age>
+  </Molli>
+</root>

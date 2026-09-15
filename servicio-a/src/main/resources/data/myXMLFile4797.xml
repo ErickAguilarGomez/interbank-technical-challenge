@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Korrie"
+  lastname="Cressida"
+  city="Mecca"
+  country="Norfolk Island"
+  firstname2="Sissy"
+  lastname2="Christal"
+  email="Sissy.Christal@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>92.996</random_float>
+  <bool>true</bool>
+  <date>1982-12-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Norine</elt><elt>Nyssa</elt><elt>Adelle</elt><elt>Gloria</elt><elt>Charmaine</elt>  
+  <Sissy>
+    <age>28</age>
+  </Sissy>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kellen"
+  lastname="Tarrant"
+  city="Cologne"
+  country="Niue"
+  firstname2="Molli"
+  lastname2="Croix"
+  email="Molli.Croix@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>46.342</random_float>
+  <bool>false</bool>
+  <date>1987-06-26</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ayn</elt><elt>Orsola</elt><elt>Carmela</elt><elt>Meg</elt><elt>Arlena</elt>  
+  <Molli>
+    <age>53</age>
+  </Molli>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lisette"
+  lastname="Afton"
+  city="Funafuti"
+  country="Zambia"
+  firstname2="Oona"
+  lastname2="Leary"
+  email="Oona.Leary@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>60.489</random_float>
+  <bool>true</bool>
+  <date>1983-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Celisse</elt><elt>Alia</elt><elt>Florencia</elt><elt>Kalina</elt><elt>Amalie</elt>  
+  <Oona>
+    <age>45</age>
+  </Oona>
+</root>

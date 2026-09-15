@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ilse"
+  lastname="Dalli"
+  city="Iquique"
+  country="Guernsey"
+  firstname2="Andeee"
+  lastname2="Halla"
+  email="Andeee.Halla@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>69.483</random_float>
+  <bool>false</bool>
+  <date>1985-03-20</date>
+  <regEx>hellooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Karina</elt><elt>Gianina</elt><elt>Glynnis</elt><elt>Tilly</elt><elt>Georgina</elt>  
+  <Andeee>
+    <age>49</age>
+  </Andeee>
+</root>

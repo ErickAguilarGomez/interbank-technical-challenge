@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Larine"
+  lastname="Lanita"
+  city="Leeds"
+  country="French Polynesia"
+  firstname2="Helsa"
+  lastname2="Ciro"
+  email="Helsa.Ciro@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>99.983</random_float>
+  <bool>false</bool>
+  <date>1980-02-15</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Kaia</elt><elt>Carol-Jean</elt><elt>Carlie</elt><elt>Aimil</elt><elt>Kalina</elt>  
+  <Helsa>
+    <age>84</age>
+  </Helsa>
+</root>

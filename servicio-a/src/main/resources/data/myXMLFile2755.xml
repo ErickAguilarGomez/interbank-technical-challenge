@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jennica"
+  lastname="Jacqui"
+  city="Naples"
+  country="Algeria"
+  firstname2="Farrah"
+  lastname2="Kauppi"
+  email="Farrah.Kauppi@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>67.091</random_float>
+  <bool>false</bool>
+  <date>1999-02-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Peri</elt><elt>Michaelina</elt><elt>Layla</elt><elt>Dede</elt><elt>Audrie</elt>  
+  <Farrah>
+    <age>20</age>
+  </Farrah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Henriette"
+  lastname="Olin"
+  city="Tirana"
+  country="Maldives"
+  firstname2="Margalo"
+  lastname2="Munn"
+  email="Margalo.Munn@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>2.686</random_float>
+  <bool>false</bool>
+  <date>1987-04-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Teriann</elt><elt>Ilse</elt><elt>Ariela</elt><elt>Shel</elt><elt>Aili</elt>  
+  <Margalo>
+    <age>75</age>
+  </Margalo>
+</root>

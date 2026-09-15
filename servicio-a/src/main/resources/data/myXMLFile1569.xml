@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madalyn"
+  lastname="Clarissa"
+  city="Dalian"
+  country="New Zealand"
+  firstname2="Renie"
+  lastname2="Warthman"
+  email="Renie.Warthman@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>42.752</random_float>
+  <bool>true</bool>
+  <date>1988-02-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joeann</elt><elt>Brietta</elt><elt>Vonny</elt><elt>Eadie</elt><elt>Danika</elt>  
+  <Renie>
+    <age>86</age>
+  </Renie>
+</root>

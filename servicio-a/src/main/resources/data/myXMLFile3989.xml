@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Lasley"
+  city="Guwahati"
+  country="Guyana"
+  firstname2="Morganica"
+  lastname2="Cressida"
+  email="Morganica.Cressida@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>50.983</random_float>
+  <bool>true</bool>
+  <date>1988-04-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Estell</elt><elt>Dania</elt><elt>Damaris</elt><elt>Selma</elt><elt>Bobinette</elt>  
+  <Morganica>
+    <age>81</age>
+  </Morganica>
+</root>

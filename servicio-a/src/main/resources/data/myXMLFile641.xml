@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melina"
+  lastname="Jeanne"
+  city="Boa Vista"
+  country="Belarus"
+  firstname2="Sean"
+  lastname2="Pelagias"
+  email="Sean.Pelagias@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>60.924</random_float>
+  <bool>false</bool>
+  <date>1988-04-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alexine</elt><elt>Rosaline</elt><elt>Julieta</elt><elt>Elyssa</elt><elt>Sandie</elt>  
+  <Sean>
+    <age>62</age>
+  </Sean>
+</root>

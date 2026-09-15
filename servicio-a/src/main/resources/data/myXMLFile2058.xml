@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorene"
+  lastname="Merriott"
+  city="Tampa"
+  country="Timor-Leste"
+  firstname2="Nadine"
+  lastname2="Peonir"
+  email="Nadine.Peonir@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>99.938</random_float>
+  <bool>true</bool>
+  <date>1981-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Elyssa</elt><elt>Maryellen</elt><elt>Tonia</elt><elt>Danika</elt><elt>Tami</elt>  
+  <Nadine>
+    <age>93</age>
+  </Nadine>
+</root>

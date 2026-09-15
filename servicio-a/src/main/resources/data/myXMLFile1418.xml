@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Gusella"
+  city="Manila"
+  country="Pakistan"
+  firstname2="Kimmy"
+  lastname2="Pettiford"
+  email="Kimmy.Pettiford@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>26.844</random_float>
+  <bool>false</bool>
+  <date>1984-12-26</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Madelle</elt><elt>Madelle</elt><elt>Devina</elt><elt>Edith</elt><elt>Cherrita</elt>  
+  <Kimmy>
+    <age>88</age>
+  </Kimmy>
+</root>

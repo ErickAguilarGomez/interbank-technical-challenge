@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dacia"
+  lastname="Hewitt"
+  city="Semarang"
+  country="Samoa"
+  firstname2="Almeta"
+  lastname2="Maxi"
+  email="Almeta.Maxi@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>76.612</random_float>
+  <bool>true</bool>
+  <date>1998-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Bibby</elt><elt>Maud</elt><elt>Arlina</elt><elt>Deedee</elt><elt>Marnia</elt>  
+  <Almeta>
+    <age>68</age>
+  </Almeta>
+</root>

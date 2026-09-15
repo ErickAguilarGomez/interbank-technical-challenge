@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kittie"
+  lastname="Audly"
+  city="Hanoi"
+  country="Zambia"
+  firstname2="Orsola"
+  lastname2="Ralfston"
+  email="Orsola.Ralfston@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>56.206</random_float>
+  <bool>false</bool>
+  <date>1996-08-10</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lisette</elt><elt>Nonnah</elt><elt>Theodora</elt><elt>Brooks</elt><elt>Brynna</elt>  
+  <Orsola>
+    <age>69</age>
+  </Orsola>
+</root>

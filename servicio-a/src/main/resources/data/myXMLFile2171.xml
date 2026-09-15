@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Konstance"
+  lastname="Lia"
+  city="Jakarta"
+  country="French Polynesia"
+  firstname2="Emelina"
+  lastname2="Pacorro"
+  email="Emelina.Pacorro@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>29.173</random_float>
+  <bool>true</bool>
+  <date>1993-08-13</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Agathe</elt><elt>Jacenta</elt><elt>Kassey</elt><elt>Jenilee</elt><elt>Talya</elt>  
+  <Emelina>
+    <age>87</age>
+  </Emelina>
+</root>

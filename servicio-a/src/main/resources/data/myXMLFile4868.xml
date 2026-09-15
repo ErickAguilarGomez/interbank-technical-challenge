@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Stav"
+  city="Sana'a"
+  country="Cayman Islands"
+  firstname2="Mariele"
+  lastname2="Emanuel"
+  email="Mariele.Emanuel@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>16.136</random_float>
+  <bool>true</bool>
+  <date>1995-07-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Janis</elt><elt>Max</elt><elt>Maurene</elt><elt>Janis</elt><elt>Charissa</elt>  
+  <Mariele>
+    <age>34</age>
+  </Mariele>
+</root>

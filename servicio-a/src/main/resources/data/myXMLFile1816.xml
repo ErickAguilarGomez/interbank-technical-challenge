@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anica"
+  lastname="Chauncey"
+  city="Alofi"
+  country="New Caledonia"
+  firstname2="Carlie"
+  lastname2="Rese"
+  email="Carlie.Rese@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>97.884</random_float>
+  <bool>false</bool>
+  <date>1990-07-12</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maye</elt><elt>June</elt><elt>Dione</elt><elt>Bertine</elt><elt>Vevay</elt>  
+  <Carlie>
+    <age>74</age>
+  </Carlie>
+</root>

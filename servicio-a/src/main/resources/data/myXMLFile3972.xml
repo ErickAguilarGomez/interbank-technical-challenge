@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hayley"
+  lastname="Buttaro"
+  city="Athens"
+  country="Zimbabwe"
+  firstname2="Lucille"
+  lastname2="Jenness"
+  email="Lucille.Jenness@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>35.454</random_float>
+  <bool>true</bool>
+  <date>1983-03-15</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Minda</elt><elt>Cecile</elt><elt>Averyl</elt><elt>Tobe</elt><elt>Marcelline</elt>  
+  <Lucille>
+    <age>92</age>
+  </Lucille>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Gilmour"
+  city="Dongguan"
+  country="Mauritius"
+  firstname2="Hope"
+  lastname2="Faro"
+  email="Hope.Faro@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>5.011</random_float>
+  <bool>true</bool>
+  <date>1991-11-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Carly</elt><elt>Valera</elt><elt>June</elt><elt>Darlleen</elt><elt>Fayre</elt>  
+  <Hope>
+    <age>68</age>
+  </Hope>
+</root>

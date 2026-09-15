@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emmey"
+  lastname="Grimbly"
+  city="South Tarawa"
+  country="Cocos (Keeling) Islands"
+  firstname2="Feliza"
+  lastname2="Plato"
+  email="Feliza.Plato@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>78.624</random_float>
+  <bool>false</bool>
+  <date>1983-07-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Charmaine</elt><elt>Misha</elt><elt>Lisette</elt><elt>Janey</elt><elt>Elora</elt>  
+  <Feliza>
+    <age>87</age>
+  </Feliza>
+</root>

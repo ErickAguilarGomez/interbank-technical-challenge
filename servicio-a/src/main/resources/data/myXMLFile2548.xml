@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Addia"
+  lastname="Audly"
+  city="Okinawa"
+  country="Colombia"
+  firstname2="Cristabel"
+  lastname2="Raffo"
+  email="Cristabel.Raffo@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>51.7</random_float>
+  <bool>false</bool>
+  <date>1992-03-16</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Esmeralda</elt><elt>Estell</elt><elt>Halette</elt><elt>Morganica</elt><elt>Lorne</elt>  
+  <Cristabel>
+    <age>23</age>
+  </Cristabel>
+</root>

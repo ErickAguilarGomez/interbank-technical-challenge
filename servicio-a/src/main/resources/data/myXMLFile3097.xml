@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ofilia"
+  lastname="Mayeda"
+  city="São José dos Campos"
+  country="Gibraltar"
+  firstname2="Carree"
+  lastname2="Braun"
+  email="Carree.Braun@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>67.689</random_float>
+  <bool>false</bool>
+  <date>1994-06-19</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marnia</elt><elt>Ardenia</elt><elt>Cecile</elt><elt>Emmey</elt><elt>Linet</elt>  
+  <Carree>
+    <age>54</age>
+  </Carree>
+</root>

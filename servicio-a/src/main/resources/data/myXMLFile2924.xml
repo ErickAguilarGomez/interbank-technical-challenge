@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Molli"
+  lastname="Mike"
+  city="Patna"
+  country="Mexico"
+  firstname2="Marsiella"
+  lastname2="Brady"
+  email="Marsiella.Brady@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>78.769</random_float>
+  <bool>true</bool>
+  <date>1983-02-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kylynn</elt><elt>Ileana</elt><elt>Jacquetta</elt><elt>Fredericka</elt><elt>Vevay</elt>  
+  <Marsiella>
+    <age>61</age>
+  </Marsiella>
+</root>

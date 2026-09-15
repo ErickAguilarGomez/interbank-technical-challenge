@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Amelia"
+  lastname="Selway"
+  city="Tokyo"
+  country="Gambia"
+  firstname2="Kial"
+  lastname2="Bord"
+  email="Kial.Bord@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>66.766</random_float>
+  <bool>false</bool>
+  <date>1993-01-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mureil</elt><elt>Katuscha</elt><elt>Mady</elt><elt>Di</elt><elt>Clo</elt>  
+  <Kial>
+    <age>68</age>
+  </Kial>
+</root>

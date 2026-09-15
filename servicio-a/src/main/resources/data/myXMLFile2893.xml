@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elsie"
+  lastname="Fairweather"
+  city="Doha"
+  country="Venezuela"
+  firstname2="Hildegaard"
+  lastname2="Mauer"
+  email="Hildegaard.Mauer@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>20.122</random_float>
+  <bool>true</bool>
+  <date>1995-01-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gilligan</elt><elt>Jennica</elt><elt>Joceline</elt><elt>Pearline</elt><elt>Leia</elt>  
+  <Hildegaard>
+    <age>40</age>
+  </Hildegaard>
+</root>

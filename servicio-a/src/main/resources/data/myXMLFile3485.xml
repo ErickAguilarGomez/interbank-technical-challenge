@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ellette"
+  lastname="Granoff"
+  city="Yokohama"
+  country="Italy"
+  firstname2="Nananne"
+  lastname2="Clarissa"
+  email="Nananne.Clarissa@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>73.787</random_float>
+  <bool>true</bool>
+  <date>1985-06-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jorry</elt><elt>Kerrin</elt><elt>Trudie</elt><elt>Madalyn</elt><elt>Frieda</elt>  
+  <Nananne>
+    <age>25</age>
+  </Nananne>
+</root>

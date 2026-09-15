@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tami"
+  lastname="Merell"
+  city="N'Djamena"
+  country="Paraguay"
+  firstname2="Caritta"
+  lastname2="Darrell"
+  email="Caritta.Darrell@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>1.958</random_float>
+  <bool>false</bool>
+  <date>1994-07-04</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rosaline</elt><elt>Cathyleen</elt><elt>Wendi</elt><elt>Diena</elt><elt>Florencia</elt>  
+  <Caritta>
+    <age>66</age>
+  </Caritta>
+</root>

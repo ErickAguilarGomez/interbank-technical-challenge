@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elvira"
+  lastname="Jena"
+  city="Saipan"
+  country="Micronesia, Federated States of"
+  firstname2="Emilia"
+  lastname2="Tannie"
+  email="Emilia.Tannie@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>43.472</random_float>
+  <bool>false</bool>
+  <date>1993-06-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Basia</elt><elt>Millie</elt><elt>Janis</elt><elt>Marcy</elt><elt>Gloria</elt>  
+  <Emilia>
+    <age>89</age>
+  </Emilia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Pelagias"
+  city="Khartoum"
+  country="Malaysia"
+  firstname2="Doro"
+  lastname2="Fabiola"
+  email="Doro.Fabiola@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>25.419</random_float>
+  <bool>false</bool>
+  <date>1994-10-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jasmina</elt><elt>Etta</elt><elt>Nelle</elt><elt>Noelle</elt><elt>Mady</elt>  
+  <Doro>
+    <age>20</age>
+  </Doro>
+</root>

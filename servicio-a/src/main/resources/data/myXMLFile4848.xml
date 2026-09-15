@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Ehrman"
+  city="Mbabane"
+  country="Jersey"
+  firstname2="Audrie"
+  lastname2="Hull"
+  email="Audrie.Hull@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>42.272</random_float>
+  <bool>true</bool>
+  <date>1998-03-05</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Lexine</elt><elt>Maridel</elt><elt>Bobinette</elt><elt>Agnese</elt><elt>Johna</elt>  
+  <Audrie>
+    <age>52</age>
+  </Audrie>
+</root>

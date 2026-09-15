@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Waldron"
+  city="Shanghai"
+  country="Solomon Islands"
+  firstname2="Di"
+  lastname2="Lane"
+  email="Di.Lane@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>11.013</random_float>
+  <bool>false</bool>
+  <date>1997-01-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lulita</elt><elt>Bibby</elt><elt>Lucille</elt><elt>Amalie</elt><elt>Catrina</elt>  
+  <Di>
+    <age>22</age>
+  </Di>
+</root>

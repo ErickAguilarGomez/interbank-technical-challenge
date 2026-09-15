@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kerrin"
+  lastname="Juliet"
+  city="Espoo"
+  country="Norway"
+  firstname2="Belinda"
+  lastname2="Oneida"
+  email="Belinda.Oneida@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>70.61</random_float>
+  <bool>true</bool>
+  <date>1999-12-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Barbara</elt><elt>Nanete</elt><elt>Frieda</elt><elt>Ann-Marie</elt><elt>Frieda</elt>  
+  <Belinda>
+    <age>90</age>
+  </Belinda>
+</root>

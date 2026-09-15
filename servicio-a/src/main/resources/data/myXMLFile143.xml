@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Orlene"
+  city="El Aaiún"
+  country="Mozambique"
+  firstname2="Lily"
+  lastname2="Sophronia"
+  email="Lily.Sophronia@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>92.732</random_float>
+  <bool>false</bool>
+  <date>1988-10-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Theodora</elt><elt>Marcy</elt><elt>Annora</elt><elt>Inga</elt><elt>Nananne</elt>  
+  <Lily>
+    <age>45</age>
+  </Lily>
+</root>

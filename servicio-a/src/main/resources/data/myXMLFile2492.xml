@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gratia"
+  lastname="Juan"
+  city="Qingdao"
+  country="Bolivia"
+  firstname2="Rosaline"
+  lastname2="Susannah"
+  email="Rosaline.Susannah@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>15.697</random_float>
+  <bool>true</bool>
+  <date>1993-10-18</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Emelina</elt><elt>Roseline</elt><elt>Lilith</elt><elt>Halette</elt><elt>Laurene</elt>  
+  <Rosaline>
+    <age>21</age>
+  </Rosaline>
+</root>

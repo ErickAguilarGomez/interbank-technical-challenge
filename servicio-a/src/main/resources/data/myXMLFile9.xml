@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Linehan"
+  city="Angra do Heroísmo"
+  country="Suriname"
+  firstname2="Britte"
+  lastname2="Willie"
+  email="Britte.Willie@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>57.644</random_float>
+  <bool>false</bool>
+  <date>1986-01-29</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dulcinea</elt><elt>Shirlee</elt><elt>Kayla</elt><elt>Phylis</elt><elt>Sidoney</elt>  
+  <Britte>
+    <age>24</age>
+  </Britte>
+</root>

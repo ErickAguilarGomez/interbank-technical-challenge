@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cissiee"
+  lastname="Clywd"
+  city="Bloemfontein"
+  country="Togo"
+  firstname2="Shell"
+  lastname2="Jerald"
+  email="Shell.Jerald@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>64.533</random_float>
+  <bool>false</bool>
+  <date>1982-03-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Wileen</elt><elt>Mignon</elt><elt>Deane</elt><elt>Leeanne</elt><elt>Kara-Lynn</elt>  
+  <Shell>
+    <age>50</age>
+  </Shell>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Kristi"
+  city="Jakarta"
+  country="Virgin Islands, U.S."
+  firstname2="Zondra"
+  lastname2="Cassius"
+  email="Zondra.Cassius@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>14.724</random_float>
+  <bool>false</bool>
+  <date>1980-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Antonietta</elt><elt>Catharine</elt><elt>Sissy</elt><elt>Laure</elt><elt>Minda</elt>  
+  <Zondra>
+    <age>64</age>
+  </Zondra>
+</root>

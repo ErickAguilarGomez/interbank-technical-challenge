@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arlena"
+  lastname="Ruvolo"
+  city="Petropavlovsk-Kamchatsky"
+  country="Australia"
+  firstname2="Henriette"
+  lastname2="Bobbee"
+  email="Henriette.Bobbee@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>40.987</random_float>
+  <bool>true</bool>
+  <date>1983-12-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cristine</elt><elt>Betta</elt><elt>Laure</elt><elt>Binny</elt><elt>Gianina</elt>  
+  <Henriette>
+    <age>79</age>
+  </Henriette>
+</root>

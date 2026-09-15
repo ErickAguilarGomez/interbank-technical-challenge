@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valli"
+  lastname="Erb"
+  city="Cairns"
+  country="Netherlands Antilles"
+  firstname2="Grier"
+  lastname2="Niles"
+  email="Grier.Niles@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>78.142</random_float>
+  <bool>false</bool>
+  <date>1997-10-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Candy</elt><elt>Edee</elt><elt>Lusa</elt><elt>Glenda</elt><elt>Jennica</elt>  
+  <Grier>
+    <age>43</age>
+  </Grier>
+</root>

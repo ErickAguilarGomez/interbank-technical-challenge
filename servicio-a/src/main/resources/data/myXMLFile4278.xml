@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynnea"
+  lastname="Bluh"
+  city="Sarajevo"
+  country="Maldives"
+  firstname2="Ursulina"
+  lastname2="Swanhildas"
+  email="Ursulina.Swanhildas@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>98.917</random_float>
+  <bool>true</bool>
+  <date>1988-05-22</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Florie</elt><elt>Veda</elt><elt>Jsandye</elt><elt>Gratia</elt><elt>Wilma</elt>  
+  <Ursulina>
+    <age>96</age>
+  </Ursulina>
+</root>

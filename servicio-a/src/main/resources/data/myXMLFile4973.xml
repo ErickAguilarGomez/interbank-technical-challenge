@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="June"
+  lastname="Amand"
+  city="Fortaleza"
+  country="Austria"
+  firstname2="Ernesta"
+  lastname2="Judye"
+  email="Ernesta.Judye@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>89.911</random_float>
+  <bool>false</bool>
+  <date>1982-09-09</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nikki</elt><elt>Myrtice</elt><elt>Sharai</elt><elt>Florie</elt><elt>Lindie</elt>  
+  <Ernesta>
+    <age>91</age>
+  </Ernesta>
+</root>

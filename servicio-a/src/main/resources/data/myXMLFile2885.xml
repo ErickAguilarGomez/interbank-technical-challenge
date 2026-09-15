@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joy"
+  lastname="Cath"
+  city="Papeete"
+  country="Latvia"
+  firstname2="Almeta"
+  lastname2="Joseph"
+  email="Almeta.Joseph@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>58.895</random_float>
+  <bool>false</bool>
+  <date>1987-11-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Eolanda</elt><elt>Nannie</elt><elt>Antonietta</elt><elt>Sandie</elt><elt>Evita</elt>  
+  <Almeta>
+    <age>28</age>
+  </Almeta>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jeanna"
+  lastname="Tyson"
+  city="Port Blair"
+  country="Philippines"
+  firstname2="Joy"
+  lastname2="Rodmann"
+  email="Joy.Rodmann@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>93.939</random_float>
+  <bool>true</bool>
+  <date>1997-04-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emelina</elt><elt>Ivett</elt><elt>Gavrielle</elt><elt>Danny</elt><elt>Bobinette</elt>  
+  <Joy>
+    <age>23</age>
+  </Joy>
+</root>

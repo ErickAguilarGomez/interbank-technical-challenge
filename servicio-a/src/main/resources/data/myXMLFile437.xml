@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Trinetta"
+  city="Medellín"
+  country="Luxembourg"
+  firstname2="Mady"
+  lastname2="Bobbee"
+  email="Mady.Bobbee@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>78.308</random_float>
+  <bool>false</bool>
+  <date>1987-12-15</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Teddie</elt><elt>Raquela</elt><elt>Estell</elt><elt>Joane</elt><elt>Giustina</elt>  
+  <Mady>
+    <age>71</age>
+  </Mady>
+</root>

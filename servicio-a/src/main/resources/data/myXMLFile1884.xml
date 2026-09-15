@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Dominy"
+  city="Cannes"
+  country="Ethiopia"
+  firstname2="Asia"
+  lastname2="Raama"
+  email="Asia.Raama@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>64.731</random_float>
+  <bool>true</bool>
+  <date>1989-10-04</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Britte</elt><elt>Addia</elt><elt>Berta</elt><elt>Cam</elt><elt>Ekaterina</elt>  
+  <Asia>
+    <age>61</age>
+  </Asia>
+</root>

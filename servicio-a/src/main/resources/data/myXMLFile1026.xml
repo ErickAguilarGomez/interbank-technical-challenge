@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Imojean"
+  lastname="Lytton"
+  city="Multan"
+  country="Tuvalu"
+  firstname2="Morganica"
+  lastname2="Barrus"
+  email="Morganica.Barrus@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>1.42</random_float>
+  <bool>false</bool>
+  <date>1983-08-30</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Merrie</elt><elt>Stevana</elt><elt>Janey</elt><elt>Claresta</elt><elt>Florie</elt>  
+  <Morganica>
+    <age>85</age>
+  </Morganica>
+</root>

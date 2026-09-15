@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sonni"
+  lastname="Markman"
+  city="Iquique"
+  country="Faroe Islands"
+  firstname2="Tamqrah"
+  lastname2="Shanley"
+  email="Tamqrah.Shanley@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>19.178</random_float>
+  <bool>true</bool>
+  <date>1992-11-15</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Florie</elt><elt>Annaliese</elt><elt>Mallory</elt><elt>Talya</elt><elt>Bernie</elt>  
+  <Tamqrah>
+    <age>54</age>
+  </Tamqrah>
+</root>

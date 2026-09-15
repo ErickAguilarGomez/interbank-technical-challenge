@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aili"
+  lastname="Shields"
+  city="Naypyidaw"
+  country="United States"
+  firstname2="Jenilee"
+  lastname2="Eckblad"
+  email="Jenilee.Eckblad@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>36.678</random_float>
+  <bool>false</bool>
+  <date>1982-10-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Merry</elt><elt>Merrie</elt><elt>Norine</elt><elt>Alejandra</elt><elt>Cathyleen</elt>  
+  <Jenilee>
+    <age>90</age>
+  </Jenilee>
+</root>

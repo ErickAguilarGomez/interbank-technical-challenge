@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Isa"
+  lastname="Phyllis"
+  city="San Salvador"
+  country="Togo"
+  firstname2="Berget"
+  lastname2="Gemini"
+  email="Berget.Gemini@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>32.466</random_float>
+  <bool>true</bool>
+  <date>1989-06-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ernesta</elt><elt>Konstance</elt><elt>Dorthy</elt><elt>Valli</elt><elt>Phylis</elt>  
+  <Berget>
+    <age>93</age>
+  </Berget>
+</root>

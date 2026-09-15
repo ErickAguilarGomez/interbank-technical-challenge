@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheelagh"
+  lastname="Paine"
+  city="Manchester"
+  country="Nigeria"
+  firstname2="Jorry"
+  lastname2="Hylan"
+  email="Jorry.Hylan@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>99.364</random_float>
+  <bool>true</bool>
+  <date>1999-09-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Philis</elt><elt>Willetta</elt><elt>Vonny</elt><elt>Maye</elt><elt>Nessie</elt>  
+  <Jorry>
+    <age>20</age>
+  </Jorry>
+</root>

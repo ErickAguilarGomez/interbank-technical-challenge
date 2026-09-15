@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rayna"
+  lastname="Modie"
+  city="Skopje"
+  country="Malta"
+  firstname2="Winny"
+  lastname2="Even"
+  email="Winny.Even@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>55.176</random_float>
+  <bool>true</bool>
+  <date>1983-11-16</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Amara</elt><elt>Suzette</elt><elt>Dorothy</elt><elt>Yetty</elt><elt>Hyacinthe</elt>  
+  <Winny>
+    <age>21</age>
+  </Winny>
+</root>

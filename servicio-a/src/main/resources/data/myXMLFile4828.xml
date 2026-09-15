@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deedee"
+  lastname="Geffner"
+  city="Birkirkara"
+  country="Christmas Island"
+  firstname2="Fred"
+  lastname2="Lorenz"
+  email="Fred.Lorenz@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>43.08</random_float>
+  <bool>true</bool>
+  <date>1983-07-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ira</elt><elt>Nadine</elt><elt>Meg</elt><elt>Leanna</elt><elt>Ginnie</elt>  
+  <Fred>
+    <age>40</age>
+  </Fred>
+</root>

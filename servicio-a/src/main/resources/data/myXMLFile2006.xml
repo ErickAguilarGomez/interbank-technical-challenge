@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimmy"
+  lastname="Rad"
+  city="Bangui"
+  country="Marshall Islands"
+  firstname2="Sadie"
+  lastname2="Scammon"
+  email="Sadie.Scammon@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>3.155</random_float>
+  <bool>false</bool>
+  <date>1982-10-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Keelia</elt><elt>Rayna</elt><elt>Jennica</elt><elt>Kathi</elt><elt>Ofilia</elt>  
+  <Sadie>
+    <age>40</age>
+  </Sadie>
+</root>

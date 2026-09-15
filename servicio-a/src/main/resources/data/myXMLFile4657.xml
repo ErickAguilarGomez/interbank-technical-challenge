@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margalo"
+  lastname="Hermes"
+  city="Beirut"
+  country="Italy"
+  firstname2="Ermengarde"
+  lastname2="Hollingsworth"
+  email="Ermengarde.Hollingsworth@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>55.856</random_float>
+  <bool>true</bool>
+  <date>1982-07-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Beatriz</elt><elt>Lorie</elt><elt>Rosene</elt><elt>Misha</elt><elt>Correy</elt>  
+  <Ermengarde>
+    <age>90</age>
+  </Ermengarde>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Euridice"
+  city="Cincinnati"
+  country="Puerto Rico"
+  firstname2="Jorry"
+  lastname2="Velick"
+  email="Jorry.Velick@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>25.418</random_float>
+  <bool>false</bool>
+  <date>1986-11-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marita</elt><elt>Riannon</elt><elt>Leia</elt><elt>Susan</elt><elt>Arlena</elt>  
+  <Jorry>
+    <age>20</age>
+  </Jorry>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Monika"
+  lastname="Flyn"
+  city="Davao City"
+  country="Barbados"
+  firstname2="Netty"
+  lastname2="Greyson"
+  email="Netty.Greyson@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>10.144</random_float>
+  <bool>true</bool>
+  <date>1998-06-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kial</elt><elt>Monika</elt><elt>Norine</elt><elt>Florencia</elt><elt>Inga</elt>  
+  <Netty>
+    <age>30</age>
+  </Netty>
+</root>

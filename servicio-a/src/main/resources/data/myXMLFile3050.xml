@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sabina"
+  lastname="Edmund"
+  city="Anadyr (town)"
+  country="Somalia"
+  firstname2="Sara-Ann"
+  lastname2="Skell"
+  email="Sara-Ann.Skell@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>28.291</random_float>
+  <bool>true</bool>
+  <date>1986-02-24</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Dagmar</elt><elt>Elka</elt><elt>Kaia</elt><elt>Elsie</elt><elt>Joane</elt>  
+  <Sara-Ann>
+    <age>70</age>
+  </Sara-Ann>
+</root>

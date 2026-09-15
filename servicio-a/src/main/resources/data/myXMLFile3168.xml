@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jasmina"
+  lastname="Tayib"
+  city="Geelong"
+  country="Palau"
+  firstname2="Vita"
+  lastname2="Kylander"
+  email="Vita.Kylander@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>13.691</random_float>
+  <bool>false</bool>
+  <date>1986-07-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alleen</elt><elt>Tamqrah</elt><elt>Gisela</elt><elt>Tabbatha</elt><elt>Coral</elt>  
+  <Vita>
+    <age>32</age>
+  </Vita>
+</root>

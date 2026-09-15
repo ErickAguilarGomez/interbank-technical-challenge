@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hyacinthe"
+  lastname="Alarise"
+  city="Pago Pago"
+  country="Timor-Leste"
+  firstname2="Gerrie"
+  lastname2="Pettiford"
+  email="Gerrie.Pettiford@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>93.258</random_float>
+  <bool>false</bool>
+  <date>1997-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Calla</elt><elt>Olivette</elt><elt>Kylynn</elt><elt>Nariko</elt><elt>Maryellen</elt>  
+  <Gerrie>
+    <age>87</age>
+  </Gerrie>
+</root>

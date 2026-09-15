@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Sperling"
+  city="Majuro"
+  country="Uzbekistan"
+  firstname2="Emilia"
+  lastname2="Diogenes"
+  email="Emilia.Diogenes@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>56.333</random_float>
+  <bool>true</bool>
+  <date>1996-03-05</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Stevana</elt><elt>Lucy</elt><elt>Merry</elt><elt>Penelopa</elt><elt>Chere</elt>  
+  <Emilia>
+    <age>29</age>
+  </Emilia>
+</root>

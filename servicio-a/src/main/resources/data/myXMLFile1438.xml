@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Larine"
+  lastname="Aida"
+  city="Basra"
+  country="Chile"
+  firstname2="Glynnis"
+  lastname2="Geffner"
+  email="Glynnis.Geffner@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>45.979</random_float>
+  <bool>true</bool>
+  <date>1996-10-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kassey</elt><elt>Quintina</elt><elt>Jsandye</elt><elt>Cam</elt><elt>Laurene</elt>  
+  <Glynnis>
+    <age>55</age>
+  </Glynnis>
+</root>

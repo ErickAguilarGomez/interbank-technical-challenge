@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaja"
+  lastname="Kravits"
+  city="Pontianak"
+  country="Australia"
+  firstname2="Averyl"
+  lastname2="Peg"
+  email="Averyl.Peg@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>68.648</random_float>
+  <bool>false</bool>
+  <date>1982-11-04</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Steffane</elt><elt>Gui</elt><elt>Bettine</elt><elt>Barbara</elt><elt>Mureil</elt>  
+  <Averyl>
+    <age>94</age>
+  </Averyl>
+</root>

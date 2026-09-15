@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Schonfeld"
+  city="Port of Spain"
+  country="Nepal"
+  firstname2="Hyacinthe"
+  lastname2="Sacken"
+  email="Hyacinthe.Sacken@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>95.882</random_float>
+  <bool>false</bool>
+  <date>1985-05-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nonnah</elt><elt>Vita</elt><elt>Dale</elt><elt>Valera</elt><elt>Audrie</elt>  
+  <Hyacinthe>
+    <age>27</age>
+  </Hyacinthe>
+</root>

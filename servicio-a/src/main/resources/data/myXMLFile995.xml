@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brianna"
+  lastname="Odysseus"
+  city="Bujumbura"
+  country="Western Sahara"
+  firstname2="Alisha"
+  lastname2="Mozelle"
+  email="Alisha.Mozelle@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>5.005</random_float>
+  <bool>false</bool>
+  <date>1993-10-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jennica</elt><elt>Regina</elt><elt>Leia</elt><elt>Teriann</elt><elt>Verla</elt>  
+  <Alisha>
+    <age>42</age>
+  </Alisha>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ricky"
+  lastname="Baylor"
+  city="Moscow"
+  country="Seychelles"
+  firstname2="Sharlene"
+  lastname2="Bahr"
+  email="Sharlene.Bahr@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>65.921</random_float>
+  <bool>true</bool>
+  <date>1991-01-05</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Almeta</elt><elt>Catrina</elt><elt>Danika</elt><elt>Ellette</elt><elt>Ermengarde</elt>  
+  <Sharlene>
+    <age>24</age>
+  </Sharlene>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yetty"
+  lastname="Daniele"
+  city="Minsk"
+  country="Mozambique"
+  firstname2="Kerrin"
+  lastname2="Sacken"
+  email="Kerrin.Sacken@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>27.127</random_float>
+  <bool>false</bool>
+  <date>1990-05-18</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Wilma</elt><elt>Phylis</elt><elt>Mady</elt><elt>Violet</elt><elt>Luci</elt>  
+  <Kerrin>
+    <age>70</age>
+  </Kerrin>
+</root>

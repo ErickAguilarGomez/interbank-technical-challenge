@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Danika"
+  lastname="Horan"
+  city="Tabriz"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Rhoda"
+  lastname2="Skurnik"
+  email="Rhoda.Skurnik@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>55.916</random_float>
+  <bool>true</bool>
+  <date>1990-06-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sharai</elt><elt>Giustina</elt><elt>Leona</elt><elt>Roslyn</elt><elt>Fawne</elt>  
+  <Rhoda>
+    <age>59</age>
+  </Rhoda>
+</root>

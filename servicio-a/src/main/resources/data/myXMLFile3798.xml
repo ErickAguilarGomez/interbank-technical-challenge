@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fayre"
+  lastname="Waite"
+  city="Lisbon"
+  country="Iraq"
+  firstname2="Maisey"
+  lastname2="Cohdwell"
+  email="Maisey.Cohdwell@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>64.667</random_float>
+  <bool>false</bool>
+  <date>1984-03-08</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Halette</elt><elt>Aimil</elt><elt>Bee</elt><elt>Candi</elt><elt>Marjie</elt>  
+  <Maisey>
+    <age>48</age>
+  </Maisey>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daune"
+  lastname="Ferrell"
+  city="Tiraspol"
+  country="Guadeloupe"
+  firstname2="Lonnie"
+  lastname2="Silvan"
+  email="Lonnie.Silvan@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>80.109</random_float>
+  <bool>true</bool>
+  <date>1990-08-19</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nelle</elt><elt>Sarette</elt><elt>Sidoney</elt><elt>Ileana</elt><elt>Clo</elt>  
+  <Lonnie>
+    <age>98</age>
+  </Lonnie>
+</root>

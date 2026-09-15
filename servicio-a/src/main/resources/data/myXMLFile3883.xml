@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgina"
+  lastname="Persse"
+  city="Stepanakert"
+  country="Finland"
+  firstname2="Raf"
+  lastname2="Ietta"
+  email="Raf.Ietta@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>73.173</random_float>
+  <bool>false</bool>
+  <date>1986-06-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jessamyn</elt><elt>Anica</elt><elt>Harrietta</elt><elt>Mallory</elt><elt>Ileana</elt>  
+  <Raf>
+    <age>53</age>
+  </Raf>
+</root>

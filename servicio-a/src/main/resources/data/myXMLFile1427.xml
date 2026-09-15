@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Abbie"
+  lastname="Sophronia"
+  city="Rotterdam"
+  country="Tonga"
+  firstname2="Imojean"
+  lastname2="Travax"
+  email="Imojean.Travax@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>85.794</random_float>
+  <bool>true</bool>
+  <date>1995-05-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ana</elt><elt>Gilligan</elt><elt>Rosaline</elt><elt>Deloria</elt><elt>Mary</elt>  
+  <Imojean>
+    <age>40</age>
+  </Imojean>
+</root>

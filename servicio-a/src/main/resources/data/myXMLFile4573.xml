@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bill"
+  lastname="Ivens"
+  city="Amritsar"
+  country="Kyrgyzstan"
+  firstname2="Jacquetta"
+  lastname2="Dorine"
+  email="Jacquetta.Dorine@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>63.12</random_float>
+  <bool>true</bool>
+  <date>1986-09-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kylynn</elt><elt>Starla</elt><elt>Cristabel</elt><elt>Gerianna</elt><elt>Nanete</elt>  
+  <Jacquetta>
+    <age>65</age>
+  </Jacquetta>
+</root>

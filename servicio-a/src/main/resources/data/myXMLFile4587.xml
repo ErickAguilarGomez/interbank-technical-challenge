@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Romona"
+  lastname="Anestassia"
+  city="Maceió"
+  country="New Caledonia"
+  firstname2="Teddie"
+  lastname2="Lattie"
+  email="Teddie.Lattie@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>91.499</random_float>
+  <bool>false</bool>
+  <date>1991-12-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nataline</elt><elt>Judy</elt><elt>Elfreda</elt><elt>Oralee</elt><elt>Babita</elt>  
+  <Teddie>
+    <age>78</age>
+  </Teddie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Even"
+  city="Adana"
+  country="Aruba"
+  firstname2="Maryellen"
+  lastname2="Gino"
+  email="Maryellen.Gino@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>31.493</random_float>
+  <bool>false</bool>
+  <date>1990-07-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Catrina</elt><elt>Gwyneth</elt><elt>Chere</elt><elt>Babita</elt><elt>Adelle</elt>  
+  <Maryellen>
+    <age>47</age>
+  </Maryellen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ninnetta"
+  lastname="Madelene"
+  city="Papeete"
+  country="Tajikistan"
+  firstname2="Nariko"
+  lastname2="Berriman"
+  email="Nariko.Berriman@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>53.603</random_float>
+  <bool>false</bool>
+  <date>2000-01-05</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Philis</elt><elt>Fred</elt><elt>Regina</elt><elt>Cacilie</elt><elt>Florie</elt>  
+  <Nariko>
+    <age>59</age>
+  </Nariko>
+</root>

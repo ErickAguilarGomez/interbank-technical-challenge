@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selma"
+  lastname="Aaberg"
+  city="Stuttgart"
+  country="Anguilla"
+  firstname2="Georgetta"
+  lastname2="Libna"
+  email="Georgetta.Libna@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>20.217</random_float>
+  <bool>true</bool>
+  <date>1990-08-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maye</elt><elt>Tatiania</elt><elt>Codie</elt><elt>Phedra</elt><elt>Codie</elt>  
+  <Georgetta>
+    <age>92</age>
+  </Georgetta>
+</root>

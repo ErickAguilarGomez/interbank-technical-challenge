@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daryl"
+  lastname="Freddi"
+  city="Glasgow"
+  country="Puerto Rico"
+  firstname2="Berget"
+  lastname2="Ellerey"
+  email="Berget.Ellerey@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>12.253</random_float>
+  <bool>false</bool>
+  <date>1988-03-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Johna</elt><elt>Ardeen</elt><elt>Beatriz</elt><elt>Queenie</elt><elt>Krystle</elt>  
+  <Berget>
+    <age>62</age>
+  </Berget>
+</root>

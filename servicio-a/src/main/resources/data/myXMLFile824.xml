@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edith"
+  lastname="Olnee"
+  city="Rio de Janeiro"
+  country="Somalia"
+  firstname2="Raf"
+  lastname2="Ciro"
+  email="Raf.Ciro@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>48.252</random_float>
+  <bool>true</bool>
+  <date>1988-07-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Corene</elt><elt>Luci</elt><elt>Fina</elt><elt>Ericka</elt><elt>Nollie</elt>  
+  <Raf>
+    <age>22</age>
+  </Raf>
+</root>

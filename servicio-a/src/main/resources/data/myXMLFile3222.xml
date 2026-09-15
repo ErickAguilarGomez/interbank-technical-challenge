@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elfreda"
+  lastname="Taima"
+  city="Cannes"
+  country="Nicaragua"
+  firstname2="Giustina"
+  lastname2="Pettiford"
+  email="Giustina.Pettiford@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>54.752</random_float>
+  <bool>false</bool>
+  <date>1988-02-06</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Amalie</elt><elt>Devina</elt><elt>Shirlee</elt><elt>Wilma</elt><elt>Ezmeralda</elt>  
+  <Giustina>
+    <age>90</age>
+  </Giustina>
+</root>

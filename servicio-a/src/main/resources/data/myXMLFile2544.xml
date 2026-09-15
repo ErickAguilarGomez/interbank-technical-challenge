@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Millie"
+  lastname="Garrison"
+  city="Saipan"
+  country="India"
+  firstname2="Maisey"
+  lastname2="Gabrielli"
+  email="Maisey.Gabrielli@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>18.861</random_float>
+  <bool>false</bool>
+  <date>1998-05-28</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Jorry</elt><elt>Abbie</elt><elt>Pollyanna</elt><elt>Audrie</elt><elt>Maye</elt>  
+  <Maisey>
+    <age>55</age>
+  </Maisey>
+</root>

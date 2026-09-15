@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jan"
+  lastname="Tufts"
+  city="Sitka"
+  country="Saudi Arabia"
+  firstname2="Loree"
+  lastname2="Lemuela"
+  email="Loree.Lemuela@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>27.619</random_float>
+  <bool>true</bool>
+  <date>1990-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Leona</elt><elt>Libbie</elt><elt>Lexine</elt><elt>Sindee</elt><elt>Gusty</elt>  
+  <Loree>
+    <age>32</age>
+  </Loree>
+</root>

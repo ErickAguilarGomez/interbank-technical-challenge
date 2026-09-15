@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Michaelina"
+  lastname="Goode"
+  city="Rawalpindi"
+  country="Mexico"
+  firstname2="Hettie"
+  lastname2="Creamer"
+  email="Hettie.Creamer@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>75.223</random_float>
+  <bool>false</bool>
+  <date>1981-08-11</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Konstance</elt><elt>Mamie</elt><elt>Layla</elt><elt>Lauryn</elt><elt>Shell</elt>  
+  <Hettie>
+    <age>47</age>
+  </Hettie>
+</root>

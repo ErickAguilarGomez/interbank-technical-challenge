@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Starla"
+  lastname="Jefferey"
+  city="Santiago de Cuba"
+  country="New Caledonia"
+  firstname2="Melodie"
+  lastname2="Holtz"
+  email="Melodie.Holtz@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>30.701</random_float>
+  <bool>true</bool>
+  <date>1998-01-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Winny</elt><elt>Amii</elt><elt>Diena</elt><elt>Aurelie</elt><elt>Arlina</elt>  
+  <Melodie>
+    <age>77</age>
+  </Melodie>
+</root>

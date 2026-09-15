@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tori"
+  lastname="Aurelio"
+  city="Greenwich"
+  country="Niger"
+  firstname2="Josephine"
+  lastname2="Blase"
+  email="Josephine.Blase@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>78.88</random_float>
+  <bool>true</bool>
+  <date>1992-04-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mireielle</elt><elt>Flory</elt><elt>Tersina</elt><elt>Bettine</elt><elt>Johna</elt>  
+  <Josephine>
+    <age>37</age>
+  </Josephine>
+</root>

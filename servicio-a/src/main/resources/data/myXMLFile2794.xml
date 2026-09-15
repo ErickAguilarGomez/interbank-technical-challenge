@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Laverne"
+  city="Washington"
+  country="Kazakhstan"
+  firstname2="Perry"
+  lastname2="Merell"
+  email="Perry.Merell@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>31.892</random_float>
+  <bool>true</bool>
+  <date>1981-03-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jemie</elt><elt>Katharina</elt><elt>Vivia</elt><elt>Angela</elt><elt>Phylis</elt>  
+  <Perry>
+    <age>29</age>
+  </Perry>
+</root>

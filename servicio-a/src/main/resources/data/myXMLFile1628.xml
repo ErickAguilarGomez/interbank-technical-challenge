@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="June"
+  lastname="Zetta"
+  city="Bangkok"
+  country="Guatemala"
+  firstname2="Lulita"
+  lastname2="Rosemary"
+  email="Lulita.Rosemary@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>19.353</random_float>
+  <bool>false</bool>
+  <date>1994-12-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Melodie</elt><elt>Ayn</elt><elt>Cathyleen</elt><elt>Antonietta</elt><elt>Trixi</elt>  
+  <Lulita>
+    <age>76</age>
+  </Lulita>
+</root>

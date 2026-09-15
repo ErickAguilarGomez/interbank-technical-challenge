@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eve"
+  lastname="Iaverne"
+  city="Pretoria"
+  country="Guam"
+  firstname2="Annabela"
+  lastname2="Noam"
+  email="Annabela.Noam@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>50.151</random_float>
+  <bool>true</bool>
+  <date>1989-12-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gwyneth</elt><elt>Stevana</elt><elt>Reeba</elt><elt>Dennie</elt><elt>Sharai</elt>  
+  <Annabela>
+    <age>76</age>
+  </Annabela>
+</root>

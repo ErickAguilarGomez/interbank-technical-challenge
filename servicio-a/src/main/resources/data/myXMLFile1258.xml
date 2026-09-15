@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristina"
+  lastname="Trinetta"
+  city="Thiès"
+  country="Lesotho"
+  firstname2="Ermengarde"
+  lastname2="Alfons"
+  email="Ermengarde.Alfons@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>19.673</random_float>
+  <bool>true</bool>
+  <date>1997-04-03</date>
+  <regEx>helloooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Brena</elt><elt>Vanessa</elt><elt>Marcelline</elt><elt>Gratia</elt><elt>Gilligan</elt>  
+  <Ermengarde>
+    <age>77</age>
+  </Ermengarde>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sara-Ann"
+  lastname="Trey"
+  city="Rockhampton"
+  country="Åland Islands"
+  firstname2="Regina"
+  lastname2="Bertold"
+  email="Regina.Bertold@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>89.989</random_float>
+  <bool>false</bool>
+  <date>1998-09-19</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jennica</elt><elt>Kaja</elt><elt>Ricky</elt><elt>Sean</elt><elt>Halette</elt>  
+  <Regina>
+    <age>95</age>
+  </Regina>
+</root>

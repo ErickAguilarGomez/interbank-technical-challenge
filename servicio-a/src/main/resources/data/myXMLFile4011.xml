@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elvira"
+  lastname="Plato"
+  city="Denver"
+  country="Israel"
+  firstname2="Susan"
+  lastname2="Center"
+  email="Susan.Center@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>34.674</random_float>
+  <bool>false</bool>
+  <date>1991-12-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Pollyanna</elt><elt>Letizia</elt><elt>Kathi</elt><elt>Gabi</elt><elt>Alleen</elt>  
+  <Susan>
+    <age>80</age>
+  </Susan>
+</root>

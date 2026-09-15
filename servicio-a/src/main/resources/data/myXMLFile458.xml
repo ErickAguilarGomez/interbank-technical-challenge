@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frank"
+  lastname="Egbert"
+  city="Luxor"
+  country="Hungary"
+  firstname2="Jsandye"
+  lastname2="Odysseus"
+  email="Jsandye.Odysseus@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>94.239</random_float>
+  <bool>true</bool>
+  <date>1982-03-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Suzette</elt><elt>Delilah</elt><elt>Paule</elt><elt>Augustine</elt><elt>Deloria</elt>  
+  <Jsandye>
+    <age>83</age>
+  </Jsandye>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Audrie"
+  lastname="Etom"
+  city="Mogadishu"
+  country="Paraguay"
+  firstname2="Tatiania"
+  lastname2="Hachmin"
+  email="Tatiania.Hachmin@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>18.015</random_float>
+  <bool>true</bool>
+  <date>1985-08-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sybille</elt><elt>Darlleen</elt><elt>Yetty</elt><elt>Marjie</elt><elt>Dotty</elt>  
+  <Tatiania>
+    <age>76</age>
+  </Tatiania>
+</root>

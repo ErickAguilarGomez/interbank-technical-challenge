@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ermengarde"
+  lastname="Moseley"
+  city="Kota Kinabalu"
+  country="Australia"
+  firstname2="Moyna"
+  lastname2="Bluh"
+  email="Moyna.Bluh@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>98.661</random_float>
+  <bool>false</bool>
+  <date>1991-05-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kassey</elt><elt>Augustine</elt><elt>Kial</elt><elt>Myrtice</elt><elt>Heddie</elt>  
+  <Moyna>
+    <age>78</age>
+  </Moyna>
+</root>

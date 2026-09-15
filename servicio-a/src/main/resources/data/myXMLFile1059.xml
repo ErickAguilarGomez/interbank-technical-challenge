@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leia"
+  lastname="Fulmer"
+  city="Toulouse"
+  country="Romania"
+  firstname2="Bibby"
+  lastname2="Morrill"
+  email="Bibby.Morrill@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>73.527</random_float>
+  <bool>true</bool>
+  <date>1995-01-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kore</elt><elt>Benita</elt><elt>Neila</elt><elt>Lilith</elt><elt>Arabel</elt>  
+  <Bibby>
+    <age>65</age>
+  </Bibby>
+</root>

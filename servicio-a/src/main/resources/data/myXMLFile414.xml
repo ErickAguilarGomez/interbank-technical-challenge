@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paola"
+  lastname="Fax"
+  city="Paris"
+  country="Puerto Rico"
+  firstname2="Chandra"
+  lastname2="Stanwood"
+  email="Chandra.Stanwood@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>40.613</random_float>
+  <bool>false</bool>
+  <date>1981-12-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ermengarde</elt><elt>Wileen</elt><elt>Celestyna</elt><elt>Tori</elt><elt>Marsiella</elt>  
+  <Chandra>
+    <age>88</age>
+  </Chandra>
+</root>

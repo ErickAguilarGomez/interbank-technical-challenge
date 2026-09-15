@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valli"
+  lastname="Forrer"
+  city="Tskhinvali"
+  country="Belarus"
+  firstname2="Halette"
+  lastname2="Gherardo"
+  email="Halette.Gherardo@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>37.338</random_float>
+  <bool>false</bool>
+  <date>1984-09-09</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Annaliese</elt><elt>Zsa Zsa</elt><elt>Estell</elt><elt>Shandie</elt><elt>Gratia</elt>  
+  <Halette>
+    <age>20</age>
+  </Halette>
+</root>

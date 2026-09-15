@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aaren"
+  lastname="Euridice"
+  city="Padang"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Mahalia"
+  lastname2="Erich"
+  email="Mahalia.Erich@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>20.787</random_float>
+  <bool>false</bool>
+  <date>1993-03-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ernesta</elt><elt>Clementine</elt><elt>Korrie</elt><elt>Steffane</elt><elt>Hermione</elt>  
+  <Mahalia>
+    <age>27</age>
+  </Mahalia>
+</root>

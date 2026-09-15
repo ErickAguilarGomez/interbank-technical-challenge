@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hildegaard"
+  lastname="O'Neill"
+  city="Darwin"
+  country="Jordan"
+  firstname2="Beverley"
+  lastname2="Valerio"
+  email="Beverley.Valerio@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>20.896</random_float>
+  <bool>false</bool>
+  <date>1997-02-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lita</elt><elt>Esmeralda</elt><elt>Natka</elt><elt>Gwyneth</elt><elt>Krystle</elt>  
+  <Beverley>
+    <age>24</age>
+  </Beverley>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Concettina"
+  lastname="Brieta"
+  city="Nuuk"
+  country="RWANDA"
+  firstname2="Aryn"
+  lastname2="Deegan"
+  email="Aryn.Deegan@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>50.773</random_float>
+  <bool>true</bool>
+  <date>1999-03-26</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Isa</elt><elt>Dede</elt><elt>Cathie</elt><elt>Tilly</elt><elt>Ninnetta</elt>  
+  <Aryn>
+    <age>42</age>
+  </Aryn>
+</root>

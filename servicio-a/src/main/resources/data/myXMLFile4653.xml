@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacenta"
+  lastname="Wind"
+  city="Cape Town"
+  country="Cook Islands"
+  firstname2="Cacilie"
+  lastname2="Bari"
+  email="Cacilie.Bari@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>59.906</random_float>
+  <bool>true</bool>
+  <date>1988-08-27</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gabriellia</elt><elt>Michaelina</elt><elt>Brena</elt><elt>Aurore</elt><elt>Gabi</elt>  
+  <Cacilie>
+    <age>82</age>
+  </Cacilie>
+</root>

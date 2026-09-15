@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nariko"
+  lastname="Fleeta"
+  city="Townsville"
+  country="Western Sahara"
+  firstname2="Jordan"
+  lastname2="Kendrick"
+  email="Jordan.Kendrick@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>9.808</random_float>
+  <bool>false</bool>
+  <date>1986-08-19</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Katleen</elt><elt>Kary</elt><elt>Aubrie</elt><elt>Lulita</elt><elt>Abbie</elt>  
+  <Jordan>
+    <age>97</age>
+  </Jordan>
+</root>

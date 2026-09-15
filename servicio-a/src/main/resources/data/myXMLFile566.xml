@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zia"
+  lastname="Cullin"
+  city="Djibouti (city)"
+  country="Tokelau"
+  firstname2="Yvonne"
+  lastname2="Mayeda"
+  email="Yvonne.Mayeda@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>51.11</random_float>
+  <bool>false</bool>
+  <date>1994-12-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Diena</elt><elt>Coral</elt><elt>Chastity</elt><elt>Wilma</elt><elt>Berget</elt>  
+  <Yvonne>
+    <age>21</age>
+  </Yvonne>
+</root>

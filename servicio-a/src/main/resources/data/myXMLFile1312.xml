@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Kare"
+  city="Tripoli"
+  country="AndorrA"
+  firstname2="Ingrid"
+  lastname2="Bashemeth"
+  email="Ingrid.Bashemeth@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>42.183</random_float>
+  <bool>true</bool>
+  <date>1998-12-19</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Demetris</elt><elt>Emmey</elt><elt>Justinn</elt><elt>Halette</elt><elt>Charlena</elt>  
+  <Ingrid>
+    <age>84</age>
+  </Ingrid>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phylis"
+  lastname="Stav"
+  city="Udon Thani"
+  country="Niger"
+  firstname2="Darlleen"
+  lastname2="Thunell"
+  email="Darlleen.Thunell@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>22.352</random_float>
+  <bool>false</bool>
+  <date>1999-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kalina</elt><elt>Lonnie</elt><elt>Melina</elt><elt>Helena</elt><elt>Larine</elt>  
+  <Darlleen>
+    <age>25</age>
+  </Darlleen>
+</root>

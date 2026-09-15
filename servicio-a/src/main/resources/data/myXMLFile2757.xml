@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Vittoria"
+  city="Denver"
+  country="Sweden"
+  firstname2="Caressa"
+  lastname2="Nerita"
+  email="Caressa.Nerita@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>21.996</random_float>
+  <bool>true</bool>
+  <date>1985-07-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Veda</elt><elt>Chere</elt><elt>Joy</elt><elt>Quintina</elt><elt>Fernande</elt>  
+  <Caressa>
+    <age>46</age>
+  </Caressa>
+</root>

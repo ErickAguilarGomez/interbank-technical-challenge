@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kara-Lynn"
+  lastname="Toni"
+  city="Peshawar"
+  country="Yemen"
+  firstname2="Zondra"
+  lastname2="Vary"
+  email="Zondra.Vary@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>67.902</random_float>
+  <bool>true</bool>
+  <date>1984-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Arlena</elt><elt>Viki</elt><elt>Rebeca</elt><elt>Imojean</elt><elt>Hope</elt>  
+  <Zondra>
+    <age>57</age>
+  </Zondra>
+</root>

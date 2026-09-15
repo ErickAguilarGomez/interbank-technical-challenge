@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Trinetta"
+  city="Bogotá"
+  country="Turkmenistan"
+  firstname2="Berget"
+  lastname2="Alwin"
+  email="Berget.Alwin@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>64.095</random_float>
+  <bool>false</bool>
+  <date>1984-08-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Stacey</elt><elt>Marjie</elt><elt>Perry</elt><elt>Jordan</elt><elt>Marcy</elt>  
+  <Berget>
+    <age>20</age>
+  </Berget>
+</root>

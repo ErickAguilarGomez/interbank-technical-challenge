@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stevana"
+  lastname="Jaylene"
+  city="Gangtok"
+  country="Trinidad and Tobago"
+  firstname2="Raquela"
+  lastname2="Lenny"
+  email="Raquela.Lenny@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>26.178</random_float>
+  <bool>true</bool>
+  <date>1983-03-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mariele</elt><elt>Damaris</elt><elt>Caritta</elt><elt>Di</elt><elt>Genevra</elt>  
+  <Raquela>
+    <age>91</age>
+  </Raquela>
+</root>

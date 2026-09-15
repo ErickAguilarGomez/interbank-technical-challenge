@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lexine"
+  lastname="Faria"
+  city="Yakutsk"
+  country="Uganda"
+  firstname2="Asia"
+  lastname2="Caitlin"
+  email="Asia.Caitlin@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>75.891</random_float>
+  <bool>false</bool>
+  <date>1996-05-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jacenta</elt><elt>Jorry</elt><elt>Elena</elt><elt>Ivett</elt><elt>Minne</elt>  
+  <Asia>
+    <age>51</age>
+  </Asia>
+</root>

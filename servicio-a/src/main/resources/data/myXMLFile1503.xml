@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Jeanne"
+  city="Yamoussoukro"
+  country="Panama"
+  firstname2="Xylina"
+  lastname2="Baudin"
+  email="Xylina.Baudin@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>74.495</random_float>
+  <bool>true</bool>
+  <date>1990-04-29</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dorthy</elt><elt>Jaclyn</elt><elt>Frances</elt><elt>Madelle</elt><elt>Viviene</elt>  
+  <Xylina>
+    <age>79</age>
+  </Xylina>
+</root>

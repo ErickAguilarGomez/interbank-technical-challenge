@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ulrike"
+  lastname="Grayce"
+  city="Abu Dhabi"
+  country="Papua New Guinea"
+  firstname2="Livvyy"
+  lastname2="Alisia"
+  email="Livvyy.Alisia@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>55.264</random_float>
+  <bool>true</bool>
+  <date>1999-03-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Christy</elt><elt>Feliza</elt><elt>Louella</elt><elt>Magdalena</elt><elt>Beatriz</elt>  
+  <Livvyy>
+    <age>35</age>
+  </Livvyy>
+</root>

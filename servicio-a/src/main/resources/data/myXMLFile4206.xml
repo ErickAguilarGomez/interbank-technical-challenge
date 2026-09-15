@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claudina"
+  lastname="Alfons"
+  city="Porto Velho"
+  country="Gabon"
+  firstname2="Elka"
+  lastname2="Tamsky"
+  email="Elka.Tamsky@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>67.197</random_float>
+  <bool>true</bool>
+  <date>1992-04-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lesly</elt><elt>Cindelyn</elt><elt>Leeanne</elt><elt>Clementine</elt><elt>Jere</elt>  
+  <Elka>
+    <age>66</age>
+  </Elka>
+</root>

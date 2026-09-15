@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aeriela"
+  lastname="Carleen"
+  city="Kyoto"
+  country="Antigua and Barbuda"
+  firstname2="Marylou"
+  lastname2="Ramona"
+  email="Marylou.Ramona@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>58.77</random_float>
+  <bool>false</bool>
+  <date>1987-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dulce</elt><elt>Joeann</elt><elt>Kathi</elt><elt>Adore</elt><elt>Ellette</elt>  
+  <Marylou>
+    <age>29</age>
+  </Marylou>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Robinia"
+  lastname="Neils"
+  city="Port Louis"
+  country="Liberia"
+  firstname2="Lexine"
+  lastname2="Ashok"
+  email="Lexine.Ashok@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>95.905</random_float>
+  <bool>true</bool>
+  <date>1984-08-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hettie</elt><elt>Jaclyn</elt><elt>Raf</elt><elt>Pollyanna</elt><elt>Laurene</elt>  
+  <Lexine>
+    <age>59</age>
+  </Lexine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sallie"
+  lastname="Delp"
+  city="Sri Jayawardenapura-Kotte"
+  country="Trinidad and Tobago"
+  firstname2="Randa"
+  lastname2="Haldas"
+  email="Randa.Haldas@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>93.192</random_float>
+  <bool>true</bool>
+  <date>1988-09-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Orelia</elt><elt>Katleen</elt><elt>Gale</elt><elt>Tarra</elt><elt>Josephine</elt>  
+  <Randa>
+    <age>97</age>
+  </Randa>
+</root>

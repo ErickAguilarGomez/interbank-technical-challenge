@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bertine"
+  lastname="Caitlin"
+  city="Nassau"
+  country="Slovakia"
+  firstname2="Edyth"
+  lastname2="Amasa"
+  email="Edyth.Amasa@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>91.332</random_float>
+  <bool>true</bool>
+  <date>1992-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Bobinette</elt><elt>Isa</elt><elt>Paule</elt><elt>Aigneis</elt><elt>Lexine</elt>  
+  <Edyth>
+    <age>83</age>
+  </Edyth>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deedee"
+  lastname="Bates"
+  city="Córdoba"
+  country="Niger"
+  firstname2="Brana"
+  lastname2="Beniamino"
+  email="Brana.Beniamino@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>69.009</random_float>
+  <bool>true</bool>
+  <date>1995-10-08</date>
+  <regEx>hello world</regEx>
+  <enum>xml</enum>
+  <elt>Tina</elt><elt>Tera</elt><elt>Aeriela</elt><elt>Rochette</elt><elt>Binny</elt>  
+  <Brana>
+    <age>23</age>
+  </Brana>
+</root>

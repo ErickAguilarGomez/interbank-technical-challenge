@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susette"
+  lastname="Carri"
+  city="Maputo"
+  country="Solomon Islands"
+  firstname2="Fanchon"
+  lastname2="Ajay"
+  email="Fanchon.Ajay@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>94.311</random_float>
+  <bool>false</bool>
+  <date>1997-04-01</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Stephanie</elt><elt>Rhoda</elt><elt>Zsa Zsa</elt><elt>Cristabel</elt><elt>Gwyneth</elt>  
+  <Fanchon>
+    <age>85</age>
+  </Fanchon>
+</root>

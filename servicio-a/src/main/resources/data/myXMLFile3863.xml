@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorothy"
+  lastname="Suanne"
+  city="South Tarawa"
+  country="Marshall Islands"
+  firstname2="Dagmar"
+  lastname2="Buckler"
+  email="Dagmar.Buckler@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>12.325</random_float>
+  <bool>false</bool>
+  <date>1991-02-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deloria</elt><elt>Kamilah</elt><elt>Amii</elt><elt>Carolina</elt><elt>Nariko</elt>  
+  <Dagmar>
+    <age>61</age>
+  </Dagmar>
+</root>

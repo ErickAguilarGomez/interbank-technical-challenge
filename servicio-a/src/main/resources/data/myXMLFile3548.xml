@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Alcott"
+  city="El Aaiún"
+  country="Jersey"
+  firstname2="Patricia"
+  lastname2="Halla"
+  email="Patricia.Halla@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>61.697</random_float>
+  <bool>true</bool>
+  <date>1989-12-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ernesta</elt><elt>Clo</elt><elt>Andeee</elt><elt>Esmeralda</elt><elt>Anallese</elt>  
+  <Patricia>
+    <age>37</age>
+  </Patricia>
+</root>

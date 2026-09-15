@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blake"
+  lastname="Lesley"
+  city="Cannes"
+  country="Malawi"
+  firstname2="Gaylene"
+  lastname2="Saunderson"
+  email="Gaylene.Saunderson@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>66.891</random_float>
+  <bool>false</bool>
+  <date>1999-06-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ida</elt><elt>Meg</elt><elt>Andeee</elt><elt>Letizia</elt><elt>Tybie</elt>  
+  <Gaylene>
+    <age>89</age>
+  </Gaylene>
+</root>

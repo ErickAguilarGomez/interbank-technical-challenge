@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Halla"
+  city="Bratislava"
+  country="Austria"
+  firstname2="Hallie"
+  lastname2="Weaks"
+  email="Hallie.Weaks@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>80.477</random_float>
+  <bool>true</bool>
+  <date>1998-06-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Margarette</elt><elt>Verla</elt><elt>Elsie</elt><elt>Yetty</elt><elt>Adele</elt>  
+  <Hallie>
+    <age>100</age>
+  </Hallie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Natka"
+  lastname="Joeann"
+  city="Kraków"
+  country="Kenya"
+  firstname2="Louella"
+  lastname2="Marijo"
+  email="Louella.Marijo@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>19.084</random_float>
+  <bool>false</bool>
+  <date>1986-10-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mellicent</elt><elt>Molli</elt><elt>Cindelyn</elt><elt>Paulita</elt><elt>Pierette</elt>  
+  <Louella>
+    <age>59</age>
+  </Louella>
+</root>

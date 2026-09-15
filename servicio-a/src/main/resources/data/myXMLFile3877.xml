@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mireielle"
+  lastname="Maiah"
+  city="Jeddah"
+  country="Bouvet Island"
+  firstname2="Ronna"
+  lastname2="Fink"
+  email="Ronna.Fink@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>99.077</random_float>
+  <bool>true</bool>
+  <date>1988-01-17</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Corene</elt><elt>Camile</elt><elt>Aubrie</elt><elt>Reeba</elt><elt>Evaleen</elt>  
+  <Ronna>
+    <age>27</age>
+  </Ronna>
+</root>

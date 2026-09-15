@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britni"
+  lastname="Bigner"
+  city="Riyadh"
+  country="Guyana"
+  firstname2="Oralee"
+  lastname2="Hanshaw"
+  email="Oralee.Hanshaw@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>22.95</random_float>
+  <bool>true</bool>
+  <date>1993-10-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Belva</elt><elt>Nannie</elt><elt>Elie</elt><elt>Justinn</elt><elt>Eolanda</elt>  
+  <Oralee>
+    <age>81</age>
+  </Oralee>
+</root>

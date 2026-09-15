@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arabel"
+  lastname="Fancie"
+  city="Charlottetown"
+  country="Saint Kitts and Nevis"
+  firstname2="Marinna"
+  lastname2="Sasnett"
+  email="Marinna.Sasnett@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>92.096</random_float>
+  <bool>false</bool>
+  <date>1995-09-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Clo</elt><elt>Asia</elt><elt>Libbie</elt><elt>Basia</elt><elt>Annabela</elt>  
+  <Marinna>
+    <age>80</age>
+  </Marinna>
+</root>

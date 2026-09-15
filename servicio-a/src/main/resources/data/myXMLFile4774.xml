@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Kosey"
+  city="La Serena"
+  country="Guatemala"
+  firstname2="Elbertina"
+  lastname2="Guthrie"
+  email="Elbertina.Guthrie@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>83.64</random_float>
+  <bool>false</bool>
+  <date>1998-06-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sabina</elt><elt>Kimmy</elt><elt>Ira</elt><elt>Josephine</elt><elt>Myrtice</elt>  
+  <Elbertina>
+    <age>21</age>
+  </Elbertina>
+</root>

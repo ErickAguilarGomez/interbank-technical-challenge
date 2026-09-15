@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Calla"
+  lastname="Orlene"
+  city="Luxor"
+  country="Western Sahara"
+  firstname2="Ofilia"
+  lastname2="Burnside"
+  email="Ofilia.Burnside@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>36.158</random_float>
+  <bool>true</bool>
+  <date>1999-05-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Alyda</elt><elt>Anthia</elt><elt>Leeanne</elt><elt>Lynnea</elt><elt>Morganica</elt>  
+  <Ofilia>
+    <age>80</age>
+  </Ofilia>
+</root>

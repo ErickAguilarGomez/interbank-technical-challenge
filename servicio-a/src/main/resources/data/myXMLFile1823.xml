@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Iseabal"
+  lastname="Tillford"
+  city="Edinburgh"
+  country="Tanzania, United Republic of"
+  firstname2="Clo"
+  lastname2="Zuzana"
+  email="Clo.Zuzana@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>36.997</random_float>
+  <bool>false</bool>
+  <date>1992-02-26</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gisela</elt><elt>Brana</elt><elt>Heddie</elt><elt>Livvyy</elt><elt>Olwen</elt>  
+  <Clo>
+    <age>74</age>
+  </Clo>
+</root>

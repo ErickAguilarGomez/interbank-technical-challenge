@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Cressida"
+  city="Mbabane"
+  country="Burundi"
+  firstname2="Gabriellia"
+  lastname2="Margarete"
+  email="Gabriellia.Margarete@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>59.025</random_float>
+  <bool>false</bool>
+  <date>1980-08-02</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Belva</elt><elt>Kayla</elt><elt>Elise</elt><elt>Emylee</elt><elt>Hallie</elt>  
+  <Gabriellia>
+    <age>81</age>
+  </Gabriellia>
+</root>

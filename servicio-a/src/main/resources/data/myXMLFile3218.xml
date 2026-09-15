@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Ardeha"
+  city="Vilnius"
+  country="Ecuador"
+  firstname2="Roslyn"
+  lastname2="Brady"
+  email="Roslyn.Brady@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>80.895</random_float>
+  <bool>false</bool>
+  <date>1980-11-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Stacey</elt><elt>Nikki</elt><elt>Kayla</elt><elt>Jinny</elt><elt>Helena</elt>  
+  <Roslyn>
+    <age>48</age>
+  </Roslyn>
+</root>

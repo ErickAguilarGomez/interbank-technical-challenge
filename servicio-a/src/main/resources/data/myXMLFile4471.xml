@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charissa"
+  lastname="Bates"
+  city="Saint John"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Wanda"
+  lastname2="Waldron"
+  email="Wanda.Waldron@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>39.469</random_float>
+  <bool>true</bool>
+  <date>1989-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Betta</elt><elt>Margette</elt><elt>Ashlee</elt><elt>Aryn</elt><elt>Annice</elt>  
+  <Wanda>
+    <age>65</age>
+  </Wanda>
+</root>

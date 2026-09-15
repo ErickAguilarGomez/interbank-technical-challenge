@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brynna"
+  lastname="Hoban"
+  city="Guangzhou"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Bill"
+  lastname2="Constancy"
+  email="Bill.Constancy@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>65.116</random_float>
+  <bool>true</bool>
+  <date>1999-12-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Feliza</elt><elt>Livvyy</elt><elt>Shaine</elt><elt>Gilligan</elt><elt>Hyacinthe</elt>  
+  <Bill>
+    <age>90</age>
+  </Bill>
+</root>

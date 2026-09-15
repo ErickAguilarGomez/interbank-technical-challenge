@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deloria"
+  lastname="Edvard"
+  city="Udon Thani"
+  country="Chile"
+  firstname2="Frances"
+  lastname2="Sidonius"
+  email="Frances.Sidonius@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>90.234</random_float>
+  <bool>false</bool>
+  <date>1980-12-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Roz</elt><elt>Jan</elt><elt>Carilyn</elt><elt>Elora</elt><elt>Aaren</elt>  
+  <Frances>
+    <age>76</age>
+  </Frances>
+</root>

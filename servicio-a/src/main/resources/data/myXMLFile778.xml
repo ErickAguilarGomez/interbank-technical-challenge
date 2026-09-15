@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorice"
+  lastname="Juliet"
+  city="Vientiane"
+  country="British Indian Ocean Territory"
+  firstname2="Randa"
+  lastname2="Stacy"
+  email="Randa.Stacy@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>78.672</random_float>
+  <bool>false</bool>
+  <date>1980-10-23</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Janey</elt><elt>Claresta</elt><elt>Aryn</elt><elt>Alie</elt><elt>Aeriela</elt>  
+  <Randa>
+    <age>78</age>
+  </Randa>
+</root>

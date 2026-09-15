@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tybie"
+  lastname="Rosalba"
+  city="Las Palmas de Gran Canaria"
+  country="Sweden"
+  firstname2="Bill"
+  lastname2="Huggins"
+  email="Bill.Huggins@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>11.699</random_float>
+  <bool>false</bool>
+  <date>1989-08-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Aigneis</elt><elt>Lisette</elt><elt>Olwen</elt><elt>Marylou</elt><elt>Nollie</elt>  
+  <Bill>
+    <age>98</age>
+  </Bill>
+</root>

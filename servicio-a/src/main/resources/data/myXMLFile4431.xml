@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Pierette"
+  city="Nagoya"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Kial"
+  lastname2="Guildroy"
+  email="Kial.Guildroy@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>50.274</random_float>
+  <bool>false</bool>
+  <date>1988-07-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Penelopa</elt><elt>Asia</elt><elt>Marline</elt><elt>Elie</elt><elt>Maurene</elt>  
+  <Kial>
+    <age>34</age>
+  </Kial>
+</root>

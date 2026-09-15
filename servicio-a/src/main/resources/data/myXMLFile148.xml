@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Esmeralda"
+  lastname="Jacobah"
+  city="Damascus"
+  country="Cambodia"
+  firstname2="Kore"
+  lastname2="Jeanne"
+  email="Kore.Jeanne@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>61.762</random_float>
+  <bool>true</bool>
+  <date>1987-10-11</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jenilee</elt><elt>Perry</elt><elt>Jacenta</elt><elt>Layla</elt><elt>Thalia</elt>  
+  <Kore>
+    <age>45</age>
+  </Kore>
+</root>

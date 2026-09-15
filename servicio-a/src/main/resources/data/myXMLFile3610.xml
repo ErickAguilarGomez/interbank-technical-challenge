@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Erskine"
+  city="Hanover"
+  country="Nicaragua"
+  firstname2="Myriam"
+  lastname2="Earlie"
+  email="Myriam.Earlie@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>83.442</random_float>
+  <bool>false</bool>
+  <date>1983-05-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lyssa</elt><elt>Suzette</elt><elt>Marleah</elt><elt>Almeta</elt><elt>Claresta</elt>  
+  <Myriam>
+    <age>96</age>
+  </Myriam>
+</root>

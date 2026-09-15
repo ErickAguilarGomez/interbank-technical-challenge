@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janeczka"
+  lastname="Honoria"
+  city="Gaziantep"
+  country="Malawi"
+  firstname2="Lexine"
+  lastname2="Merna"
+  email="Lexine.Merna@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>56.802</random_float>
+  <bool>true</bool>
+  <date>1982-10-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joleen</elt><elt>Asia</elt><elt>Almeta</elt><elt>Gwenneth</elt><elt>Giustina</elt>  
+  <Lexine>
+    <age>46</age>
+  </Lexine>
+</root>

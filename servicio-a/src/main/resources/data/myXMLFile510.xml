@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Ferino"
+  city="Kuwait City"
+  country="Swaziland"
+  firstname2="Bernardine"
+  lastname2="Wallis"
+  email="Bernardine.Wallis@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>29.527</random_float>
+  <bool>true</bool>
+  <date>1999-01-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jan</elt><elt>Fina</elt><elt>Sherrie</elt><elt>Perry</elt><elt>Tressa</elt>  
+  <Bernardine>
+    <age>19</age>
+  </Bernardine>
+</root>

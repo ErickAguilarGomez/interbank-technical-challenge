@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britni"
+  lastname="Whiffen"
+  city="Espoo"
+  country="Senegal"
+  firstname2="Halette"
+  lastname2="Henebry"
+  email="Halette.Henebry@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>79.241</random_float>
+  <bool>false</bool>
+  <date>1995-08-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Eve</elt><elt>Caritta</elt><elt>Cathie</elt><elt>Shel</elt><elt>Eadie</elt>  
+  <Halette>
+    <age>33</age>
+  </Halette>
+</root>

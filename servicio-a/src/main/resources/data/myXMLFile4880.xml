@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Robbi"
+  lastname="Corilla"
+  city="Dhaka"
+  country="Hong Kong"
+  firstname2="Coral"
+  lastname2="Ivens"
+  email="Coral.Ivens@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>52.893</random_float>
+  <bool>false</bool>
+  <date>1993-05-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lynde</elt><elt>Gusty</elt><elt>Carree</elt><elt>Darci</elt><elt>Hildegaard</elt>  
+  <Coral>
+    <age>53</age>
+  </Coral>
+</root>

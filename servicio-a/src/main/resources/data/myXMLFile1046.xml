@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carol-Jean"
+  lastname="Natalia"
+  city="Medellín"
+  country="Tuvalu"
+  firstname2="Briney"
+  lastname2="Ivens"
+  email="Briney.Ivens@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>4.467</random_float>
+  <bool>false</bool>
+  <date>1983-08-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Chere</elt><elt>Hannis</elt><elt>Penelopa</elt><elt>Alie</elt><elt>Sallie</elt>  
+  <Briney>
+    <age>91</age>
+  </Briney>
+</root>

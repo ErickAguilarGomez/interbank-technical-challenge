@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ursulina"
+  lastname="Yoko"
+  city="Ashgabat"
+  country="Timor-Leste"
+  firstname2="Priscilla"
+  lastname2="Linehan"
+  email="Priscilla.Linehan@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>13.566</random_float>
+  <bool>true</bool>
+  <date>1983-07-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elsie</elt><elt>Fanny</elt><elt>Kirstin</elt><elt>Jany</elt><elt>Arlina</elt>  
+  <Priscilla>
+    <age>94</age>
+  </Priscilla>
+</root>

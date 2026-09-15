@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katuscha"
+  lastname="Kermit"
+  city="Athens"
+  country="France"
+  firstname2="Modestia"
+  lastname2="Argus"
+  email="Modestia.Argus@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>64.399</random_float>
+  <bool>true</bool>
+  <date>1983-06-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Florie</elt><elt>Madeleine</elt><elt>Constance</elt><elt>Kenna</elt><elt>Nadine</elt>  
+  <Modestia>
+    <age>60</age>
+  </Modestia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shel"
+  lastname="Ilka"
+  city="Odessa"
+  country="Lebanon"
+  firstname2="Hayley"
+  lastname2="Jefferey"
+  email="Hayley.Jefferey@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>75.172</random_float>
+  <bool>false</bool>
+  <date>1987-12-14</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kamilah</elt><elt>Anthia</elt><elt>Alameda</elt><elt>Starla</elt><elt>Ardys</elt>  
+  <Hayley>
+    <age>27</age>
+  </Hayley>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardys"
+  lastname="Hermes"
+  city="Accra"
+  country="Vanuatu"
+  firstname2="Sindee"
+  lastname2="Fadiman"
+  email="Sindee.Fadiman@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>67.863</random_float>
+  <bool>true</bool>
+  <date>1996-04-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gianina</elt><elt>Basia</elt><elt>Anthia</elt><elt>Florie</elt><elt>Berget</elt>  
+  <Sindee>
+    <age>70</age>
+  </Sindee>
+</root>

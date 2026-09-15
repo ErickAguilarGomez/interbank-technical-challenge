@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Farrah"
+  lastname="MacIntosh"
+  city="Conakry"
+  country="Ukraine"
+  firstname2="Fidelia"
+  lastname2="Gale"
+  email="Fidelia.Gale@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>53.63</random_float>
+  <bool>false</bool>
+  <date>1991-04-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elsie</elt><elt>Lily</elt><elt>Evaleen</elt><elt>Marcelline</elt><elt>Emmey</elt>  
+  <Fidelia>
+    <age>43</age>
+  </Fidelia>
+</root>

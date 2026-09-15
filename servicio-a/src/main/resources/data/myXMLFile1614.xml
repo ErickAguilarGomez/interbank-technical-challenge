@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elena"
+  lastname="Middleton"
+  city="Kabul"
+  country="United States Minor Outlying Islands"
+  firstname2="Celisse"
+  lastname2="Weinreb"
+  email="Celisse.Weinreb@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>9.489</random_float>
+  <bool>false</bool>
+  <date>1985-07-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Helsa</elt><elt>Jean</elt><elt>Ardeen</elt><elt>Tera</elt><elt>Zia</elt>  
+  <Celisse>
+    <age>19</age>
+  </Celisse>
+</root>

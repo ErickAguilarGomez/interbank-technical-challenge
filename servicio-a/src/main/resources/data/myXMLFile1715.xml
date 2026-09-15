@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sindee"
+  lastname="Sundin"
+  city="Manila"
+  country="Qatar"
+  firstname2="Josephine"
+  lastname2="Dimitris"
+  email="Josephine.Dimitris@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>38.139</random_float>
+  <bool>false</bool>
+  <date>1984-04-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tierney</elt><elt>Cissiee</elt><elt>Gretal</elt><elt>Celisse</elt><elt>Roseline</elt>  
+  <Josephine>
+    <age>41</age>
+  </Josephine>
+</root>

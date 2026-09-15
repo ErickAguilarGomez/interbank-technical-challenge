@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chastity"
+  lastname="Erlandson"
+  city="Curitiba"
+  country="Germany"
+  firstname2="Selma"
+  lastname2="Ietta"
+  email="Selma.Ietta@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>17.252</random_float>
+  <bool>false</bool>
+  <date>1991-07-18</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorthy</elt><elt>Devina</elt><elt>Emilia</elt><elt>Teriann</elt><elt>Ileana</elt>  
+  <Selma>
+    <age>55</age>
+  </Selma>
+</root>

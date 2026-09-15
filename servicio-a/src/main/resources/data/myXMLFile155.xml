@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brietta"
+  lastname="Parsaye"
+  city="Rio Branco"
+  country="Netherlands"
+  firstname2="Shel"
+  lastname2="Wattenberg"
+  email="Shel.Wattenberg@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>26.093</random_float>
+  <bool>false</bool>
+  <date>1982-07-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Corry</elt><elt>Doro</elt><elt>Silvana</elt><elt>Meg</elt><elt>Adriana</elt>  
+  <Shel>
+    <age>48</age>
+  </Shel>
+</root>

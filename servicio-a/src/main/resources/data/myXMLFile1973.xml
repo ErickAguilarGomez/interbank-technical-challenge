@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katuscha"
+  lastname="Dorothy"
+  city="Mexico City"
+  country="Nigeria"
+  firstname2="Mildrid"
+  lastname2="Ledah"
+  email="Mildrid.Ledah@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>23.114</random_float>
+  <bool>true</bool>
+  <date>1984-05-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Siana</elt><elt>Madelle</elt><elt>Delilah</elt><elt>Gavrielle</elt><elt>Di</elt>  
+  <Mildrid>
+    <age>44</age>
+  </Mildrid>
+</root>

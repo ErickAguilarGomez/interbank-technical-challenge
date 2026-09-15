@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathyleen"
+  lastname="Fillbert"
+  city="Thiès"
+  country="United States Minor Outlying Islands"
+  firstname2="Ofilia"
+  lastname2="Hedve"
+  email="Ofilia.Hedve@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>49.287</random_float>
+  <bool>true</bool>
+  <date>1985-11-01</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Viki</elt><elt>Myriam</elt><elt>Carlie</elt><elt>Constance</elt><elt>Neila</elt>  
+  <Ofilia>
+    <age>45</age>
+  </Ofilia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brena"
+  lastname="Pozzy"
+  city="Luanda"
+  country="Mongolia"
+  firstname2="Bill"
+  lastname2="McLaughlin"
+  email="Bill.McLaughlin@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>97.206</random_float>
+  <bool>true</bool>
+  <date>1980-06-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gloria</elt><elt>Marline</elt><elt>Chloris</elt><elt>Evita</elt><elt>Berget</elt>  
+  <Bill>
+    <age>27</age>
+  </Bill>
+</root>

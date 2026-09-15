@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobinette"
+  lastname="Tiffa"
+  city="Rawalpindi"
+  country="Jersey"
+  firstname2="Ardenia"
+  lastname2="Raama"
+  email="Ardenia.Raama@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>75.726</random_float>
+  <bool>true</bool>
+  <date>1998-01-30</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rhoda</elt><elt>Linzy</elt><elt>Tracey</elt><elt>Lolita</elt><elt>Madelle</elt>  
+  <Ardenia>
+    <age>75</age>
+  </Ardenia>
+</root>

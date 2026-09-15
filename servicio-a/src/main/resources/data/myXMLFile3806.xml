@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leontine"
+  lastname="Keelia"
+  city="Amritsar"
+  country="Faroe Islands"
+  firstname2="Madalyn"
+  lastname2="Maxi"
+  email="Madalyn.Maxi@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>57.775</random_float>
+  <bool>false</bool>
+  <date>1983-04-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tami</elt><elt>Shauna</elt><elt>Vita</elt><elt>Kerrin</elt><elt>Marsiella</elt>  
+  <Madalyn>
+    <age>47</age>
+  </Madalyn>
+</root>

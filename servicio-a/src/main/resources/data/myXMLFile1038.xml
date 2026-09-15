@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sidoney"
+  lastname="Alabaster"
+  city="Porto-Novo"
+  country="Croatia"
+  firstname2="Doralynne"
+  lastname2="Pozzy"
+  email="Doralynne.Pozzy@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>71.343</random_float>
+  <bool>true</bool>
+  <date>1980-07-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jinny</elt><elt>Constance</elt><elt>Madalyn</elt><elt>Lily</elt><elt>Beth</elt>  
+  <Doralynne>
+    <age>61</age>
+  </Doralynne>
+</root>

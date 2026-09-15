@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blinni"
+  lastname="Prouty"
+  city="Atlanta"
+  country="Estonia"
+  firstname2="Mary"
+  lastname2="Orelee"
+  email="Mary.Orelee@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>83.757</random_float>
+  <bool>false</bool>
+  <date>1990-09-25</date>
+  <regEx>hellooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Eolanda</elt><elt>Emelina</elt><elt>Sara-Ann</elt><elt>Britte</elt><elt>Eolanda</elt>  
+  <Mary>
+    <age>82</age>
+  </Mary>
+</root>

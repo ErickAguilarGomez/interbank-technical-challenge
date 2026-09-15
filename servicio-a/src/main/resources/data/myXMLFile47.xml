@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Stav"
+  city="Vatican City"
+  country="Norway"
+  firstname2="Clo"
+  lastname2="Alabaster"
+  email="Clo.Alabaster@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>33.376</random_float>
+  <bool>false</bool>
+  <date>1985-04-23</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Audrie</elt><elt>Katleen</elt><elt>Leia</elt><elt>Gilligan</elt><elt>Anthia</elt>  
+  <Clo>
+    <age>42</age>
+  </Clo>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alejandra"
+  lastname="Gusella"
+  city="Konya"
+  country="United States Minor Outlying Islands"
+  firstname2="Vevay"
+  lastname2="Kunin"
+  email="Vevay.Kunin@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>50.258</random_float>
+  <bool>true</bool>
+  <date>1986-01-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kittie</elt><elt>Blondelle</elt><elt>Jennica</elt><elt>Desirae</elt><elt>Joy</elt>  
+  <Vevay>
+    <age>52</age>
+  </Vevay>
+</root>

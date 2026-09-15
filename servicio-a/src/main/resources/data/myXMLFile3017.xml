@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leontine"
+  lastname="Karna"
+  city="Timbuktu"
+  country="Åland Islands"
+  firstname2="Hayley"
+  lastname2="Matthew"
+  email="Hayley.Matthew@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>8.691</random_float>
+  <bool>false</bool>
+  <date>1981-10-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Micheline</elt><elt>Margette</elt><elt>Hyacinthe</elt><elt>Mathilda</elt><elt>Josephine</elt>  
+  <Hayley>
+    <age>77</age>
+  </Hayley>
+</root>

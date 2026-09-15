@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carree"
+  lastname="Rossner"
+  city="Maceió"
+  country="Saint Lucia"
+  firstname2="Hildegaard"
+  lastname2="Eiser"
+  email="Hildegaard.Eiser@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>92.116</random_float>
+  <bool>true</bool>
+  <date>1993-05-04</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tobe</elt><elt>Viki</elt><elt>Malina</elt><elt>Dari</elt><elt>Britte</elt>  
+  <Hildegaard>
+    <age>28</age>
+  </Hildegaard>
+</root>

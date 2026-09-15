@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susan"
+  lastname="Carbo"
+  city="Road Town"
+  country="Bangladesh"
+  firstname2="Aurore"
+  lastname2="Doig"
+  email="Aurore.Doig@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>77.985</random_float>
+  <bool>false</bool>
+  <date>1991-12-26</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorothy</elt><elt>Tori</elt><elt>Lexine</elt><elt>Cherilyn</elt><elt>Queenie</elt>  
+  <Aurore>
+    <age>69</age>
+  </Aurore>
+</root>

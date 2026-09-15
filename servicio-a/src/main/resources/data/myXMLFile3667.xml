@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="Hoenack"
+  city="Tashkent"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Clementine"
+  lastname2="Decato"
+  email="Clementine.Decato@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>85.279</random_float>
+  <bool>true</bool>
+  <date>1994-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lilith</elt><elt>Raina</elt><elt>Talya</elt><elt>Dorice</elt><elt>Kalina</elt>  
+  <Clementine>
+    <age>34</age>
+  </Clementine>
+</root>

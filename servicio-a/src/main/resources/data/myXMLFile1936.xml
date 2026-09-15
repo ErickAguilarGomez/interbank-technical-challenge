@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Cath"
+  city="Port Moresby"
+  country="Nauru"
+  firstname2="Larine"
+  lastname2="Wilkinson"
+  email="Larine.Wilkinson@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>43.132</random_float>
+  <bool>true</bool>
+  <date>1996-07-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mamie</elt><elt>Valera</elt><elt>Lorenza</elt><elt>Isa</elt><elt>Averyl</elt>  
+  <Larine>
+    <age>20</age>
+  </Larine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beatriz"
+  lastname="Lewes"
+  city="Calgary"
+  country="Saint Pierre and Miquelon"
+  firstname2="Britte"
+  lastname2="Montgomery"
+  email="Britte.Montgomery@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>55.634</random_float>
+  <bool>false</bool>
+  <date>1993-07-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marjie</elt><elt>Annabela</elt><elt>Orsola</elt><elt>Adele</elt><elt>Merrie</elt>  
+  <Britte>
+    <age>28</age>
+  </Britte>
+</root>

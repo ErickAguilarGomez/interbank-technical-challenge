@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerianna"
+  lastname="Lauraine"
+  city="Rockhampton"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Melisent"
+  lastname2="Dahlia"
+  email="Melisent.Dahlia@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>74.994</random_float>
+  <bool>false</bool>
+  <date>1981-01-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Collen</elt><elt>Luci</elt><elt>Marsiella</elt><elt>Noelle</elt><elt>Ada</elt>  
+  <Melisent>
+    <age>75</age>
+  </Melisent>
+</root>

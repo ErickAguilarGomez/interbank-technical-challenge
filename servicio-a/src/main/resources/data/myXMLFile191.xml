@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Malvino"
+  city="Panama City"
+  country="Western Sahara"
+  firstname2="Kristina"
+  lastname2="Adore"
+  email="Kristina.Adore@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>88.659</random_float>
+  <bool>false</bool>
+  <date>1980-07-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Carly</elt><elt>Belinda</elt><elt>Nickie</elt><elt>Natka</elt><elt>Fernande</elt>  
+  <Kristina>
+    <age>39</age>
+  </Kristina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cissiee"
+  lastname="Poll"
+  city="Kota Bharu"
+  country="Dominican Republic"
+  firstname2="Queenie"
+  lastname2="Malanie"
+  email="Queenie.Malanie@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>47.28</random_float>
+  <bool>true</bool>
+  <date>1999-09-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jaime</elt><elt>Madeleine</elt><elt>Merrie</elt><elt>Hettie</elt><elt>Daryl</elt>  
+  <Queenie>
+    <age>100</age>
+  </Queenie>
+</root>

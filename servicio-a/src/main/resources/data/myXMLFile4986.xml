@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Iseabal"
+  lastname="Sibyls"
+  city="Malmö"
+  country="Tanzania, United Republic of"
+  firstname2="Rubie"
+  lastname2="Baudin"
+  email="Rubie.Baudin@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>71.776</random_float>
+  <bool>true</bool>
+  <date>1995-03-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Trudie</elt><elt>Monika</elt><elt>Gloria</elt><elt>Stacey</elt><elt>Ida</elt>  
+  <Rubie>
+    <age>92</age>
+  </Rubie>
+</root>

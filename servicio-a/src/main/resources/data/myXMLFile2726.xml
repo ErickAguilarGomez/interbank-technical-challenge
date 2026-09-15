@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Minetta"
+  city="Willemstad"
+  country="Macao"
+  firstname2="Merle"
+  lastname2="Nelsen"
+  email="Merle.Nelsen@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>69.693</random_float>
+  <bool>true</bool>
+  <date>1994-04-24</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nyssa</elt><elt>Edyth</elt><elt>Melisent</elt><elt>Kristina</elt><elt>Steffane</elt>  
+  <Merle>
+    <age>56</age>
+  </Merle>
+</root>

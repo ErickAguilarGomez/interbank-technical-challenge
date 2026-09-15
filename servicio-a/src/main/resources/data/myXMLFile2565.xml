@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janenna"
+  lastname="Gordon"
+  city="Mbabane"
+  country="Nauru"
+  firstname2="Robbi"
+  lastname2="McAdams"
+  email="Robbi.McAdams@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>85.478</random_float>
+  <bool>true</bool>
+  <date>1995-04-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Luci</elt><elt>Antonietta</elt><elt>Phylis</elt><elt>Bibby</elt><elt>Tami</elt>  
+  <Robbi>
+    <age>100</age>
+  </Robbi>
+</root>

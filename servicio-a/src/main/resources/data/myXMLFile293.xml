@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Penelopa"
+  lastname="Elbertina"
+  city="Memphis"
+  country="Cote D"Ivoire"
+  firstname2="Estell"
+  lastname2="Sidonius"
+  email="Estell.Sidonius@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>93.909</random_float>
+  <bool>true</bool>
+  <date>1985-09-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sadie</elt><elt>Rayna</elt><elt>Gianina</elt><elt>Atlanta</elt><elt>Mathilda</elt>  
+  <Estell>
+    <age>87</age>
+  </Estell>
+</root>

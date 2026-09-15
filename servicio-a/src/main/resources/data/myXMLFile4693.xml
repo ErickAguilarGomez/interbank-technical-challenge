@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genevra"
+  lastname="Chandler"
+  city="Ho Chi Minh City"
+  country="Kazakhstan"
+  firstname2="Cathyleen"
+  lastname2="Peg"
+  email="Cathyleen.Peg@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>49.849</random_float>
+  <bool>false</bool>
+  <date>1988-06-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Berta</elt><elt>Elfreda</elt><elt>Romona</elt><elt>Tabbatha</elt><elt>Christal</elt>  
+  <Cathyleen>
+    <age>44</age>
+  </Cathyleen>
+</root>

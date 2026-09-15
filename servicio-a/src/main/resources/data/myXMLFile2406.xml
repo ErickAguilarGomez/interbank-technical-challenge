@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariele"
+  lastname="Dunkin"
+  city="Rochester"
+  country="Bosnia and Herzegovina"
+  firstname2="Lolita"
+  lastname2="Garbe"
+  email="Lolita.Garbe@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>50.322</random_float>
+  <bool>true</bool>
+  <date>1986-01-26</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rozele</elt><elt>Rosabelle</elt><elt>Lynnea</elt><elt>Delilah</elt><elt>Benita</elt>  
+  <Lolita>
+    <age>47</age>
+  </Lolita>
+</root>

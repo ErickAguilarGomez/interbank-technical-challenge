@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanny"
+  lastname="MacIntosh"
+  city="Osaka"
+  country="Gabon"
+  firstname2="Alexine"
+  lastname2="Fabiola"
+  email="Alexine.Fabiola@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>4.949</random_float>
+  <bool>false</bool>
+  <date>1983-10-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jasmina</elt><elt>Doralynne</elt><elt>Ardenia</elt><elt>Emylee</elt><elt>Wanda</elt>  
+  <Alexine>
+    <age>41</age>
+  </Alexine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elsie"
+  lastname="Loring"
+  city="Aberdeen"
+  country="Namibia"
+  firstname2="Laure"
+  lastname2="Zitvaa"
+  email="Laure.Zitvaa@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>18.565</random_float>
+  <bool>false</bool>
+  <date>1999-06-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aurelie</elt><elt>Tomasina</elt><elt>Christal</elt><elt>Trudie</elt><elt>Correy</elt>  
+  <Laure>
+    <age>61</age>
+  </Laure>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Oscar"
+  city="Memphis"
+  country="Mayotte"
+  firstname2="Elvira"
+  lastname2="Raimondo"
+  email="Elvira.Raimondo@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>8.226</random_float>
+  <bool>false</bool>
+  <date>1996-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cecile</elt><elt>Carree</elt><elt>Glenda</elt><elt>Arlena</elt><elt>Valli</elt>  
+  <Elvira>
+    <age>26</age>
+  </Elvira>
+</root>

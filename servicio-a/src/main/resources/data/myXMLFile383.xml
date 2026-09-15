@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kenna"
+  lastname="Joachim"
+  city="Kansas City"
+  country="Oman"
+  firstname2="Shel"
+  lastname2="Lane"
+  email="Shel.Lane@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>79.765</random_float>
+  <bool>true</bool>
+  <date>1998-04-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vonny</elt><elt>Bernie</elt><elt>Ketti</elt><elt>Jany</elt><elt>Barbara</elt>  
+  <Shel>
+    <age>75</age>
+  </Shel>
+</root>

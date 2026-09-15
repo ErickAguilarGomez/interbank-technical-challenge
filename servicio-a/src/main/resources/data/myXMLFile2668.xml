@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alejandra"
+  lastname="Bates"
+  city="Las Palmas de Gran Canaria"
+  country="Sri Lanka"
+  firstname2="Gavrielle"
+  lastname2="Kosey"
+  email="Gavrielle.Kosey@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>65.719</random_float>
+  <bool>true</bool>
+  <date>1997-11-07</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Joy</elt><elt>Danny</elt><elt>Edee</elt><elt>Cherilyn</elt><elt>Hayley</elt>  
+  <Gavrielle>
+    <age>51</age>
+  </Gavrielle>
+</root>

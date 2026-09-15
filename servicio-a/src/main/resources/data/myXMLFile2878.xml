@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gloria"
+  lastname="Slifka"
+  city="Guwahati"
+  country="Kenya"
+  firstname2="Konstance"
+  lastname2="Brotherson"
+  email="Konstance.Brotherson@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>94.089</random_float>
+  <bool>true</bool>
+  <date>1992-04-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nyssa</elt><elt>Sarette</elt><elt>Stevana</elt><elt>Quintina</elt><elt>Marnia</elt>  
+  <Konstance>
+    <age>77</age>
+  </Konstance>
+</root>

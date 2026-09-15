@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Latisha"
+  lastname="Colleen"
+  city="Port-au-Prince"
+  country="United Kingdom"
+  firstname2="Flory"
+  lastname2="Nester"
+  email="Flory.Nester@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>11.898</random_float>
+  <bool>true</bool>
+  <date>1995-12-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cecile</elt><elt>Sibella</elt><elt>Darci</elt><elt>Henriette</elt><elt>Laurene</elt>  
+  <Flory>
+    <age>43</age>
+  </Flory>
+</root>

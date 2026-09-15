@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacquetta"
+  lastname="Dimitris"
+  city="Port-au-Prince"
+  country="Ghana"
+  firstname2="Bibby"
+  lastname2="Sprage"
+  email="Bibby.Sprage@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>27.4</random_float>
+  <bool>true</bool>
+  <date>1988-11-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Glynnis</elt><elt>Evita</elt><elt>Misha</elt><elt>Alie</elt><elt>Magdalena</elt>  
+  <Bibby>
+    <age>68</age>
+  </Bibby>
+</root>

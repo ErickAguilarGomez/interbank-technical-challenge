@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Niles"
+  city="Castries"
+  country="Montserrat"
+  firstname2="Darci"
+  lastname2="Jagir"
+  email="Darci.Jagir@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>72.652</random_float>
+  <bool>true</bool>
+  <date>1989-10-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Catharine</elt><elt>Camile</elt><elt>Viki</elt><elt>Nataline</elt><elt>Sherrie</elt>  
+  <Darci>
+    <age>32</age>
+  </Darci>
+</root>

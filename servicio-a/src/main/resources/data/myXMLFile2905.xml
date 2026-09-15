@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yetty"
+  lastname="Bibi"
+  city="Kaohsiung"
+  country="Niue"
+  firstname2="Emmey"
+  lastname2="Ashok"
+  email="Emmey.Ashok@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>89.73</random_float>
+  <bool>false</bool>
+  <date>1982-11-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>June</elt><elt>Kimberley</elt><elt>Dolli</elt><elt>Annaliese</elt><elt>Xylina</elt>  
+  <Emmey>
+    <age>44</age>
+  </Emmey>
+</root>

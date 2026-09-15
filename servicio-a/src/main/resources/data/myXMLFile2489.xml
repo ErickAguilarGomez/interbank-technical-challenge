@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britte"
+  lastname="Letsou"
+  city="Miri"
+  country="Anguilla"
+  firstname2="Fina"
+  lastname2="Curren"
+  email="Fina.Curren@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>64.472</random_float>
+  <bool>false</bool>
+  <date>1989-11-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Asia</elt><elt>Sabina</elt><elt>Danny</elt><elt>Gloria</elt><elt>Dolli</elt>  
+  <Fina>
+    <age>65</age>
+  </Fina>
+</root>

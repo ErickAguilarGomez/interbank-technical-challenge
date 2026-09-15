@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gale"
+  lastname="Chaing"
+  city="Salzburg"
+  country="Cote D"Ivoire"
+  firstname2="Maud"
+  lastname2="Frodi"
+  email="Maud.Frodi@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>55.159</random_float>
+  <bool>false</bool>
+  <date>1992-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cherrita</elt><elt>Ottilie</elt><elt>Candy</elt><elt>Talya</elt><elt>Cyndie</elt>  
+  <Maud>
+    <age>65</age>
+  </Maud>
+</root>

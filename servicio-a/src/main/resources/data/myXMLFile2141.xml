@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anthia"
+  lastname="Erich"
+  city="Cleveland"
+  country="Malta"
+  firstname2="Deane"
+  lastname2="Mandler"
+  email="Deane.Mandler@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>84.946</random_float>
+  <bool>true</bool>
+  <date>1991-07-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Fidelia</elt><elt>Courtnay</elt><elt>Hettie</elt><elt>Wynne</elt><elt>Justinn</elt>  
+  <Deane>
+    <age>73</age>
+  </Deane>
+</root>

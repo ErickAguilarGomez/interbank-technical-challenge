@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Siana"
+  lastname="Ventre"
+  city="Indianapolis"
+  country="Romania"
+  firstname2="Codie"
+  lastname2="Schalles"
+  email="Codie.Schalles@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>85.995</random_float>
+  <bool>true</bool>
+  <date>1994-09-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ekaterina</elt><elt>Mariele</elt><elt>Allyce</elt><elt>Grier</elt><elt>Lacie</elt>  
+  <Codie>
+    <age>39</age>
+  </Codie>
+</root>

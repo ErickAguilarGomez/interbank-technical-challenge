@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Violet"
+  lastname="Dahlia"
+  city="Chaguanas"
+  country="Viet Nam"
+  firstname2="Kathy"
+  lastname2="Ashok"
+  email="Kathy.Ashok@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>1.482</random_float>
+  <bool>false</bool>
+  <date>1986-09-05</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gwenneth</elt><elt>Veda</elt><elt>Bee</elt><elt>Maud</elt><elt>Christian</elt>  
+  <Kathy>
+    <age>40</age>
+  </Kathy>
+</root>

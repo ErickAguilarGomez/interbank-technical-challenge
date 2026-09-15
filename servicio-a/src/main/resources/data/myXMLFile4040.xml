@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elise"
+  lastname="Hepsibah"
+  city="St. John's"
+  country="Slovenia"
+  firstname2="Lorenza"
+  lastname2="Morehouse"
+  email="Lorenza.Morehouse@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>69.096</random_float>
+  <bool>false</bool>
+  <date>1995-06-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marika</elt><elt>Jackie</elt><elt>Sarette</elt><elt>Fanny</elt><elt>Josephine</elt>  
+  <Lorenza>
+    <age>25</age>
+  </Lorenza>
+</root>

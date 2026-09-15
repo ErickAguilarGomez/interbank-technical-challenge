@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shandie"
+  lastname="Abbot"
+  city="Agartala"
+  country="Cote D"Ivoire"
+  firstname2="Arlena"
+  lastname2="Voletta"
+  email="Arlena.Voletta@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>13.538</random_float>
+  <bool>false</bool>
+  <date>1984-05-18</date>
+  <regEx>helloooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ethel</elt><elt>Marline</elt><elt>Antonietta</elt><elt>Melisent</elt><elt>Bibby</elt>  
+  <Arlena>
+    <age>48</age>
+  </Arlena>
+</root>

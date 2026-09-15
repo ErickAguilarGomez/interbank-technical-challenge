@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernardine"
+  lastname="Leffen"
+  city="Santiago de Cuba"
+  country="Mali"
+  firstname2="Grier"
+  lastname2="Raimondo"
+  email="Grier.Raimondo@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>28.581</random_float>
+  <bool>true</bool>
+  <date>1994-04-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Beverley</elt><elt>Joane</elt><elt>Ernesta</elt><elt>Sam</elt><elt>Kerrin</elt>  
+  <Grier>
+    <age>39</age>
+  </Grier>
+</root>

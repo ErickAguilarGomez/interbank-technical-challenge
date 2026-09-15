@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roberta"
+  lastname="Eliathas"
+  city="Rio de Janeiro"
+  country="Greenland"
+  firstname2="Phylis"
+  lastname2="Harl"
+  email="Phylis.Harl@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>13.715</random_float>
+  <bool>true</bool>
+  <date>1985-01-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Agnese</elt><elt>Jere</elt><elt>Alyssa</elt><elt>Mahalia</elt><elt>Hyacinthe</elt>  
+  <Phylis>
+    <age>87</age>
+  </Phylis>
+</root>

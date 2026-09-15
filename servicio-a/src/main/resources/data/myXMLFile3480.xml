@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Meli"
+  city="Concepción"
+  country="Kenya"
+  firstname2="Ardeen"
+  lastname2="Carvey"
+  email="Ardeen.Carvey@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>11.878</random_float>
+  <bool>true</bool>
+  <date>1992-07-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cassandra</elt><elt>Henriette</elt><elt>Aurore</elt><elt>Suzette</elt><elt>Oona</elt>  
+  <Ardeen>
+    <age>79</age>
+  </Ardeen>
+</root>

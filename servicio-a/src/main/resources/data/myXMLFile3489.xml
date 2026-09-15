@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ariela"
+  lastname="Chabot"
+  city="Dushanbe"
+  country="Jamaica"
+  firstname2="Sharlene"
+  lastname2="Oster"
+  email="Sharlene.Oster@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>47.09</random_float>
+  <bool>true</bool>
+  <date>1986-06-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Talya</elt><elt>Amara</elt><elt>Hallie</elt><elt>Reeba</elt><elt>Clary</elt>  
+  <Sharlene>
+    <age>59</age>
+  </Sharlene>
+</root>

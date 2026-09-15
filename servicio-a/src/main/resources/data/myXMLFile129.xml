@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hayley"
+  lastname="Hepsibah"
+  city="Serekunda"
+  country="Marshall Islands"
+  firstname2="Christal"
+  lastname2="Gaulin"
+  email="Christal.Gaulin@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>44.458</random_float>
+  <bool>true</bool>
+  <date>1983-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mildrid</elt><elt>Charissa</elt><elt>Priscilla</elt><elt>Lisette</elt><elt>Sam</elt>  
+  <Christal>
+    <age>38</age>
+  </Christal>
+</root>

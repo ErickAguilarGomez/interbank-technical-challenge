@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Merna"
+  city="Toronto"
+  country="Armenia"
+  firstname2="Pearline"
+  lastname2="Hermes"
+  email="Pearline.Hermes@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>14.547</random_float>
+  <bool>true</bool>
+  <date>1987-08-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Selma</elt><elt>Adelle</elt><elt>Leontine</elt><elt>Minda</elt><elt>Farrah</elt>  
+  <Pearline>
+    <age>31</age>
+  </Pearline>
+</root>

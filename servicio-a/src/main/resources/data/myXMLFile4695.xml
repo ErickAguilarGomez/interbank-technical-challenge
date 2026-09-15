@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andeee"
+  lastname="Kare"
+  city="Dresden"
+  country="Martinique"
+  firstname2="Betta"
+  lastname2="Garrison"
+  email="Betta.Garrison@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>59.002</random_float>
+  <bool>false</bool>
+  <date>1982-10-03</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Norine</elt><elt>Ethel</elt><elt>Devina</elt><elt>Danny</elt><elt>Donetta</elt>  
+  <Betta>
+    <age>76</age>
+  </Betta>
+</root>

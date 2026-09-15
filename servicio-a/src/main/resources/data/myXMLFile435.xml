@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daryl"
+  lastname="Rogerio"
+  city="Kingstown"
+  country="Philippines"
+  firstname2="Emelina"
+  lastname2="Yorick"
+  email="Emelina.Yorick@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>43.013</random_float>
+  <bool>false</bool>
+  <date>1993-02-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mildrid</elt><elt>Hettie</elt><elt>Leontine</elt><elt>Frieda</elt><elt>Rosene</elt>  
+  <Emelina>
+    <age>25</age>
+  </Emelina>
+</root>

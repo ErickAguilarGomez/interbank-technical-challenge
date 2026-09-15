@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ofilia"
+  lastname="Matthew"
+  city="Lima"
+  country="Angola"
+  firstname2="Minda"
+  lastname2="Hylan"
+  email="Minda.Hylan@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>48.468</random_float>
+  <bool>false</bool>
+  <date>1995-11-28</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Paola</elt><elt>Winny</elt><elt>Carol-Jean</elt><elt>Tilly</elt><elt>Calla</elt>  
+  <Minda>
+    <age>54</age>
+  </Minda>
+</root>

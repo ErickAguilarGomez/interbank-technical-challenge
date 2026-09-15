@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ilse"
+  lastname="Lytton"
+  city="Wonsan"
+  country="Latvia"
+  firstname2="Marinna"
+  lastname2="Bahr"
+  email="Marinna.Bahr@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>34.172</random_float>
+  <bool>false</bool>
+  <date>1987-05-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hollie</elt><elt>Sandie</elt><elt>June</elt><elt>Raina</elt><elt>Lilith</elt>  
+  <Marinna>
+    <age>77</age>
+  </Marinna>
+</root>

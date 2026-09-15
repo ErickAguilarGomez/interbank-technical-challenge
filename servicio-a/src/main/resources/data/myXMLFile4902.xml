@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Cleo"
+  city="Andorra la Vella"
+  country="Åland Islands"
+  firstname2="Agnese"
+  lastname2="Seligman"
+  email="Agnese.Seligman@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>41.285</random_float>
+  <bool>true</bool>
+  <date>1994-03-24</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lory</elt><elt>Lyssa</elt><elt>Fayre</elt><elt>Latisha</elt><elt>Gilligan</elt>  
+  <Agnese>
+    <age>84</age>
+  </Agnese>
+</root>

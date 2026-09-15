@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Starla"
+  lastname="Lubin"
+  city="Kuching"
+  country="Sierra Leone"
+  firstname2="Tracey"
+  lastname2="Gaal"
+  email="Tracey.Gaal@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>86.221</random_float>
+  <bool>true</bool>
+  <date>1986-12-06</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Courtnay</elt><elt>Melodie</elt><elt>Marti</elt><elt>Patricia</elt><elt>Rivalee</elt>  
+  <Tracey>
+    <age>45</age>
+  </Tracey>
+</root>

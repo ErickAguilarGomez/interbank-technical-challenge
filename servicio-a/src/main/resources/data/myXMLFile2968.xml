@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elbertina"
+  lastname="Raffo"
+  city="Salt Lake City"
+  country="Gibraltar"
+  firstname2="Livvyy"
+  lastname2="Federica"
+  email="Livvyy.Federica@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>65.784</random_float>
+  <bool>false</bool>
+  <date>1992-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Selma</elt><elt>Clarice</elt><elt>Cherilyn</elt><elt>Clementine</elt><elt>Melisent</elt>  
+  <Livvyy>
+    <age>56</age>
+  </Livvyy>
+</root>

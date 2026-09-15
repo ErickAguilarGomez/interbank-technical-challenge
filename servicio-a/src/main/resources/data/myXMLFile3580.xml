@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Danika"
+  lastname="Drisko"
+  city="Cockburn Town"
+  country="Holy See (Vatican City State)"
+  firstname2="Laurene"
+  lastname2="Talia"
+  email="Laurene.Talia@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>98.822</random_float>
+  <bool>true</bool>
+  <date>1987-11-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ardeen</elt><elt>Anica</elt><elt>Lanae</elt><elt>Bobbi</elt><elt>Elvira</elt>  
+  <Laurene>
+    <age>68</age>
+  </Laurene>
+</root>

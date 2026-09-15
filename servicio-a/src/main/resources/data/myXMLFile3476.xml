@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vita"
+  lastname="Wandie"
+  city="Bahía Blanca"
+  country="Cyprus"
+  firstname2="Ada"
+  lastname2="Tristram"
+  email="Ada.Tristram@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>48.68</random_float>
+  <bool>false</bool>
+  <date>1998-01-08</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ninnetta</elt><elt>Atlanta</elt><elt>Pearline</elt><elt>Nannie</elt><elt>Kylynn</elt>  
+  <Ada>
+    <age>26</age>
+  </Ada>
+</root>

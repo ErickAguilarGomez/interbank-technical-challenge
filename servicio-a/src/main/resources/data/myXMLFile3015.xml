@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brianna"
+  lastname="Revkah"
+  city="Pago Pago"
+  country="Bulgaria"
+  firstname2="Genevra"
+  lastname2="Corabella"
+  email="Genevra.Corabella@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>90.371</random_float>
+  <bool>false</bool>
+  <date>1984-09-28</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Pollyanna</elt><elt>Nataline</elt><elt>Ellette</elt><elt>Jerry</elt><elt>Gianina</elt>  
+  <Genevra>
+    <age>61</age>
+  </Genevra>
+</root>

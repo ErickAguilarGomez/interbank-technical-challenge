@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="Marsden"
+  city="Nagoya"
+  country="Northern Mariana Islands"
+  firstname2="Rosene"
+  lastname2="Meli"
+  email="Rosene.Meli@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>69.388</random_float>
+  <bool>true</bool>
+  <date>1996-07-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carmela</elt><elt>Elena</elt><elt>Myriam</elt><elt>Jaime</elt><elt>Louella</elt>  
+  <Rosene>
+    <age>29</age>
+  </Rosene>
+</root>

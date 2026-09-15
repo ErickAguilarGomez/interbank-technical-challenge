@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janis"
+  lastname="Borrell"
+  city="Avarua"
+  country="Tajikistan"
+  firstname2="Gerrie"
+  lastname2="Schenck"
+  email="Gerrie.Schenck@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>10.094</random_float>
+  <bool>true</bool>
+  <date>1986-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Bee</elt><elt>Elise</elt><elt>Letizia</elt><elt>Daune</elt><elt>Gwyneth</elt>  
+  <Gerrie>
+    <age>35</age>
+  </Gerrie>
+</root>

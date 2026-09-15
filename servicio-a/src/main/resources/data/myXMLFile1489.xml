@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Edvard"
+  city="Bandar Seri Begawan"
+  country="Guernsey"
+  firstname2="Edith"
+  lastname2="Kirbee"
+  email="Edith.Kirbee@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>85.334</random_float>
+  <bool>true</bool>
+  <date>1992-01-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Belva</elt><elt>Wynne</elt><elt>Kristan</elt><elt>Karly</elt><elt>Bernardine</elt>  
+  <Edith>
+    <age>93</age>
+  </Edith>
+</root>

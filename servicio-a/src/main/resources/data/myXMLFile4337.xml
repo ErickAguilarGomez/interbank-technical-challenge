@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Ciro"
+  city="Bilbao"
+  country="Anguilla"
+  firstname2="Aurore"
+  lastname2="Poll"
+  email="Aurore.Poll@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>84.715</random_float>
+  <bool>true</bool>
+  <date>1986-08-05</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ana</elt><elt>Valli</elt><elt>Reeba</elt><elt>Coral</elt><elt>Leona</elt>  
+  <Aurore>
+    <age>45</age>
+  </Aurore>
+</root>

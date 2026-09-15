@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Ioab"
+  city="Santa Cruz de Tenerife"
+  country="Tokelau"
+  firstname2="Kerrin"
+  lastname2="Mott"
+  email="Kerrin.Mott@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>18.816</random_float>
+  <bool>true</bool>
+  <date>1982-05-14</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elora</elt><elt>Marylou</elt><elt>Agnese</elt><elt>Fidelia</elt><elt>Janenna</elt>  
+  <Kerrin>
+    <age>99</age>
+  </Kerrin>
+</root>

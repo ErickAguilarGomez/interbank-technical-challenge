@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shandie"
+  lastname="Hamil"
+  city="Barcelona"
+  country="French Guiana"
+  firstname2="Emelina"
+  lastname2="Ursulette"
+  email="Emelina.Ursulette@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>91.335</random_float>
+  <bool>true</bool>
+  <date>1983-01-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kayla</elt><elt>Hildegaard</elt><elt>Cherilyn</elt><elt>Gwyneth</elt><elt>Micheline</elt>  
+  <Emelina>
+    <age>36</age>
+  </Emelina>
+</root>

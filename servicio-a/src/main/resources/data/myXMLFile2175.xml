@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Hedve"
+  city="Providence"
+  country="Ethiopia"
+  firstname2="Charlena"
+  lastname2="Daveta"
+  email="Charlena.Daveta@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>52.894</random_float>
+  <bool>false</bool>
+  <date>1990-10-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Zondra</elt><elt>Myriam</elt><elt>Felice</elt><elt>Amii</elt><elt>Georgina</elt>  
+  <Charlena>
+    <age>61</age>
+  </Charlena>
+</root>

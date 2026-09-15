@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Cristi"
+  city="Chaguanas"
+  country="Lesotho"
+  firstname2="Briney"
+  lastname2="Odysseus"
+  email="Briney.Odysseus@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>63.804</random_float>
+  <bool>false</bool>
+  <date>1985-07-26</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Merci</elt><elt>Berget</elt><elt>Cindelyn</elt><elt>Deane</elt><elt>Jinny</elt>  
+  <Briney>
+    <age>75</age>
+  </Briney>
+</root>

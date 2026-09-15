@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flory"
+  lastname="Krystle"
+  city="Tiraspol"
+  country="Lao People"S Democratic Republic"
+  firstname2="Aryn"
+  lastname2="Monk"
+  email="Aryn.Monk@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>1.235</random_float>
+  <bool>false</bool>
+  <date>1995-12-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gloria</elt><elt>Arlena</elt><elt>Marsiella</elt><elt>Amara</elt><elt>Justinn</elt>  
+  <Aryn>
+    <age>80</age>
+  </Aryn>
+</root>

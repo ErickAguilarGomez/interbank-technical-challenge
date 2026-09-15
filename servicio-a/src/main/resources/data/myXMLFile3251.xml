@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corina"
+  lastname="Cassius"
+  city="Yaoundé"
+  country="Venezuela"
+  firstname2="Hope"
+  lastname2="Urias"
+  email="Hope.Urias@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>18.188</random_float>
+  <bool>false</bool>
+  <date>1989-04-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sidoney</elt><elt>Kalina</elt><elt>Nessie</elt><elt>Alameda</elt><elt>Wynne</elt>  
+  <Hope>
+    <age>80</age>
+  </Hope>
+</root>

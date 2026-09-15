@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rhoda"
+  lastname="Seligman"
+  city="Dhaka"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Sidoney"
+  lastname2="Lattie"
+  email="Sidoney.Lattie@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>93.941</random_float>
+  <bool>false</bool>
+  <date>1985-08-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Phedra</elt><elt>Collen</elt><elt>Robbi</elt><elt>Veda</elt><elt>Rhea</elt>  
+  <Sidoney>
+    <age>86</age>
+  </Sidoney>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Justinn"
+  lastname="Haerr"
+  city="Hamilton"
+  country="Tunisia"
+  firstname2="Jacenta"
+  lastname2="Burnside"
+  email="Jacenta.Burnside@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>65.257</random_float>
+  <bool>true</bool>
+  <date>1993-03-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Orelia</elt><elt>Concettina</elt><elt>Cristabel</elt><elt>Livvyy</elt><elt>Bill</elt>  
+  <Jacenta>
+    <age>67</age>
+  </Jacenta>
+</root>

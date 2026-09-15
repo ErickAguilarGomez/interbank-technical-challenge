@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Verla"
+  lastname="Xerxes"
+  city="Hanga Roa"
+  country="Wallis and Futuna"
+  firstname2="Meg"
+  lastname2="Harned"
+  email="Meg.Harned@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>58.092</random_float>
+  <bool>true</bool>
+  <date>1982-02-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Fanny</elt><elt>Sophia</elt><elt>Dale</elt><elt>Gerrie</elt><elt>Carree</elt>  
+  <Meg>
+    <age>93</age>
+  </Meg>
+</root>

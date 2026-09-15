@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dacia"
+  lastname="Guthrie"
+  city="Macau"
+  country="Czech Republic"
+  firstname2="Monika"
+  lastname2="Earlie"
+  email="Monika.Earlie@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>28.733</random_float>
+  <bool>false</bool>
+  <date>1998-07-13</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Donetta</elt><elt>Ann-Marie</elt><elt>Quintina</elt><elt>Dolli</elt><elt>Kittie</elt>  
+  <Monika>
+    <age>25</age>
+  </Monika>
+</root>

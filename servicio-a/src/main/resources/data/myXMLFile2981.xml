@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annora"
+  lastname="Connelly"
+  city="Curitiba"
+  country="Netherlands Antilles"
+  firstname2="Dyann"
+  lastname2="Nea"
+  email="Dyann.Nea@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>75.343</random_float>
+  <bool>true</bool>
+  <date>1980-01-15</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Beatriz</elt><elt>Jany</elt><elt>Molli</elt><elt>Jsandye</elt><elt>Dorene</elt>  
+  <Dyann>
+    <age>53</age>
+  </Dyann>
+</root>

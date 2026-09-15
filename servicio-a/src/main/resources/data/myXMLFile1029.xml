@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorothy"
+  lastname="Jefferey"
+  city="Riverside"
+  country="American Samoa"
+  firstname2="Bettine"
+  lastname2="Newell"
+  email="Bettine.Newell@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>82.454</random_float>
+  <bool>false</bool>
+  <date>1980-03-29</date>
+  <regEx>hello to you</regEx>
+  <enum>generator</enum>
+  <elt>Konstance</elt><elt>Chickie</elt><elt>Mellicent</elt><elt>Jolyn</elt><elt>Tami</elt>  
+  <Bettine>
+    <age>72</age>
+  </Bettine>
+</root>

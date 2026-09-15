@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elena"
+  lastname="Niccolo"
+  city="Amritsar"
+  country="Myanmar"
+  firstname2="Margalo"
+  lastname2="Sandye"
+  email="Margalo.Sandye@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>86.04</random_float>
+  <bool>false</bool>
+  <date>1990-11-03</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Yolane</elt><elt>Annice</elt><elt>Caritta</elt><elt>Rani</elt><elt>Randa</elt>  
+  <Margalo>
+    <age>55</age>
+  </Margalo>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Althea"
+  lastname="Agle"
+  city="Stanley"
+  country="Barbados"
+  firstname2="Antonietta"
+  lastname2="Harl"
+  email="Antonietta.Harl@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>1.718</random_float>
+  <bool>false</bool>
+  <date>1981-05-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Fayre</elt><elt>Bobbi</elt><elt>Susan</elt><elt>Heida</elt><elt>Daphne</elt>  
+  <Antonietta>
+    <age>47</age>
+  </Antonietta>
+</root>

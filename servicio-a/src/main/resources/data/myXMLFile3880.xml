@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Faro"
+  city="Minsk"
+  country="Moldova, Republic of"
+  firstname2="Rori"
+  lastname2="Gibbeon"
+  email="Rori.Gibbeon@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>53.193</random_float>
+  <bool>true</bool>
+  <date>1993-10-14</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Concettina</elt><elt>Shannah</elt><elt>Elmira</elt><elt>Corry</elt><elt>Daune</elt>  
+  <Rori>
+    <age>81</age>
+  </Rori>
+</root>

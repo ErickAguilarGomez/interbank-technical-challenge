@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kerrin"
+  lastname="Buckler"
+  city="Papeete"
+  country="Sao Tome and Principe"
+  firstname2="Ulrike"
+  lastname2="Slifka"
+  email="Ulrike.Slifka@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>4.46</random_float>
+  <bool>true</bool>
+  <date>1986-05-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Krystle</elt><elt>Kaia</elt><elt>Margette</elt><elt>Deirdre</elt><elt>Dacia</elt>  
+  <Ulrike>
+    <age>35</age>
+  </Ulrike>
+</root>

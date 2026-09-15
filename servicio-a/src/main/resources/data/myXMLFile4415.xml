@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tonia"
+  lastname="Dreda"
+  city="Papeete"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Elmira"
+  lastname2="Bandeen"
+  email="Elmira.Bandeen@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>4.329</random_float>
+  <bool>true</bool>
+  <date>1984-10-14</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Alyssa</elt><elt>Noelle</elt><elt>Genevra</elt><elt>Theodora</elt><elt>Ottilie</elt>  
+  <Elmira>
+    <age>93</age>
+  </Elmira>
+</root>

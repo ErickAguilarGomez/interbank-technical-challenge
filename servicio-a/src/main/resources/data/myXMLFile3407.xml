@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="Ferrell"
+  city="Santiago de Cuba"
+  country="Mozambique"
+  firstname2="Cordi"
+  lastname2="Lane"
+  email="Cordi.Lane@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>86.869</random_float>
+  <bool>true</bool>
+  <date>1999-12-10</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cindelyn</elt><elt>Alexine</elt><elt>Bibby</elt><elt>Ulrike</elt><elt>Cam</elt>  
+  <Cordi>
+    <age>55</age>
+  </Cordi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurelie"
+  lastname="Ehrman"
+  city="Saint-Pierre"
+  country="Cuba"
+  firstname2="Vevay"
+  lastname2="Infield"
+  email="Vevay.Infield@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>85.584</random_float>
+  <bool>true</bool>
+  <date>1983-10-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Charissa</elt><elt>Cherilyn</elt><elt>Lorne</elt><elt>Joelly</elt><elt>Cissiee</elt>  
+  <Vevay>
+    <age>64</age>
+  </Vevay>
+</root>

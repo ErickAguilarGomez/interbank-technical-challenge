@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kellen"
+  lastname="Celestine"
+  city="Dushanbe"
+  country="Suriname"
+  firstname2="Glynnis"
+  lastname2="Nester"
+  email="Glynnis.Nester@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>55.848</random_float>
+  <bool>false</bool>
+  <date>1982-09-18</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Elsie</elt><elt>Leeanne</elt><elt>Fernande</elt><elt>Bernie</elt><elt>Trixi</elt>  
+  <Glynnis>
+    <age>69</age>
+  </Glynnis>
+</root>

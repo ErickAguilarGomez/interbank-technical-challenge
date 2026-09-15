@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teddie"
+  lastname="Ochs"
+  city="Kingstown"
+  country="Dominica"
+  firstname2="Anallese"
+  lastname2="Atonsah"
+  email="Anallese.Atonsah@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>1.308</random_float>
+  <bool>true</bool>
+  <date>1989-06-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jerry</elt><elt>Drucie</elt><elt>Nananne</elt><elt>Merci</elt><elt>Fanchon</elt>  
+  <Anallese>
+    <age>52</age>
+  </Anallese>
+</root>

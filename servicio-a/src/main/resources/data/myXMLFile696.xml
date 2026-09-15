@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lita"
+  lastname="Bollay"
+  city="Cusco"
+  country="Bermuda"
+  firstname2="Glynnis"
+  lastname2="Arne"
+  email="Glynnis.Arne@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>19.495</random_float>
+  <bool>true</bool>
+  <date>1985-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Constance</elt><elt>Ariela</elt><elt>Cecile</elt><elt>Amii</elt><elt>Yolane</elt>  
+  <Glynnis>
+    <age>41</age>
+  </Glynnis>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cissiee"
+  lastname="Alejoa"
+  city="Chongjin"
+  country="Taiwan, Province of China"
+  firstname2="Marleah"
+  lastname2="Joeann"
+  email="Marleah.Joeann@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>74.715</random_float>
+  <bool>true</bool>
+  <date>1991-08-27</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ninnetta</elt><elt>Sharlene</elt><elt>Aigneis</elt><elt>Dagmar</elt><elt>Margette</elt>  
+  <Marleah>
+    <age>46</age>
+  </Marleah>
+</root>

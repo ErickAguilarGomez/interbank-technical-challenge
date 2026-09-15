@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roseline"
+  lastname="Thunell"
+  city="Bursa"
+  country="Puerto Rico"
+  firstname2="Daryl"
+  lastname2="Poll"
+  email="Daryl.Poll@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>50.285</random_float>
+  <bool>true</bool>
+  <date>1997-10-14</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Drucie</elt><elt>Wynne</elt><elt>Lolita</elt><elt>Meg</elt><elt>Priscilla</elt>  
+  <Daryl>
+    <age>27</age>
+  </Daryl>
+</root>

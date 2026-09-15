@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Viviene"
+  lastname="Bearnard"
+  city="Murmansk"
+  country="Belarus"
+  firstname2="Modestia"
+  lastname2="Henebry"
+  email="Modestia.Henebry@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>66.746</random_float>
+  <bool>false</bool>
+  <date>1987-10-26</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Moyna</elt><elt>Misha</elt><elt>Bettine</elt><elt>Perry</elt><elt>Winny</elt>  
+  <Modestia>
+    <age>39</age>
+  </Modestia>
+</root>

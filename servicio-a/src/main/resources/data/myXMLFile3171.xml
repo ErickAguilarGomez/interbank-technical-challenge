@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mahalia"
+  lastname="Fax"
+  city="Campo Grande"
+  country="Sierra Leone"
+  firstname2="Josephine"
+  lastname2="Saunderson"
+  email="Josephine.Saunderson@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>9.572</random_float>
+  <bool>false</bool>
+  <date>1992-09-02</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Georgetta</elt><elt>Kathy</elt><elt>Arlena</elt><elt>Alyda</elt><elt>Ruthe</elt>  
+  <Josephine>
+    <age>51</age>
+  </Josephine>
+</root>

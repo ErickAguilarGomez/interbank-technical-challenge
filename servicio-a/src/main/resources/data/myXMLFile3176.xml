@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="Whiffen"
+  city="Magadan"
+  country="Germany"
+  firstname2="Lolita"
+  lastname2="Carolin"
+  email="Lolita.Carolin@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>80.658</random_float>
+  <bool>true</bool>
+  <date>1992-07-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ronna</elt><elt>Elka</elt><elt>Gusella</elt><elt>Leanna</elt><elt>Averyl</elt>  
+  <Lolita>
+    <age>67</age>
+  </Lolita>
+</root>

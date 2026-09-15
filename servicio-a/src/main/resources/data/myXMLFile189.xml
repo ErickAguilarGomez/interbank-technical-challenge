@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nollie"
+  lastname="Pulsifer"
+  city="Marrakech"
+  country="Cote D"Ivoire"
+  firstname2="Sashenka"
+  lastname2="Carbo"
+  email="Sashenka.Carbo@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>95.816</random_float>
+  <bool>false</bool>
+  <date>1980-01-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Susan</elt><elt>Tersina</elt><elt>Elmira</elt><elt>Ilse</elt><elt>Giustina</elt>  
+  <Sashenka>
+    <age>61</age>
+  </Sashenka>
+</root>

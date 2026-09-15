@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deane"
+  lastname="Ingra"
+  city="Astana"
+  country="Algeria"
+  firstname2="Claresta"
+  lastname2="Desai"
+  email="Claresta.Desai@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>100.114</random_float>
+  <bool>true</bool>
+  <date>1987-08-22</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sonni</elt><elt>Tobe</elt><elt>Winifred</elt><elt>Lynnea</elt><elt>Raquela</elt>  
+  <Claresta>
+    <age>22</age>
+  </Claresta>
+</root>

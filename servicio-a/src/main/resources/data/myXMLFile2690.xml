@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Vanni"
+  city="Montevideo"
+  country="Slovakia"
+  firstname2="Lila"
+  lastname2="Duwalt"
+  email="Lila.Duwalt@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>36.781</random_float>
+  <bool>true</bool>
+  <date>1996-10-24</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Therine</elt><elt>Allyce</elt><elt>Glenda</elt><elt>Camile</elt><elt>Allis</elt>  
+  <Lila>
+    <age>27</age>
+  </Lila>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jillayne"
+  lastname="Sophronia"
+  city="Addis Ababa"
+  country="Ecuador"
+  firstname2="Dorothy"
+  lastname2="Luhe"
+  email="Dorothy.Luhe@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>35.565</random_float>
+  <bool>false</bool>
+  <date>1980-01-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lonnie</elt><elt>Rhea</elt><elt>Roxane</elt><elt>Marleah</elt><elt>Jessy</elt>  
+  <Dorothy>
+    <age>55</age>
+  </Dorothy>
+</root>

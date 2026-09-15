@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cecile"
+  lastname="Kolnick"
+  city="Montevideo"
+  country="RWANDA"
+  firstname2="Arabel"
+  lastname2="Swigart"
+  email="Arabel.Swigart@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>10.777</random_float>
+  <bool>false</bool>
+  <date>1992-06-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gwyneth</elt><elt>Gabriellia</elt><elt>Gilligan</elt><elt>Bee</elt><elt>Kimberley</elt>  
+  <Arabel>
+    <age>68</age>
+  </Arabel>
+</root>

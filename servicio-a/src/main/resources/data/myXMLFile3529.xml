@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Willetta"
+  lastname="Sidonius"
+  city="Hat Yai"
+  country="Bahamas"
+  firstname2="Charmaine"
+  lastname2="Kosey"
+  email="Charmaine.Kosey@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>89.834</random_float>
+  <bool>true</bool>
+  <date>1985-10-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Edith</elt><elt>Rhea</elt><elt>Dari</elt><elt>Hollie</elt><elt>Deane</elt>  
+  <Charmaine>
+    <age>29</age>
+  </Charmaine>
+</root>

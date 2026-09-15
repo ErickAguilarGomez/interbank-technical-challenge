@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Philis"
+  lastname="Jethro"
+  city="Manchester"
+  country="Cyprus"
+  firstname2="Bobbi"
+  lastname2="Winthorpe"
+  email="Bobbi.Winthorpe@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>18.534</random_float>
+  <bool>true</bool>
+  <date>1987-06-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Chere</elt><elt>Deane</elt><elt>Catrina</elt><elt>Kimmy</elt><elt>Fayre</elt>  
+  <Bobbi>
+    <age>51</age>
+  </Bobbi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darlleen"
+  lastname="Joni"
+  city="Split (city)"
+  country="Croatia"
+  firstname2="Beth"
+  lastname2="Oneida"
+  email="Beth.Oneida@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>95.963</random_float>
+  <bool>false</bool>
+  <date>1997-07-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Shannah</elt><elt>Gilda</elt><elt>Ira</elt><elt>Tina</elt><elt>Sidoney</elt>  
+  <Beth>
+    <age>74</age>
+  </Beth>
+</root>

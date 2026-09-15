@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gianina"
+  lastname="Pillsbury"
+  city="Nassau"
+  country="Trinidad and Tobago"
+  firstname2="Giustina"
+  lastname2="Elephus"
+  email="Giustina.Elephus@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>98.239</random_float>
+  <bool>true</bool>
+  <date>1980-12-12</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roslyn</elt><elt>Marti</elt><elt>Queenie</elt><elt>Ketti</elt><elt>Raf</elt>  
+  <Giustina>
+    <age>49</age>
+  </Giustina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ronna"
+  lastname="Holbrook"
+  city="Tampa"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Dorene"
+  lastname2="Kelula"
+  email="Dorene.Kelula@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>51.765</random_float>
+  <bool>false</bool>
+  <date>1982-12-19</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fernande</elt><elt>Clo</elt><elt>Renae</elt><elt>Doralynne</elt><elt>Delilah</elt>  
+  <Dorene>
+    <age>41</age>
+  </Dorene>
+</root>

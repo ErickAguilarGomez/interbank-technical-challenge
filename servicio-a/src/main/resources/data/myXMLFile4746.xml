@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ethel"
+  lastname="Corrine"
+  city="Fukuoka"
+  country="Nigeria"
+  firstname2="Lelah"
+  lastname2="Loring"
+  email="Lelah.Loring@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>34.947</random_float>
+  <bool>false</bool>
+  <date>1993-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Stephanie</elt><elt>Heddie</elt><elt>Elyssa</elt><elt>Madelle</elt><elt>Luci</elt>  
+  <Lelah>
+    <age>24</age>
+  </Lelah>
+</root>

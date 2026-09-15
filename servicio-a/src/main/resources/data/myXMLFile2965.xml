@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glynnis"
+  lastname="Tengdin"
+  city="Vilnius"
+  country="Netherlands"
+  firstname2="Jsandye"
+  lastname2="Raimondo"
+  email="Jsandye.Raimondo@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>6.799</random_float>
+  <bool>false</bool>
+  <date>1987-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ellette</elt><elt>Marleah</elt><elt>Nicoli</elt><elt>Tarra</elt><elt>Arlena</elt>  
+  <Jsandye>
+    <age>55</age>
+  </Jsandye>
+</root>

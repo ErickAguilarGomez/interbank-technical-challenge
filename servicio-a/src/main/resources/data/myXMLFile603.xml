@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Gladstone"
+  city="Manaus"
+  country="Equatorial Guinea"
+  firstname2="Quintina"
+  lastname2="Vivle"
+  email="Quintina.Vivle@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>51.891</random_float>
+  <bool>false</bool>
+  <date>1999-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Fanchon</elt><elt>Mureil</elt><elt>Nanete</elt><elt>Kimmy</elt><elt>Norine</elt>  
+  <Quintina>
+    <age>30</age>
+  </Quintina>
+</root>

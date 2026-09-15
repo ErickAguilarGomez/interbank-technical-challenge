@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Charmine"
+  city="Banjul"
+  country="Ecuador"
+  firstname2="Layla"
+  lastname2="Ioab"
+  email="Layla.Ioab@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>86.835</random_float>
+  <bool>false</bool>
+  <date>1980-02-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Shauna</elt><elt>Aubrie</elt><elt>Halette</elt><elt>Leia</elt><elt>Inga</elt>  
+  <Layla>
+    <age>58</age>
+  </Layla>
+</root>

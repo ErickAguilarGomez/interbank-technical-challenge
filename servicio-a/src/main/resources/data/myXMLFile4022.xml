@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caressa"
+  lastname="An"
+  city="Iloilo City"
+  country="Grenada"
+  firstname2="Mariele"
+  lastname2="Rolf"
+  email="Mariele.Rolf@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>85.371</random_float>
+  <bool>false</bool>
+  <date>1983-11-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Michaelina</elt><elt>Mallory</elt><elt>Rochette</elt><elt>Consuela</elt><elt>Wilma</elt>  
+  <Mariele>
+    <age>44</age>
+  </Mariele>
+</root>

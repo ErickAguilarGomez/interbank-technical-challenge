@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Gaulin"
+  city="Medina"
+  country="Kyrgyzstan"
+  firstname2="Doro"
+  lastname2="Blake"
+  email="Doro.Blake@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>7.906</random_float>
+  <bool>true</bool>
+  <date>1985-04-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Paule</elt><elt>Carlie</elt><elt>Evita</elt><elt>Tersina</elt><elt>Ashlee</elt>  
+  <Doro>
+    <age>70</age>
+  </Doro>
+</root>

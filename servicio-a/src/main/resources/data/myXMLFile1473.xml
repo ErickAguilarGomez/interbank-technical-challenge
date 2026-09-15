@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Binny"
+  lastname="Raychel"
+  city="Valencia"
+  country="French Polynesia"
+  firstname2="Caryl"
+  lastname2="Hamil"
+  email="Caryl.Hamil@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>85.772</random_float>
+  <bool>false</bool>
+  <date>1992-01-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Alameda</elt><elt>Loree</elt><elt>Quintina</elt><elt>Dorene</elt><elt>Sibella</elt>  
+  <Caryl>
+    <age>93</age>
+  </Caryl>
+</root>

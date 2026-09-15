@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charmaine"
+  lastname="Raffo"
+  city="Minneapolis"
+  country="Central African Republic"
+  firstname2="Gertrud"
+  lastname2="Natica"
+  email="Gertrud.Natica@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>98.642</random_float>
+  <bool>true</bool>
+  <date>1996-11-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Collen</elt><elt>Evita</elt><elt>Wanda</elt><elt>Marjie</elt><elt>Inga</elt>  
+  <Gertrud>
+    <age>99</age>
+  </Gertrud>
+</root>

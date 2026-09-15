@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Malina"
+  lastname="Phaidra"
+  city="Marrakech"
+  country="Svalbard and Jan Mayen"
+  firstname2="Winny"
+  lastname2="Mayeda"
+  email="Winny.Mayeda@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>7.246</random_float>
+  <bool>false</bool>
+  <date>1981-01-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tersina</elt><elt>Elmira</elt><elt>Georgetta</elt><elt>Ebonee</elt><elt>Rivalee</elt>  
+  <Winny>
+    <age>58</age>
+  </Winny>
+</root>

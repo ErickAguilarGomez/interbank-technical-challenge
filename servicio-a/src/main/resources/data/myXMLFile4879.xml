@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Romelda"
+  city="Newcastle"
+  country="Belize"
+  firstname2="Cristine"
+  lastname2="Federica"
+  email="Cristine.Federica@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>79.809</random_float>
+  <bool>true</bool>
+  <date>1994-10-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Trixi</elt><elt>Tamqrah</elt><elt>Gerianna</elt><elt>Yetty</elt><elt>Elora</elt>  
+  <Cristine>
+    <age>28</age>
+  </Cristine>
+</root>

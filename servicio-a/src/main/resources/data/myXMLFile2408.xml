@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Thalia"
+  lastname="Joeann"
+  city="Pelotas"
+  country="Bangladesh"
+  firstname2="Nollie"
+  lastname2="Bearnard"
+  email="Nollie.Bearnard@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>3.701</random_float>
+  <bool>true</bool>
+  <date>1981-11-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jackie</elt><elt>Sidoney</elt><elt>Kathy</elt><elt>Ricky</elt><elt>Kirbee</elt>  
+  <Nollie>
+    <age>25</age>
+  </Nollie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blinni"
+  lastname="Gert"
+  city="Qingdao"
+  country="Madagascar"
+  firstname2="Phedra"
+  lastname2="Vharat"
+  email="Phedra.Vharat@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>22.863</random_float>
+  <bool>false</bool>
+  <date>1986-07-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mamie</elt><elt>Bibby</elt><elt>Margarette</elt><elt>Lanna</elt><elt>Sissy</elt>  
+  <Phedra>
+    <age>20</age>
+  </Phedra>
+</root>

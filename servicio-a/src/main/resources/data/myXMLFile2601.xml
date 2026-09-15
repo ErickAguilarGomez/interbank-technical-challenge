@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marguerite"
+  lastname="Maxi"
+  city="Newcastle"
+  country="Equatorial Guinea"
+  firstname2="Chloris"
+  lastname2="Rebecka"
+  email="Chloris.Rebecka@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>45.562</random_float>
+  <bool>false</bool>
+  <date>1998-04-04</date>
+  <regEx>helloooo world</regEx>
+  <enum>xml</enum>
+  <elt>Clementine</elt><elt>Violet</elt><elt>Tatiania</elt><elt>Jemie</elt><elt>Sue</elt>  
+  <Chloris>
+    <age>20</age>
+  </Chloris>
+</root>

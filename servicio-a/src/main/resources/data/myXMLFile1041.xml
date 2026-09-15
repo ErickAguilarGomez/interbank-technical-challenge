@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Travax"
+  city="Ibadan"
+  country="Malta"
+  firstname2="Moyna"
+  lastname2="Waldron"
+  email="Moyna.Waldron@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>93.067</random_float>
+  <bool>true</bool>
+  <date>1995-03-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Raquela</elt><elt>Marguerite</elt><elt>Yetty</elt><elt>Nanete</elt><elt>Brynna</elt>  
+  <Moyna>
+    <age>47</age>
+  </Moyna>
+</root>

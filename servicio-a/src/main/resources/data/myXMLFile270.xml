@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Natka"
+  lastname="Remmer"
+  city="Luxor"
+  country="Cameroon"
+  firstname2="Louella"
+  lastname2="Wilona"
+  email="Louella.Wilona@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>82.127</random_float>
+  <bool>false</bool>
+  <date>1996-02-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dagmar</elt><elt>Mignon</elt><elt>Helena</elt><elt>Max</elt><elt>Gretal</elt>  
+  <Louella>
+    <age>97</age>
+  </Louella>
+</root>

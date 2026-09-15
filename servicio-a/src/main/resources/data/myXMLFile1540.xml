@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Lipson"
+  city="Córdoba"
+  country="Bouvet Island"
+  firstname2="Krystle"
+  lastname2="Raama"
+  email="Krystle.Raama@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>88.988</random_float>
+  <bool>true</bool>
+  <date>1980-04-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Robbi</elt><elt>Andree</elt><elt>Ashlee</elt><elt>Ariela</elt><elt>Dawn</elt>  
+  <Krystle>
+    <age>62</age>
+  </Krystle>
+</root>

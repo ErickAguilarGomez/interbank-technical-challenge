@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Krystle"
+  lastname="Nickola"
+  city="Rockhampton"
+  country="Bahamas"
+  firstname2="Dolli"
+  lastname2="Maxi"
+  email="Dolli.Maxi@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>40.885</random_float>
+  <bool>false</bool>
+  <date>1984-03-02</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brianna</elt><elt>Tori</elt><elt>Tracey</elt><elt>Vevay</elt><elt>Lindie</elt>  
+  <Dolli>
+    <age>33</age>
+  </Dolli>
+</root>

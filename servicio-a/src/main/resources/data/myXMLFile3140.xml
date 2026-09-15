@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ada"
+  lastname="Izaak"
+  city="El Paso"
+  country="New Caledonia"
+  firstname2="Briney"
+  lastname2="Friede"
+  email="Briney.Friede@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>30.865</random_float>
+  <bool>false</bool>
+  <date>1983-10-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Penelopa</elt><elt>Corene</elt><elt>Tonia</elt><elt>Kerrin</elt><elt>Audrie</elt>  
+  <Briney>
+    <age>30</age>
+  </Briney>
+</root>

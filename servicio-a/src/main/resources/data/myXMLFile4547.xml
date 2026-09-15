@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Moyna"
+  lastname="Frendel"
+  city="Malé"
+  country="French Polynesia"
+  firstname2="Brynna"
+  lastname2="Maurine"
+  email="Brynna.Maurine@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>83.134</random_float>
+  <bool>true</bool>
+  <date>1995-10-27</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ileana</elt><elt>Louella</elt><elt>Jacenta</elt><elt>Cacilie</elt><elt>Meriel</elt>  
+  <Brynna>
+    <age>26</age>
+  </Brynna>
+</root>

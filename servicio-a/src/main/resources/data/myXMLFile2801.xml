@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alia"
+  lastname="Taam"
+  city="Peshawar"
+  country="Mexico"
+  firstname2="Kerrin"
+  lastname2="Decato"
+  email="Kerrin.Decato@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>81.13</random_float>
+  <bool>true</bool>
+  <date>1980-09-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mahalia</elt><elt>Kalina</elt><elt>Frank</elt><elt>Emmey</elt><elt>Sissy</elt>  
+  <Kerrin>
+    <age>83</age>
+  </Kerrin>
+</root>

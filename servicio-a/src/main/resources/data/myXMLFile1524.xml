@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vinita"
+  lastname="Pascia"
+  city="Zanzibar City"
+  country="Ethiopia"
+  firstname2="Arlina"
+  lastname2="Verger"
+  email="Arlina.Verger@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>36.667</random_float>
+  <bool>false</bool>
+  <date>1995-12-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Stephanie</elt><elt>Dawn</elt><elt>Shell</elt><elt>Candi</elt><elt>Sallie</elt>  
+  <Arlina>
+    <age>83</age>
+  </Arlina>
+</root>

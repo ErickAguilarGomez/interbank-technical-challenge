@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Misha"
+  lastname="Atonsah"
+  city="Fortaleza"
+  country="Cook Islands"
+  firstname2="Romona"
+  lastname2="Amasa"
+  email="Romona.Amasa@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>83.701</random_float>
+  <bool>true</bool>
+  <date>1988-12-04</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dania</elt><elt>Isa</elt><elt>Priscilla</elt><elt>Almeta</elt><elt>Chere</elt>  
+  <Romona>
+    <age>79</age>
+  </Romona>
+</root>

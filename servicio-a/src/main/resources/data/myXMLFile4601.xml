@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rubie"
+  lastname="Shanley"
+  city="Gibraltar"
+  country="Åland Islands"
+  firstname2="Claresta"
+  lastname2="Diogenes"
+  email="Claresta.Diogenes@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>61.469</random_float>
+  <bool>false</bool>
+  <date>1981-01-10</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cecile</elt><elt>Meghann</elt><elt>Blinni</elt><elt>Mignon</elt><elt>Cathie</elt>  
+  <Claresta>
+    <age>72</age>
+  </Claresta>
+</root>

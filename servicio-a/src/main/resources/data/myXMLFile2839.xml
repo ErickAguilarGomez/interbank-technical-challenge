@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Hillel"
+  city="Kaohsiung"
+  country="Barbados"
+  firstname2="Andree"
+  lastname2="Zaslow"
+  email="Andree.Zaslow@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>75.175</random_float>
+  <bool>false</bool>
+  <date>1989-06-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ada</elt><elt>Vonny</elt><elt>Beverley</elt><elt>Louella</elt><elt>Bee</elt>  
+  <Andree>
+    <age>65</age>
+  </Andree>
+</root>

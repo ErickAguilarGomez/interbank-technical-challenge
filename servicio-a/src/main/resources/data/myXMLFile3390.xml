@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Cimbura"
+  city="Düsseldorf"
+  country="Serbia and Montenegro"
+  firstname2="Lita"
+  lastname2="Jethro"
+  email="Lita.Jethro@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>65.407</random_float>
+  <bool>true</bool>
+  <date>1995-01-04</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mireielle</elt><elt>Marjie</elt><elt>Sallie</elt><elt>Jan</elt><elt>Isa</elt>  
+  <Lita>
+    <age>91</age>
+  </Lita>
+</root>

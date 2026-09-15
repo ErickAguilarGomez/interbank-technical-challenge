@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Collen"
+  lastname="Vorster"
+  city="Mogadishu"
+  country="Barbados"
+  firstname2="Nananne"
+  lastname2="Yate"
+  email="Nananne.Yate@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>5.589</random_float>
+  <bool>true</bool>
+  <date>1982-03-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lonnie</elt><elt>Clarice</elt><elt>Cristine</elt><elt>Chloris</elt><elt>Jsandye</elt>  
+  <Nananne>
+    <age>89</age>
+  </Nananne>
+</root>

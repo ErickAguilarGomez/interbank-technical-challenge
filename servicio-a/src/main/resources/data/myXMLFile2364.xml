@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheelagh"
+  lastname="Sibyls"
+  city="Porto-Novo"
+  country="Iraq"
+  firstname2="Nananne"
+  lastname2="Salchunas"
+  email="Nananne.Salchunas@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>62.849</random_float>
+  <bool>true</bool>
+  <date>1997-05-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Orelia</elt><elt>Joeann</elt><elt>Ana</elt><elt>Kellen</elt><elt>Hettie</elt>  
+  <Nananne>
+    <age>51</age>
+  </Nananne>
+</root>

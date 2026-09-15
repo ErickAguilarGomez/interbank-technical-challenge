@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Basia"
+  lastname="Decato"
+  city="Las Palmas de Gran Canaria"
+  country="France"
+  firstname2="Corene"
+  lastname2="Fink"
+  email="Corene.Fink@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>96.158</random_float>
+  <bool>true</bool>
+  <date>1981-07-26</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rori</elt><elt>Veda</elt><elt>Madelle</elt><elt>Lolita</elt><elt>Aili</elt>  
+  <Corene>
+    <age>66</age>
+  </Corene>
+</root>

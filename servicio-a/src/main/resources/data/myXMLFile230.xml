@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hyacinthe"
+  lastname="Gemini"
+  city="Maputo"
+  country="Belarus"
+  firstname2="Sashenka"
+  lastname2="Rossner"
+  email="Sashenka.Rossner@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>44.594</random_float>
+  <bool>false</bool>
+  <date>1986-06-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vinita</elt><elt>Louella</elt><elt>Annaliese</elt><elt>Dawn</elt><elt>Ottilie</elt>  
+  <Sashenka>
+    <age>95</age>
+  </Sashenka>
+</root>

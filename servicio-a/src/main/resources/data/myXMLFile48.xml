@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florie"
+  lastname="Shanley"
+  city="Shanghai"
+  country="Yemen"
+  firstname2="Krystle"
+  lastname2="Dorcy"
+  email="Krystle.Dorcy@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>11.856</random_float>
+  <bool>true</bool>
+  <date>1988-09-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Zia</elt><elt>Rhea</elt><elt>Christal</elt><elt>Codie</elt><elt>Flo</elt>  
+  <Krystle>
+    <age>32</age>
+  </Krystle>
+</root>

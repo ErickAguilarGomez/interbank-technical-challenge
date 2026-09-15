@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Layla"
+  lastname="Nickola"
+  city="Albuquerque"
+  country="United States"
+  firstname2="Arlina"
+  lastname2="Schlosser"
+  email="Arlina.Schlosser@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>80.736</random_float>
+  <bool>true</bool>
+  <date>1983-01-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Andeee</elt><elt>Darlleen</elt><elt>Roberta</elt><elt>Nollie</elt><elt>Moyna</elt>  
+  <Arlina>
+    <age>53</age>
+  </Arlina>
+</root>

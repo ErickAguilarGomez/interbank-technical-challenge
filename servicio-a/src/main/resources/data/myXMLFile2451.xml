@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Correy"
+  lastname="Bibi"
+  city="George Town"
+  country="Bahamas"
+  firstname2="Raf"
+  lastname2="Florina"
+  email="Raf.Florina@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>58.177</random_float>
+  <bool>true</bool>
+  <date>1983-08-02</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Melisent</elt><elt>Dyann</elt><elt>Tomasina</elt><elt>Jinny</elt><elt>Winny</elt>  
+  <Raf>
+    <age>61</age>
+  </Raf>
+</root>

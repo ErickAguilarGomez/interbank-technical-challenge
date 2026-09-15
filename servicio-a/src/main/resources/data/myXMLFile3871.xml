@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lolita"
+  lastname="Glenden"
+  city="Bandung"
+  country="Sweden"
+  firstname2="Viki"
+  lastname2="Vilma"
+  email="Viki.Vilma@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>52.355</random_float>
+  <bool>false</bool>
+  <date>1989-02-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorothy</elt><elt>Alejandra</elt><elt>Fred</elt><elt>Adore</elt><elt>Briney</elt>  
+  <Viki>
+    <age>86</age>
+  </Viki>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Henriette"
+  lastname="Scammon"
+  city="Namangan"
+  country="Oman"
+  firstname2="Sara-Ann"
+  lastname2="Kylander"
+  email="Sara-Ann.Kylander@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>42.177</random_float>
+  <bool>true</bool>
+  <date>1997-02-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Antonietta</elt><elt>Lonnie</elt><elt>Wendi</elt><elt>Merci</elt><elt>Raina</elt>  
+  <Sara-Ann>
+    <age>26</age>
+  </Sara-Ann>
+</root>

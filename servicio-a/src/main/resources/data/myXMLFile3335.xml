@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Theodora"
+  lastname="Bari"
+  city="Bangui"
+  country="Egypt"
+  firstname2="Ebonee"
+  lastname2="Ledah"
+  email="Ebonee.Ledah@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>2.079</random_float>
+  <bool>true</bool>
+  <date>1991-10-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dania</elt><elt>Kirbee</elt><elt>Sheree</elt><elt>Vita</elt><elt>Shaylyn</elt>  
+  <Ebonee>
+    <age>97</age>
+  </Ebonee>
+</root>

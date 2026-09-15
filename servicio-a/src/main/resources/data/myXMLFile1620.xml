@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Shama"
+  city="Christchurch"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Dacia"
+  lastname2="Luhe"
+  email="Dacia.Luhe@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>50.739</random_float>
+  <bool>false</bool>
+  <date>1982-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Meriel</elt><elt>Ariela</elt><elt>Janenna</elt><elt>Andeee</elt><elt>Mara</elt>  
+  <Dacia>
+    <age>22</age>
+  </Dacia>
+</root>

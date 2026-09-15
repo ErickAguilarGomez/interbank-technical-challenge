@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shannah"
+  lastname="Jarib"
+  city="Naypyidaw"
+  country="Samoa"
+  firstname2="Gaylene"
+  lastname2="Gower"
+  email="Gaylene.Gower@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>86.766</random_float>
+  <bool>true</bool>
+  <date>1998-07-22</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marguerite</elt><elt>Audrie</elt><elt>Ardys</elt><elt>Laurene</elt><elt>Deane</elt>  
+  <Gaylene>
+    <age>20</age>
+  </Gaylene>
+</root>

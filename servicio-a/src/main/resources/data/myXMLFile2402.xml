@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Briney"
+  lastname="Han"
+  city="Ulan Bator"
+  country="Equatorial Guinea"
+  firstname2="Christal"
+  lastname2="Neva"
+  email="Christal.Neva@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>99.997</random_float>
+  <bool>false</bool>
+  <date>1993-12-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tilly</elt><elt>Audrie</elt><elt>Jsandye</elt><elt>Hermione</elt><elt>Lacie</elt>  
+  <Christal>
+    <age>18</age>
+  </Christal>
+</root>

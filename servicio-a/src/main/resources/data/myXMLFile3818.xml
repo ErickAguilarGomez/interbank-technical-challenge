@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Tillford"
+  city="Kingston"
+  country="India"
+  firstname2="Hallie"
+  lastname2="Wenda"
+  email="Hallie.Wenda@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>89.585</random_float>
+  <bool>false</bool>
+  <date>1988-06-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Babita</elt><elt>Roberta</elt><elt>Helsa</elt><elt>Aimil</elt><elt>Hyacinthe</elt>  
+  <Hallie>
+    <age>99</age>
+  </Hallie>
+</root>

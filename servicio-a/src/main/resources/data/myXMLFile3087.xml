@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corene"
+  lastname="Delp"
+  city="Lilongwe"
+  country="Jersey"
+  firstname2="Basia"
+  lastname2="Hessler"
+  email="Basia.Hessler@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>34.744</random_float>
+  <bool>true</bool>
+  <date>1983-04-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Danny</elt><elt>Vonny</elt><elt>Lindie</elt><elt>Annaliese</elt><elt>Ellette</elt>  
+  <Basia>
+    <age>65</age>
+  </Basia>
+</root>

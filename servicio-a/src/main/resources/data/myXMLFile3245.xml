@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melodie"
+  lastname="Hoenack"
+  city="Banda Aceh"
+  country="Suriname"
+  firstname2="Evita"
+  lastname2="Jillane"
+  email="Evita.Jillane@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>45.461</random_float>
+  <bool>true</bool>
+  <date>1994-07-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Bill</elt><elt>Lanae</elt><elt>Drucie</elt><elt>Rubie</elt><elt>Ardenia</elt>  
+  <Evita>
+    <age>59</age>
+  </Evita>
+</root>

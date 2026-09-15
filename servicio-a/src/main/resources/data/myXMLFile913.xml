@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lita"
+  lastname="Waldron"
+  city="Chennai"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Dotty"
+  lastname2="Earlie"
+  email="Dotty.Earlie@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>54.814</random_float>
+  <bool>false</bool>
+  <date>1984-02-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Deedee</elt><elt>Corene</elt><elt>Christy</elt><elt>Melina</elt><elt>Queenie</elt>  
+  <Dotty>
+    <age>25</age>
+  </Dotty>
+</root>

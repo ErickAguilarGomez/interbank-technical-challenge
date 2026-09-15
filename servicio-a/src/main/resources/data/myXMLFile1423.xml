@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sara-Ann"
+  lastname="Pacorro"
+  city="Cayenne"
+  country="Iran, Islamic Republic Of"
+  firstname2="Susan"
+  lastname2="Ludewig"
+  email="Susan.Ludewig@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>33.242</random_float>
+  <bool>false</bool>
+  <date>1989-11-10</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dode</elt><elt>Ingrid</elt><elt>Larine</elt><elt>Concettina</elt><elt>Renie</elt>  
+  <Susan>
+    <age>85</age>
+  </Susan>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melanie"
+  lastname="Pacorro"
+  city="Dunedin"
+  country="Ukraine"
+  firstname2="Orsola"
+  lastname2="Publia"
+  email="Orsola.Publia@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>93.513</random_float>
+  <bool>true</bool>
+  <date>1982-11-18</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Layla</elt><elt>Alyda</elt><elt>Albertina</elt><elt>Deane</elt><elt>Tori</elt>  
+  <Orsola>
+    <age>19</age>
+  </Orsola>
+</root>

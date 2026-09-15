@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joy"
+  lastname="Wenda"
+  city="Zapopan"
+  country="Mauritius"
+  firstname2="Louella"
+  lastname2="Gaulin"
+  email="Louella.Gaulin@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>34.185</random_float>
+  <bool>false</bool>
+  <date>1982-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jessamyn</elt><elt>Susan</elt><elt>Cristabel</elt><elt>Wendi</elt><elt>Caryl</elt>  
+  <Louella>
+    <age>89</age>
+  </Louella>
+</root>

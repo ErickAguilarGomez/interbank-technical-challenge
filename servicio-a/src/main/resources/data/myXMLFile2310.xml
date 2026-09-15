@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Ingra"
+  city="Zanzibar City"
+  country="Sao Tome and Principe"
+  firstname2="Rebeca"
+  lastname2="Si"
+  email="Rebeca.Si@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>96.366</random_float>
+  <bool>true</bool>
+  <date>1996-09-12</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Thalia</elt><elt>Kylynn</elt><elt>Harrietta</elt><elt>Sadie</elt><elt>Rivalee</elt>  
+  <Rebeca>
+    <age>99</age>
+  </Rebeca>
+</root>

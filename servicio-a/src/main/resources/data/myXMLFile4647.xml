@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ivett"
+  lastname="Mehalek"
+  city="Djibouti (city)"
+  country="Austria"
+  firstname2="Melodie"
+  lastname2="Grobe"
+  email="Melodie.Grobe@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>13.303</random_float>
+  <bool>false</bool>
+  <date>1997-11-09</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rochette</elt><elt>Micheline</elt><elt>Paola</elt><elt>Amalie</elt><elt>Kara-Lynn</elt>  
+  <Melodie>
+    <age>56</age>
+  </Melodie>
+</root>

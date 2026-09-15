@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teriann"
+  lastname="Adalbert"
+  city="Veracruz"
+  country="Peru"
+  firstname2="Lanae"
+  lastname2="Concha"
+  email="Lanae.Concha@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>35.534</random_float>
+  <bool>false</bool>
+  <date>1994-05-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gianina</elt><elt>Kayla</elt><elt>Trudie</elt><elt>Eugine</elt><elt>Jaime</elt>  
+  <Lanae>
+    <age>82</age>
+  </Lanae>
+</root>

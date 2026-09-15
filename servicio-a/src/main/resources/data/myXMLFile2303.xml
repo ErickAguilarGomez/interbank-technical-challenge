@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Martguerita"
+  city="Hagåtña"
+  country="Iraq"
+  firstname2="Kamilah"
+  lastname2="Rozanna"
+  email="Kamilah.Rozanna@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>15.409</random_float>
+  <bool>true</bool>
+  <date>1997-10-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Calla</elt><elt>Pierette</elt><elt>Hyacinthe</elt><elt>Jemie</elt><elt>Edee</elt>  
+  <Kamilah>
+    <age>56</age>
+  </Kamilah>
+</root>

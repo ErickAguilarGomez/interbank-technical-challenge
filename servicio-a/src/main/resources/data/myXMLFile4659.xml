@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agnese"
+  lastname="Zrike"
+  city="Iquique"
+  country="Kuwait"
+  firstname2="Lanna"
+  lastname2="Margarete"
+  email="Lanna.Margarete@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>62.875</random_float>
+  <bool>true</bool>
+  <date>1999-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gusty</elt><elt>Phylis</elt><elt>Ursulina</elt><elt>Marylou</elt><elt>Mahalia</elt>  
+  <Lanna>
+    <age>83</age>
+  </Lanna>
+</root>

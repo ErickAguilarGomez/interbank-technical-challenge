@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flory"
+  lastname="Wenda"
+  city="Fairbanks"
+  country="Eritrea"
+  firstname2="Dolli"
+  lastname2="Weinreb"
+  email="Dolli.Weinreb@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>89.512</random_float>
+  <bool>true</bool>
+  <date>1992-06-28</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emma</elt><elt>Ninnetta</elt><elt>Vita</elt><elt>Maryellen</elt><elt>Meghann</elt>  
+  <Dolli>
+    <age>76</age>
+  </Dolli>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Aldric"
+  city="Banda Aceh"
+  country="Croatia"
+  firstname2="Feliza"
+  lastname2="Ferino"
+  email="Feliza.Ferino@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>67.241</random_float>
+  <bool>false</bool>
+  <date>1994-01-03</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kore</elt><elt>Lenna</elt><elt>Nerta</elt><elt>Dianemarie</elt><elt>Verla</elt>  
+  <Feliza>
+    <age>63</age>
+  </Feliza>
+</root>

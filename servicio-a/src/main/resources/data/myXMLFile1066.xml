@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nita"
+  lastname="Beebe"
+  city="Cotonou"
+  country="Bahamas"
+  firstname2="Eugine"
+  lastname2="Claudine"
+  email="Eugine.Claudine@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>92.159</random_float>
+  <bool>true</bool>
+  <date>1984-04-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rosaline</elt><elt>Rosaline</elt><elt>Jeanna</elt><elt>Gianina</elt><elt>Doro</elt>  
+  <Eugine>
+    <age>67</age>
+  </Eugine>
+</root>

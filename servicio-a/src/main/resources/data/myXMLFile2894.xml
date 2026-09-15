@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Donoghue"
+  city="Geneva"
+  country="Syrian Arab Republic"
+  firstname2="Lilith"
+  lastname2="Ivens"
+  email="Lilith.Ivens@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>24.769</random_float>
+  <bool>false</bool>
+  <date>1987-06-22</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Robbi</elt><elt>Ariela</elt><elt>Doralynne</elt><elt>Veda</elt><elt>Dacia</elt>  
+  <Lilith>
+    <age>59</age>
+  </Lilith>
+</root>

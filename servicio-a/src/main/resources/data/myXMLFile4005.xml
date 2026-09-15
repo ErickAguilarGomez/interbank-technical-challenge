@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nanete"
+  lastname="Paine"
+  city="Dresden"
+  country="Kuwait"
+  firstname2="Darlleen"
+  lastname2="Chinua"
+  email="Darlleen.Chinua@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>35.861</random_float>
+  <bool>true</bool>
+  <date>1987-05-07</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Lolita</elt><elt>Priscilla</elt><elt>Tera</elt><elt>Elmira</elt><elt>Bill</elt>  
+  <Darlleen>
+    <age>87</age>
+  </Darlleen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mady"
+  lastname="Borrell"
+  city="Johannesburg"
+  country="Israel"
+  firstname2="Layla"
+  lastname2="Swanhildas"
+  email="Layla.Swanhildas@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>24.77</random_float>
+  <bool>true</bool>
+  <date>1991-09-03</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nita</elt><elt>Althea</elt><elt>Stephanie</elt><elt>Viki</elt><elt>Sharlene</elt>  
+  <Layla>
+    <age>70</age>
+  </Layla>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Odessa"
+  lastname="Kress"
+  city="Salzburg"
+  country="French Southern Territories"
+  firstname2="Collen"
+  lastname2="Jaylene"
+  email="Collen.Jaylene@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>46.358</random_float>
+  <bool>false</bool>
+  <date>1987-02-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ginnie</elt><elt>Brana</elt><elt>Dede</elt><elt>Shaine</elt><elt>Jorry</elt>  
+  <Collen>
+    <age>52</age>
+  </Collen>
+</root>

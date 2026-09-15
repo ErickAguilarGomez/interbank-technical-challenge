@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dale"
+  lastname="Tarrant"
+  city="Kolkata"
+  country="Papua New Guinea"
+  firstname2="Paule"
+  lastname2="Therine"
+  email="Paule.Therine@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>58.583</random_float>
+  <bool>false</bool>
+  <date>1996-11-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lexine</elt><elt>Chastity</elt><elt>Layla</elt><elt>Brianna</elt><elt>Tomasina</elt>  
+  <Paule>
+    <age>42</age>
+  </Paule>
+</root>

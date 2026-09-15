@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Herrera"
+  city="Atlanta"
+  country="Mauritania"
+  firstname2="Hayley"
+  lastname2="Thunell"
+  email="Hayley.Thunell@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>36.152</random_float>
+  <bool>false</bool>
+  <date>1998-04-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Adore</elt><elt>Christian</elt><elt>Felice</elt><elt>Stephanie</elt><elt>Peri</elt>  
+  <Hayley>
+    <age>85</age>
+  </Hayley>
+</root>

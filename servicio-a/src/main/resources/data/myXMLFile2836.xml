@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Malina"
+  lastname="Harl"
+  city="San Fernando"
+  country="Brunei Darussalam"
+  firstname2="Aeriela"
+  lastname2="Old"
+  email="Aeriela.Old@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>13.352</random_float>
+  <bool>true</bool>
+  <date>1980-03-02</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Deane</elt><elt>Kimberley</elt><elt>Andree</elt><elt>Sonni</elt><elt>Julieta</elt>  
+  <Aeriela>
+    <age>89</age>
+  </Aeriela>
+</root>

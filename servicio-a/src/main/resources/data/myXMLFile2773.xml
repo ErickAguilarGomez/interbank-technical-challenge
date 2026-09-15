@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joeann"
+  lastname="Arvo"
+  city="Multan"
+  country="Guyana"
+  firstname2="Concettina"
+  lastname2="Truc"
+  email="Concettina.Truc@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>92.005</random_float>
+  <bool>true</bool>
+  <date>1996-01-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Roseline</elt><elt>Heddie</elt><elt>Nanete</elt><elt>Dale</elt><elt>Renae</elt>  
+  <Concettina>
+    <age>83</age>
+  </Concettina>
+</root>

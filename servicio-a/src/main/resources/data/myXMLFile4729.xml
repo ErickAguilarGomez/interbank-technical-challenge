@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cindelyn"
+  lastname="Screens"
+  city="Dammam"
+  country="Montserrat"
+  firstname2="Nanete"
+  lastname2="Kermit"
+  email="Nanete.Kermit@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>81.184</random_float>
+  <bool>false</bool>
+  <date>1986-01-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Caryl</elt><elt>Dede</elt><elt>Melodie</elt><elt>Linet</elt><elt>Emylee</elt>  
+  <Nanete>
+    <age>40</age>
+  </Nanete>
+</root>

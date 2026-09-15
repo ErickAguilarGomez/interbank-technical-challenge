@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Madox"
+  city="Maracaibo"
+  country="Cocos (Keeling) Islands"
+  firstname2="Eadie"
+  lastname2="Zeeba"
+  email="Eadie.Zeeba@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>90.326</random_float>
+  <bool>true</bool>
+  <date>1987-02-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Meg</elt><elt>Lynde</elt><elt>Thalia</elt><elt>Angelique</elt><elt>Jan</elt>  
+  <Eadie>
+    <age>95</age>
+  </Eadie>
+</root>

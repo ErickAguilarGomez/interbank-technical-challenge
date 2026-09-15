@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hermione"
+  lastname="Hertzfeld"
+  city="Skopje"
+  country="Cayman Islands"
+  firstname2="Siana"
+  lastname2="Stanwood"
+  email="Siana.Stanwood@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>61.277</random_float>
+  <bool>false</bool>
+  <date>1990-03-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Caryl</elt><elt>Livvyy</elt><elt>Gerianna</elt><elt>Aimil</elt><elt>Donnie</elt>  
+  <Siana>
+    <age>37</age>
+  </Siana>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jillayne"
+  lastname="Eachern"
+  city="Surat"
+  country="Bermuda"
+  firstname2="Madalyn"
+  lastname2="Beniamino"
+  email="Madalyn.Beniamino@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>81.858</random_float>
+  <bool>true</bool>
+  <date>1988-06-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dennie</elt><elt>Rosaline</elt><elt>Flo</elt><elt>Perry</elt><elt>Gabriellia</elt>  
+  <Madalyn>
+    <age>28</age>
+  </Madalyn>
+</root>

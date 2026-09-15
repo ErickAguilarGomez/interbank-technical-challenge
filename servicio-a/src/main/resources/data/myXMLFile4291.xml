@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elise"
+  lastname="Elo"
+  city="Alor Star"
+  country="Czech Republic"
+  firstname2="Konstance"
+  lastname2="Tufts"
+  email="Konstance.Tufts@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>30.979</random_float>
+  <bool>false</bool>
+  <date>1985-06-06</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Eugine</elt><elt>Fernande</elt><elt>Marnia</elt><elt>Joceline</elt><elt>Gilligan</elt>  
+  <Konstance>
+    <age>28</age>
+  </Konstance>
+</root>

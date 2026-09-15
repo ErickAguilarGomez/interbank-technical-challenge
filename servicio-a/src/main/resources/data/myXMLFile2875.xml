@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Collen"
+  lastname="Dorcy"
+  city="Mogadishu"
+  country="Slovenia"
+  firstname2="Zia"
+  lastname2="Nunci"
+  email="Zia.Nunci@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>63.103</random_float>
+  <bool>false</bool>
+  <date>1987-12-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sam</elt><elt>Jillayne</elt><elt>Cathyleen</elt><elt>Brana</elt><elt>Kerrin</elt>  
+  <Zia>
+    <age>48</age>
+  </Zia>
+</root>

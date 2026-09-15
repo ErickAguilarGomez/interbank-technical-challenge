@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Keelia"
+  lastname="Dearborn"
+  city="Chittagong"
+  country="Greece"
+  firstname2="Vivia"
+  lastname2="Iaverne"
+  email="Vivia.Iaverne@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>99.873</random_float>
+  <bool>true</bool>
+  <date>1983-04-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ileana</elt><elt>Wilma</elt><elt>Riannon</elt><elt>Angela</elt><elt>Maud</elt>  
+  <Vivia>
+    <age>76</age>
+  </Vivia>
+</root>

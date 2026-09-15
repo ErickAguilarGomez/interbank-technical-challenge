@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Patricia"
+  lastname="Grosz"
+  city="Detroit"
+  country="Åland Islands"
+  firstname2="Basia"
+  lastname2="Hashim"
+  email="Basia.Hashim@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>7.466</random_float>
+  <bool>true</bool>
+  <date>1984-05-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Yolane</elt><elt>Hannis</elt><elt>Fernande</elt><elt>Tori</elt><elt>Corly</elt>  
+  <Basia>
+    <age>95</age>
+  </Basia>
+</root>

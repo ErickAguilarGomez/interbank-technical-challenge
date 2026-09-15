@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arabel"
+  lastname="Gualtiero"
+  city="Oklahoma City"
+  country="Haiti"
+  firstname2="Shell"
+  lastname2="Desai"
+  email="Shell.Desai@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>84.354</random_float>
+  <bool>true</bool>
+  <date>1994-01-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Karly</elt><elt>Cindelyn</elt><elt>Viviene</elt><elt>Aeriela</elt><elt>Claudina</elt>  
+  <Shell>
+    <age>31</age>
+  </Shell>
+</root>

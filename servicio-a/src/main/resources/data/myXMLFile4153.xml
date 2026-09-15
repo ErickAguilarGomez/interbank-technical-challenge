@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Delilah"
+  lastname="Lowry"
+  city="Nantes"
+  country="Colombia"
+  firstname2="Adelle"
+  lastname2="Pernick"
+  email="Adelle.Pernick@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>43.171</random_float>
+  <bool>false</bool>
+  <date>1990-02-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gerrie</elt><elt>Ethel</elt><elt>Susan</elt><elt>Audrie</elt><elt>Maisey</elt>  
+  <Adelle>
+    <age>66</age>
+  </Adelle>
+</root>

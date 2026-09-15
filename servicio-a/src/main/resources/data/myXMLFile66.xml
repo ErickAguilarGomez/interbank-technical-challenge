@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ida"
+  lastname="Corrine"
+  city="Sacramento"
+  country="Slovakia"
+  firstname2="Christian"
+  lastname2="Jaylene"
+  email="Christian.Jaylene@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>2.97</random_float>
+  <bool>true</bool>
+  <date>1983-07-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lynde</elt><elt>Janenna</elt><elt>Xylina</elt><elt>Leeanne</elt><elt>Dennie</elt>  
+  <Christian>
+    <age>52</age>
+  </Christian>
+</root>

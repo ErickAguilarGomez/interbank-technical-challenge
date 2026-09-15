@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Ralfston"
+  city="Asunción"
+  country="Panama"
+  firstname2="Averyl"
+  lastname2="Longfellow"
+  email="Averyl.Longfellow@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>85.064</random_float>
+  <bool>false</bool>
+  <date>1990-06-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jessy</elt><elt>Beth</elt><elt>Viviene</elt><elt>Goldie</elt><elt>Kassey</elt>  
+  <Averyl>
+    <age>56</age>
+  </Averyl>
+</root>

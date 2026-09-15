@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vonny"
+  lastname="Wilona"
+  city="Xining"
+  country="Western Sahara"
+  firstname2="Carmela"
+  lastname2="Byrne"
+  email="Carmela.Byrne@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>81.779</random_float>
+  <bool>true</bool>
+  <date>1985-03-17</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Larine</elt><elt>Wileen</elt><elt>Charmaine</elt><elt>Ashlee</elt><elt>Daune</elt>  
+  <Carmela>
+    <age>51</age>
+  </Carmela>
+</root>

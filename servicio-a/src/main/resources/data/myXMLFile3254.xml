@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ada"
+  lastname="Burkle"
+  city="Bishkek"
+  country="Kyrgyzstan"
+  firstname2="Vevay"
+  lastname2="Maroney"
+  email="Vevay.Maroney@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>100.99</random_float>
+  <bool>false</bool>
+  <date>1997-10-19</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gratia</elt><elt>Fredericka</elt><elt>Cassondra</elt><elt>Phylis</elt><elt>Marnia</elt>  
+  <Vevay>
+    <age>75</age>
+  </Vevay>
+</root>

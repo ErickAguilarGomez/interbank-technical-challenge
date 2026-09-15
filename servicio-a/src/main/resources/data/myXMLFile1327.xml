@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agathe"
+  lastname="Gale"
+  city="Bogor"
+  country="Benin"
+  firstname2="Mamie"
+  lastname2="Laverne"
+  email="Mamie.Laverne@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>71.294</random_float>
+  <bool>false</bool>
+  <date>1999-01-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Vere</elt><elt>Calla</elt><elt>Vonny</elt><elt>Mamie</elt><elt>Lucille</elt>  
+  <Mamie>
+    <age>93</age>
+  </Mamie>
+</root>

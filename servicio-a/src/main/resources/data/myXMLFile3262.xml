@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emelina"
+  lastname="Anastatius"
+  city="Santa Cruz de la Sierra"
+  country="Saint Pierre and Miquelon"
+  firstname2="Jinny"
+  lastname2="Oster"
+  email="Jinny.Oster@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>20.091</random_float>
+  <bool>false</bool>
+  <date>1981-11-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sheelagh</elt><elt>Zia</elt><elt>Bernardine</elt><elt>Olwen</elt><elt>Cissiee</elt>  
+  <Jinny>
+    <age>44</age>
+  </Jinny>
+</root>

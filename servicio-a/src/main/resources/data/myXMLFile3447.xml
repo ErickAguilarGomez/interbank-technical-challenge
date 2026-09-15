@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frieda"
+  lastname="Stoller"
+  city="Cannes"
+  country="Tonga"
+  firstname2="Anallese"
+  lastname2="Gert"
+  email="Anallese.Gert@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>65.699</random_float>
+  <bool>true</bool>
+  <date>1985-06-25</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Beatriz</elt><elt>Berta</elt><elt>Lila</elt><elt>Aaren</elt><elt>Mildrid</elt>  
+  <Anallese>
+    <age>95</age>
+  </Anallese>
+</root>

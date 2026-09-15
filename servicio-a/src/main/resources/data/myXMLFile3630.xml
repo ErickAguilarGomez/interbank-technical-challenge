@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusella"
+  lastname="Dyche"
+  city="City of Halifax"
+  country="Sri Lanka"
+  firstname2="Alyssa"
+  lastname2="Lowry"
+  email="Alyssa.Lowry@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>100.392</random_float>
+  <bool>true</bool>
+  <date>1990-10-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lucille</elt><elt>Penelopa</elt><elt>Coral</elt><elt>Cathie</elt><elt>Kate</elt>  
+  <Alyssa>
+    <age>78</age>
+  </Alyssa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phedra"
+  lastname="McCutcheon"
+  city="Wuhan"
+  country="Malta"
+  firstname2="Randa"
+  lastname2="Ahab"
+  email="Randa.Ahab@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>64.05</random_float>
+  <bool>false</bool>
+  <date>1984-10-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Frank</elt><elt>Gloria</elt><elt>Barbara</elt><elt>Lesly</elt><elt>Donetta</elt>  
+  <Randa>
+    <age>71</age>
+  </Randa>
+</root>

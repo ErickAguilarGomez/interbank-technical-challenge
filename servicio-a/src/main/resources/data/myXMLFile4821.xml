@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Krystle"
+  city="Düsseldorf"
+  country="Vanuatu"
+  firstname2="Maisey"
+  lastname2="Jorgan"
+  email="Maisey.Jorgan@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>20.346</random_float>
+  <bool>false</bool>
+  <date>1993-04-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Edyth</elt><elt>Ellette</elt><elt>Vivia</elt><elt>Sibella</elt><elt>Dione</elt>  
+  <Maisey>
+    <age>50</age>
+  </Maisey>
+</root>

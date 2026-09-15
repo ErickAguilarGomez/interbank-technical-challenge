@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aigneis"
+  lastname="Harned"
+  city="New Delhi"
+  country="Uruguay"
+  firstname2="Joelly"
+  lastname2="Vittoria"
+  email="Joelly.Vittoria@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>52.555</random_float>
+  <bool>true</bool>
+  <date>1981-07-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nonnah</elt><elt>Rosene</elt><elt>Abbie</elt><elt>Chastity</elt><elt>Ilse</elt>  
+  <Joelly>
+    <age>86</age>
+  </Joelly>
+</root>

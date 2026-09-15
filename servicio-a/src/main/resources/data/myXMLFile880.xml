@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucy"
+  lastname="Brunell"
+  city="Quito"
+  country="Cocos (Keeling) Islands"
+  firstname2="Cassondra"
+  lastname2="Schalles"
+  email="Cassondra.Schalles@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>62.321</random_float>
+  <bool>false</bool>
+  <date>1998-07-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Petronia</elt><elt>Edith</elt><elt>Dianemarie</elt><elt>Nita</elt><elt>Anestassia</elt>  
+  <Cassondra>
+    <age>88</age>
+  </Cassondra>
+</root>

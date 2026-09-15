@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heddie"
+  lastname="Ciapas"
+  city="Sofia"
+  country="Australia"
+  firstname2="Tatiania"
+  lastname2="Jary"
+  email="Tatiania.Jary@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>18.609</random_float>
+  <bool>false</bool>
+  <date>1999-07-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kate</elt><elt>Jasmina</elt><elt>Rani</elt><elt>Gwyneth</elt><elt>Sybille</elt>  
+  <Tatiania>
+    <age>27</age>
+  </Tatiania>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rhea"
+  lastname="Valoniah"
+  city="Arequipa"
+  country="Saint Pierre and Miquelon"
+  firstname2="Merle"
+  lastname2="Noam"
+  email="Merle.Noam@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>71.918</random_float>
+  <bool>true</bool>
+  <date>1981-05-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wileen</elt><elt>Dania</elt><elt>Patricia</elt><elt>Marsiella</elt><elt>Monika</elt>  
+  <Merle>
+    <age>49</age>
+  </Merle>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ofilia"
+  lastname="Fadiman"
+  city="Minsk"
+  country="Netherlands"
+  firstname2="Lexine"
+  lastname2="Fairweather"
+  email="Lexine.Fairweather@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>42.204</random_float>
+  <bool>true</bool>
+  <date>1981-03-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carmencita</elt><elt>Beverley</elt><elt>Ruthe</elt><elt>Mellicent</elt><elt>Ira</elt>  
+  <Lexine>
+    <age>66</age>
+  </Lexine>
+</root>

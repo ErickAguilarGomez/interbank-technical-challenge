@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allis"
+  lastname="Korey"
+  city="Prague"
+  country="Bulgaria"
+  firstname2="Consuela"
+  lastname2="Zuzana"
+  email="Consuela.Zuzana@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>17.725</random_float>
+  <bool>false</bool>
+  <date>1980-08-28</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Britte</elt><elt>Kara-Lynn</elt><elt>Rosanne</elt><elt>Kary</elt><elt>Dale</elt>  
+  <Consuela>
+    <age>44</age>
+  </Consuela>
+</root>

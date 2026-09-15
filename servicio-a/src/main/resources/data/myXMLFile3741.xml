@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Veda"
+  lastname="Durante"
+  city="Suva"
+  country="Tuvalu"
+  firstname2="Josephine"
+  lastname2="Zaslow"
+  email="Josephine.Zaslow@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>35.063</random_float>
+  <bool>true</bool>
+  <date>1986-01-25</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Imojean</elt><elt>Gaylene</elt><elt>Wendi</elt><elt>Marguerite</elt><elt>Paulita</elt>  
+  <Josephine>
+    <age>46</age>
+  </Josephine>
+</root>

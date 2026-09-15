@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jennica"
+  lastname="Rustice"
+  city="Douala"
+  country="Congo"
+  firstname2="Marti"
+  lastname2="Seessel"
+  email="Marti.Seessel@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>24.581</random_float>
+  <bool>false</bool>
+  <date>1997-12-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Chere</elt><elt>Ana</elt><elt>Donetta</elt><elt>Elena</elt><elt>Daune</elt>  
+  <Marti>
+    <age>72</age>
+  </Marti>
+</root>

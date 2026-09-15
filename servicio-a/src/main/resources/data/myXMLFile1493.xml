@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anthia"
+  lastname="Narton"
+  city="Buffalo"
+  country="Nigeria"
+  firstname2="Liana"
+  lastname2="Raimondo"
+  email="Liana.Raimondo@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>93.438</random_float>
+  <bool>true</bool>
+  <date>1990-11-15</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cissiee</elt><elt>Sidoney</elt><elt>Rosanne</elt><elt>Frances</elt><elt>Nikki</elt>  
+  <Liana>
+    <age>52</age>
+  </Liana>
+</root>

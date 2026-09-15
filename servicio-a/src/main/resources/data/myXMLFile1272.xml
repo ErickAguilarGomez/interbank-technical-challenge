@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maridel"
+  lastname="Damarra"
+  city="Kingston"
+  country="Angola"
+  firstname2="Deloria"
+  lastname2="Yusuk"
+  email="Deloria.Yusuk@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>46.667</random_float>
+  <bool>false</bool>
+  <date>1990-09-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lelah</elt><elt>Carmela</elt><elt>Mignon</elt><elt>Marylou</elt><elt>Arabel</elt>  
+  <Deloria>
+    <age>68</age>
+  </Deloria>
+</root>

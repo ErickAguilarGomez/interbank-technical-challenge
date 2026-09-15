@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alexine"
+  lastname="Zitvaa"
+  city="Saint Petersburg"
+  country="Kazakhstan"
+  firstname2="Hettie"
+  lastname2="Carri"
+  email="Hettie.Carri@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>9.48</random_float>
+  <bool>true</bool>
+  <date>1984-03-05</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Wendi</elt><elt>Almeta</elt><elt>Nickie</elt><elt>Violet</elt><elt>Harmonia</elt>  
+  <Hettie>
+    <age>93</age>
+  </Hettie>
+</root>

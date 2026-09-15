@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meriel"
+  lastname="Brodench"
+  city="St. John's"
+  country="Tajikistan"
+  firstname2="Kial"
+  lastname2="Jobi"
+  email="Kial.Jobi@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>76.976</random_float>
+  <bool>false</bool>
+  <date>1999-07-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tarra</elt><elt>Aigneis</elt><elt>Roberta</elt><elt>Kial</elt><elt>Riannon</elt>  
+  <Kial>
+    <age>67</age>
+  </Kial>
+</root>

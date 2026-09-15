@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jolyn"
+  lastname="Love"
+  city="Yaren District"
+  country="Syrian Arab Republic"
+  firstname2="Marsiella"
+  lastname2="Chrystel"
+  email="Marsiella.Chrystel@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>8.302</random_float>
+  <bool>true</bool>
+  <date>1995-07-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cristine</elt><elt>Alisha</elt><elt>Deirdre</elt><elt>Chickie</elt><elt>Melisent</elt>  
+  <Marsiella>
+    <age>41</age>
+  </Marsiella>
+</root>

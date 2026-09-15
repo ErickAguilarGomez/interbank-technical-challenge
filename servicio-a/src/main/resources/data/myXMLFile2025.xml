@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Willetta"
+  lastname="Egbert"
+  city="Dresden"
+  country="Faroe Islands"
+  firstname2="Anthia"
+  lastname2="Cohdwell"
+  email="Anthia.Cohdwell@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>52.472</random_float>
+  <bool>true</bool>
+  <date>1981-12-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carree</elt><elt>Pierette</elt><elt>Ilse</elt><elt>Lita</elt><elt>Carol-Jean</elt>  
+  <Anthia>
+    <age>84</age>
+  </Anthia>
+</root>

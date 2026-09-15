@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacquetta"
+  lastname="Graig"
+  city="Vilnius"
+  country="Switzerland"
+  firstname2="Joceline"
+  lastname2="Tamar"
+  email="Joceline.Tamar@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>16.587</random_float>
+  <bool>true</bool>
+  <date>1983-03-12</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Brietta</elt><elt>Caritta</elt><elt>Cherrita</elt><elt>Arlina</elt><elt>Ernesta</elt>  
+  <Joceline>
+    <age>71</age>
+  </Joceline>
+</root>

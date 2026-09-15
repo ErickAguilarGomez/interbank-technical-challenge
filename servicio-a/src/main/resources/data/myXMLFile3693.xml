@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyssa"
+  lastname="Tacye"
+  city="Rabat"
+  country="Jamaica"
+  firstname2="Phedra"
+  lastname2="Noelyn"
+  email="Phedra.Noelyn@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>12.061</random_float>
+  <bool>false</bool>
+  <date>1984-07-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mireielle</elt><elt>Andeee</elt><elt>Angela</elt><elt>Aimil</elt><elt>Lorie</elt>  
+  <Phedra>
+    <age>28</age>
+  </Phedra>
+</root>

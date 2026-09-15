@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Jacinda"
+  city="Tiraspol"
+  country="Niue"
+  firstname2="Brianna"
+  lastname2="Ezar"
+  email="Brianna.Ezar@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>83.202</random_float>
+  <bool>true</bool>
+  <date>1994-11-21</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Olwen</elt><elt>Petronia</elt><elt>Gerianna</elt><elt>Peri</elt><elt>Merci</elt>  
+  <Brianna>
+    <age>97</age>
+  </Brianna>
+</root>

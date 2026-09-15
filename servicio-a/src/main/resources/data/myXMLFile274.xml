@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kamilah"
+  lastname="Hachmin"
+  city="San Fernando"
+  country="Northern Mariana Islands"
+  firstname2="Nadine"
+  lastname2="Sisile"
+  email="Nadine.Sisile@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>34.303</random_float>
+  <bool>false</bool>
+  <date>1999-02-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Desirae</elt><elt>Nadine</elt><elt>Bobinette</elt><elt>Gavrielle</elt><elt>Donetta</elt>  
+  <Nadine>
+    <age>86</age>
+  </Nadine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ketti"
+  lastname="Fleeta"
+  city="Jakarta"
+  country="China"
+  firstname2="Meg"
+  lastname2="Tyson"
+  email="Meg.Tyson@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>11.693</random_float>
+  <bool>false</bool>
+  <date>1989-01-30</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kaja</elt><elt>Lacie</elt><elt>Natka</elt><elt>Letizia</elt><elt>Lucille</elt>  
+  <Meg>
+    <age>39</age>
+  </Meg>
+</root>

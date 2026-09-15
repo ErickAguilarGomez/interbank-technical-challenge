@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Erminia"
+  city="Cockburn Town"
+  country="Niger"
+  firstname2="Fred"
+  lastname2="Kirstin"
+  email="Fred.Kirstin@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>67.897</random_float>
+  <bool>true</bool>
+  <date>1990-02-07</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tierney</elt><elt>Aryn</elt><elt>Darlleen</elt><elt>Eolanda</elt><elt>Ardeen</elt>  
+  <Fred>
+    <age>41</age>
+  </Fred>
+</root>

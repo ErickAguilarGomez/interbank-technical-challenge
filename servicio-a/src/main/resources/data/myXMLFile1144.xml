@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Schlosser"
+  city="Chongqing"
+  country="Togo"
+  firstname2="Alie"
+  lastname2="Deegan"
+  email="Alie.Deegan@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>15.959</random_float>
+  <bool>false</bool>
+  <date>1990-12-21</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Emelina</elt><elt>Vinita</elt><elt>Ingrid</elt><elt>Hermione</elt><elt>Sam</elt>  
+  <Alie>
+    <age>65</age>
+  </Alie>
+</root>

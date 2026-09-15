@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annecorinne"
+  lastname="My"
+  city="Lanzhou"
+  country="Montserrat"
+  firstname2="Fawne"
+  lastname2="Xerxes"
+  email="Fawne.Xerxes@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>95.206</random_float>
+  <bool>true</bool>
+  <date>1991-03-19</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Donnie</elt><elt>Nonnah</elt><elt>Rozele</elt><elt>Sean</elt><elt>Celestyna</elt>  
+  <Fawne>
+    <age>27</age>
+  </Fawne>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Alwin"
+  city="Bloemfontein"
+  country="Tanzania, United Republic of"
+  firstname2="Demetris"
+  lastname2="Harday"
+  email="Demetris.Harday@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>48.555</random_float>
+  <bool>false</bool>
+  <date>1982-02-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nariko</elt><elt>Barbi</elt><elt>Margalo</elt><elt>Charissa</elt><elt>Rubie</elt>  
+  <Demetris>
+    <age>62</age>
+  </Demetris>
+</root>

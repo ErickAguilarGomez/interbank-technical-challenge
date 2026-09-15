@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anestassia"
+  lastname="Cleo"
+  city="El Paso"
+  country="Equatorial Guinea"
+  firstname2="Rosabelle"
+  lastname2="Roarke"
+  email="Rosabelle.Roarke@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>81.446</random_float>
+  <bool>true</bool>
+  <date>1997-11-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Florencia</elt><elt>Lorne</elt><elt>Jany</elt><elt>Sidoney</elt><elt>Madalyn</elt>  
+  <Rosabelle>
+    <age>86</age>
+  </Rosabelle>
+</root>

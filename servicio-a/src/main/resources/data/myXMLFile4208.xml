@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Thalia"
+  lastname="Vilma"
+  city="Townsville"
+  country="Guyana"
+  firstname2="Ariela"
+  lastname2="Halla"
+  email="Ariela.Halla@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>3.486</random_float>
+  <bool>false</bool>
+  <date>1992-11-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kenna</elt><elt>Nataline</elt><elt>Mary</elt><elt>Berget</elt><elt>Concettina</elt>  
+  <Ariela>
+    <age>35</age>
+  </Ariela>
+</root>

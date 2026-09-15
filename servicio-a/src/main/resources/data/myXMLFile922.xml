@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Wyn"
+  city="Nassau"
+  country="New Caledonia"
+  firstname2="Gwenneth"
+  lastname2="Hutchison"
+  email="Gwenneth.Hutchison@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>33.232</random_float>
+  <bool>false</bool>
+  <date>1996-05-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Phedra</elt><elt>Jillayne</elt><elt>Gwenneth</elt><elt>Libbie</elt><elt>Elie</elt>  
+  <Gwenneth>
+    <age>68</age>
+  </Gwenneth>
+</root>

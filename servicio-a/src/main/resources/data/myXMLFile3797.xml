@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorthy"
+  lastname="Martsen"
+  city="Boston"
+  country="Uruguay"
+  firstname2="Oona"
+  lastname2="Hirsch"
+  email="Oona.Hirsch@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>35.871</random_float>
+  <bool>true</bool>
+  <date>1982-08-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ardys</elt><elt>Stacey</elt><elt>Zondra</elt><elt>Michaelina</elt><elt>Kathi</elt>  
+  <Oona>
+    <age>29</age>
+  </Oona>
+</root>

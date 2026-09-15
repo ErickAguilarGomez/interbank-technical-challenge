@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annecorinne"
+  lastname="Gregrory"
+  city="Hamburg"
+  country="Belize"
+  firstname2="Glenda"
+  lastname2="Dominy"
+  email="Glenda.Dominy@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>6.296</random_float>
+  <bool>true</bool>
+  <date>1989-03-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Modestia</elt><elt>Aigneis</elt><elt>Dede</elt><elt>Lorie</elt><elt>Goldie</elt>  
+  <Glenda>
+    <age>93</age>
+  </Glenda>
+</root>

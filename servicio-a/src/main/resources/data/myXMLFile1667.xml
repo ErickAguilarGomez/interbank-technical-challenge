@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Tufts"
+  city="Chihuahua"
+  country="Syrian Arab Republic"
+  firstname2="Celene"
+  lastname2="Leopold"
+  email="Celene.Leopold@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>82.93</random_float>
+  <bool>false</bool>
+  <date>1995-05-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Almeta</elt><elt>Shel</elt><elt>Sissy</elt><elt>Britte</elt><elt>Kara-Lynn</elt>  
+  <Celene>
+    <age>58</age>
+  </Celene>
+</root>

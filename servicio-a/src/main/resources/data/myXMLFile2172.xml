@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marita"
+  lastname="Schalles"
+  city="Hong Kong"
+  country="Egypt"
+  firstname2="Lanae"
+  lastname2="Sinegold"
+  email="Lanae.Sinegold@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>36.808</random_float>
+  <bool>false</bool>
+  <date>1987-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Andree</elt><elt>Joelly</elt><elt>Amii</elt><elt>Dacia</elt><elt>Elmira</elt>  
+  <Lanae>
+    <age>26</age>
+  </Lanae>
+</root>

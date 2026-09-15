@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vere"
+  lastname="Johanna"
+  city="Tirana"
+  country="Cape Verde"
+  firstname2="Babita"
+  lastname2="Christal"
+  email="Babita.Christal@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>45.517</random_float>
+  <bool>true</bool>
+  <date>1983-08-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Trudie</elt><elt>Rosene</elt><elt>Wilma</elt><elt>Gratia</elt><elt>Angela</elt>  
+  <Babita>
+    <age>48</age>
+  </Babita>
+</root>

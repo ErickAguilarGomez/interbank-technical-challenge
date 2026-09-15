@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Odysseus"
+  city="Accra"
+  country="Tuvalu"
+  firstname2="Caritta"
+  lastname2="Kaete"
+  email="Caritta.Kaete@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>92.959</random_float>
+  <bool>true</bool>
+  <date>1985-06-15</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cherilyn</elt><elt>Elsie</elt><elt>Jacquetta</elt><elt>Siana</elt><elt>Albertina</elt>  
+  <Caritta>
+    <age>40</age>
+  </Caritta>
+</root>

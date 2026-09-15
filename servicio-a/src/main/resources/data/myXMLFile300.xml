@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maye"
+  lastname="Alfons"
+  city="Ndola"
+  country="Honduras"
+  firstname2="Brana"
+  lastname2="O'Rourke"
+  email="Brana.O'Rourke@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>1.325</random_float>
+  <bool>false</bool>
+  <date>1985-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jackie</elt><elt>Magdalena</elt><elt>Catharine</elt><elt>Nollie</elt><elt>Charmaine</elt>  
+  <Brana>
+    <age>80</age>
+  </Brana>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beth"
+  lastname="Christine"
+  city="Hanga Roa"
+  country="Antigua and Barbuda"
+  firstname2="Joeann"
+  lastname2="Love"
+  email="Joeann.Love@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>22.99</random_float>
+  <bool>true</bool>
+  <date>1999-09-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Maridel</elt><elt>Selma</elt><elt>Meghann</elt><elt>Harrietta</elt><elt>Ninnetta</elt>  
+  <Joeann>
+    <age>18</age>
+  </Joeann>
+</root>

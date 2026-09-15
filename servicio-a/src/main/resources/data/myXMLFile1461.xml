@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nyssa"
+  lastname="Guildroy"
+  city="Prague"
+  country="Mexico"
+  firstname2="Fanny"
+  lastname2="Chick"
+  email="Fanny.Chick@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>97.274</random_float>
+  <bool>true</bool>
+  <date>1983-05-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cherilyn</elt><elt>Gusty</elt><elt>Carly</elt><elt>Florie</elt><elt>Mireielle</elt>  
+  <Fanny>
+    <age>66</age>
+  </Fanny>
+</root>

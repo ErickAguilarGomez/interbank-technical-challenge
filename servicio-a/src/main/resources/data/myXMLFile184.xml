@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kore"
+  lastname="McGrody"
+  city="Porto-Novo"
+  country="Australia"
+  firstname2="Fred"
+  lastname2="Connelly"
+  email="Fred.Connelly@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>33.623</random_float>
+  <bool>true</bool>
+  <date>1999-12-10</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Frank</elt><elt>Iseabal</elt><elt>Carlie</elt><elt>Ezmeralda</elt><elt>Viki</elt>  
+  <Fred>
+    <age>58</age>
+  </Fred>
+</root>

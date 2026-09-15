@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allyce"
+  lastname="Ethban"
+  city="The Hague"
+  country="Iceland"
+  firstname2="Hannis"
+  lastname2="Philoo"
+  email="Hannis.Philoo@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>52.874</random_float>
+  <bool>false</bool>
+  <date>1990-12-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Annaliese</elt><elt>Pierette</elt><elt>Genevra</elt><elt>Cordi</elt><elt>Romona</elt>  
+  <Hannis>
+    <age>40</age>
+  </Hannis>
+</root>

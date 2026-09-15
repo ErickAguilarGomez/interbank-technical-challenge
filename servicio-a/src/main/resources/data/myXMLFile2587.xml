@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nicoli"
+  lastname="Beniamino"
+  city="Adak"
+  country="Greece"
+  firstname2="Dagmar"
+  lastname2="Dannye"
+  email="Dagmar.Dannye@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>63.162</random_float>
+  <bool>true</bool>
+  <date>1992-08-11</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sandie</elt><elt>Hallie</elt><elt>Kassey</elt><elt>Elvira</elt><elt>Minda</elt>  
+  <Dagmar>
+    <age>56</age>
+  </Dagmar>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ruthe"
+  lastname="Sherfield"
+  city="Cockburn Town"
+  country="Morocco"
+  firstname2="Sonni"
+  lastname2="Margarete"
+  email="Sonni.Margarete@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>71.072</random_float>
+  <bool>true</bool>
+  <date>1983-07-19</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jordan</elt><elt>Florencia</elt><elt>Ethel</elt><elt>Katuscha</elt><elt>Wanda</elt>  
+  <Sonni>
+    <age>69</age>
+  </Sonni>
+</root>

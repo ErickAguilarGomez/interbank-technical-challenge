@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Betta"
+  lastname="Colp"
+  city="Bissau"
+  country="Nepal"
+  firstname2="Cacilie"
+  lastname2="Kylander"
+  email="Cacilie.Kylander@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>3.383</random_float>
+  <bool>false</bool>
+  <date>1991-08-11</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Antonietta</elt><elt>Valeda</elt><elt>Daryl</elt><elt>Gabriellia</elt><elt>Ardeen</elt>  
+  <Cacilie>
+    <age>51</age>
+  </Cacilie>
+</root>

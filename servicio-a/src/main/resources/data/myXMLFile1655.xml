@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Gahl"
+  city="Beijing"
+  country="Norfolk Island"
+  firstname2="Nadine"
+  lastname2="Leler"
+  email="Nadine.Leler@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>26.171</random_float>
+  <bool>false</bool>
+  <date>1995-08-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Allyce</elt><elt>Sibella</elt><elt>Leontine</elt><elt>Kial</elt><elt>Jacquetta</elt>  
+  <Nadine>
+    <age>59</age>
+  </Nadine>
+</root>

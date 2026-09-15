@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Netty"
+  lastname="Allys"
+  city="Bogotá"
+  country="Norway"
+  firstname2="Dede"
+  lastname2="Macey"
+  email="Dede.Macey@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>20.709</random_float>
+  <bool>true</bool>
+  <date>1990-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gui</elt><elt>Daryl</elt><elt>Christy</elt><elt>Aigneis</elt><elt>Iseabal</elt>  
+  <Dede>
+    <age>59</age>
+  </Dede>
+</root>

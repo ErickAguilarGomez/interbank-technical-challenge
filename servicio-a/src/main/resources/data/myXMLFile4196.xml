@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gisela"
+  lastname="Kaete"
+  city="Da Nang"
+  country="Antigua and Barbuda"
+  firstname2="Lorie"
+  lastname2="Donell"
+  email="Lorie.Donell@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>79.172</random_float>
+  <bool>true</bool>
+  <date>1982-01-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Modestia</elt><elt>Elie</elt><elt>Katuscha</elt><elt>Sindee</elt><elt>Ricky</elt>  
+  <Lorie>
+    <age>31</age>
+  </Lorie>
+</root>

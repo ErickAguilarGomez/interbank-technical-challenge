@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hettie"
+  lastname="Ellerey"
+  city="Phuket (city)"
+  country="Turks and Caicos Islands"
+  firstname2="Lisette"
+  lastname2="Monk"
+  email="Lisette.Monk@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>100.138</random_float>
+  <bool>false</bool>
+  <date>1998-01-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Priscilla</elt><elt>Daphne</elt><elt>Dotty</elt><elt>Micheline</elt><elt>Andree</elt>  
+  <Lisette>
+    <age>50</age>
+  </Lisette>
+</root>

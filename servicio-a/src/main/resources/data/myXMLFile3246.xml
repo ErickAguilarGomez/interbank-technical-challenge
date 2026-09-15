@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Sikorski"
+  city="Gaza"
+  country="Madagascar"
+  firstname2="Amara"
+  lastname2="Atcliffe"
+  email="Amara.Atcliffe@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>28.009</random_float>
+  <bool>false</bool>
+  <date>1998-02-27</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorene</elt><elt>Elbertina</elt><elt>Julieta</elt><elt>Asia</elt><elt>Pearline</elt>  
+  <Amara>
+    <age>56</age>
+  </Amara>
+</root>

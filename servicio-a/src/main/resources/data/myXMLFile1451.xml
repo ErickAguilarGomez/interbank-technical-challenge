@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Libbie"
+  lastname="Cimbura"
+  city="Manzini"
+  country="French Polynesia"
+  firstname2="Shel"
+  lastname2="Percy"
+  email="Shel.Percy@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>87.79</random_float>
+  <bool>true</bool>
+  <date>1994-04-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carolina</elt><elt>Alameda</elt><elt>Jillayne</elt><elt>Dari</elt><elt>Pollyanna</elt>  
+  <Shel>
+    <age>49</age>
+  </Shel>
+</root>

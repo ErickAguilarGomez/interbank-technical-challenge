@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ezmeralda"
+  lastname="Eno"
+  city="Vilnius"
+  country="Monaco"
+  firstname2="Teriann"
+  lastname2="Harday"
+  email="Teriann.Harday@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>66.519</random_float>
+  <bool>false</bool>
+  <date>1984-12-06</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Roxane</elt><elt>Shirlee</elt><elt>Shandie</elt><elt>Gavrielle</elt><elt>Katharina</elt>  
+  <Teriann>
+    <age>45</age>
+  </Teriann>
+</root>

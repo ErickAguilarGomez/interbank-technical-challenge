@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwyneth"
+  lastname="Wenoa"
+  city="Wuhan"
+  country="Cameroon"
+  firstname2="Fernande"
+  lastname2="Olnee"
+  email="Fernande.Olnee@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>96.458</random_float>
+  <bool>true</bool>
+  <date>1982-12-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Susan</elt><elt>Elora</elt><elt>Lulita</elt><elt>Eolanda</elt><elt>Alex</elt>  
+  <Fernande>
+    <age>25</age>
+  </Fernande>
+</root>

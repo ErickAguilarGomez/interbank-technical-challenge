@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eolanda"
+  lastname="Nikaniki"
+  city="Cockburn Town"
+  country="Bulgaria"
+  firstname2="Alameda"
+  lastname2="Lilas"
+  email="Alameda.Lilas@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>10.812</random_float>
+  <bool>false</bool>
+  <date>1990-01-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Latisha</elt><elt>Vere</elt><elt>Edith</elt><elt>Jolyn</elt><elt>Clementine</elt>  
+  <Alameda>
+    <age>75</age>
+  </Alameda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardeen"
+  lastname="Bord"
+  city="Ankara"
+  country="Barbados"
+  firstname2="Tatiania"
+  lastname2="Dreda"
+  email="Tatiania.Dreda@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>83.164</random_float>
+  <bool>false</bool>
+  <date>1980-05-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Margette</elt><elt>Carly</elt><elt>Alyda</elt><elt>Tera</elt><elt>Chloris</elt>  
+  <Tatiania>
+    <age>35</age>
+  </Tatiania>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celisse"
+  lastname="Cimbura"
+  city="Lilongwe"
+  country="Denmark"
+  firstname2="Tiffie"
+  lastname2="Tufts"
+  email="Tiffie.Tufts@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>49.373</random_float>
+  <bool>false</bool>
+  <date>1995-12-27</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mahalia</elt><elt>Betta</elt><elt>Arabel</elt><elt>Bobbi</elt><elt>Donnie</elt>  
+  <Tiffie>
+    <age>48</age>
+  </Tiffie>
+</root>

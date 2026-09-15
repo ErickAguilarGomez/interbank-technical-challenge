@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Kare"
+  city="Srinagar"
+  country="United States Minor Outlying Islands"
+  firstname2="Nita"
+  lastname2="Teddman"
+  email="Nita.Teddman@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>32.442</random_float>
+  <bool>true</bool>
+  <date>1989-09-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Candy</elt><elt>Florencia</elt><elt>Lila</elt><elt>Consuela</elt><elt>Dorothy</elt>  
+  <Nita>
+    <age>88</age>
+  </Nita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marguerite"
+  lastname="Yuille"
+  city="Xining"
+  country="Palau"
+  firstname2="Linet"
+  lastname2="Sawtelle"
+  email="Linet.Sawtelle@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>67.782</random_float>
+  <bool>false</bool>
+  <date>1986-08-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dianemarie</elt><elt>Chandra</elt><elt>Marti</elt><elt>Katuscha</elt><elt>Melanie</elt>  
+  <Linet>
+    <age>83</age>
+  </Linet>
+</root>

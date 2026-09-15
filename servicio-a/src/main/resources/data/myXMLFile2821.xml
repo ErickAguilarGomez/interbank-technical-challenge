@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Violet"
+  lastname="Graig"
+  city="Mata-Utu"
+  country="Saint Lucia"
+  firstname2="Josephine"
+  lastname2="Dituri"
+  email="Josephine.Dituri@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>22.3</random_float>
+  <bool>true</bool>
+  <date>1996-04-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Michaelina</elt><elt>Teddie</elt><elt>Elvira</elt><elt>Sara-Ann</elt><elt>Johna</elt>  
+  <Josephine>
+    <age>82</age>
+  </Josephine>
+</root>

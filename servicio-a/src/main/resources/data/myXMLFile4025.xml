@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tobe"
+  lastname="Genna"
+  city="Mamoudzou"
+  country="Gibraltar"
+  firstname2="Elbertina"
+  lastname2="Guildroy"
+  email="Elbertina.Guildroy@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>47.421</random_float>
+  <bool>false</bool>
+  <date>1994-02-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Larine</elt><elt>Rubie</elt><elt>Candi</elt><elt>Thalia</elt><elt>Jinny</elt>  
+  <Elbertina>
+    <age>44</age>
+  </Elbertina>
+</root>

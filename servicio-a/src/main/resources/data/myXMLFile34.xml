@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Valerio"
+  city="Huế"
+  country="Mongolia"
+  firstname2="Veda"
+  lastname2="Fairweather"
+  email="Veda.Fairweather@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>11.225</random_float>
+  <bool>false</bool>
+  <date>1985-11-26</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Max</elt><elt>Jackie</elt><elt>Cordi</elt><elt>Celisse</elt><elt>Brena</elt>  
+  <Veda>
+    <age>91</age>
+  </Veda>
+</root>

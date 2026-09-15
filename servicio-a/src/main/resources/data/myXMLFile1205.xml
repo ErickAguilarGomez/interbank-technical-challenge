@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Silvana"
+  lastname="Ariella"
+  city="Kyoto"
+  country="Nauru"
+  firstname2="Bobinette"
+  lastname2="Giff"
+  email="Bobinette.Giff@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>32.991</random_float>
+  <bool>true</bool>
+  <date>1983-04-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Glenda</elt><elt>Claresta</elt><elt>Flo</elt><elt>Andeee</elt><elt>Sabina</elt>  
+  <Bobinette>
+    <age>30</age>
+  </Bobinette>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Therine"
+  lastname="Serilda"
+  city="Kharkiv"
+  country="Thailand"
+  firstname2="Asia"
+  lastname2="Gavrila"
+  email="Asia.Gavrila@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>24.123</random_float>
+  <bool>false</bool>
+  <date>1984-10-17</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Shirlee</elt><elt>Kirbee</elt><elt>Edyth</elt><elt>Rani</elt><elt>Tatiania</elt>  
+  <Asia>
+    <age>93</age>
+  </Asia>
+</root>

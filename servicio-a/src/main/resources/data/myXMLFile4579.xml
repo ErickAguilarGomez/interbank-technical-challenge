@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Odell"
+  city="Veracruz"
+  country="Ireland"
+  firstname2="Mathilda"
+  lastname2="Malina"
+  email="Mathilda.Malina@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>70.616</random_float>
+  <bool>false</bool>
+  <date>1999-01-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Blake</elt><elt>Dennie</elt><elt>Wendi</elt><elt>Ninnetta</elt><elt>Berta</elt>  
+  <Mathilda>
+    <age>25</age>
+  </Mathilda>
+</root>

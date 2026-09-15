@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Damaris"
+  lastname="Autrey"
+  city="Bucharest"
+  country="Zambia"
+  firstname2="Darci"
+  lastname2="Dudley"
+  email="Darci.Dudley@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>35.298</random_float>
+  <bool>true</bool>
+  <date>1997-02-25</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Carilyn</elt><elt>Britte</elt><elt>Bibby</elt><elt>Juliane</elt><elt>Marika</elt>  
+  <Darci>
+    <age>40</age>
+  </Darci>
+</root>

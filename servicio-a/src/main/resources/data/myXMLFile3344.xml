@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Joeann"
+  city="Enugu"
+  country="Kenya"
+  firstname2="Katleen"
+  lastname2="Jorgan"
+  email="Katleen.Jorgan@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>47.382</random_float>
+  <bool>true</bool>
+  <date>1981-09-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tami</elt><elt>Tracey</elt><elt>Lucy</elt><elt>Dorice</elt><elt>Juliane</elt>  
+  <Katleen>
+    <age>66</age>
+  </Katleen>
+</root>

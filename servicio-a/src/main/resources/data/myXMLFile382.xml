@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marjie"
+  lastname="Keily"
+  city="The Valley"
+  country="Iraq"
+  firstname2="Tierney"
+  lastname2="Tound"
+  email="Tierney.Tound@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>64.431</random_float>
+  <bool>false</bool>
+  <date>1991-11-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Etta</elt><elt>Aili</elt><elt>Ardeen</elt><elt>Kaja</elt><elt>Ileana</elt>  
+  <Tierney>
+    <age>38</age>
+  </Tierney>
+</root>

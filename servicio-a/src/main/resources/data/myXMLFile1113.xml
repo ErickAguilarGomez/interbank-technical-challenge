@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joelly"
+  lastname="Beniamino"
+  city="Bangui"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Asia"
+  lastname2="Autrey"
+  email="Asia.Autrey@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>100.192</random_float>
+  <bool>true</bool>
+  <date>1980-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cordi</elt><elt>Wileen</elt><elt>Jacenta</elt><elt>Arabel</elt><elt>Glynnis</elt>  
+  <Asia>
+    <age>79</age>
+  </Asia>
+</root>

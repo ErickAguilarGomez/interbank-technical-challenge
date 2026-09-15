@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berget"
+  lastname="Yoko"
+  city="Xi'an"
+  country="Slovenia"
+  firstname2="Tonia"
+  lastname2="Raul"
+  email="Tonia.Raul@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>31.548</random_float>
+  <bool>true</bool>
+  <date>1981-05-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Merrie</elt><elt>Teriann</elt><elt>Adele</elt><elt>Shel</elt><elt>Dari</elt>  
+  <Tonia>
+    <age>96</age>
+  </Tonia>
+</root>

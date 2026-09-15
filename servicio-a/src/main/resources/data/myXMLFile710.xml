@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merrie"
+  lastname="Gerge"
+  city="Handan"
+  country="Saint Pierre and Miquelon"
+  firstname2="Steffane"
+  lastname2="Rad"
+  email="Steffane.Rad@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>95.656</random_float>
+  <bool>false</bool>
+  <date>1999-07-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Justinn</elt><elt>Florie</elt><elt>Cathie</elt><elt>Vanessa</elt><elt>Kelly</elt>  
+  <Steffane>
+    <age>40</age>
+  </Steffane>
+</root>

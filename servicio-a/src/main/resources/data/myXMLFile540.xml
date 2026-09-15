@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Roarke"
+  city="New Orleans"
+  country="Colombia"
+  firstname2="Kerrin"
+  lastname2="Belldas"
+  email="Kerrin.Belldas@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>6.361</random_float>
+  <bool>true</bool>
+  <date>1980-06-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Alameda</elt><elt>Ardeen</elt><elt>Cecile</elt><elt>Fidelia</elt><elt>Consuela</elt>  
+  <Kerrin>
+    <age>25</age>
+  </Kerrin>
+</root>

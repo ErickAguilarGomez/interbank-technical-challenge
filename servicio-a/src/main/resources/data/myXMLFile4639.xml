@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adriana"
+  lastname="Gaulin"
+  city="Bulawayo"
+  country="United States Minor Outlying Islands"
+  firstname2="Aimil"
+  lastname2="Baptlsta"
+  email="Aimil.Baptlsta@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>11.712</random_float>
+  <bool>false</bool>
+  <date>1984-06-29</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tabbatha</elt><elt>Elbertina</elt><elt>Edee</elt><elt>Tani</elt><elt>Mary</elt>  
+  <Aimil>
+    <age>87</age>
+  </Aimil>
+</root>

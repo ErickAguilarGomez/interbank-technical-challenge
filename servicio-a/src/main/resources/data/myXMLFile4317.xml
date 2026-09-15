@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christian"
+  lastname="Rustice"
+  city="Nouméa"
+  country="Belarus"
+  firstname2="Max"
+  lastname2="Korey"
+  email="Max.Korey@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>77.691</random_float>
+  <bool>true</bool>
+  <date>1988-12-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ginnie</elt><elt>Elena</elt><elt>Aeriela</elt><elt>Odessa</elt><elt>Lucy</elt>  
+  <Max>
+    <age>24</age>
+  </Max>
+</root>

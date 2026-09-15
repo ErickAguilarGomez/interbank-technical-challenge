@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Delila"
+  city="Nantes"
+  country="Belize"
+  firstname2="Bernardine"
+  lastname2="Bonucci"
+  email="Bernardine.Bonucci@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>73.245</random_float>
+  <bool>false</bool>
+  <date>1998-02-27</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ketti</elt><elt>Alex</elt><elt>Candi</elt><elt>Marcy</elt><elt>Vivia</elt>  
+  <Bernardine>
+    <age>85</age>
+  </Bernardine>
+</root>

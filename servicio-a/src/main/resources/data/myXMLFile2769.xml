@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meghann"
+  lastname="Ventre"
+  city="Apia"
+  country="Western Sahara"
+  firstname2="Adriana"
+  lastname2="Pond"
+  email="Adriana.Pond@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>15.458</random_float>
+  <bool>false</bool>
+  <date>1983-10-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marsiella</elt><elt>Juliane</elt><elt>Pollyanna</elt><elt>Eugine</elt><elt>Edyth</elt>  
+  <Adriana>
+    <age>83</age>
+  </Adriana>
+</root>

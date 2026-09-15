@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corina"
+  lastname="Viddah"
+  city="Pyongyang"
+  country="Montserrat"
+  firstname2="Kara-Lynn"
+  lastname2="Bearnard"
+  email="Kara-Lynn.Bearnard@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>80.883</random_float>
+  <bool>true</bool>
+  <date>1987-03-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Renie</elt><elt>Neila</elt><elt>Elie</elt><elt>Berta</elt><elt>Frank</elt>  
+  <Kara-Lynn>
+    <age>31</age>
+  </Kara-Lynn>
+</root>

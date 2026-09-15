@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caritta"
+  lastname="Linehan"
+  city="Norilsk"
+  country="Gibraltar"
+  firstname2="Averyl"
+  lastname2="Haerr"
+  email="Averyl.Haerr@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>98.944</random_float>
+  <bool>false</bool>
+  <date>1993-12-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gaylene</elt><elt>Claudina</elt><elt>Catrina</elt><elt>Charmaine</elt><elt>Gwyneth</elt>  
+  <Averyl>
+    <age>44</age>
+  </Averyl>
+</root>

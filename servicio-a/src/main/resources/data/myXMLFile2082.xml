@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristabel"
+  lastname="Erskine"
+  city="Panama City"
+  country="Wallis and Futuna"
+  firstname2="Ada"
+  lastname2="Lissi"
+  email="Ada.Lissi@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>6.881</random_float>
+  <bool>false</bool>
+  <date>1991-05-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nerta</elt><elt>Aeriela</elt><elt>Dianemarie</elt><elt>Modestia</elt><elt>Libbie</elt>  
+  <Ada>
+    <age>56</age>
+  </Ada>
+</root>

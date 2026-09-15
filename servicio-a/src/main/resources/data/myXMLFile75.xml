@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Elo"
+  city="Kinshasa"
+  country="Kuwait"
+  firstname2="Sheelagh"
+  lastname2="Tacye"
+  email="Sheelagh.Tacye@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>22.787</random_float>
+  <bool>false</bool>
+  <date>1996-12-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tatiania</elt><elt>Louella</elt><elt>Fawne</elt><elt>Sadie</elt><elt>Joelly</elt>  
+  <Sheelagh>
+    <age>55</age>
+  </Sheelagh>
+</root>

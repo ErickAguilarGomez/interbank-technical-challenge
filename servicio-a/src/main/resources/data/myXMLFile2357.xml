@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Lalitta"
+  city="Udon Thani"
+  country="Paraguay"
+  firstname2="Olwen"
+  lastname2="Chesna"
+  email="Olwen.Chesna@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>79.295</random_float>
+  <bool>false</bool>
+  <date>1980-09-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rivalee</elt><elt>Dede</elt><elt>Olivette</elt><elt>Priscilla</elt><elt>Sheelagh</elt>  
+  <Olwen>
+    <age>43</age>
+  </Olwen>
+</root>

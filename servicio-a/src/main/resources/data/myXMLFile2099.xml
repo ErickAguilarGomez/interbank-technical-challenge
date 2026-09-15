@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karena"
+  lastname="Sherfield"
+  city="Papeete"
+  country="Guam"
+  firstname2="Annora"
+  lastname2="Ethban"
+  email="Annora.Ethban@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>76.662</random_float>
+  <bool>false</bool>
+  <date>1991-08-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Barbara</elt><elt>Jsandye</elt><elt>Arabel</elt><elt>Flory</elt><elt>Gisela</elt>  
+  <Annora>
+    <age>46</age>
+  </Annora>
+</root>

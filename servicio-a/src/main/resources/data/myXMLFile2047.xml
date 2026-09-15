@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harmonia"
+  lastname="Claudine"
+  city="Vaduz"
+  country="Philippines"
+  firstname2="Maurene"
+  lastname2="Hurley"
+  email="Maurene.Hurley@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>64.348</random_float>
+  <bool>false</bool>
+  <date>1998-06-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Deane</elt><elt>Evaleen</elt><elt>Dulce</elt><elt>Zia</elt><elt>Lindie</elt>  
+  <Maurene>
+    <age>84</age>
+  </Maurene>
+</root>

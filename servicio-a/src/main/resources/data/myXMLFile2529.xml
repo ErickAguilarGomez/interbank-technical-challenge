@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Toni"
+  city="Memphis"
+  country="Micronesia, Federated States of"
+  firstname2="Orelia"
+  lastname2="Hewitt"
+  email="Orelia.Hewitt@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>99.696</random_float>
+  <bool>true</bool>
+  <date>1981-04-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gwenneth</elt><elt>Janis</elt><elt>Blondelle</elt><elt>Paule</elt><elt>Violet</elt>  
+  <Orelia>
+    <age>61</age>
+  </Orelia>
+</root>

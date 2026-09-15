@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimberley"
+  lastname="Muriel"
+  city="Patna"
+  country="Niger"
+  firstname2="Bobbi"
+  lastname2="Ramona"
+  email="Bobbi.Ramona@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>99.039</random_float>
+  <bool>false</bool>
+  <date>1998-01-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Felice</elt><elt>Penelopa</elt><elt>Oralee</elt><elt>Arlina</elt><elt>Di</elt>  
+  <Bobbi>
+    <age>59</age>
+  </Bobbi>
+</root>

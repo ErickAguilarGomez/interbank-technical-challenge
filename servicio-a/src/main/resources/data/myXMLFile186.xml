@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Haymes"
+  city="Nicosia"
+  country="Tajikistan"
+  firstname2="Dominga"
+  lastname2="Monaco"
+  email="Dominga.Monaco@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>44.371</random_float>
+  <bool>true</bool>
+  <date>1986-04-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sallie</elt><elt>Wileen</elt><elt>Katuscha</elt><elt>Dorice</elt><elt>Valli</elt>  
+  <Dominga>
+    <age>76</age>
+  </Dominga>
+</root>

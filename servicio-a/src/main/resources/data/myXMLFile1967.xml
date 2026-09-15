@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alameda"
+  lastname="Malvino"
+  city="Mbabane"
+  country="Ecuador"
+  firstname2="Clarice"
+  lastname2="Guthrie"
+  email="Clarice.Guthrie@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>83.347</random_float>
+  <bool>true</bool>
+  <date>1991-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Concettina</elt><elt>Georgetta</elt><elt>Margarette</elt><elt>Hallie</elt><elt>Kaia</elt>  
+  <Clarice>
+    <age>25</age>
+  </Clarice>
+</root>

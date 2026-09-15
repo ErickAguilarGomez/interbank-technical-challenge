@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyndie"
+  lastname="Fillbert"
+  city="Anchorage"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Gianina"
+  lastname2="Pip"
+  email="Gianina.Pip@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>32.245</random_float>
+  <bool>false</bool>
+  <date>1995-07-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mariann</elt><elt>Roxane</elt><elt>Alexine</elt><elt>Tera</elt><elt>Yolane</elt>  
+  <Gianina>
+    <age>26</age>
+  </Gianina>
+</root>

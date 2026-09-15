@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alie"
+  lastname="Clara"
+  city="Nanning"
+  country="Central African Republic"
+  firstname2="Genevra"
+  lastname2="Liva"
+  email="Genevra.Liva@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>92.895</random_float>
+  <bool>false</bool>
+  <date>1990-09-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Addia</elt><elt>Almeta</elt><elt>Wanda</elt><elt>Camile</elt><elt>Bobinette</elt>  
+  <Genevra>
+    <age>71</age>
+  </Genevra>
+</root>

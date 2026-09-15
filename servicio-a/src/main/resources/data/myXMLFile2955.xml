@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dione"
+  lastname="Wenda"
+  city="Nicosia"
+  country="Bermuda"
+  firstname2="Netty"
+  lastname2="Ethban"
+  email="Netty.Ethban@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>23.02</random_float>
+  <bool>true</bool>
+  <date>1996-08-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hallie</elt><elt>Sadie</elt><elt>Nyssa</elt><elt>Kylynn</elt><elt>Sean</elt>  
+  <Netty>
+    <age>65</age>
+  </Netty>
+</root>

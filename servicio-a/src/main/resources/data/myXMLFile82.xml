@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gloria"
+  lastname="Keelia"
+  city="Alofi"
+  country="Brunei Darussalam"
+  firstname2="Elmira"
+  lastname2="Chobot"
+  email="Elmira.Chobot@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>52.643</random_float>
+  <bool>true</bool>
+  <date>1990-08-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Raina</elt><elt>Jeanna</elt><elt>Anestassia</elt><elt>Shaine</elt><elt>Lynde</elt>  
+  <Elmira>
+    <age>57</age>
+  </Elmira>
+</root>

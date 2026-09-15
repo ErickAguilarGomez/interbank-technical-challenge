@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Jacobah"
+  city="Phuket (city)"
+  country="Nicaragua"
+  firstname2="Lita"
+  lastname2="Devlen"
+  email="Lita.Devlen@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>98.754</random_float>
+  <bool>true</bool>
+  <date>1986-06-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Pearline</elt><elt>Olivette</elt><elt>Angelique</elt><elt>Almeta</elt><elt>Daune</elt>  
+  <Lita>
+    <age>51</age>
+  </Lita>
+</root>

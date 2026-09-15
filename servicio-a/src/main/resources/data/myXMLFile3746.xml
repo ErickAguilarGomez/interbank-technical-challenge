@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Rosalba"
+  city="Rochester"
+  country="Burundi"
+  firstname2="Pearline"
+  lastname2="Weinreb"
+  email="Pearline.Weinreb@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>43.431</random_float>
+  <bool>true</bool>
+  <date>1997-10-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ann-Marie</elt><elt>Nanete</elt><elt>Damaris</elt><elt>Linzy</elt><elt>Hope</elt>  
+  <Pearline>
+    <age>58</age>
+  </Pearline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwyneth"
+  lastname="Vanni"
+  city="Sri Jayawardenapura-Kotte"
+  country="Thailand"
+  firstname2="Feliza"
+  lastname2="Ummersen"
+  email="Feliza.Ummersen@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>70.007</random_float>
+  <bool>false</bool>
+  <date>1986-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rosene</elt><elt>Binny</elt><elt>Gloria</elt><elt>Regina</elt><elt>Aaren</elt>  
+  <Feliza>
+    <age>56</age>
+  </Feliza>
+</root>

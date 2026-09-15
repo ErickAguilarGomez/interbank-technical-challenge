@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aimil"
+  lastname="Borrell"
+  city="Quebec City"
+  country="Seychelles"
+  firstname2="Lita"
+  lastname2="Waldron"
+  email="Lita.Waldron@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>42.29</random_float>
+  <bool>true</bool>
+  <date>1998-02-27</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Alleen</elt><elt>Grier</elt><elt>Nataline</elt><elt>Margalo</elt><elt>Korrie</elt>  
+  <Lita>
+    <age>24</age>
+  </Lita>
+</root>

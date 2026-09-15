@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jere"
+  lastname="Regan"
+  city="Road Town"
+  country="Oman"
+  firstname2="Roxane"
+  lastname2="Wandie"
+  email="Roxane.Wandie@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>62.006</random_float>
+  <bool>true</bool>
+  <date>1980-03-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Clarice</elt><elt>Annaliese</elt><elt>Carmela</elt><elt>Nananne</elt><elt>Nickie</elt>  
+  <Roxane>
+    <age>93</age>
+  </Roxane>
+</root>

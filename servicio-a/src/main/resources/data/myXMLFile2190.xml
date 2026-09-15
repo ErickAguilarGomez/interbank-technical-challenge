@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Averyl"
+  lastname="Lorain"
+  city="Fortaleza"
+  country="Colombia"
+  firstname2="Sharai"
+  lastname2="Merna"
+  email="Sharai.Merna@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>36.221</random_float>
+  <bool>true</bool>
+  <date>1985-11-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hollie</elt><elt>Blinni</elt><elt>Winifred</elt><elt>Katuscha</elt><elt>Jeanna</elt>  
+  <Sharai>
+    <age>20</age>
+  </Sharai>
+</root>

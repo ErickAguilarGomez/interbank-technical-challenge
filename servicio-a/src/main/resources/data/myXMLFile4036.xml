@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valera"
+  lastname="Edison"
+  city="Manchester"
+  country="Saint Kitts and Nevis"
+  firstname2="Jan"
+  lastname2="LaRue"
+  email="Jan.LaRue@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>28.389</random_float>
+  <bool>true</bool>
+  <date>1992-12-19</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Halette</elt><elt>Lynnea</elt><elt>Darlleen</elt><elt>Carree</elt><elt>Lenna</elt>  
+  <Jan>
+    <age>54</age>
+  </Jan>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Briney"
+  lastname="Carbo"
+  city="Raleigh"
+  country="Saint Helena"
+  firstname2="Binny"
+  lastname2="Tryck"
+  email="Binny.Tryck@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>86.483</random_float>
+  <bool>true</bool>
+  <date>1986-05-06</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sonni</elt><elt>Dominga</elt><elt>Valeda</elt><elt>Linet</elt><elt>Carlie</elt>  
+  <Binny>
+    <age>19</age>
+  </Binny>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Ivens"
+  city="George Town"
+  country="Oman"
+  firstname2="Giustina"
+  lastname2="Slifka"
+  email="Giustina.Slifka@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>7.15</random_float>
+  <bool>false</bool>
+  <date>1983-07-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lynde</elt><elt>Kial</elt><elt>Misha</elt><elt>Karina</elt><elt>Lory</elt>  
+  <Giustina>
+    <age>60</age>
+  </Giustina>
+</root>

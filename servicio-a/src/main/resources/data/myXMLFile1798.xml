@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Calla"
+  lastname="Dulciana"
+  city="Dili"
+  country="France"
+  firstname2="Mildrid"
+  lastname2="Tacye"
+  email="Mildrid.Tacye@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>87.527</random_float>
+  <bool>false</bool>
+  <date>1996-07-02</date>
+  <regEx>hello to you</regEx>
+  <enum>xml</enum>
+  <elt>Lacie</elt><elt>Lesly</elt><elt>Dale</elt><elt>Danika</elt><elt>Lory</elt>  
+  <Mildrid>
+    <age>94</age>
+  </Mildrid>
+</root>

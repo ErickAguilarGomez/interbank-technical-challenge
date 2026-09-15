@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harmonia"
+  lastname="Egbert"
+  city="Stuttgart"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Elyssa"
+  lastname2="Elsinore"
+  email="Elyssa.Elsinore@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>26.734</random_float>
+  <bool>false</bool>
+  <date>1990-05-06</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nadine</elt><elt>Nerta</elt><elt>Gaylene</elt><elt>Adriana</elt><elt>Starla</elt>  
+  <Elyssa>
+    <age>59</age>
+  </Elyssa>
+</root>

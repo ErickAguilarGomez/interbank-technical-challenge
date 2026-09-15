@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ulrike"
+  lastname="Marijo"
+  city="Mendoza"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Dulce"
+  lastname2="Emanuel"
+  email="Dulce.Emanuel@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>24.822</random_float>
+  <bool>false</bool>
+  <date>1987-01-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dolli</elt><elt>Kamilah</elt><elt>Glenda</elt><elt>Suzette</elt><elt>Amii</elt>  
+  <Dulce>
+    <age>93</age>
+  </Dulce>
+</root>

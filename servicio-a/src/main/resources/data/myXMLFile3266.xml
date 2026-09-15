@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Audly"
+  city="Nicosia"
+  country="Antigua and Barbuda"
+  firstname2="Taffy"
+  lastname2="Rosette"
+  email="Taffy.Rosette@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>11.824</random_float>
+  <bool>false</bool>
+  <date>1986-03-20</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jenda</elt><elt>Angelique</elt><elt>Jere</elt><elt>Mureil</elt><elt>Nanete</elt>  
+  <Taffy>
+    <age>26</age>
+  </Taffy>
+</root>

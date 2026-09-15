@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lauryn"
+  lastname="Iaverne"
+  city="Ushuaia"
+  country="Norfolk Island"
+  firstname2="Sonni"
+  lastname2="Borrell"
+  email="Sonni.Borrell@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>68.774</random_float>
+  <bool>true</bool>
+  <date>1984-02-04</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Janey</elt><elt>Joy</elt><elt>Andree</elt><elt>Natka</elt><elt>Tybie</elt>  
+  <Sonni>
+    <age>91</age>
+  </Sonni>
+</root>

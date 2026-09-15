@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annecorinne"
+  lastname="Infield"
+  city="Hangzhou"
+  country="Sao Tome and Principe"
+  firstname2="Tatiania"
+  lastname2="Emmy"
+  email="Tatiania.Emmy@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>30.083</random_float>
+  <bool>false</bool>
+  <date>1982-05-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Bertine</elt><elt>Annora</elt><elt>Melina</elt><elt>Micheline</elt><elt>Gusella</elt>  
+  <Tatiania>
+    <age>77</age>
+  </Tatiania>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Beebe"
+  city="Mogadishu"
+  country="Ireland"
+  firstname2="Tiffie"
+  lastname2="Sperling"
+  email="Tiffie.Sperling@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>25.075</random_float>
+  <bool>false</bool>
+  <date>1980-04-28</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Reeba</elt><elt>Dari</elt><elt>Caressa</elt><elt>Edith</elt><elt>Lesly</elt>  
+  <Tiffie>
+    <age>37</age>
+  </Tiffie>
+</root>

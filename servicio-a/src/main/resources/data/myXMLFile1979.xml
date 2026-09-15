@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Kress"
+  city="Longyearbyen"
+  country="Finland"
+  firstname2="Wynne"
+  lastname2="Erich"
+  email="Wynne.Erich@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>15.236</random_float>
+  <bool>false</bool>
+  <date>1982-05-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Juliane</elt><elt>Stacey</elt><elt>Leontine</elt><elt>Dianemarie</elt><elt>Odessa</elt>  
+  <Wynne>
+    <age>71</age>
+  </Wynne>
+</root>

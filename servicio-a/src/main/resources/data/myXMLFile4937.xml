@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nyssa"
+  lastname="Flita"
+  city="Handan"
+  country="Togo"
+  firstname2="Dede"
+  lastname2="Christal"
+  email="Dede.Christal@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>69.148</random_float>
+  <bool>false</bool>
+  <date>1989-03-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tilly</elt><elt>Belva</elt><elt>Pearline</elt><elt>Meriel</elt><elt>Violet</elt>  
+  <Dede>
+    <age>29</age>
+  </Dede>
+</root>

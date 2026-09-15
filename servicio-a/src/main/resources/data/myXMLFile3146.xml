@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ursulina"
+  lastname="Nedrud"
+  city="Banda Aceh"
+  country="Lebanon"
+  firstname2="Lauryn"
+  lastname2="Kathie"
+  email="Lauryn.Kathie@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>35.178</random_float>
+  <bool>true</bool>
+  <date>1984-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kalina</elt><elt>Eugine</elt><elt>Jenda</elt><elt>Quintina</elt><elt>Cathyleen</elt>  
+  <Lauryn>
+    <age>27</age>
+  </Lauryn>
+</root>

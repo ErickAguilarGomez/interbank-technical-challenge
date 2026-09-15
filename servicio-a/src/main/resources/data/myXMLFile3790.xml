@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Almeta"
+  lastname="Dominy"
+  city="Washington"
+  country="Haiti"
+  firstname2="Netty"
+  lastname2="Chrystel"
+  email="Netty.Chrystel@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>66.173</random_float>
+  <bool>false</bool>
+  <date>1990-12-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jemie</elt><elt>Tilly</elt><elt>Janeczka</elt><elt>Jenilee</elt><elt>Talya</elt>  
+  <Netty>
+    <age>56</age>
+  </Netty>
+</root>

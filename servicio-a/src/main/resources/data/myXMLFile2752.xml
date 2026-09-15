@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tiffie"
+  lastname="Gwenore"
+  city="Zamboanga City"
+  country="Trinidad and Tobago"
+  firstname2="Trudie"
+  lastname2="Grayce"
+  email="Trudie.Grayce@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>89.475</random_float>
+  <bool>false</bool>
+  <date>1994-11-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Binny</elt><elt>Adore</elt><elt>Ida</elt><elt>Nickie</elt><elt>Dorothy</elt>  
+  <Trudie>
+    <age>58</age>
+  </Trudie>
+</root>

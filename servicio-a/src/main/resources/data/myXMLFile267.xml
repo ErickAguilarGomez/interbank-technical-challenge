@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Gualtiero"
+  city="Labasa"
+  country="Angola"
+  firstname2="Coral"
+  lastname2="Jena"
+  email="Coral.Jena@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>17.989</random_float>
+  <bool>true</bool>
+  <date>1981-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Joleen</elt><elt>Ayn</elt><elt>Sheelagh</elt><elt>Nessie</elt><elt>Ericka</elt>  
+  <Coral>
+    <age>35</age>
+  </Coral>
+</root>

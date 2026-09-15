@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Pernick"
+  city="Belize City"
+  country="Isle of Man"
+  firstname2="Debee"
+  lastname2="Verger"
+  email="Debee.Verger@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>82.887</random_float>
+  <bool>true</bool>
+  <date>1993-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Verla</elt><elt>Kimmy</elt><elt>Dorene</elt><elt>Bettine</elt><elt>Cecile</elt>  
+  <Debee>
+    <age>79</age>
+  </Debee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynea"
+  lastname="Devlen"
+  city="Porto"
+  country="Paraguay"
+  firstname2="Britte"
+  lastname2="Sophronia"
+  email="Britte.Sophronia@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>27.257</random_float>
+  <bool>false</bool>
+  <date>1984-01-24</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Malina</elt><elt>Cissiee</elt><elt>Alleen</elt><elt>Laure</elt><elt>Annaliese</elt>  
+  <Britte>
+    <age>81</age>
+  </Britte>
+</root>

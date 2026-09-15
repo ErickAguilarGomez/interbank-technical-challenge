@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Dreda"
+  city="Huế"
+  country="Taiwan, Province of China"
+  firstname2="Anica"
+  lastname2="Delila"
+  email="Anica.Delila@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>51.608</random_float>
+  <bool>true</bool>
+  <date>1983-07-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Steffane</elt><elt>Caritta</elt><elt>Nadine</elt><elt>Tina</elt><elt>Sharai</elt>  
+  <Anica>
+    <age>76</age>
+  </Anica>
+</root>

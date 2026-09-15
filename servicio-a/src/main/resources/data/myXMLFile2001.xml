@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lisette"
+  lastname="Curren"
+  city="Geelong"
+  country="Christmas Island"
+  firstname2="Daune"
+  lastname2="Halsey"
+  email="Daune.Halsey@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>98.369</random_float>
+  <bool>false</bool>
+  <date>1990-02-26</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Latisha</elt><elt>Cyb</elt><elt>Meg</elt><elt>Renae</elt><elt>Beverley</elt>  
+  <Daune>
+    <age>21</age>
+  </Daune>
+</root>

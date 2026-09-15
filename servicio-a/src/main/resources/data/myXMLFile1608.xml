@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lenna"
+  lastname="Glovsky"
+  city="Kaohsiung"
+  country="Montserrat"
+  firstname2="Alie"
+  lastname2="Marlie"
+  email="Alie.Marlie@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>72.147</random_float>
+  <bool>true</bool>
+  <date>1999-04-14</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Teriann</elt><elt>Jordan</elt><elt>Cam</elt><elt>Dagmar</elt><elt>Robinia</elt>  
+  <Alie>
+    <age>97</age>
+  </Alie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lenna"
+  lastname="O'Rourke"
+  city="Nashville"
+  country="El Salvador"
+  firstname2="Ricky"
+  lastname2="O'Rourke"
+  email="Ricky.O'Rourke@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>54.356</random_float>
+  <bool>true</bool>
+  <date>1988-05-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Robbi</elt><elt>Cassandra</elt><elt>Ira</elt><elt>Kenna</elt><elt>Reeba</elt>  
+  <Ricky>
+    <age>56</age>
+  </Ricky>
+</root>

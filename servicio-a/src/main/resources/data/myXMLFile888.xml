@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardeen"
+  lastname="Cottle"
+  city="Ambon"
+  country="Netherlands Antilles"
+  firstname2="Sheree"
+  lastname2="Tremayne"
+  email="Sheree.Tremayne@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>37.055</random_float>
+  <bool>true</bool>
+  <date>1985-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Chere</elt><elt>Melisent</elt><elt>Fayre</elt><elt>Daryl</elt><elt>Joeann</elt>  
+  <Sheree>
+    <age>70</age>
+  </Sheree>
+</root>

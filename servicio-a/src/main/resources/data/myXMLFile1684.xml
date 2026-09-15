@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathie"
+  lastname="Adlare"
+  city="Gdańsk"
+  country="Mongolia"
+  firstname2="Marcy"
+  lastname2="Tremayne"
+  email="Marcy.Tremayne@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>55.312</random_float>
+  <bool>true</bool>
+  <date>1984-05-28</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jacquetta</elt><elt>Binny</elt><elt>Myrtice</elt><elt>Ilse</elt><elt>Andree</elt>  
+  <Marcy>
+    <age>84</age>
+  </Marcy>
+</root>

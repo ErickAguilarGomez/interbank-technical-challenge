@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbara"
+  lastname="Orpah"
+  city="Handan"
+  country="Algeria"
+  firstname2="Daphne"
+  lastname2="Richers"
+  email="Daphne.Richers@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>23.265</random_float>
+  <bool>false</bool>
+  <date>1980-08-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Johna</elt><elt>Kimberley</elt><elt>Gale</elt><elt>Fidelia</elt><elt>Gabriellia</elt>  
+  <Daphne>
+    <age>21</age>
+  </Daphne>
+</root>

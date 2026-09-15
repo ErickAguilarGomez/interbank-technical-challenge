@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Shirberg"
+  city="Riverside"
+  country="Ghana"
+  firstname2="Merry"
+  lastname2="Masao"
+  email="Merry.Masao@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>12.699</random_float>
+  <bool>false</bool>
+  <date>1992-12-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Merrie</elt><elt>Clarice</elt><elt>Corry</elt><elt>Adore</elt><elt>Ursulina</elt>  
+  <Merry>
+    <age>64</age>
+  </Merry>
+</root>

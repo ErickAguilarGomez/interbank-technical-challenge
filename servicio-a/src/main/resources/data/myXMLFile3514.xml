@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tobe"
+  lastname="Zitvaa"
+  city="Bangalore"
+  country="Argentina"
+  firstname2="Camile"
+  lastname2="Pulsifer"
+  email="Camile.Pulsifer@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>86.947</random_float>
+  <bool>true</bool>
+  <date>1981-07-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Amii</elt><elt>Trudie</elt><elt>Vere</elt><elt>Lonnie</elt><elt>Letizia</elt>  
+  <Camile>
+    <age>21</age>
+  </Camile>
+</root>

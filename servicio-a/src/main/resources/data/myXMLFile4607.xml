@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nollie"
+  lastname="Bakerman"
+  city="Vitória"
+  country="Dominican Republic"
+  firstname2="Oralee"
+  lastname2="Rona"
+  email="Oralee.Rona@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>35.212</random_float>
+  <bool>false</bool>
+  <date>1983-12-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Emelina</elt><elt>Beth</elt><elt>Merry</elt><elt>Ardeen</elt><elt>Iseabal</elt>  
+  <Oralee>
+    <age>21</age>
+  </Oralee>
+</root>

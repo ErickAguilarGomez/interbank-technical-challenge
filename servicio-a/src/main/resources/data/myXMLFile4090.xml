@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harmonia"
+  lastname="Randene"
+  city="Espoo"
+  country="Jordan"
+  firstname2="Gabi"
+  lastname2="Even"
+  email="Gabi.Even@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>47.504</random_float>
+  <bool>true</bool>
+  <date>1990-05-01</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rochette</elt><elt>Ginnie</elt><elt>Lexine</elt><elt>Christy</elt><elt>Shannah</elt>  
+  <Gabi>
+    <age>30</age>
+  </Gabi>
+</root>

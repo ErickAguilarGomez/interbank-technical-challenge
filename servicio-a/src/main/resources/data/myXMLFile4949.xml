@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Noam"
+  city="Nagoya"
+  country="French Guiana"
+  firstname2="Emma"
+  lastname2="Engdahl"
+  email="Emma.Engdahl@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>100.778</random_float>
+  <bool>false</bool>
+  <date>1983-12-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gwenneth</elt><elt>Ariela</elt><elt>Fanchon</elt><elt>Charmaine</elt><elt>Ellette</elt>  
+  <Emma>
+    <age>67</age>
+  </Emma>
+</root>

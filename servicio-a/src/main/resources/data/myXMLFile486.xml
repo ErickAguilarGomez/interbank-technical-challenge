@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Danika"
+  lastname="Cyrie"
+  city="Zapopan"
+  country="Marshall Islands"
+  firstname2="Sam"
+  lastname2="Santoro"
+  email="Sam.Santoro@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>58.622</random_float>
+  <bool>true</bool>
+  <date>1997-07-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Liana</elt><elt>Meghann</elt><elt>Barbi</elt><elt>Joane</elt><elt>Bibby</elt>  
+  <Sam>
+    <age>65</age>
+  </Sam>
+</root>

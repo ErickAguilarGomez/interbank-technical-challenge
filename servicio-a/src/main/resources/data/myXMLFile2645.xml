@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Pandolfi"
+  city="Sarajevo"
+  country="United States Minor Outlying Islands"
+  firstname2="Dagmar"
+  lastname2="Donoghue"
+  email="Dagmar.Donoghue@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>69.406</random_float>
+  <bool>true</bool>
+  <date>1986-01-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Olivette</elt><elt>Yvonne</elt><elt>Adelle</elt><elt>Britte</elt><elt>Dorthy</elt>  
+  <Dagmar>
+    <age>64</age>
+  </Dagmar>
+</root>

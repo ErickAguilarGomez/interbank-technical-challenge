@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tami"
+  lastname="Weide"
+  city="Johannesburg"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Zondra"
+  lastname2="Sherrie"
+  email="Zondra.Sherrie@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>71.144</random_float>
+  <bool>true</bool>
+  <date>1996-09-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Blinni</elt><elt>Feliza</elt><elt>Tierney</elt><elt>Yvonne</elt><elt>Dagmar</elt>  
+  <Zondra>
+    <age>72</age>
+  </Zondra>
+</root>

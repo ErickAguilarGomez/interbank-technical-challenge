@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Danny"
+  lastname="Sparhawk"
+  city="Tirana"
+  country="Bolivia"
+  firstname2="Britni"
+  lastname2="Chem"
+  email="Britni.Chem@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>25.208</random_float>
+  <bool>true</bool>
+  <date>1983-04-06</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Rhea</elt><elt>Caritta</elt><elt>Donnie</elt><elt>Dagmar</elt><elt>Jacenta</elt>  
+  <Britni>
+    <age>46</age>
+  </Britni>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kenna"
+  lastname="Kellby"
+  city="Nagoya"
+  country="Nigeria"
+  firstname2="Zsa Zsa"
+  lastname2="Darbie"
+  email="Zsa Zsa.Darbie@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>73.985</random_float>
+  <bool>false</bool>
+  <date>1989-06-02</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Leia</elt><elt>Debee</elt><elt>Carlie</elt><elt>Tina</elt><elt>Sophia</elt>  
+  <Zsa Zsa>
+    <age>79</age>
+  </Zsa Zsa>
+</root>

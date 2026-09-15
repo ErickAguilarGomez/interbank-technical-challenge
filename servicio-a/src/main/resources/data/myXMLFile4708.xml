@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joane"
+  lastname="Hubert"
+  city="Shillong"
+  country="Lithuania"
+  firstname2="Leia"
+  lastname2="Kronfeld"
+  email="Leia.Kronfeld@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>30.676</random_float>
+  <bool>false</bool>
+  <date>1987-04-18</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Aigneis</elt><elt>Noelle</elt><elt>Candy</elt><elt>Yetty</elt><elt>Eve</elt>  
+  <Leia>
+    <age>66</age>
+  </Leia>
+</root>

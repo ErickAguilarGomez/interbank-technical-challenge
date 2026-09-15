@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Martsen"
+  city="Portland"
+  country="Saint Kitts and Nevis"
+  firstname2="Damaris"
+  lastname2="Zeeba"
+  email="Damaris.Zeeba@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>44.575</random_float>
+  <bool>true</bool>
+  <date>1990-12-18</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hildegaard</elt><elt>Lorenza</elt><elt>Fanchon</elt><elt>Chrystel</elt><elt>Belva</elt>  
+  <Damaris>
+    <age>28</age>
+  </Damaris>
+</root>

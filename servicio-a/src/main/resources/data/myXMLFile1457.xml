@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Yate"
+  city="Luxor"
+  country="Mongolia"
+  firstname2="Hermione"
+  lastname2="Lalitta"
+  email="Hermione.Lalitta@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>8.006</random_float>
+  <bool>false</bool>
+  <date>1990-11-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nannie</elt><elt>Brandise</elt><elt>Elvira</elt><elt>Ann-Marie</elt><elt>Janenna</elt>  
+  <Hermione>
+    <age>38</age>
+  </Hermione>
+</root>

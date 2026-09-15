@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arlena"
+  lastname="Marijo"
+  city="Palma"
+  country="French Polynesia"
+  firstname2="Basia"
+  lastname2="Rodmann"
+  email="Basia.Rodmann@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>27.036</random_float>
+  <bool>false</bool>
+  <date>1989-07-16</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Vita</elt><elt>Edee</elt><elt>Sibella</elt><elt>Jaclyn</elt><elt>Rubie</elt>  
+  <Basia>
+    <age>55</age>
+  </Basia>
+</root>

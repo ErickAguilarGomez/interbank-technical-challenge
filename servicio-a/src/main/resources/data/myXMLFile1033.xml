@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Glenden"
+  city="Oslo"
+  country="Congo"
+  firstname2="Fredericka"
+  lastname2="Liebermann"
+  email="Fredericka.Liebermann@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>56.461</random_float>
+  <bool>true</bool>
+  <date>1994-04-24</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Patricia</elt><elt>Monika</elt><elt>Kylynn</elt><elt>Demetris</elt><elt>Clarice</elt>  
+  <Fredericka>
+    <age>94</age>
+  </Fredericka>
+</root>

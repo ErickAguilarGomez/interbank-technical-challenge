@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Augustine"
+  lastname="Ramona"
+  city="Baltimore"
+  country="Palestinian Territory, Occupied"
+  firstname2="Dione"
+  lastname2="Fax"
+  email="Dione.Fax@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>80.976</random_float>
+  <bool>true</bool>
+  <date>1987-05-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cristine</elt><elt>Kassey</elt><elt>Trixi</elt><elt>Ulrike</elt><elt>Hyacinthe</elt>  
+  <Dione>
+    <age>38</age>
+  </Dione>
+</root>

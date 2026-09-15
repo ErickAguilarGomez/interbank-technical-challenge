@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Allina"
+  city="Invercargill"
+  country="Angola"
+  firstname2="Jasmina"
+  lastname2="Moseley"
+  email="Jasmina.Moseley@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>95.532</random_float>
+  <bool>true</bool>
+  <date>1993-12-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Heddie</elt><elt>Marnia</elt><elt>Agnese</elt><elt>Genovera</elt><elt>Candy</elt>  
+  <Jasmina>
+    <age>87</age>
+  </Jasmina>
+</root>

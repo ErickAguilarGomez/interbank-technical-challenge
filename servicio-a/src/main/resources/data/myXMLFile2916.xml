@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Zeeba"
+  city="Avarua"
+  country="Guyana"
+  firstname2="Shirlee"
+  lastname2="Mintz"
+  email="Shirlee.Mintz@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>44.302</random_float>
+  <bool>false</bool>
+  <date>1985-02-25</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Felice</elt><elt>Stacey</elt><elt>Gale</elt><elt>Tilly</elt><elt>Kathi</elt>  
+  <Shirlee>
+    <age>81</age>
+  </Shirlee>
+</root>

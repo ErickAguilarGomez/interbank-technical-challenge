@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ayn"
+  lastname="Rossner"
+  city="The Hague"
+  country="Korea, Republic of"
+  firstname2="Dolli"
+  lastname2="Dorine"
+  email="Dolli.Dorine@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>9.189</random_float>
+  <bool>true</bool>
+  <date>1997-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Wendi</elt><elt>Emelina</elt><elt>Kenna</elt><elt>Elka</elt><elt>Elora</elt>  
+  <Dolli>
+    <age>66</age>
+  </Dolli>
+</root>

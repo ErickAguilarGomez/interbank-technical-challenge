@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Consuela"
+  lastname="Kiersten"
+  city="Hangzhou"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Nananne"
+  lastname2="Jobi"
+  email="Nananne.Jobi@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>31.274</random_float>
+  <bool>false</bool>
+  <date>1991-09-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Aurelie</elt><elt>Ninnetta</elt><elt>Codie</elt><elt>Delilah</elt><elt>Stephanie</elt>  
+  <Nananne>
+    <age>48</age>
+  </Nananne>
+</root>

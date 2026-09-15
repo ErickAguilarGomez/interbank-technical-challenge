@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phylis"
+  lastname="Merna"
+  city="Ipoh"
+  country="Macao"
+  firstname2="Julieta"
+  lastname2="Martguerita"
+  email="Julieta.Martguerita@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>40.59</random_float>
+  <bool>false</bool>
+  <date>1988-04-03</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fanny</elt><elt>Aigneis</elt><elt>Moyna</elt><elt>Cindelyn</elt><elt>Concettina</elt>  
+  <Julieta>
+    <age>26</age>
+  </Julieta>
+</root>

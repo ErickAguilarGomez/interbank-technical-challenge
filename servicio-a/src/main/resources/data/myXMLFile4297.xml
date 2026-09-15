@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sophia"
+  lastname="LaRue"
+  city="Nicosia"
+  country="Nicaragua"
+  firstname2="Lusa"
+  lastname2="Brackely"
+  email="Lusa.Brackely@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>41.321</random_float>
+  <bool>false</bool>
+  <date>1990-11-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lynde</elt><elt>Ann-Marie</elt><elt>Minne</elt><elt>Petronia</elt><elt>Ardenia</elt>  
+  <Lusa>
+    <age>82</age>
+  </Lusa>
+</root>

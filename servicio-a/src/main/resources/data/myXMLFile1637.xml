@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tori"
+  lastname="Albertine"
+  city="Yaren District"
+  country="Angola"
+  firstname2="Ingrid"
+  lastname2="Marlie"
+  email="Ingrid.Marlie@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>72.279</random_float>
+  <bool>true</bool>
+  <date>1990-02-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lilith</elt><elt>Ellette</elt><elt>Maisey</elt><elt>Fanchon</elt><elt>Susan</elt>  
+  <Ingrid>
+    <age>67</age>
+  </Ingrid>
+</root>

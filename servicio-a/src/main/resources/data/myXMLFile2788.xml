@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phedra"
+  lastname="Ferino"
+  city="Kansas City"
+  country="Guatemala"
+  firstname2="Tomasina"
+  lastname2="Chabot"
+  email="Tomasina.Chabot@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>34.201</random_float>
+  <bool>true</bool>
+  <date>1990-03-05</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brynna</elt><elt>Corina</elt><elt>Jacquetta</elt><elt>Hyacinthe</elt><elt>Lonnie</elt>  
+  <Tomasina>
+    <age>38</age>
+  </Tomasina>
+</root>

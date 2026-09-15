@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ericka"
+  lastname="Kat"
+  city="Athens"
+  country="Saint Helena"
+  firstname2="Pamella"
+  lastname2="Mandler"
+  email="Pamella.Mandler@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>4.821</random_float>
+  <bool>true</bool>
+  <date>1986-03-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Taffy</elt><elt>Pamella</elt><elt>Moyna</elt><elt>Benita</elt><elt>Adele</elt>  
+  <Pamella>
+    <age>22</age>
+  </Pamella>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winny"
+  lastname="Tufts"
+  city="Charlotte"
+  country="Guatemala"
+  firstname2="Evita"
+  lastname2="Weinreb"
+  email="Evita.Weinreb@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>87.189</random_float>
+  <bool>true</bool>
+  <date>1980-01-07</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roslyn</elt><elt>Corry</elt><elt>Gusella</elt><elt>Harrietta</elt><elt>Stephanie</elt>  
+  <Evita>
+    <age>70</age>
+  </Evita>
+</root>

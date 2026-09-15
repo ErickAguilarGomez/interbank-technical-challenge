@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minne"
+  lastname="Mitzi"
+  city="Punta Arenas"
+  country="Samoa"
+  firstname2="Roslyn"
+  lastname2="Raul"
+  email="Roslyn.Raul@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>63.694</random_float>
+  <bool>false</bool>
+  <date>1984-03-20</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marjie</elt><elt>Lorie</elt><elt>Lulita</elt><elt>Karina</elt><elt>Cyb</elt>  
+  <Roslyn>
+    <age>35</age>
+  </Roslyn>
+</root>

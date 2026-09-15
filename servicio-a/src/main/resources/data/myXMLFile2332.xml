@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elfreda"
+  lastname="Wenoa"
+  city="Baku"
+  country="Tokelau"
+  firstname2="Frieda"
+  lastname2="Wenda"
+  email="Frieda.Wenda@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>70.334</random_float>
+  <bool>false</bool>
+  <date>1984-09-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Madeleine</elt><elt>Cissiee</elt><elt>Livvyy</elt><elt>Elbertina</elt><elt>Giustina</elt>  
+  <Frieda>
+    <age>78</age>
+  </Frieda>
+</root>

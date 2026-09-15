@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maurene"
+  lastname="Vary"
+  city="Tiraspol"
+  country="Israel"
+  firstname2="Farrah"
+  lastname2="Susannah"
+  email="Farrah.Susannah@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>44.581</random_float>
+  <bool>true</bool>
+  <date>1988-08-25</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lanna</elt><elt>Tina</elt><elt>Devina</elt><elt>Carmela</elt><elt>Shell</elt>  
+  <Farrah>
+    <age>50</age>
+  </Farrah>
+</root>

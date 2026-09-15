@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lilith"
+  lastname="Magnolia"
+  city="Tagbilaran"
+  country="Kazakhstan"
+  firstname2="Alexine"
+  lastname2="Marden"
+  email="Alexine.Marden@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>59.466</random_float>
+  <bool>true</bool>
+  <date>1999-01-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Karlee</elt><elt>Hannis</elt><elt>Chloris</elt><elt>Danika</elt><elt>Sindee</elt>  
+  <Alexine>
+    <age>61</age>
+  </Alexine>
+</root>

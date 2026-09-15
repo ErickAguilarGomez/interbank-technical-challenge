@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carol-Jean"
+  lastname="Shama"
+  city="Ipoh"
+  country="Cote D"Ivoire"
+  firstname2="Tera"
+  lastname2="Neva"
+  email="Tera.Neva@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>57.823</random_float>
+  <bool>true</bool>
+  <date>1989-01-30</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Flory</elt><elt>Trudie</elt><elt>Emma</elt><elt>Melina</elt><elt>Doralynne</elt>  
+  <Tera>
+    <age>72</age>
+  </Tera>
+</root>

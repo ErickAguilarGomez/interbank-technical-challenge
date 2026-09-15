@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="Pond"
+  city="Punta Arenas"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Kenna"
+  lastname2="Breed"
+  email="Kenna.Breed@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>5.107</random_float>
+  <bool>false</bool>
+  <date>1995-12-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aeriela</elt><elt>Phedra</elt><elt>Latisha</elt><elt>Hollie</elt><elt>Theodora</elt>  
+  <Kenna>
+    <age>75</age>
+  </Kenna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maridel"
+  lastname="Philipp"
+  city="Chittagong"
+  country="Bahrain"
+  firstname2="Miquela"
+  lastname2="Afton"
+  email="Miquela.Afton@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>100.882</random_float>
+  <bool>false</bool>
+  <date>1996-12-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sherrie</elt><elt>Britni</elt><elt>Millie</elt><elt>Stevana</elt><elt>Tina</elt>  
+  <Miquela>
+    <age>41</age>
+  </Miquela>
+</root>

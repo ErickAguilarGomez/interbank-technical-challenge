@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clarice"
+  lastname="Hertzfeld"
+  city="Podgorica"
+  country="Hong Kong"
+  firstname2="Ardenia"
+  lastname2="Casimir"
+  email="Ardenia.Casimir@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>11.129</random_float>
+  <bool>false</bool>
+  <date>1990-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kate</elt><elt>Gabriellia</elt><elt>Dorice</elt><elt>Misha</elt><elt>Bernardine</elt>  
+  <Ardenia>
+    <age>91</age>
+  </Ardenia>
+</root>

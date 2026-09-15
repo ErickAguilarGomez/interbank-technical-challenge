@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ingrid"
+  lastname="Selway"
+  city="Bergen"
+  country="AndorrA"
+  firstname2="Fernande"
+  lastname2="Georgy"
+  email="Fernande.Georgy@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>83.513</random_float>
+  <bool>false</bool>
+  <date>1980-11-20</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nataline</elt><elt>Vivia</elt><elt>Leontine</elt><elt>Drucie</elt><elt>Ernesta</elt>  
+  <Fernande>
+    <age>24</age>
+  </Fernande>
+</root>

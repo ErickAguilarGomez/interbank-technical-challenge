@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Antonietta"
+  lastname="Florina"
+  city="Yellowknife"
+  country="Iraq"
+  firstname2="Lexine"
+  lastname2="Ulphia"
+  email="Lexine.Ulphia@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>66.578</random_float>
+  <bool>false</bool>
+  <date>1982-09-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nananne</elt><elt>Bill</elt><elt>Marika</elt><elt>Lesly</elt><elt>Aigneis</elt>  
+  <Lexine>
+    <age>46</age>
+  </Lexine>
+</root>

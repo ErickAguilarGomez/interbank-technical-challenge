@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Huggins"
+  city="La Paz"
+  country="Canada"
+  firstname2="Shirlee"
+  lastname2="Raimondo"
+  email="Shirlee.Raimondo@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>40.389</random_float>
+  <bool>true</bool>
+  <date>1988-07-19</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lizzie</elt><elt>Charlena</elt><elt>Brena</elt><elt>Correy</elt><elt>Karolina</elt>  
+  <Shirlee>
+    <age>84</age>
+  </Shirlee>
+</root>

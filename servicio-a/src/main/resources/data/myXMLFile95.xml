@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genovera"
+  lastname="Emerson"
+  city="Lahore"
+  country="Sao Tome and Principe"
+  firstname2="Tami"
+  lastname2="Taam"
+  email="Tami.Taam@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>78.544</random_float>
+  <bool>true</bool>
+  <date>1994-09-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Carly</elt><elt>Cissiee</elt><elt>Joleen</elt><elt>Jsandye</elt><elt>Nollie</elt>  
+  <Tami>
+    <age>66</age>
+  </Tami>
+</root>

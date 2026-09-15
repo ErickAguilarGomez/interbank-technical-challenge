@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sybille"
+  lastname="Medrek"
+  city="Yakutsk"
+  country="Honduras"
+  firstname2="Raquela"
+  lastname2="Ajay"
+  email="Raquela.Ajay@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>60.173</random_float>
+  <bool>false</bool>
+  <date>1997-07-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Isa</elt><elt>Delilah</elt><elt>Ira</elt><elt>Allyce</elt><elt>Steffane</elt>  
+  <Raquela>
+    <age>80</age>
+  </Raquela>
+</root>

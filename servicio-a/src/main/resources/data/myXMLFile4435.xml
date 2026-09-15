@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celisse"
+  lastname="Eldrid"
+  city="Madrid"
+  country="Ecuador"
+  firstname2="Nelle"
+  lastname2="Linehan"
+  email="Nelle.Linehan@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>84.541</random_float>
+  <bool>false</bool>
+  <date>1988-09-17</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Claresta</elt><elt>Marcelline</elt><elt>Dennie</elt><elt>Cristine</elt><elt>Gianina</elt>  
+  <Nelle>
+    <age>51</age>
+  </Nelle>
+</root>

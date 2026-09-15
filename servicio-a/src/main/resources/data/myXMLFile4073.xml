@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brandise"
+  lastname="Dorine"
+  city="Sucre"
+  country="Mozambique"
+  firstname2="Hyacinthe"
+  lastname2="Rese"
+  email="Hyacinthe.Rese@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>74.896</random_float>
+  <bool>true</bool>
+  <date>1994-04-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Barbi</elt><elt>Ardenia</elt><elt>Ana</elt><elt>Coral</elt><elt>Tami</elt>  
+  <Hyacinthe>
+    <age>34</age>
+  </Hyacinthe>
+</root>

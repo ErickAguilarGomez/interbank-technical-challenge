@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Dex"
+  city="Cologne"
+  country="Mauritania"
+  firstname2="Lynea"
+  lastname2="Norrie"
+  email="Lynea.Norrie@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>99.431</random_float>
+  <bool>true</bool>
+  <date>1990-02-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Donnie</elt><elt>Clary</elt><elt>Sharlene</elt><elt>June</elt><elt>Gratia</elt>  
+  <Lynea>
+    <age>77</age>
+  </Lynea>
+</root>

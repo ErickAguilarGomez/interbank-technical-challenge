@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mignon"
+  lastname="Hylan"
+  city="Tartu"
+  country="Seychelles"
+  firstname2="Janey"
+  lastname2="Eckblad"
+  email="Janey.Eckblad@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>91.463</random_float>
+  <bool>true</bool>
+  <date>1995-01-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Corly</elt><elt>Christal</elt><elt>Kate</elt><elt>Alyssa</elt><elt>Olivette</elt>  
+  <Janey>
+    <age>26</age>
+  </Janey>
+</root>

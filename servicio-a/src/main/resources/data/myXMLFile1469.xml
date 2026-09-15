@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Sammons"
+  city="Rotterdam"
+  country="Bouvet Island"
+  firstname2="Gavrielle"
+  lastname2="Skurnik"
+  email="Gavrielle.Skurnik@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>2.526</random_float>
+  <bool>true</bool>
+  <date>1986-04-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Fina</elt><elt>Natka</elt><elt>Edee</elt><elt>Bettine</elt><elt>Angelique</elt>  
+  <Gavrielle>
+    <age>65</age>
+  </Gavrielle>
+</root>

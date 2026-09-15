@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Astra"
+  city="Angra do Heroísmo"
+  country="Gibraltar"
+  firstname2="Lynde"
+  lastname2="Goddard"
+  email="Lynde.Goddard@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>39.093</random_float>
+  <bool>true</bool>
+  <date>1980-02-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emilia</elt><elt>Nerta</elt><elt>Oona</elt><elt>Suzette</elt><elt>Sashenka</elt>  
+  <Lynde>
+    <age>22</age>
+  </Lynde>
+</root>

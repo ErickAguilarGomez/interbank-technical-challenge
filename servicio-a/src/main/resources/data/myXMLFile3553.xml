@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristabel"
+  lastname="Screens"
+  city="Nukus"
+  country="Egypt"
+  firstname2="Carolina"
+  lastname2="Rubie"
+  email="Carolina.Rubie@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>53.536</random_float>
+  <bool>false</bool>
+  <date>1986-10-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Siana</elt><elt>Harrietta</elt><elt>Janis</elt><elt>Berta</elt><elt>Alyda</elt>  
+  <Carolina>
+    <age>52</age>
+  </Carolina>
+</root>

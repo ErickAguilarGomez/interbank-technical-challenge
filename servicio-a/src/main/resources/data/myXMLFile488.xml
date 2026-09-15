@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynea"
+  lastname="Read"
+  city="Novosibirsk"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Mahalia"
+  lastname2="Faria"
+  email="Mahalia.Faria@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>62.179</random_float>
+  <bool>false</bool>
+  <date>1989-04-06</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Emylee</elt><elt>Cam</elt><elt>Kaja</elt><elt>Suzette</elt><elt>Roslyn</elt>  
+  <Mahalia>
+    <age>45</age>
+  </Mahalia>
+</root>

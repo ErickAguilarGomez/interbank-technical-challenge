@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corina"
+  lastname="Means"
+  city="Ibiza"
+  country="Zambia"
+  firstname2="Hope"
+  lastname2="Cavan"
+  email="Hope.Cavan@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>34.898</random_float>
+  <bool>false</bool>
+  <date>1982-06-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Flo</elt><elt>Almeta</elt><elt>Wileen</elt><elt>Lucy</elt><elt>Gloria</elt>  
+  <Hope>
+    <age>40</age>
+  </Hope>
+</root>

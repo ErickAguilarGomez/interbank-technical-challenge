@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dale"
+  lastname="Guthrie"
+  city="Kunming"
+  country="Suriname"
+  firstname2="Phedra"
+  lastname2="Laverne"
+  email="Phedra.Laverne@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>71.389</random_float>
+  <bool>false</bool>
+  <date>1986-11-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Angelique</elt><elt>Ileana</elt><elt>Mildrid</elt><elt>Janenna</elt><elt>Janis</elt>  
+  <Phedra>
+    <age>86</age>
+  </Phedra>
+</root>

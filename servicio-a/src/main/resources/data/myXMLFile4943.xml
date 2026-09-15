@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maye"
+  lastname="Brodench"
+  city="Bloemfontein"
+  country="Egypt"
+  firstname2="Tonia"
+  lastname2="Cullin"
+  email="Tonia.Cullin@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>55.821</random_float>
+  <bool>true</bool>
+  <date>1998-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lesly</elt><elt>Ethel</elt><elt>Fina</elt><elt>Brooks</elt><elt>Jolyn</elt>  
+  <Tonia>
+    <age>58</age>
+  </Tonia>
+</root>

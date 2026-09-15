@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aimil"
+  lastname="Voletta"
+  city="Tehran"
+  country="Antarctica"
+  firstname2="Elfreda"
+  lastname2="Constancy"
+  email="Elfreda.Constancy@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>4.505</random_float>
+  <bool>true</bool>
+  <date>1999-01-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jinny</elt><elt>Belinda</elt><elt>Florencia</elt><elt>Cam</elt><elt>Vere</elt>  
+  <Elfreda>
+    <age>67</age>
+  </Elfreda>
+</root>

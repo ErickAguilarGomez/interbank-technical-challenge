@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sherrie"
+  lastname="Herrera"
+  city="Hai Phong"
+  country="Belgium"
+  firstname2="Tracey"
+  lastname2="Fabiola"
+  email="Tracey.Fabiola@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>28.514</random_float>
+  <bool>true</bool>
+  <date>1985-12-24</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Justinn</elt><elt>Gavrielle</elt><elt>Sherrie</elt><elt>Hildegaard</elt><elt>Orsola</elt>  
+  <Tracey>
+    <age>67</age>
+  </Tracey>
+</root>

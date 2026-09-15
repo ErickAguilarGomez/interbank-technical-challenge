@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brena"
+  lastname="Velick"
+  city="New York City"
+  country="Burkina Faso"
+  firstname2="Caryl"
+  lastname2="Chrystel"
+  email="Caryl.Chrystel@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>71.064</random_float>
+  <bool>false</bool>
+  <date>1998-09-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marguerite</elt><elt>Myrtice</elt><elt>Dulcinea</elt><elt>Fernande</elt><elt>Fayre</elt>  
+  <Caryl>
+    <age>74</age>
+  </Caryl>
+</root>

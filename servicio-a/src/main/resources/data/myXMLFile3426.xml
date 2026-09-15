@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathie"
+  lastname="Bahr"
+  city="Auckland"
+  country="United States Minor Outlying Islands"
+  firstname2="Madeleine"
+  lastname2="Mata"
+  email="Madeleine.Mata@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>60.014</random_float>
+  <bool>true</bool>
+  <date>1991-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emelina</elt><elt>Layla</elt><elt>Reeba</elt><elt>Allyce</elt><elt>Merrie</elt>  
+  <Madeleine>
+    <age>46</age>
+  </Madeleine>
+</root>

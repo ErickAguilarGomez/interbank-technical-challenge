@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynde"
+  lastname="Sisile"
+  city="Dongguan"
+  country="Faroe Islands"
+  firstname2="Tybie"
+  lastname2="Nance"
+  email="Tybie.Nance@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>93.343</random_float>
+  <bool>true</bool>
+  <date>1985-11-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Livvyy</elt><elt>Elbertina</elt><elt>Arlena</elt><elt>Bertine</elt><elt>Lilith</elt>  
+  <Tybie>
+    <age>52</age>
+  </Tybie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melina"
+  lastname="Chauncey"
+  city="Multan"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Kirstin"
+  lastname2="Pitt"
+  email="Kirstin.Pitt@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>18.031</random_float>
+  <bool>true</bool>
+  <date>1984-03-09</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Winifred</elt><elt>Aubrie</elt><elt>Clary</elt><elt>Lauryn</elt><elt>Abbie</elt>  
+  <Kirstin>
+    <age>28</age>
+  </Kirstin>
+</root>

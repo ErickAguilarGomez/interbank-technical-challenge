@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andeee"
+  lastname="Millda"
+  city="Campinas"
+  country="Cuba"
+  firstname2="Amalie"
+  lastname2="Scammon"
+  email="Amalie.Scammon@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>37.234</random_float>
+  <bool>true</bool>
+  <date>1986-01-10</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Catrina</elt><elt>Elise</elt><elt>Emma</elt><elt>Kirstin</elt><elt>Cherrita</elt>  
+  <Amalie>
+    <age>26</age>
+  </Amalie>
+</root>

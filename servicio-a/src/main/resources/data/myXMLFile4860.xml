@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Courtnay"
+  lastname="Sammons"
+  city="Kraków"
+  country="Pakistan"
+  firstname2="Lory"
+  lastname2="Xerxes"
+  email="Lory.Xerxes@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>9.831</random_float>
+  <bool>false</bool>
+  <date>1995-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Wilma</elt><elt>Ariela</elt><elt>Roz</elt><elt>Malina</elt><elt>Odessa</elt>  
+  <Lory>
+    <age>29</age>
+  </Lory>
+</root>

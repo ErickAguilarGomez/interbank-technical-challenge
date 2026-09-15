@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Louella"
+  lastname="Brackely"
+  city="Atlanta"
+  country="Netherlands"
+  firstname2="Clementine"
+  lastname2="Smitt"
+  email="Clementine.Smitt@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>48.864</random_float>
+  <bool>true</bool>
+  <date>1999-02-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Doralynne</elt><elt>Magdalena</elt><elt>Berget</elt><elt>Cristine</elt><elt>Lexine</elt>  
+  <Clementine>
+    <age>19</age>
+  </Clementine>
+</root>

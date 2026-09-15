@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Iseabal"
+  lastname="Gillan"
+  city="Tianjin"
+  country="Guatemala"
+  firstname2="Sabina"
+  lastname2="Iphlgenia"
+  email="Sabina.Iphlgenia@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>73.18</random_float>
+  <bool>false</bool>
+  <date>1980-07-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Thalia</elt><elt>Gerianna</elt><elt>Kenna</elt><elt>Xylina</elt><elt>Sophia</elt>  
+  <Sabina>
+    <age>39</age>
+  </Sabina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elfreda"
+  lastname="Kylander"
+  city="Port Elizabeth"
+  country="Switzerland"
+  firstname2="Thalia"
+  lastname2="Felecia"
+  email="Thalia.Felecia@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>10.15</random_float>
+  <bool>true</bool>
+  <date>1982-05-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lucy</elt><elt>Jillayne</elt><elt>Brynna</elt><elt>Elbertina</elt><elt>Alyda</elt>  
+  <Thalia>
+    <age>60</age>
+  </Thalia>
+</root>

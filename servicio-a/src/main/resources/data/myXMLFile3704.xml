@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mignon"
+  lastname="Caitlin"
+  city="Mexicali"
+  country="United States"
+  firstname2="Atlanta"
+  lastname2="Toor"
+  email="Atlanta.Toor@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>24.143</random_float>
+  <bool>true</bool>
+  <date>1988-11-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rosabelle</elt><elt>Lolita</elt><elt>Feliza</elt><elt>Gabi</elt><elt>Petronia</elt>  
+  <Atlanta>
+    <age>88</age>
+  </Atlanta>
+</root>

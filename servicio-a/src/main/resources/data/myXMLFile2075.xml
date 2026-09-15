@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kial"
+  lastname="Munn"
+  city="Athens"
+  country="Morocco"
+  firstname2="Courtnay"
+  lastname2="Hillel"
+  email="Courtnay.Hillel@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>15.786</random_float>
+  <bool>false</bool>
+  <date>1980-09-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maud</elt><elt>Kial</elt><elt>Eolanda</elt><elt>Fayre</elt><elt>Stephanie</elt>  
+  <Courtnay>
+    <age>28</age>
+  </Courtnay>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dede"
+  lastname="Clie"
+  city="Mendoza"
+  country="Macao"
+  firstname2="Roslyn"
+  lastname2="Clie"
+  email="Roslyn.Clie@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>97.771</random_float>
+  <bool>false</bool>
+  <date>1987-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jenda</elt><elt>Gwyneth</elt><elt>Ketti</elt><elt>Mellicent</elt><elt>Kore</elt>  
+  <Roslyn>
+    <age>97</age>
+  </Roslyn>
+</root>

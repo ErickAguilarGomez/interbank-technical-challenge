@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Manolo"
+  city="Perm"
+  country="Cocos (Keeling) Islands"
+  firstname2="Alyssa"
+  lastname2="Anderea"
+  email="Alyssa.Anderea@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>79.142</random_float>
+  <bool>false</bool>
+  <date>1984-03-29</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kathi</elt><elt>Caritta</elt><elt>Anestassia</elt><elt>Nariko</elt><elt>Madelle</elt>  
+  <Alyssa>
+    <age>38</age>
+  </Alyssa>
+</root>

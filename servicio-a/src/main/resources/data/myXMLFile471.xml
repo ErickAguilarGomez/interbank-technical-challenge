@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Randa"
+  lastname="Love"
+  city="Gold Coast"
+  country="Albania"
+  firstname2="Agathe"
+  lastname2="Himelman"
+  email="Agathe.Himelman@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>24.467</random_float>
+  <bool>true</bool>
+  <date>1984-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lenna</elt><elt>Elise</elt><elt>Priscilla</elt><elt>Louella</elt><elt>Winifred</elt>  
+  <Agathe>
+    <age>37</age>
+  </Agathe>
+</root>

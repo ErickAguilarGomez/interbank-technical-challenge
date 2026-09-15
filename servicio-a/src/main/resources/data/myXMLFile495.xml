@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Pip"
+  city="Hargeisa"
+  country="Saint Pierre and Miquelon"
+  firstname2="Lulita"
+  lastname2="Susannah"
+  email="Lulita.Susannah@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>64.565</random_float>
+  <bool>true</bool>
+  <date>1985-07-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gui</elt><elt>Adele</elt><elt>Carlie</elt><elt>Molli</elt><elt>Cherilyn</elt>  
+  <Lulita>
+    <age>38</age>
+  </Lulita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chandra"
+  lastname="Dearborn"
+  city="Palma"
+  country="AndorrA"
+  firstname2="Amii"
+  lastname2="Terrence"
+  email="Amii.Terrence@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>1.549</random_float>
+  <bool>false</bool>
+  <date>1996-05-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ardenia</elt><elt>Myrtice</elt><elt>Daphne</elt><elt>Johna</elt><elt>Gusella</elt>  
+  <Amii>
+    <age>27</age>
+  </Amii>
+</root>

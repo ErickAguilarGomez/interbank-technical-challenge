@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgina"
+  lastname="Phyllis"
+  city="Kinshasa"
+  country="Nauru"
+  firstname2="Raina"
+  lastname2="Madox"
+  email="Raina.Madox@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>35.183</random_float>
+  <bool>true</bool>
+  <date>1999-12-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gusella</elt><elt>Silvana</elt><elt>Selia</elt><elt>Lesly</elt><elt>Daphne</elt>  
+  <Raina>
+    <age>21</age>
+  </Raina>
+</root>

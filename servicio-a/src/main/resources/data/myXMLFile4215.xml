@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Louella"
+  lastname="Tice"
+  city="Port Said"
+  country="Congo"
+  firstname2="Kelly"
+  lastname2="Sadowski"
+  email="Kelly.Sadowski@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>49.338</random_float>
+  <bool>true</bool>
+  <date>1986-07-23</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ernesta</elt><elt>Tatiania</elt><elt>Bertine</elt><elt>Rivalee</elt><elt>Augustine</elt>  
+  <Kelly>
+    <age>60</age>
+  </Kelly>
+</root>

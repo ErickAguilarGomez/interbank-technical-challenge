@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caressa"
+  lastname="Primalia"
+  city="Yamoussoukro"
+  country="Hong Kong"
+  firstname2="Gabriellia"
+  lastname2="Jethro"
+  email="Gabriellia.Jethro@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>17.089</random_float>
+  <bool>true</bool>
+  <date>1984-07-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elora</elt><elt>Ottilie</elt><elt>Brandise</elt><elt>Jeanna</elt><elt>Carmela</elt>  
+  <Gabriellia>
+    <age>39</age>
+  </Gabriellia>
+</root>

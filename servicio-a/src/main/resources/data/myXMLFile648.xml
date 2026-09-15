@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Shields"
+  city="Kota Bharu"
+  country="Tajikistan"
+  firstname2="Amii"
+  lastname2="Nelsen"
+  email="Amii.Nelsen@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>97.869</random_float>
+  <bool>true</bool>
+  <date>1987-10-09</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Allyce</elt><elt>Vivia</elt><elt>Lily</elt><elt>Latisha</elt><elt>Constance</elt>  
+  <Amii>
+    <age>56</age>
+  </Amii>
+</root>

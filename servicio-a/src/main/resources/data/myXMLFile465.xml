@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maye"
+  lastname="Bury"
+  city="Adana"
+  country="Ireland"
+  firstname2="Jordan"
+  lastname2="Delp"
+  email="Jordan.Delp@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>32.473</random_float>
+  <bool>false</bool>
+  <date>1982-04-16</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Genevra</elt><elt>Nataline</elt><elt>Laure</elt><elt>Flo</elt><elt>Jennica</elt>  
+  <Jordan>
+    <age>22</age>
+  </Jordan>
+</root>

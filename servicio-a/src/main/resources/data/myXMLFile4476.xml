@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Haerr"
+  city="Ciudad del Este"
+  country="Finland"
+  firstname2="Diena"
+  lastname2="Gerge"
+  email="Diena.Gerge@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>39.055</random_float>
+  <bool>false</bool>
+  <date>1989-10-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ofilia</elt><elt>Carilyn</elt><elt>Dianemarie</elt><elt>Arlena</elt><elt>Marcy</elt>  
+  <Diena>
+    <age>79</age>
+  </Diena>
+</root>

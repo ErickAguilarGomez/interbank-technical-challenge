@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Althea"
+  lastname="Winthorpe"
+  city="Shillong"
+  country="Nauru"
+  firstname2="Angela"
+  lastname2="Turne"
+  email="Angela.Turne@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>40.273</random_float>
+  <bool>false</bool>
+  <date>1992-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Viki</elt><elt>Verla</elt><elt>Averyl</elt><elt>Ida</elt><elt>Hayley</elt>  
+  <Angela>
+    <age>85</age>
+  </Angela>
+</root>

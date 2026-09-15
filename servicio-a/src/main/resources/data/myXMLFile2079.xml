@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Estell"
+  lastname="Fillbert"
+  city="Xi'an"
+  country="Reunion"
+  firstname2="Eve"
+  lastname2="Rebecka"
+  email="Eve.Rebecka@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>74.246</random_float>
+  <bool>true</bool>
+  <date>1990-04-01</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nita</elt><elt>Gilda</elt><elt>Juliane</elt><elt>Katuscha</elt><elt>Chickie</elt>  
+  <Eve>
+    <age>51</age>
+  </Eve>
+</root>

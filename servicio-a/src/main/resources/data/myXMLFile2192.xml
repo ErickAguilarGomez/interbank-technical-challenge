@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andree"
+  lastname="Lilybelle"
+  city="Melbourne"
+  country="British Indian Ocean Territory"
+  firstname2="Ardenia"
+  lastname2="Lesley"
+  email="Ardenia.Lesley@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>94.654</random_float>
+  <bool>true</bool>
+  <date>1990-07-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gusella</elt><elt>Lenna</elt><elt>Aubrie</elt><elt>Lulita</elt><elt>Dawn</elt>  
+  <Ardenia>
+    <age>18</age>
+  </Ardenia>
+</root>

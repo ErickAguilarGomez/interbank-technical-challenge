@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mathilda"
+  lastname="Llovera"
+  city="Ndola"
+  country="Mexico"
+  firstname2="Roz"
+  lastname2="Saunderson"
+  email="Roz.Saunderson@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>70.214</random_float>
+  <bool>true</bool>
+  <date>1984-10-15</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lilith</elt><elt>Louella</elt><elt>Asia</elt><elt>Lesly</elt><elt>Winny</elt>  
+  <Roz>
+    <age>77</age>
+  </Roz>
+</root>

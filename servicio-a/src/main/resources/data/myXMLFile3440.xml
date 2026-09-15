@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Arvo"
+  city="Weno"
+  country="Bouvet Island"
+  firstname2="Shaylyn"
+  lastname2="Kendrick"
+  email="Shaylyn.Kendrick@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>94.029</random_float>
+  <bool>false</bool>
+  <date>1988-07-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Regina</elt><elt>Mildrid</elt><elt>Binny</elt><elt>Violet</elt><elt>Frances</elt>  
+  <Shaylyn>
+    <age>40</age>
+  </Shaylyn>
+</root>

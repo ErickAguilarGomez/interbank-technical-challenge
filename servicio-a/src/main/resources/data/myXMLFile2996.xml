@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dianemarie"
+  lastname="Arley"
+  city="Chongqing"
+  country="Australia"
+  firstname2="Janeczka"
+  lastname2="Berard"
+  email="Janeczka.Berard@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>75.46</random_float>
+  <bool>true</bool>
+  <date>1989-02-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Farrah</elt><elt>Zaria</elt><elt>Nannie</elt><elt>Cordi</elt><elt>Ethel</elt>  
+  <Janeczka>
+    <age>19</age>
+  </Janeczka>
+</root>

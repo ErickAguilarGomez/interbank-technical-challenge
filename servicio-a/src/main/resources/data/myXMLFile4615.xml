@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aimil"
+  lastname="Ludewig"
+  city="Nouméa"
+  country="Bahrain"
+  firstname2="Beatriz"
+  lastname2="Daegal"
+  email="Beatriz.Daegal@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>80.671</random_float>
+  <bool>true</bool>
+  <date>1986-09-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jsandye</elt><elt>Suzette</elt><elt>Helsa</elt><elt>Kalina</elt><elt>Fawne</elt>  
+  <Beatriz>
+    <age>72</age>
+  </Beatriz>
+</root>

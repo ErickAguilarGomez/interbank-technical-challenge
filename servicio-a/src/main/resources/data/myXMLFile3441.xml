@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jinny"
+  lastname="Kenwood"
+  city="Padang"
+  country="Belarus"
+  firstname2="Nannie"
+  lastname2="Sundin"
+  email="Nannie.Sundin@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>77.791</random_float>
+  <bool>false</bool>
+  <date>1989-10-16</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Stephanie</elt><elt>Genovera</elt><elt>Agnese</elt><elt>Hermione</elt><elt>Anica</elt>  
+  <Nannie>
+    <age>80</age>
+  </Nannie>
+</root>

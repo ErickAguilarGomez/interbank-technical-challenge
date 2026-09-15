@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="Vorster"
+  city="Charlottetown"
+  country="Tanzania, United Republic of"
+  firstname2="Andree"
+  lastname2="Meter"
+  email="Andree.Meter@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>5.355</random_float>
+  <bool>true</bool>
+  <date>1996-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Flory</elt><elt>Minne</elt><elt>Berta</elt><elt>Anica</elt><elt>Micheline</elt>  
+  <Andree>
+    <age>75</age>
+  </Andree>
+</root>

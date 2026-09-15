@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulce"
+  lastname="Miru"
+  city="Mamoudzou"
+  country="Svalbard and Jan Mayen"
+  firstname2="Wendi"
+  lastname2="Secrest"
+  email="Wendi.Secrest@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>3.651</random_float>
+  <bool>false</bool>
+  <date>1990-01-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Meg</elt><elt>Morganica</elt><elt>Corly</elt><elt>Molli</elt><elt>Bettine</elt>  
+  <Wendi>
+    <age>99</age>
+  </Wendi>
+</root>

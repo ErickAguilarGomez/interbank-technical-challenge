@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Suzette"
+  lastname="Marsden"
+  city="Bucharest"
+  country="Spain"
+  firstname2="Nataline"
+  lastname2="Raseda"
+  email="Nataline.Raseda@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>8.651</random_float>
+  <bool>false</bool>
+  <date>1983-05-05</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Glenda</elt><elt>Shaylyn</elt><elt>Marjie</elt><elt>Tobe</elt><elt>Valera</elt>  
+  <Nataline>
+    <age>58</age>
+  </Nataline>
+</root>

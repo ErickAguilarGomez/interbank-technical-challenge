@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Therine"
+  lastname="Hebner"
+  city="Hyderabad"
+  country="Sudan"
+  firstname2="Kassey"
+  lastname2="Buffum"
+  email="Kassey.Buffum@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>62.467</random_float>
+  <bool>false</bool>
+  <date>1994-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elfreda</elt><elt>Donetta</elt><elt>Tabbatha</elt><elt>Doralynne</elt><elt>Lindie</elt>  
+  <Kassey>
+    <age>36</age>
+  </Kassey>
+</root>

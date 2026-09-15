@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dianemarie"
+  lastname="Lilas"
+  city="Quezon City"
+  country="Taiwan, Province of China"
+  firstname2="Barbara"
+  lastname2="Sheedy"
+  email="Barbara.Sheedy@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>11.03</random_float>
+  <bool>false</bool>
+  <date>1989-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Corina</elt><elt>Willetta</elt><elt>Katleen</elt><elt>Dagmar</elt><elt>Carmela</elt>  
+  <Barbara>
+    <age>45</age>
+  </Barbara>
+</root>

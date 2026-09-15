@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eugine"
+  lastname="Niccolo"
+  city="Yerevan"
+  country="Tunisia"
+  firstname2="Vivia"
+  lastname2="Palocz"
+  email="Vivia.Palocz@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>6.385</random_float>
+  <bool>true</bool>
+  <date>1995-06-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sean</elt><elt>Kary</elt><elt>Hope</elt><elt>Nerta</elt><elt>Estell</elt>  
+  <Vivia>
+    <age>92</age>
+  </Vivia>
+</root>

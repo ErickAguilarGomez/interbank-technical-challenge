@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rhoda"
+  lastname="Lareena"
+  city="Nanjing"
+  country="San Marino"
+  firstname2="Tracey"
+  lastname2="Amasa"
+  email="Tracey.Amasa@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>14.855</random_float>
+  <bool>false</bool>
+  <date>1993-05-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tamqrah</elt><elt>Priscilla</elt><elt>Karlee</elt><elt>Maurene</elt><elt>Atlanta</elt>  
+  <Tracey>
+    <age>42</age>
+  </Tracey>
+</root>

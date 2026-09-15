@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Smitt"
+  city="City of Halifax"
+  country="Algeria"
+  firstname2="Darci"
+  lastname2="Bryna"
+  email="Darci.Bryna@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>2.578</random_float>
+  <bool>false</bool>
+  <date>1991-08-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Willetta</elt><elt>Jordan</elt><elt>Claudina</elt><elt>Norine</elt><elt>Madeleine</elt>  
+  <Darci>
+    <age>62</age>
+  </Darci>
+</root>

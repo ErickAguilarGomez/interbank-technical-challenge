@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ketti"
+  lastname="An"
+  city="Gdańsk"
+  country="Monaco"
+  firstname2="Cassondra"
+  lastname2="Suanne"
+  email="Cassondra.Suanne@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>93.241</random_float>
+  <bool>false</bool>
+  <date>1985-11-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Amii</elt><elt>Lucille</elt><elt>Vonny</elt><elt>Hollie</elt><elt>Drucie</elt>  
+  <Cassondra>
+    <age>35</age>
+  </Cassondra>
+</root>

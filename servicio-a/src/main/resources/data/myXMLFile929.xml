@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phylis"
+  lastname="Cutlerr"
+  city="Kyoto"
+  country="British Indian Ocean Territory"
+  firstname2="Marcelline"
+  lastname2="Ferino"
+  email="Marcelline.Ferino@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>89.836</random_float>
+  <bool>false</bool>
+  <date>1998-01-23</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rori</elt><elt>Briney</elt><elt>Correy</elt><elt>Gaylene</elt><elt>Ricky</elt>  
+  <Marcelline>
+    <age>63</age>
+  </Marcelline>
+</root>

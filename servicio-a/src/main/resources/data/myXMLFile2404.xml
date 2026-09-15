@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cam"
+  lastname="Kress"
+  city="Cleveland"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Lyssa"
+  lastname2="Wittie"
+  email="Lyssa.Wittie@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>14.401</random_float>
+  <bool>false</bool>
+  <date>1985-12-27</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dyann</elt><elt>Joceline</elt><elt>Lisette</elt><elt>Lenna</elt><elt>Sue</elt>  
+  <Lyssa>
+    <age>96</age>
+  </Lyssa>
+</root>

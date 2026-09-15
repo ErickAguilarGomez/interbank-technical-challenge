@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berget"
+  lastname="Xerxes"
+  city="Yaoundé"
+  country="Brunei Darussalam"
+  firstname2="Deloria"
+  lastname2="Ovid"
+  email="Deloria.Ovid@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>98.601</random_float>
+  <bool>false</bool>
+  <date>1989-12-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Aurore</elt><elt>Consuela</elt><elt>Shel</elt><elt>Doro</elt><elt>Elvira</elt>  
+  <Deloria>
+    <age>84</age>
+  </Deloria>
+</root>

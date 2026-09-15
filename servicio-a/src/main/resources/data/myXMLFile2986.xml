@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Quintina"
+  lastname="Pip"
+  city="Cologne"
+  country="Pakistan"
+  firstname2="Larine"
+  lastname2="Bates"
+  email="Larine.Bates@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>22.03</random_float>
+  <bool>false</bool>
+  <date>1990-02-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jerry</elt><elt>Genevra</elt><elt>Peri</elt><elt>Jennica</elt><elt>Mathilda</elt>  
+  <Larine>
+    <age>29</age>
+  </Larine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paulita"
+  lastname="Iaverne"
+  city="Cartagena"
+  country="Trinidad and Tobago"
+  firstname2="Orsola"
+  lastname2="Garrison"
+  email="Orsola.Garrison@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>46.735</random_float>
+  <bool>true</bool>
+  <date>1986-05-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Minda</elt><elt>Jackie</elt><elt>Claresta</elt><elt>Dyann</elt><elt>Jackie</elt>  
+  <Orsola>
+    <age>26</age>
+  </Orsola>
+</root>

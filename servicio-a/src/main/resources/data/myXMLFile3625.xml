@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Audrie"
+  lastname="Tacye"
+  city="Providence"
+  country="Namibia"
+  firstname2="Raf"
+  lastname2="Codding"
+  email="Raf.Codding@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>40.654</random_float>
+  <bool>false</bool>
+  <date>1998-08-10</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jolyn</elt><elt>Layla</elt><elt>Margarette</elt><elt>Adele</elt><elt>Lilith</elt>  
+  <Raf>
+    <age>26</age>
+  </Raf>
+</root>

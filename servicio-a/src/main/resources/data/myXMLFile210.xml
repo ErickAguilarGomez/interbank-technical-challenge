@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Alwin"
+  city="Malmö"
+  country="Mali"
+  firstname2="Jennica"
+  lastname2="Jess"
+  email="Jennica.Jess@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>5.642</random_float>
+  <bool>false</bool>
+  <date>1983-12-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Vanessa</elt><elt>Meghann</elt><elt>Marleah</elt><elt>Dianemarie</elt><elt>Modestia</elt>  
+  <Jennica>
+    <age>37</age>
+  </Jennica>
+</root>

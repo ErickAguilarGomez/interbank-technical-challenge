@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annecorinne"
+  lastname="Jerold"
+  city="Khartoum"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Renae"
+  lastname2="Voletta"
+  email="Renae.Voletta@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>88.661</random_float>
+  <bool>false</bool>
+  <date>1997-09-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sharlene</elt><elt>Amelia</elt><elt>Odessa</elt><elt>Fina</elt><elt>Correy</elt>  
+  <Renae>
+    <age>68</age>
+  </Renae>
+</root>

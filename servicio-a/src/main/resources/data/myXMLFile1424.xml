@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kerrin"
+  lastname="Pettiford"
+  city="Skopje"
+  country="Togo"
+  firstname2="Vere"
+  lastname2="Prouty"
+  email="Vere.Prouty@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>73.822</random_float>
+  <bool>false</bool>
+  <date>1999-09-02</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Selma</elt><elt>Talya</elt><elt>Gui</elt><elt>Melanie</elt><elt>Olivette</elt>  
+  <Vere>
+    <age>32</age>
+  </Vere>
+</root>

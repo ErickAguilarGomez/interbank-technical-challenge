@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agathe"
+  lastname="Baylor"
+  city="Chihuahua"
+  country="Ireland"
+  firstname2="Lucille"
+  lastname2="Bivins"
+  email="Lucille.Bivins@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>72.194</random_float>
+  <bool>false</bool>
+  <date>1997-02-24</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Odessa</elt><elt>Edyth</elt><elt>Shaine</elt><elt>Kristina</elt><elt>Joelly</elt>  
+  <Lucille>
+    <age>18</age>
+  </Lucille>
+</root>

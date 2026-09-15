@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eugine"
+  lastname="Nadia"
+  city="Espoo"
+  country="United States"
+  firstname2="Ninnetta"
+  lastname2="Moina"
+  email="Ninnetta.Moina@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>38.045</random_float>
+  <bool>true</bool>
+  <date>1983-04-22</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Frances</elt><elt>Annice</elt><elt>Gilligan</elt><elt>Cassondra</elt><elt>Heddie</elt>  
+  <Ninnetta>
+    <age>78</age>
+  </Ninnetta>
+</root>

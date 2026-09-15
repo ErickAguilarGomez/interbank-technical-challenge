@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Layla"
+  lastname="Fulmer"
+  city="Muscat"
+  country="France"
+  firstname2="Elsie"
+  lastname2="Muriel"
+  email="Elsie.Muriel@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>28.428</random_float>
+  <bool>false</bool>
+  <date>1996-10-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Claresta</elt><elt>Sarette</elt><elt>Celisse</elt><elt>Wilma</elt><elt>Kimberley</elt>  
+  <Elsie>
+    <age>41</age>
+  </Elsie>
+</root>

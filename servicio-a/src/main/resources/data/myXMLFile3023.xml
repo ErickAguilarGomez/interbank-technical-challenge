@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Clarissa"
+  city="Medellín"
+  country="Guyana"
+  firstname2="Emylee"
+  lastname2="Ventre"
+  email="Emylee.Ventre@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>10.111</random_float>
+  <bool>true</bool>
+  <date>1981-10-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alyssa</elt><elt>Rori</elt><elt>Zaria</elt><elt>Desirae</elt><elt>Tersina</elt>  
+  <Emylee>
+    <age>66</age>
+  </Emylee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sherrie"
+  lastname="Gordon"
+  city="Reykjavík"
+  country="Holy See (Vatican City State)"
+  firstname2="Jsandye"
+  lastname2="Sophronia"
+  email="Jsandye.Sophronia@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>71.113</random_float>
+  <bool>false</bool>
+  <date>1987-12-20</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Babita</elt><elt>Sindee</elt><elt>Cyb</elt><elt>Lesly</elt><elt>Blondelle</elt>  
+  <Jsandye>
+    <age>60</age>
+  </Jsandye>
+</root>

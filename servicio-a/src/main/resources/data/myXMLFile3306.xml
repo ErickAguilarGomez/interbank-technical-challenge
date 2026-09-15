@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Krystle"
+  city="Liverpool"
+  country="Gambia"
+  firstname2="Kaja"
+  lastname2="Brodench"
+  email="Kaja.Brodench@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>16.144</random_float>
+  <bool>false</bool>
+  <date>1996-03-11</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Flory</elt><elt>Candi</elt><elt>Leona</elt><elt>Kittie</elt><elt>Sharai</elt>  
+  <Kaja>
+    <age>70</age>
+  </Kaja>
+</root>

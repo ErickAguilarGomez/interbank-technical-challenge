@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joane"
+  lastname="Ferrell"
+  city="Wuhan"
+  country="Canada"
+  firstname2="Kial"
+  lastname2="Chabot"
+  email="Kial.Chabot@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>89.293</random_float>
+  <bool>true</bool>
+  <date>1983-03-16</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Amii</elt><elt>Chastity</elt><elt>Rhea</elt><elt>Alia</elt><elt>Pollyanna</elt>  
+  <Kial>
+    <age>72</age>
+  </Kial>
+</root>

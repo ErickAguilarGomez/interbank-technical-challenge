@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Poll"
+  city="Tehran"
+  country="Turkey"
+  firstname2="Adele"
+  lastname2="Bonucci"
+  email="Adele.Bonucci@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>99.813</random_float>
+  <bool>false</bool>
+  <date>1982-11-24</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Isa</elt><elt>Roberta</elt><elt>Loree</elt><elt>Queenie</elt><elt>Rani</elt>  
+  <Adele>
+    <age>89</age>
+  </Adele>
+</root>

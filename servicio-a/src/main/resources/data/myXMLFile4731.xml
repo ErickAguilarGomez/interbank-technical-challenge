@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bibby"
+  lastname="Presber"
+  city="Hanga Roa"
+  country="Burundi"
+  firstname2="Kellen"
+  lastname2="Terencio"
+  email="Kellen.Terencio@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>26.375</random_float>
+  <bool>false</bool>
+  <date>1989-11-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Deane</elt><elt>Abbie</elt><elt>Mallory</elt><elt>Genevra</elt><elt>Melina</elt>  
+  <Kellen>
+    <age>76</age>
+  </Kellen>
+</root>

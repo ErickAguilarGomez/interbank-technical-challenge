@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Albertina"
+  lastname="Goddard"
+  city="Siem Reap"
+  country="Timor-Leste"
+  firstname2="Meriel"
+  lastname2="Madelene"
+  email="Meriel.Madelene@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>46.097</random_float>
+  <bool>false</bool>
+  <date>1995-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rosene</elt><elt>Regina</elt><elt>Lynnea</elt><elt>Margette</elt><elt>Kerrin</elt>  
+  <Meriel>
+    <age>95</age>
+  </Meriel>
+</root>

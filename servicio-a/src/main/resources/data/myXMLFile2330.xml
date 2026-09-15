@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janenna"
+  lastname="Schroth"
+  city="Antwerp"
+  country="Bahrain"
+  firstname2="Jasmina"
+  lastname2="Wareing"
+  email="Jasmina.Wareing@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>97.243</random_float>
+  <bool>true</bool>
+  <date>1991-08-04</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Celestyna</elt><elt>Addia</elt><elt>Cassondra</elt><elt>Netty</elt><elt>Jacenta</elt>  
+  <Jasmina>
+    <age>48</age>
+  </Jasmina>
+</root>

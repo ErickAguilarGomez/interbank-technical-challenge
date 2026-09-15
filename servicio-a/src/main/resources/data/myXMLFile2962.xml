@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dianemarie"
+  lastname="Goode"
+  city="Monrovia"
+  country="Mozambique"
+  firstname2="Marita"
+  lastname2="Bergman"
+  email="Marita.Bergman@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>76.744</random_float>
+  <bool>true</bool>
+  <date>1983-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Corene</elt><elt>Aubrie</elt><elt>Gui</elt><elt>Vivia</elt><elt>Merle</elt>  
+  <Marita>
+    <age>25</age>
+  </Marita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Tacye"
+  city="Seattle"
+  country="Jamaica"
+  firstname2="Chickie"
+  lastname2="Chesna"
+  email="Chickie.Chesna@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>81.062</random_float>
+  <bool>false</bool>
+  <date>1986-03-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Corene</elt><elt>Lizzie</elt><elt>Bernardine</elt><elt>Karly</elt><elt>Gloria</elt>  
+  <Chickie>
+    <age>28</age>
+  </Chickie>
+</root>

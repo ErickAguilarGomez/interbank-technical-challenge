@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donetta"
+  lastname="Kronfeld"
+  city="The Hague"
+  country="Antarctica"
+  firstname2="Raina"
+  lastname2="Mayeda"
+  email="Raina.Mayeda@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>55.654</random_float>
+  <bool>true</bool>
+  <date>1998-07-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Caryl</elt><elt>Kial</elt><elt>Florencia</elt><elt>Audrie</elt><elt>Cordi</elt>  
+  <Raina>
+    <age>55</age>
+  </Raina>
+</root>

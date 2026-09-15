@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Gaspard"
+  city="Marseille"
+  country="Finland"
+  firstname2="Belva"
+  lastname2="Sawtelle"
+  email="Belva.Sawtelle@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>69.859</random_float>
+  <bool>true</bool>
+  <date>1980-02-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jaime</elt><elt>Cristabel</elt><elt>Tomasina</elt><elt>Daphne</elt><elt>Marika</elt>  
+  <Belva>
+    <age>72</age>
+  </Belva>
+</root>

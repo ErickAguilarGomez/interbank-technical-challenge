@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mildrid"
+  lastname="McCutcheon"
+  city="Anadyr (town)"
+  country="Saint Pierre and Miquelon"
+  firstname2="Carolina"
+  lastname2="Bow"
+  email="Carolina.Bow@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>28.795</random_float>
+  <bool>false</bool>
+  <date>1998-05-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Laurene</elt><elt>Mariann</elt><elt>Sidoney</elt><elt>Ermengarde</elt><elt>Ursulina</elt>  
+  <Carolina>
+    <age>55</age>
+  </Carolina>
+</root>

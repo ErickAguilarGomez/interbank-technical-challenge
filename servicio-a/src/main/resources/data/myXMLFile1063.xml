@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orsola"
+  lastname="Flita"
+  city="Lyon"
+  country="Canada"
+  firstname2="Elena"
+  lastname2="Delp"
+  email="Elena.Delp@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>3.978</random_float>
+  <bool>false</bool>
+  <date>1995-07-13</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marita</elt><elt>Florie</elt><elt>Sherrie</elt><elt>Sissy</elt><elt>Cecile</elt>  
+  <Elena>
+    <age>39</age>
+  </Elena>
+</root>

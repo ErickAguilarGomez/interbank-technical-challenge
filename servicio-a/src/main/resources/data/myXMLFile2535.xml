@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melodie"
+  lastname="Charity"
+  city="Santiago de Cuba"
+  country="Netherlands Antilles"
+  firstname2="Morganica"
+  lastname2="Karl"
+  email="Morganica.Karl@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>61.191</random_float>
+  <bool>false</bool>
+  <date>1987-09-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Corina</elt><elt>Helena</elt><elt>Kalina</elt><elt>Lilith</elt><elt>Meg</elt>  
+  <Morganica>
+    <age>66</age>
+  </Morganica>
+</root>

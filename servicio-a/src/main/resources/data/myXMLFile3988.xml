@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fredericka"
+  lastname="Brackely"
+  city="Zanzibar City"
+  country="Anguilla"
+  firstname2="Vanessa"
+  lastname2="Ammann"
+  email="Vanessa.Ammann@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>24.565</random_float>
+  <bool>true</bool>
+  <date>1999-04-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kassey</elt><elt>Shauna</elt><elt>Sarette</elt><elt>Iseabal</elt><elt>Linet</elt>  
+  <Vanessa>
+    <age>52</age>
+  </Vanessa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Faso"
+  city="Nairobi"
+  country="Slovakia"
+  firstname2="Abbie"
+  lastname2="Fulmer"
+  email="Abbie.Fulmer@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>62.391</random_float>
+  <bool>false</bool>
+  <date>1996-04-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ellette</elt><elt>Alyda</elt><elt>Paule</elt><elt>Kara-Lynn</elt><elt>Blondelle</elt>  
+  <Abbie>
+    <age>81</age>
+  </Abbie>
+</root>

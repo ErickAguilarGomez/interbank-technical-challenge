@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maridel"
+  lastname="Stilwell"
+  city="Macau"
+  country="Montserrat"
+  firstname2="Leia"
+  lastname2="Glovsky"
+  email="Leia.Glovsky@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>94.514</random_float>
+  <bool>true</bool>
+  <date>1980-01-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sean</elt><elt>Dede</elt><elt>Di</elt><elt>Sandie</elt><elt>Hayley</elt>  
+  <Leia>
+    <age>18</age>
+  </Leia>
+</root>

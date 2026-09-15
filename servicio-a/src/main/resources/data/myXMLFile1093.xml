@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celene"
+  lastname="Vorster"
+  city="Kabul"
+  country="Fiji"
+  firstname2="Olivette"
+  lastname2="Sisile"
+  email="Olivette.Sisile@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>30.281</random_float>
+  <bool>true</bool>
+  <date>1998-05-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Michaelina</elt><elt>Giustina</elt><elt>Renie</elt><elt>Berget</elt><elt>Steffane</elt>  
+  <Olivette>
+    <age>38</age>
+  </Olivette>
+</root>

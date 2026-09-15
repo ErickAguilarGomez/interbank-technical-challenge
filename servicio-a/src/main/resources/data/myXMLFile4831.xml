@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rochette"
+  lastname="Tamsky"
+  city="Odessa"
+  country="Djibouti"
+  firstname2="Oralee"
+  lastname2="Letsou"
+  email="Oralee.Letsou@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>21.655</random_float>
+  <bool>true</bool>
+  <date>1981-04-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fernande</elt><elt>Taffy</elt><elt>Tierney</elt><elt>Rhoda</elt><elt>Gisela</elt>  
+  <Oralee>
+    <age>62</age>
+  </Oralee>
+</root>

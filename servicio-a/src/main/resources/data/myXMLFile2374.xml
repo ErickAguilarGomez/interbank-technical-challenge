@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shannah"
+  lastname="Othilia"
+  city="City of Halifax"
+  country="Tanzania, United Republic of"
+  firstname2="Mathilda"
+  lastname2="Even"
+  email="Mathilda.Even@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>65.11</random_float>
+  <bool>true</bool>
+  <date>1986-10-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mahalia</elt><elt>Esmeralda</elt><elt>Talya</elt><elt>Marcelline</elt><elt>Vita</elt>  
+  <Mathilda>
+    <age>68</age>
+  </Mathilda>
+</root>

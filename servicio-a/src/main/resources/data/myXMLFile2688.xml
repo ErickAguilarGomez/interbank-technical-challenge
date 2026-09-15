@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lauryn"
+  lastname="Shuler"
+  city="Accra"
+  country="Nicaragua"
+  firstname2="Dacia"
+  lastname2="Barrus"
+  email="Dacia.Barrus@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>88.465</random_float>
+  <bool>true</bool>
+  <date>1986-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dulce</elt><elt>Therine</elt><elt>Camile</elt><elt>Celisse</elt><elt>Adelle</elt>  
+  <Dacia>
+    <age>52</age>
+  </Dacia>
+</root>

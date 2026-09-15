@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Cookie"
+  city="Newcastle"
+  country="New Caledonia"
+  firstname2="Dennie"
+  lastname2="Moseley"
+  email="Dennie.Moseley@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>83.502</random_float>
+  <bool>true</bool>
+  <date>1990-01-02</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jessamyn</elt><elt>Madalyn</elt><elt>Anallese</elt><elt>Bertine</elt><elt>Modestia</elt>  
+  <Dennie>
+    <age>78</age>
+  </Dennie>
+</root>

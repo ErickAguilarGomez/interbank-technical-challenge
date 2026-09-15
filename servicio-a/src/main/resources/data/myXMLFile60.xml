@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alie"
+  lastname="Dunkin"
+  city="Shenyang"
+  country="Pitcairn"
+  firstname2="Chrystel"
+  lastname2="Bibi"
+  email="Chrystel.Bibi@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>89.996</random_float>
+  <bool>false</bool>
+  <date>1987-11-10</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jasmina</elt><elt>Cassondra</elt><elt>Cathie</elt><elt>Luci</elt><elt>Wanda</elt>  
+  <Chrystel>
+    <age>33</age>
+  </Chrystel>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardys"
+  lastname="Jarib"
+  city="Copenhagen"
+  country="Korea, Republic of"
+  firstname2="Addia"
+  lastname2="Bevin"
+  email="Addia.Bevin@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>43.285</random_float>
+  <bool>false</bool>
+  <date>1988-12-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Addia</elt><elt>Atlanta</elt><elt>Corene</elt><elt>Basia</elt><elt>Edyth</elt>  
+  <Addia>
+    <age>26</age>
+  </Addia>
+</root>

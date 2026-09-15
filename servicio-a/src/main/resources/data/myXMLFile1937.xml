@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Mata"
+  city="San Diego"
+  country="Finland"
+  firstname2="Jessamyn"
+  lastname2="Orpah"
+  email="Jessamyn.Orpah@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>46.362</random_float>
+  <bool>true</bool>
+  <date>1991-10-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Liana</elt><elt>Sandie</elt><elt>Belva</elt><elt>Ottilie</elt><elt>Marleah</elt>  
+  <Jessamyn>
+    <age>91</age>
+  </Jessamyn>
+</root>

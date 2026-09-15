@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Felice"
+  lastname="Lenny"
+  city="Hangzhou"
+  country="Netherlands Antilles"
+  firstname2="Meg"
+  lastname2="Malvino"
+  email="Meg.Malvino@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>44.085</random_float>
+  <bool>false</bool>
+  <date>1993-01-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dania</elt><elt>Carol-Jean</elt><elt>Ronna</elt><elt>Elka</elt><elt>Fred</elt>  
+  <Meg>
+    <age>60</age>
+  </Meg>
+</root>

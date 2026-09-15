@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Harriman"
+  city="Düsseldorf"
+  country="Georgia"
+  firstname2="Brynna"
+  lastname2="Lacombe"
+  email="Brynna.Lacombe@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>37.338</random_float>
+  <bool>true</bool>
+  <date>1988-03-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Daphne</elt><elt>Almeta</elt><elt>Kimberley</elt><elt>Anica</elt><elt>Jenilee</elt>  
+  <Brynna>
+    <age>89</age>
+  </Brynna>
+</root>

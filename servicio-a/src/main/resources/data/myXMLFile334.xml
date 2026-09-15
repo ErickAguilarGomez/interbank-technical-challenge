@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fina"
+  lastname="Trace"
+  city="Alexandria"
+  country="Togo"
+  firstname2="Evaleen"
+  lastname2="Othilia"
+  email="Evaleen.Othilia@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>2.248</random_float>
+  <bool>false</bool>
+  <date>1996-03-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marnia</elt><elt>Betta</elt><elt>Tybie</elt><elt>Linzy</elt><elt>Bernie</elt>  
+  <Evaleen>
+    <age>66</age>
+  </Evaleen>
+</root>

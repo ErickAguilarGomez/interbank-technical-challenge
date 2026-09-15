@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Bashemeth"
+  city="Charlottetown"
+  country="United States"
+  firstname2="Darci"
+  lastname2="Philoo"
+  email="Darci.Philoo@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>99.947</random_float>
+  <bool>false</bool>
+  <date>1992-10-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maurene</elt><elt>Kylynn</elt><elt>Jemie</elt><elt>Meg</elt><elt>Elvira</elt>  
+  <Darci>
+    <age>90</age>
+  </Darci>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jaclyn"
+  lastname="Chem"
+  city="Cape Town"
+  country="Montserrat"
+  firstname2="Minda"
+  lastname2="Johnsson"
+  email="Minda.Johnsson@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>36.235</random_float>
+  <bool>true</bool>
+  <date>1995-01-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Oona</elt><elt>Nicoli</elt><elt>Arabel</elt><elt>Clementine</elt><elt>Sibella</elt>  
+  <Minda>
+    <age>80</age>
+  </Minda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jolyn"
+  lastname="Joli"
+  city="Gangtok"
+  country="Virgin Islands, U.S."
+  firstname2="Roslyn"
+  lastname2="Chesna"
+  email="Roslyn.Chesna@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>22.742</random_float>
+  <bool>true</bool>
+  <date>1983-12-11</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Mariann</elt><elt>Wilma</elt><elt>Phylis</elt><elt>Ruthe</elt><elt>Dawn</elt>  
+  <Roslyn>
+    <age>81</age>
+  </Roslyn>
+</root>

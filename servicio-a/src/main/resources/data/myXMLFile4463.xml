@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madeleine"
+  lastname="Heisel"
+  city="Cairo"
+  country="Hong Kong"
+  firstname2="Sheree"
+  lastname2="Fadiman"
+  email="Sheree.Fadiman@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>93.346</random_float>
+  <bool>true</bool>
+  <date>1982-12-19</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lonnie</elt><elt>Daune</elt><elt>Kenna</elt><elt>Netty</elt><elt>Annice</elt>  
+  <Sheree>
+    <age>35</age>
+  </Sheree>
+</root>

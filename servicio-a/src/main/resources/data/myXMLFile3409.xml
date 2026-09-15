@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lenna"
+  lastname="Riva"
+  city="Campo Grande"
+  country="Bosnia and Herzegovina"
+  firstname2="Ethel"
+  lastname2="Sacken"
+  email="Ethel.Sacken@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>73.404</random_float>
+  <bool>true</bool>
+  <date>1996-06-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Randa</elt><elt>Hettie</elt><elt>Britni</elt><elt>Phylis</elt><elt>Korrie</elt>  
+  <Ethel>
+    <age>79</age>
+  </Ethel>
+</root>

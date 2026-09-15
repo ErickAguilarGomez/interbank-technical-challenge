@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Audrie"
+  lastname="Merat"
+  city="Guayaquil"
+  country="Gibraltar"
+  firstname2="Krystle"
+  lastname2="Lamoree"
+  email="Krystle.Lamoree@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>28.254</random_float>
+  <bool>true</bool>
+  <date>1991-02-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kellen</elt><elt>Deirdre</elt><elt>Nicoli</elt><elt>Randa</elt><elt>Vita</elt>  
+  <Krystle>
+    <age>66</age>
+  </Krystle>
+</root>

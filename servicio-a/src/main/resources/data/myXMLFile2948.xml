@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jerry"
+  lastname="An"
+  city="Dibrugarh"
+  country="Mayotte"
+  firstname2="Claudina"
+  lastname2="Solitta"
+  email="Claudina.Solitta@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>99.052</random_float>
+  <bool>true</bool>
+  <date>1990-11-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Luci</elt><elt>Oona</elt><elt>Tracey</elt><elt>Riannon</elt><elt>Shaylyn</elt>  
+  <Claudina>
+    <age>37</age>
+  </Claudina>
+</root>

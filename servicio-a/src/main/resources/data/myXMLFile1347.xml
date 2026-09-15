@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belinda"
+  lastname="Azeria"
+  city="Managua"
+  country="Panama"
+  firstname2="Janis"
+  lastname2="Elbertina"
+  email="Janis.Elbertina@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>43.32</random_float>
+  <bool>false</bool>
+  <date>1987-03-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Antonietta</elt><elt>Ariela</elt><elt>Charissa</elt><elt>Harrietta</elt><elt>Brana</elt>  
+  <Janis>
+    <age>94</age>
+  </Janis>
+</root>

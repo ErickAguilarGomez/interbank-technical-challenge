@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Devlen"
+  city="City of San Marino"
+  country="Belarus"
+  firstname2="Barbi"
+  lastname2="Dearborn"
+  email="Barbi.Dearborn@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>54.86</random_float>
+  <bool>false</bool>
+  <date>1995-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gusty</elt><elt>Gwyneth</elt><elt>Elsie</elt><elt>Felice</elt><elt>Lindie</elt>  
+  <Barbi>
+    <age>48</age>
+  </Barbi>
+</root>

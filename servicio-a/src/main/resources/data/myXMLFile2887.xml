@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanae"
+  lastname="Talia"
+  city="Zürich"
+  country="Paraguay"
+  firstname2="Kylynn"
+  lastname2="Salvidor"
+  email="Kylynn.Salvidor@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>4.476</random_float>
+  <bool>true</bool>
+  <date>1981-12-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kenna</elt><elt>Andree</elt><elt>Hallie</elt><elt>Raquela</elt><elt>Candy</elt>  
+  <Kylynn>
+    <age>23</age>
+  </Kylynn>
+</root>

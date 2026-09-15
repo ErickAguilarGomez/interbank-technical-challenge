@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Dannye"
+  city="Dhaka"
+  country="Iran, Islamic Republic Of"
+  firstname2="Jean"
+  lastname2="Grobe"
+  email="Jean.Grobe@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>55.787</random_float>
+  <bool>true</bool>
+  <date>1984-09-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Katharina</elt><elt>Agathe</elt><elt>Priscilla</elt><elt>Elmira</elt><elt>Fredericka</elt>  
+  <Jean>
+    <age>66</age>
+  </Jean>
+</root>

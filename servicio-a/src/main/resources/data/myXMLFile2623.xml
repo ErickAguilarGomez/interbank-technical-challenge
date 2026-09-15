@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aigneis"
+  lastname="Wu"
+  city="Okinawa"
+  country="Colombia"
+  firstname2="Antonietta"
+  lastname2="Santoro"
+  email="Antonietta.Santoro@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>31.208</random_float>
+  <bool>false</bool>
+  <date>1989-08-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Vonny</elt><elt>Gaylene</elt><elt>Lelah</elt><elt>Nadine</elt><elt>Rhoda</elt>  
+  <Antonietta>
+    <age>51</age>
+  </Antonietta>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Allare"
+  city="Tamale"
+  country="Australia"
+  firstname2="Kaia"
+  lastname2="Munn"
+  email="Kaia.Munn@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>66.307</random_float>
+  <bool>true</bool>
+  <date>1984-05-16</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lelah</elt><elt>Nanete</elt><elt>Florie</elt><elt>Chloris</elt><elt>Philis</elt>  
+  <Kaia>
+    <age>60</age>
+  </Kaia>
+</root>

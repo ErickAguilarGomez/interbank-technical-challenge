@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynde"
+  lastname="Gilbertson"
+  city="Petropavlovsk-Kamchatsky"
+  country="Viet Nam"
+  firstname2="Lisette"
+  lastname2="Clarissa"
+  email="Lisette.Clarissa@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>89.183</random_float>
+  <bool>false</bool>
+  <date>1989-03-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Adele</elt><elt>Alyssa</elt><elt>Tami</elt><elt>Shauna</elt><elt>Ebonee</elt>  
+  <Lisette>
+    <age>43</age>
+  </Lisette>
+</root>

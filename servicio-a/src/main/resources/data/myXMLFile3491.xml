@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marinna"
+  lastname="Vale"
+  city="Forked River"
+  country="Canada"
+  firstname2="Gusty"
+  lastname2="Hathaway"
+  email="Gusty.Hathaway@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>100.148</random_float>
+  <bool>true</bool>
+  <date>1982-07-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Oona</elt><elt>Adore</elt><elt>Theodora</elt><elt>Aurelie</elt><elt>Jillayne</elt>  
+  <Gusty>
+    <age>45</age>
+  </Gusty>
+</root>

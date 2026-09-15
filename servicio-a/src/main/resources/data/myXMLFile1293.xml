@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eugine"
+  lastname="Ranjiv"
+  city="Dededo"
+  country="Martinique"
+  firstname2="Edee"
+  lastname2="Fulmer"
+  email="Edee.Fulmer@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>49.283</random_float>
+  <bool>false</bool>
+  <date>1994-05-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Carree</elt><elt>Phedra</elt><elt>Sara-Ann</elt><elt>Dorthy</elt><elt>Caressa</elt>  
+  <Edee>
+    <age>65</age>
+  </Edee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madalyn"
+  lastname="Adrienne"
+  city="Skopje"
+  country="Guyana"
+  firstname2="Clo"
+  lastname2="Imelida"
+  email="Clo.Imelida@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>27.179</random_float>
+  <bool>false</bool>
+  <date>1989-06-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Winifred</elt><elt>Harrietta</elt><elt>Giustina</elt><elt>Lolita</elt><elt>Justinn</elt>  
+  <Clo>
+    <age>82</age>
+  </Clo>
+</root>

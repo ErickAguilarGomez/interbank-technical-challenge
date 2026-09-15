@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sam"
+  lastname="Anderea"
+  city="Semarang"
+  country="Serbia and Montenegro"
+  firstname2="Calla"
+  lastname2="Stephie"
+  email="Calla.Stephie@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>56.632</random_float>
+  <bool>true</bool>
+  <date>1985-04-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Viki</elt><elt>Sharlene</elt><elt>Adele</elt><elt>Maye</elt><elt>Paulita</elt>  
+  <Calla>
+    <age>44</age>
+  </Calla>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charissa"
+  lastname="Stefa"
+  city="Blantyre"
+  country="Afghanistan"
+  firstname2="Hildegaard"
+  lastname2="Bebe"
+  email="Hildegaard.Bebe@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>89.414</random_float>
+  <bool>false</bool>
+  <date>1980-07-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Glenda</elt><elt>Audrie</elt><elt>Lynde</elt><elt>Camile</elt><elt>Valera</elt>  
+  <Hildegaard>
+    <age>31</age>
+  </Hildegaard>
+</root>

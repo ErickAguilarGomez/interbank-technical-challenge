@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Chinua"
+  city="Shenzhen"
+  country="Faroe Islands"
+  firstname2="Marjie"
+  lastname2="Decato"
+  email="Marjie.Decato@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>61.07</random_float>
+  <bool>true</bool>
+  <date>1998-09-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ayn</elt><elt>Madelle</elt><elt>Hermione</elt><elt>Laure</elt><elt>Alisha</elt>  
+  <Marjie>
+    <age>85</age>
+  </Marjie>
+</root>

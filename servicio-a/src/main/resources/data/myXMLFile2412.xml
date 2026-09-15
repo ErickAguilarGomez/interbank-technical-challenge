@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Renie"
+  lastname="Mendez"
+  city="Calgary"
+  country="Mali"
+  firstname2="Annaliese"
+  lastname2="Urania"
+  email="Annaliese.Urania@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>8.596</random_float>
+  <bool>false</bool>
+  <date>1995-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Binny</elt><elt>Dulce</elt><elt>Corly</elt><elt>Aurelie</elt><elt>Heddie</elt>  
+  <Annaliese>
+    <age>59</age>
+  </Annaliese>
+</root>

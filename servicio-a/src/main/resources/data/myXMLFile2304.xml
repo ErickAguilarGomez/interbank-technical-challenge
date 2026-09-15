@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annecorinne"
+  lastname="Maisey"
+  city="Padang"
+  country="Sweden"
+  firstname2="Nanete"
+  lastname2="Cecile"
+  email="Nanete.Cecile@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>54.932</random_float>
+  <bool>true</bool>
+  <date>1989-02-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hayley</elt><elt>Elbertina</elt><elt>Inga</elt><elt>Rani</elt><elt>Joane</elt>  
+  <Nanete>
+    <age>31</age>
+  </Nanete>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sabina"
+  lastname="Capello"
+  city="Asunción"
+  country="Lesotho"
+  firstname2="Eadie"
+  lastname2="Presber"
+  email="Eadie.Presber@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>23.332</random_float>
+  <bool>true</bool>
+  <date>1980-08-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aeriela</elt><elt>Raina</elt><elt>Lynea</elt><elt>Georgetta</elt><elt>Cathie</elt>  
+  <Eadie>
+    <age>56</age>
+  </Eadie>
+</root>

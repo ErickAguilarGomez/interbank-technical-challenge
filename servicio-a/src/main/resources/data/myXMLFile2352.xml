@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deedee"
+  lastname="Grimbly"
+  city="Hiroshima"
+  country="Mayotte"
+  firstname2="Gale"
+  lastname2="Riva"
+  email="Gale.Riva@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>68.508</random_float>
+  <bool>true</bool>
+  <date>1994-12-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alia</elt><elt>Jaime</elt><elt>Mary</elt><elt>Lorne</elt><elt>Tilly</elt>  
+  <Gale>
+    <age>90</age>
+  </Gale>
+</root>

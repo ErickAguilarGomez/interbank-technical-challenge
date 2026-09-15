@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daune"
+  lastname="Lattie"
+  city="Sana'a"
+  country="Holy See (Vatican City State)"
+  firstname2="Consuela"
+  lastname2="Xerxes"
+  email="Consuela.Xerxes@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>62.495</random_float>
+  <bool>false</bool>
+  <date>1980-11-14</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cassondra</elt><elt>Elora</elt><elt>Rani</elt><elt>Paola</elt><elt>Tobe</elt>  
+  <Consuela>
+    <age>79</age>
+  </Consuela>
+</root>

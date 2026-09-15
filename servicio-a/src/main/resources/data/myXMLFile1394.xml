@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Andrel"
+  city="Vaduz"
+  country="Bouvet Island"
+  firstname2="Brena"
+  lastname2="Annabella"
+  email="Brena.Annabella@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>67.005</random_float>
+  <bool>true</bool>
+  <date>1983-05-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Althea</elt><elt>Ira</elt><elt>Wanda</elt><elt>Fina</elt><elt>Fina</elt>  
+  <Brena>
+    <age>42</age>
+  </Brena>
+</root>

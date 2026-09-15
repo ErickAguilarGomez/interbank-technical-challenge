@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Iseabal"
+  lastname="Sacken"
+  city="Hiroshima"
+  country="Nicaragua"
+  firstname2="Diena"
+  lastname2="Berne"
+  email="Diena.Berne@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>93.2</random_float>
+  <bool>true</bool>
+  <date>1991-12-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Yvonne</elt><elt>Roberta</elt><elt>Robinia</elt><elt>Gerrie</elt><elt>Lesly</elt>  
+  <Diena>
+    <age>31</age>
+  </Diena>
+</root>

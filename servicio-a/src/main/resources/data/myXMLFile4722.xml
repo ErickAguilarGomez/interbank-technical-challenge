@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gianina"
+  lastname="Sidonius"
+  city="Córdoba"
+  country="Egypt"
+  firstname2="Amii"
+  lastname2="Cohdwell"
+  email="Amii.Cohdwell@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>73.43</random_float>
+  <bool>false</bool>
+  <date>1989-11-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Brietta</elt><elt>Sybille</elt><elt>Johna</elt><elt>Kenna</elt><elt>Felice</elt>  
+  <Amii>
+    <age>53</age>
+  </Amii>
+</root>

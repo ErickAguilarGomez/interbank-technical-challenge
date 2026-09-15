@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arlena"
+  lastname="Berriman"
+  city="Kigali"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Shaine"
+  lastname2="Manolo"
+  email="Shaine.Manolo@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>75.509</random_float>
+  <bool>false</bool>
+  <date>1992-03-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marika</elt><elt>Orsola</elt><elt>Shandie</elt><elt>Yolane</elt><elt>Mignon</elt>  
+  <Shaine>
+    <age>35</age>
+  </Shaine>
+</root>

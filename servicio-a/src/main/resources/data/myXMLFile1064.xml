@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zondra"
+  lastname="Yerkovich"
+  city="Pretoria"
+  country="American Samoa"
+  firstname2="Judy"
+  lastname2="Hillel"
+  email="Judy.Hillel@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>66.761</random_float>
+  <bool>true</bool>
+  <date>1989-07-15</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Danika</elt><elt>Nita</elt><elt>Dennie</elt><elt>Basia</elt><elt>Fayre</elt>  
+  <Judy>
+    <age>26</age>
+  </Judy>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosabelle"
+  lastname="Lenny"
+  city="San Juan"
+  country="Liberia"
+  firstname2="Valera"
+  lastname2="Lemuela"
+  email="Valera.Lemuela@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>17.964</random_float>
+  <bool>true</bool>
+  <date>1982-04-16</date>
+  <regEx>hello to you</regEx>
+  <enum>online</enum>
+  <elt>Claresta</elt><elt>Annaliese</elt><elt>Coral</elt><elt>Minne</elt><elt>Elyssa</elt>  
+  <Valera>
+    <age>31</age>
+  </Valera>
+</root>

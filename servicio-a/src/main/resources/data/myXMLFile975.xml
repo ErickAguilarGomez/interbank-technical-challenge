@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Starla"
+  lastname="Joni"
+  city="Guayaquil"
+  country="Honduras"
+  firstname2="Evita"
+  lastname2="Rodmann"
+  email="Evita.Rodmann@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>95.698</random_float>
+  <bool>false</bool>
+  <date>1996-07-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mamie</elt><elt>Alameda</elt><elt>Peri</elt><elt>Mahalia</elt><elt>Harmonia</elt>  
+  <Evita>
+    <age>98</age>
+  </Evita>
+</root>

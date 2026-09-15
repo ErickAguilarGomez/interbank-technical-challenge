@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corene"
+  lastname="Zachary"
+  city="South Tarawa"
+  country="Bhutan"
+  firstname2="Angela"
+  lastname2="Ehrman"
+  email="Angela.Ehrman@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>89.433</random_float>
+  <bool>true</bool>
+  <date>1987-11-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ardeen</elt><elt>Mary</elt><elt>Sarette</elt><elt>Ericka</elt><elt>Shandie</elt>  
+  <Angela>
+    <age>52</age>
+  </Angela>
+</root>

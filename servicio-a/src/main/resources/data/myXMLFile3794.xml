@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ronna"
+  lastname="Valoniah"
+  city="Belém"
+  country="Dominica"
+  firstname2="Fanny"
+  lastname2="Gladstone"
+  email="Fanny.Gladstone@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>46.673</random_float>
+  <bool>true</bool>
+  <date>1993-09-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kimmy</elt><elt>Deane</elt><elt>Winifred</elt><elt>Kristina</elt><elt>Myriam</elt>  
+  <Fanny>
+    <age>52</age>
+  </Fanny>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madalyn"
+  lastname="Ventre"
+  city="Mérida"
+  country="Switzerland"
+  firstname2="Eadie"
+  lastname2="Schlosser"
+  email="Eadie.Schlosser@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>61.975</random_float>
+  <bool>false</bool>
+  <date>1983-12-18</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lynde</elt><elt>Maud</elt><elt>Merci</elt><elt>Wilma</elt><elt>Lynde</elt>  
+  <Eadie>
+    <age>28</age>
+  </Eadie>
+</root>

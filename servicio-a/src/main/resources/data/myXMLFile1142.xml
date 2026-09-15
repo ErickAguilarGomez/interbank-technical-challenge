@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kore"
+  lastname="Maisey"
+  city="Riverside"
+  country="French Polynesia"
+  firstname2="Trixi"
+  lastname2="Gaulin"
+  email="Trixi.Gaulin@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>44.988</random_float>
+  <bool>true</bool>
+  <date>1984-01-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Vere</elt><elt>Brooks</elt><elt>Laure</elt><elt>Liana</elt><elt>Rozele</elt>  
+  <Trixi>
+    <age>73</age>
+  </Trixi>
+</root>

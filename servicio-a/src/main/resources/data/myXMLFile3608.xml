@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Michaelina"
+  lastname="Secrest"
+  city="Palembang"
+  country="Australia"
+  firstname2="Eve"
+  lastname2="Marsden"
+  email="Eve.Marsden@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>91.596</random_float>
+  <bool>true</bool>
+  <date>1995-10-01</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Zondra</elt><elt>Merrie</elt><elt>Elena</elt><elt>Rhea</elt><elt>Lynde</elt>  
+  <Eve>
+    <age>47</age>
+  </Eve>
+</root>

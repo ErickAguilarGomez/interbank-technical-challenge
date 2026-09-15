@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beverley"
+  lastname="Macey"
+  city="Qingdao"
+  country="Guinea-Bissau"
+  firstname2="Corene"
+  lastname2="Gert"
+  email="Corene.Gert@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>56.224</random_float>
+  <bool>false</bool>
+  <date>1984-09-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dione</elt><elt>Oona</elt><elt>Basia</elt><elt>Frances</elt><elt>Misha</elt>  
+  <Corene>
+    <age>60</age>
+  </Corene>
+</root>

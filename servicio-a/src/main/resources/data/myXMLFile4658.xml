@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Durante"
+  city="Xi'an"
+  country="Hungary"
+  firstname2="Vevay"
+  lastname2="Mott"
+  email="Vevay.Mott@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>55.664</random_float>
+  <bool>false</bool>
+  <date>1998-02-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sissy</elt><elt>Frank</elt><elt>Jessy</elt><elt>Nollie</elt><elt>Nerta</elt>  
+  <Vevay>
+    <age>90</age>
+  </Vevay>
+</root>

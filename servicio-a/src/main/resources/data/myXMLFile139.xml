@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Talya"
+  lastname="Tice"
+  city="Bratislava"
+  country="Bulgaria"
+  firstname2="Rivalee"
+  lastname2="Alarise"
+  email="Rivalee.Alarise@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>9.237</random_float>
+  <bool>false</bool>
+  <date>1987-05-31</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sara-Ann</elt><elt>Kaja</elt><elt>Pollyanna</elt><elt>Kimmy</elt><elt>Ashlee</elt>  
+  <Rivalee>
+    <age>20</age>
+  </Rivalee>
+</root>

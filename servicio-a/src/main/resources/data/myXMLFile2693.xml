@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adele"
+  lastname="Wu"
+  city="Koulikoro"
+  country="Uruguay"
+  firstname2="Claresta"
+  lastname2="Daveta"
+  email="Claresta.Daveta@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>23.623</random_float>
+  <bool>true</bool>
+  <date>1993-08-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ursulina</elt><elt>Phedra</elt><elt>Sissy</elt><elt>Emilia</elt><elt>Jemie</elt>  
+  <Claresta>
+    <age>58</age>
+  </Claresta>
+</root>

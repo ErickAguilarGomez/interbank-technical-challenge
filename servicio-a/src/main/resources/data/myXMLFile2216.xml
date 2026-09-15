@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Grier"
+  lastname="Lowry"
+  city="Majuro"
+  country="Maldives"
+  firstname2="Audrie"
+  lastname2="Fax"
+  email="Audrie.Fax@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>97.848</random_float>
+  <bool>false</bool>
+  <date>1990-01-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jeanna</elt><elt>Wanda</elt><elt>Peri</elt><elt>Marleah</elt><elt>Mireielle</elt>  
+  <Audrie>
+    <age>61</age>
+  </Audrie>
+</root>

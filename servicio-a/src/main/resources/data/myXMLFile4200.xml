@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shauna"
+  lastname="Zola"
+  city="Sitka"
+  country="Pakistan"
+  firstname2="Kalina"
+  lastname2="Moina"
+  email="Kalina.Moina@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>43.498</random_float>
+  <bool>true</bool>
+  <date>1991-06-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Winny</elt><elt>Deane</elt><elt>Sam</elt><elt>Elise</elt><elt>Marcelline</elt>  
+  <Kalina>
+    <age>23</age>
+  </Kalina>
+</root>

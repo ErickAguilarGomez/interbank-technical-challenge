@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Shaddock"
+  city="Gaborone"
+  country="Trinidad and Tobago"
+  firstname2="Kenna"
+  lastname2="Garrison"
+  email="Kenna.Garrison@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>78.966</random_float>
+  <bool>false</bool>
+  <date>1992-12-29</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Vere</elt><elt>Jan</elt><elt>Trixi</elt><elt>Julieta</elt><elt>Robinia</elt>  
+  <Kenna>
+    <age>56</age>
+  </Kenna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Haymes"
+  city="Nanning"
+  country="American Samoa"
+  firstname2="Priscilla"
+  lastname2="Eliathas"
+  email="Priscilla.Eliathas@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>74.653</random_float>
+  <bool>false</bool>
+  <date>1993-01-05</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Genovera</elt><elt>Belinda</elt><elt>Paulita</elt><elt>Sandie</elt><elt>Pamella</elt>  
+  <Priscilla>
+    <age>19</age>
+  </Priscilla>
+</root>

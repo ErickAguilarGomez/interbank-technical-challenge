@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tiffie"
+  lastname="Llovera"
+  city="Bahía Blanca"
+  country="Lebanon"
+  firstname2="Mellicent"
+  lastname2="Howlyn"
+  email="Mellicent.Howlyn@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>98.868</random_float>
+  <bool>false</bool>
+  <date>1984-01-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shaylyn</elt><elt>Nariko</elt><elt>Vevay</elt><elt>Anallese</elt><elt>Jordan</elt>  
+  <Mellicent>
+    <age>71</age>
+  </Mellicent>
+</root>

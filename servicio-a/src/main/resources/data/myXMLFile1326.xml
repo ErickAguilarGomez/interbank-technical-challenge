@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anthia"
+  lastname="Bury"
+  city="Jerusalem"
+  country="Zambia"
+  firstname2="Carmela"
+  lastname2="Gwenore"
+  email="Carmela.Gwenore@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>10.864</random_float>
+  <bool>false</bool>
+  <date>1991-03-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elsie</elt><elt>Dulcinea</elt><elt>Trudie</elt><elt>Therine</elt><elt>Bibby</elt>  
+  <Carmela>
+    <age>50</age>
+  </Carmela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Bari"
+  city="Quezon City"
+  country="Slovakia"
+  firstname2="Christal"
+  lastname2="Bohlin"
+  email="Christal.Bohlin@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>77.929</random_float>
+  <bool>false</bool>
+  <date>1991-04-13</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Raina</elt><elt>Dolli</elt><elt>Talya</elt><elt>Jorry</elt><elt>Catrina</elt>  
+  <Christal>
+    <age>31</age>
+  </Christal>
+</root>

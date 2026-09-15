@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Laverne"
+  city="Invercargill"
+  country="Senegal"
+  firstname2="Sophia"
+  lastname2="Gaulin"
+  email="Sophia.Gaulin@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>17.192</random_float>
+  <bool>false</bool>
+  <date>1983-09-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jany</elt><elt>Chickie</elt><elt>Oona</elt><elt>Steffane</elt><elt>Karlee</elt>  
+  <Sophia>
+    <age>26</age>
+  </Sophia>
+</root>

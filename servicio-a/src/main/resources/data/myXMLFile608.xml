@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Kussell"
+  city="Makassar"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Marsiella"
+  lastname2="Colleen"
+  email="Marsiella.Colleen@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>15.49</random_float>
+  <bool>false</bool>
+  <date>1998-07-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gabi</elt><elt>Ginnie</elt><elt>Margalo</elt><elt>Julieta</elt><elt>Bernie</elt>  
+  <Marsiella>
+    <age>91</age>
+  </Marsiella>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="O'Neill"
+  city="Ouagadougou"
+  country="Comoros"
+  firstname2="Livvyy"
+  lastname2="Yerkovich"
+  email="Livvyy.Yerkovich@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>45.478</random_float>
+  <bool>false</bool>
+  <date>1999-10-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ileana</elt><elt>Abbie</elt><elt>Regina</elt><elt>Sophia</elt><elt>Hyacinthe</elt>  
+  <Livvyy>
+    <age>60</age>
+  </Livvyy>
+</root>

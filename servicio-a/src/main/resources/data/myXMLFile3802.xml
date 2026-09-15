@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laure"
+  lastname="Geffner"
+  city="San José"
+  country="Wallis and Futuna"
+  firstname2="Lorie"
+  lastname2="Agle"
+  email="Lorie.Agle@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>34.088</random_float>
+  <bool>false</bool>
+  <date>1992-09-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lory</elt><elt>Kirstin</elt><elt>Dulcinea</elt><elt>Dawn</elt><elt>Lily</elt>  
+  <Lorie>
+    <age>47</age>
+  </Lorie>
+</root>

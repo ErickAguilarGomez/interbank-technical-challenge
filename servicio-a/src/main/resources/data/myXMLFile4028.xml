@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vonny"
+  lastname="Raseda"
+  city="El Paso"
+  country="Bhutan"
+  firstname2="Dorene"
+  lastname2="Joseph"
+  email="Dorene.Joseph@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>61.594</random_float>
+  <bool>false</bool>
+  <date>1991-01-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Clementine</elt><elt>Lita</elt><elt>Pollyanna</elt><elt>Janeczka</elt><elt>Marline</elt>  
+  <Dorene>
+    <age>53</age>
+  </Dorene>
+</root>

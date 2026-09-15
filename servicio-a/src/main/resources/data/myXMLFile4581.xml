@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Gombach"
+  city="Brazzaville"
+  country="Puerto Rico"
+  firstname2="Gaylene"
+  lastname2="Parsaye"
+  email="Gaylene.Parsaye@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>21.873</random_float>
+  <bool>true</bool>
+  <date>1980-06-21</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roseline</elt><elt>Ayn</elt><elt>Dyann</elt><elt>Averyl</elt><elt>Mignon</elt>  
+  <Gaylene>
+    <age>47</age>
+  </Gaylene>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lizzie"
+  lastname="Chesna"
+  city="Tel Aviv"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Lolita"
+  lastname2="Konyn"
+  email="Lolita.Konyn@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>59.875</random_float>
+  <bool>false</bool>
+  <date>1990-10-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Miquela</elt><elt>Kirstin</elt><elt>Jaclyn</elt><elt>Ernesta</elt><elt>Merle</elt>  
+  <Lolita>
+    <age>68</age>
+  </Lolita>
+</root>

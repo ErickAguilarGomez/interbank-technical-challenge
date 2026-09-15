@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Calla"
+  lastname="Kress"
+  city="Vladivostok"
+  country="Åland Islands"
+  firstname2="Bobbi"
+  lastname2="Daveta"
+  email="Bobbi.Daveta@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>12.88</random_float>
+  <bool>false</bool>
+  <date>1984-01-09</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vevay</elt><elt>Nikki</elt><elt>Selia</elt><elt>Darci</elt><elt>Lindie</elt>  
+  <Bobbi>
+    <age>47</age>
+  </Bobbi>
+</root>

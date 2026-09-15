@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Silvana"
+  lastname="Palocz"
+  city="Amritsar"
+  country="Macao"
+  firstname2="Frieda"
+  lastname2="Thomasina"
+  email="Frieda.Thomasina@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>28.484</random_float>
+  <bool>false</bool>
+  <date>1996-03-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dagmar</elt><elt>Beverley</elt><elt>Jenilee</elt><elt>Angela</elt><elt>Ardenia</elt>  
+  <Frieda>
+    <age>20</age>
+  </Frieda>
+</root>

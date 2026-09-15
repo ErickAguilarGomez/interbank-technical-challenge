@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tori"
+  lastname="Quent"
+  city="Quezon City"
+  country="Madagascar"
+  firstname2="Chickie"
+  lastname2="Kare"
+  email="Chickie.Kare@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>93.06</random_float>
+  <bool>false</bool>
+  <date>1998-02-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Vonny</elt><elt>Benita</elt><elt>Lolita</elt><elt>Coral</elt><elt>Elfreda</elt>  
+  <Chickie>
+    <age>77</age>
+  </Chickie>
+</root>

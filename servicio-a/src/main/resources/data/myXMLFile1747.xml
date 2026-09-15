@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristabel"
+  lastname="Lia"
+  city="Rome"
+  country="Saint Helena"
+  firstname2="Corly"
+  lastname2="Stacy"
+  email="Corly.Stacy@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>41.58</random_float>
+  <bool>true</bool>
+  <date>1993-06-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lily</elt><elt>Addia</elt><elt>Delilah</elt><elt>Aeriela</elt><elt>Ingrid</elt>  
+  <Corly>
+    <age>99</age>
+  </Corly>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gabi"
+  lastname="Iiette"
+  city="Raleigh"
+  country="Isle of Man"
+  firstname2="Anica"
+  lastname2="Koehler"
+  email="Anica.Koehler@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>79.023</random_float>
+  <bool>true</bool>
+  <date>1998-11-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Esmeralda</elt><elt>Ardys</elt><elt>Louella</elt><elt>Dulce</elt><elt>Gwenneth</elt>  
+  <Anica>
+    <age>99</age>
+  </Anica>
+</root>

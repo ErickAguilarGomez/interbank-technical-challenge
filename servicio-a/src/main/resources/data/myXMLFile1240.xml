@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corly"
+  lastname="Phaidra"
+  city="Ouagadougou"
+  country="Jordan"
+  firstname2="Daphne"
+  lastname2="Ethban"
+  email="Daphne.Ethban@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>67.573</random_float>
+  <bool>false</bool>
+  <date>1994-06-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Alyda</elt><elt>Margette</elt><elt>Maud</elt><elt>Lynde</elt><elt>Magdalena</elt>  
+  <Daphne>
+    <age>86</age>
+  </Daphne>
+</root>

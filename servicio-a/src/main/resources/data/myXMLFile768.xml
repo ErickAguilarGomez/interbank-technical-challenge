@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elena"
+  lastname="Greyson"
+  city="Manila"
+  country="French Guiana"
+  firstname2="Georgetta"
+  lastname2="Audly"
+  email="Georgetta.Audly@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>82.131</random_float>
+  <bool>true</bool>
+  <date>1991-06-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jordan</elt><elt>Cam</elt><elt>Agathe</elt><elt>Lacie</elt><elt>Di</elt>  
+  <Georgetta>
+    <age>73</age>
+  </Georgetta>
+</root>

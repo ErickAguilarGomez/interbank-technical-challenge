@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trudie"
+  lastname="Cordi"
+  city="Puerto Williams"
+  country="Niue"
+  firstname2="Christal"
+  lastname2="Erskine"
+  email="Christal.Erskine@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>62.093</random_float>
+  <bool>true</bool>
+  <date>1998-07-18</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Catharine</elt><elt>Gilligan</elt><elt>Chickie</elt><elt>Jaclyn</elt><elt>Danny</elt>  
+  <Christal>
+    <age>33</age>
+  </Christal>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Stoller"
+  city="Riyadh"
+  country="Cayman Islands"
+  firstname2="Stacey"
+  lastname2="Ruvolo"
+  email="Stacey.Ruvolo@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>63.187</random_float>
+  <bool>false</bool>
+  <date>1991-01-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cyb</elt><elt>Adriana</elt><elt>Dulce</elt><elt>Jeanna</elt><elt>Kaja</elt>  
+  <Stacey>
+    <age>99</age>
+  </Stacey>
+</root>

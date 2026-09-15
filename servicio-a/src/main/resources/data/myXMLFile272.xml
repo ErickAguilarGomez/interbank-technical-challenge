@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ayn"
+  lastname="Malina"
+  city="South Tarawa"
+  country="Cape Verde"
+  firstname2="Corly"
+  lastname2="Daveta"
+  email="Corly.Daveta@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>85.968</random_float>
+  <bool>true</bool>
+  <date>1993-10-29</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Alisha</elt><elt>Adriana</elt><elt>Sheelagh</elt><elt>Pierette</elt><elt>Kittie</elt>  
+  <Corly>
+    <age>21</age>
+  </Corly>
+</root>

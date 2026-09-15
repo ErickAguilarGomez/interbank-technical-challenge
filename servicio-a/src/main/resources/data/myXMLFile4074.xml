@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rani"
+  lastname="Christal"
+  city="Vaduz"
+  country="Paraguay"
+  firstname2="Elvira"
+  lastname2="Grosz"
+  email="Elvira.Grosz@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>76.501</random_float>
+  <bool>true</bool>
+  <date>1995-01-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Donnie</elt><elt>Amii</elt><elt>Zaria</elt><elt>Nikki</elt><elt>Marcelline</elt>  
+  <Elvira>
+    <age>62</age>
+  </Elvira>
+</root>

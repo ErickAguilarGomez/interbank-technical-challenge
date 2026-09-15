@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mildrid"
+  lastname="Goth"
+  city="Ambon"
+  country="Åland Islands"
+  firstname2="Selia"
+  lastname2="Chauncey"
+  email="Selia.Chauncey@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>30.575</random_float>
+  <bool>false</bool>
+  <date>1986-10-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gratia</elt><elt>Lilith</elt><elt>Belinda</elt><elt>Annecorinne</elt><elt>Gale</elt>  
+  <Selia>
+    <age>84</age>
+  </Selia>
+</root>

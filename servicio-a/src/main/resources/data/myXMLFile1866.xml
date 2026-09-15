@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacenta"
+  lastname="Noam"
+  city="Rockhampton"
+  country="Cote D"Ivoire"
+  firstname2="Kerrin"
+  lastname2="Noam"
+  email="Kerrin.Noam@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>54.817</random_float>
+  <bool>true</bool>
+  <date>1999-09-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Karena</elt><elt>Blondelle</elt><elt>Celene</elt><elt>Susette</elt><elt>Keelia</elt>  
+  <Kerrin>
+    <age>33</age>
+  </Kerrin>
+</root>

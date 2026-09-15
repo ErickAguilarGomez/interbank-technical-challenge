@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwyneth"
+  lastname="Henebry"
+  city="Naypyidaw"
+  country="Gabon"
+  firstname2="Ivett"
+  lastname2="Irmine"
+  email="Ivett.Irmine@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>3.85</random_float>
+  <bool>true</bool>
+  <date>1994-09-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Arlina</elt><elt>Georgina</elt><elt>Chrystel</elt><elt>Kore</elt><elt>Roberta</elt>  
+  <Ivett>
+    <age>64</age>
+  </Ivett>
+</root>

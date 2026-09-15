@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carolina"
+  lastname="Tybald"
+  city="St. John's"
+  country="Bosnia and Herzegovina"
+  firstname2="Ninnetta"
+  lastname2="Chandler"
+  email="Ninnetta.Chandler@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>89.997</random_float>
+  <bool>false</bool>
+  <date>1998-05-27</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dacia</elt><elt>Ottilie</elt><elt>Layla</elt><elt>Lauryn</elt><elt>Georgina</elt>  
+  <Ninnetta>
+    <age>88</age>
+  </Ninnetta>
+</root>

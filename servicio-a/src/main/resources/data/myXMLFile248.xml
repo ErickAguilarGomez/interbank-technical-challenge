@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rhea"
+  lastname="Norrie"
+  city="Innsbruck"
+  country="Nigeria"
+  firstname2="Orsola"
+  lastname2="Teddman"
+  email="Orsola.Teddman@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>51.472</random_float>
+  <bool>true</bool>
+  <date>1995-06-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Corry</elt><elt>Raquela</elt><elt>Catrina</elt><elt>Daryl</elt><elt>Odessa</elt>  
+  <Orsola>
+    <age>43</age>
+  </Orsola>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Winnick"
+  city="Cebu City"
+  country="Holy See (Vatican City State)"
+  firstname2="Paule"
+  lastname2="Malanie"
+  email="Paule.Malanie@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>92.251</random_float>
+  <bool>true</bool>
+  <date>1999-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Edith</elt><elt>Jorry</elt><elt>Gaylene</elt><elt>Joleen</elt><elt>Glenda</elt>  
+  <Paule>
+    <age>65</age>
+  </Paule>
+</root>

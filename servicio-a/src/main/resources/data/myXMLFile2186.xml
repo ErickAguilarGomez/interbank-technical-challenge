@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lizzie"
+  lastname="Robertson"
+  city="Skopje"
+  country="Bermuda"
+  firstname2="Tera"
+  lastname2="Alarise"
+  email="Tera.Alarise@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>77.034</random_float>
+  <bool>false</bool>
+  <date>1994-09-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gilda</elt><elt>Norine</elt><elt>Netty</elt><elt>Talya</elt><elt>Georgina</elt>  
+  <Tera>
+    <age>64</age>
+  </Tera>
+</root>

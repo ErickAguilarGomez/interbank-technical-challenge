@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Marsden"
+  city="Frankfurt"
+  country="Uganda"
+  firstname2="Cassondra"
+  lastname2="Suzetta"
+  email="Cassondra.Suzetta@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>52.138</random_float>
+  <bool>false</bool>
+  <date>1999-08-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lisette</elt><elt>Marline</elt><elt>Fernande</elt><elt>Kathy</elt><elt>Nollie</elt>  
+  <Cassondra>
+    <age>23</age>
+  </Cassondra>
+</root>

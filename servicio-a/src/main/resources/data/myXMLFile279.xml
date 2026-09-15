@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Casimir"
+  city="Shenyang"
+  country="Tuvalu"
+  firstname2="Juliane"
+  lastname2="Calhoun"
+  email="Juliane.Calhoun@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>97.514</random_float>
+  <bool>false</bool>
+  <date>1985-08-27</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frank</elt><elt>Nanete</elt><elt>Taffy</elt><elt>Yvonne</elt><elt>Sonni</elt>  
+  <Juliane>
+    <age>96</age>
+  </Juliane>
+</root>

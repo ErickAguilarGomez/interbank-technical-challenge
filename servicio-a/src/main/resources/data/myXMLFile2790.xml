@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kial"
+  lastname="Reinke"
+  city="Buffalo"
+  country="Afghanistan"
+  firstname2="Nollie"
+  lastname2="Winthorpe"
+  email="Nollie.Winthorpe@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>2.188</random_float>
+  <bool>false</bool>
+  <date>1981-02-17</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marjie</elt><elt>Marylou</elt><elt>Luci</elt><elt>Gavrielle</elt><elt>Ronna</elt>  
+  <Nollie>
+    <age>92</age>
+  </Nollie>
+</root>

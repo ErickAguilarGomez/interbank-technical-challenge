@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zondra"
+  lastname="Therine"
+  city="Glasgow"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Alexine"
+  lastname2="Bow"
+  email="Alexine.Bow@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>38.255</random_float>
+  <bool>true</bool>
+  <date>1995-08-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marleah</elt><elt>Oralee</elt><elt>Wynne</elt><elt>Ernesta</elt><elt>Marcy</elt>  
+  <Alexine>
+    <age>28</age>
+  </Alexine>
+</root>

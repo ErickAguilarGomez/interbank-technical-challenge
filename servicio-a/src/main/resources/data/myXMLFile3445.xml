@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kalina"
+  lastname="Ade"
+  city="Labasa"
+  country="Equatorial Guinea"
+  firstname2="Kimmy"
+  lastname2="Andrel"
+  email="Kimmy.Andrel@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>64.491</random_float>
+  <bool>true</bool>
+  <date>1988-03-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dyann</elt><elt>Drucie</elt><elt>Elena</elt><elt>Sabina</elt><elt>Jorry</elt>  
+  <Kimmy>
+    <age>36</age>
+  </Kimmy>
+</root>

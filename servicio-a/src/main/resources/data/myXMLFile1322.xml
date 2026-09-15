@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bertine"
+  lastname="Tatianas"
+  city="Kansas City"
+  country="Bouvet Island"
+  firstname2="Chrystel"
+  lastname2="Girardo"
+  email="Chrystel.Girardo@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>88.477</random_float>
+  <bool>false</bool>
+  <date>1999-03-23</date>
+  <regEx>helloooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Albertina</elt><elt>Karina</elt><elt>Di</elt><elt>Danny</elt><elt>Kate</elt>  
+  <Chrystel>
+    <age>30</age>
+  </Chrystel>
+</root>

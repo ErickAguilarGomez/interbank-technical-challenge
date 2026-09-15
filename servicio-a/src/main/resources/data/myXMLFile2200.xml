@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stevana"
+  lastname="Rolf"
+  city="Lomé"
+  country="Syrian Arab Republic"
+  firstname2="Rhoda"
+  lastname2="LaRue"
+  email="Rhoda.LaRue@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>24.82</random_float>
+  <bool>true</bool>
+  <date>1990-02-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dagmar</elt><elt>Ginnie</elt><elt>Constance</elt><elt>Lolita</elt><elt>Helsa</elt>  
+  <Rhoda>
+    <age>99</age>
+  </Rhoda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jillayne"
+  lastname="Dermott"
+  city="Santa Cruz de la Sierra"
+  country="Vanuatu"
+  firstname2="Chloris"
+  lastname2="Anderea"
+  email="Chloris.Anderea@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>53.83</random_float>
+  <bool>false</bool>
+  <date>1994-09-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Janis</elt><elt>Feliza</elt><elt>Gwyneth</elt><elt>Aimil</elt><elt>Evita</elt>  
+  <Chloris>
+    <age>31</age>
+  </Chloris>
+</root>

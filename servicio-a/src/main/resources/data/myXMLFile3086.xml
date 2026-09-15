@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sean"
+  lastname="O'Neill"
+  city="Alor Star"
+  country="Dominica"
+  firstname2="Fernande"
+  lastname2="Kendrick"
+  email="Fernande.Kendrick@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>15.47</random_float>
+  <bool>false</bool>
+  <date>1982-09-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elsie</elt><elt>Lynea</elt><elt>Drucie</elt><elt>Sheree</elt><elt>Nanete</elt>  
+  <Fernande>
+    <age>26</age>
+  </Fernande>
+</root>

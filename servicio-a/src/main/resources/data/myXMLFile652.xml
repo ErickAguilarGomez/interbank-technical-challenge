@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anestassia"
+  lastname="Thunell"
+  city="Thessaloniki"
+  country="United States Minor Outlying Islands"
+  firstname2="Johna"
+  lastname2="Odell"
+  email="Johna.Odell@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>20.704</random_float>
+  <bool>false</bool>
+  <date>1994-04-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Beverley</elt><elt>Wilma</elt><elt>Ronna</elt><elt>Jaime</elt><elt>Damaris</elt>  
+  <Johna>
+    <age>89</age>
+  </Johna>
+</root>

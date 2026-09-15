@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winifred"
+  lastname="Drus"
+  city="Alofi"
+  country="Hong Kong"
+  firstname2="Courtnay"
+  lastname2="Hepsibah"
+  email="Courtnay.Hepsibah@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>50.852</random_float>
+  <bool>false</bool>
+  <date>1986-01-24</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cristabel</elt><elt>Brianna</elt><elt>Carmela</elt><elt>Merci</elt><elt>Nita</elt>  
+  <Courtnay>
+    <age>39</age>
+  </Courtnay>
+</root>

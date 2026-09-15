@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Averyl"
+  lastname="Henrie"
+  city="Warsaw"
+  country="Mozambique"
+  firstname2="Sophia"
+  lastname2="Presber"
+  email="Sophia.Presber@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>21.971</random_float>
+  <bool>true</bool>
+  <date>1998-08-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carree</elt><elt>Lily</elt><elt>Konstance</elt><elt>Alleen</elt><elt>Jany</elt>  
+  <Sophia>
+    <age>32</age>
+  </Sophia>
+</root>

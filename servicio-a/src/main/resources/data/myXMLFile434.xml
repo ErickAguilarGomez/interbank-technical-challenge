@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aigneis"
+  lastname="Llovera"
+  city="Ahmedabad"
+  country="Tajikistan"
+  firstname2="Daryl"
+  lastname2="Goode"
+  email="Daryl.Goode@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>10.043</random_float>
+  <bool>true</bool>
+  <date>1988-04-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Deirdre</elt><elt>Olwen</elt><elt>Berta</elt><elt>Henriette</elt><elt>Camile</elt>  
+  <Daryl>
+    <age>99</age>
+  </Daryl>
+</root>

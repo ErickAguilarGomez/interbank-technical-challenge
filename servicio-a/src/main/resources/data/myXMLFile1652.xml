@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Riannon"
+  lastname="Koehler"
+  city="Addis Ababa"
+  country="Puerto Rico"
+  firstname2="Gabi"
+  lastname2="Malina"
+  email="Gabi.Malina@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>66.808</random_float>
+  <bool>false</bool>
+  <date>1997-03-06</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Modestia</elt><elt>Drucie</elt><elt>Dale</elt><elt>Wynne</elt><elt>Jemie</elt>  
+  <Gabi>
+    <age>35</age>
+  </Gabi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Albertina"
+  lastname="Jacobah"
+  city="Dammam"
+  country="Malta"
+  firstname2="Trixi"
+  lastname2="Peti"
+  email="Trixi.Peti@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>17.212</random_float>
+  <bool>true</bool>
+  <date>1987-04-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sean</elt><elt>Beatriz</elt><elt>Gavrielle</elt><elt>Deane</elt><elt>Cherilyn</elt>  
+  <Trixi>
+    <age>88</age>
+  </Trixi>
+</root>

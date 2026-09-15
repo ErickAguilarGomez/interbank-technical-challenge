@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emma"
+  lastname="Myrilla"
+  city="Ponta Delgada"
+  country="Dominican Republic"
+  firstname2="Nyssa"
+  lastname2="Barrus"
+  email="Nyssa.Barrus@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>23.005</random_float>
+  <bool>false</bool>
+  <date>1991-12-28</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marylou</elt><elt>Rayna</elt><elt>Madelle</elt><elt>Pierette</elt><elt>Elmira</elt>  
+  <Nyssa>
+    <age>82</age>
+  </Nyssa>
+</root>

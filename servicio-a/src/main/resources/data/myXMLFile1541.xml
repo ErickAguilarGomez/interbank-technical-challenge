@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Libbie"
+  lastname="August"
+  city="Whitehorse"
+  country="Luxembourg"
+  firstname2="Kara-Lynn"
+  lastname2="Ioab"
+  email="Kara-Lynn.Ioab@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>90.612</random_float>
+  <bool>false</bool>
+  <date>1981-10-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Robbi</elt><elt>Paule</elt><elt>Inga</elt><elt>Bibby</elt><elt>Ada</elt>  
+  <Kara-Lynn>
+    <age>56</age>
+  </Kara-Lynn>
+</root>

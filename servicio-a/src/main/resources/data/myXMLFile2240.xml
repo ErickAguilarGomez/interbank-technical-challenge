@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lusa"
+  lastname="Tatianas"
+  city="Stepanakert"
+  country="Madagascar"
+  firstname2="Aryn"
+  lastname2="Brotherson"
+  email="Aryn.Brotherson@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>27.708</random_float>
+  <bool>false</bool>
+  <date>1994-04-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ursulina</elt><elt>Carol-Jean</elt><elt>Marcelline</elt><elt>Celestyna</elt><elt>Angela</elt>  
+  <Aryn>
+    <age>50</age>
+  </Aryn>
+</root>

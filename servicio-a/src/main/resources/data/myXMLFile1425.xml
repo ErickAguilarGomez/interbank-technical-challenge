@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Deny"
+  city="Port Louis"
+  country="Turkmenistan"
+  firstname2="Linet"
+  lastname2="Magdalen"
+  email="Linet.Magdalen@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>27.389</random_float>
+  <bool>true</bool>
+  <date>1982-07-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dania</elt><elt>Mireielle</elt><elt>Kellen</elt><elt>Chloris</elt><elt>Claudina</elt>  
+  <Linet>
+    <age>61</age>
+  </Linet>
+</root>

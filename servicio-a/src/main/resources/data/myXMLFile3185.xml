@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lolita"
+  lastname="Ophelia"
+  city="Malabo"
+  country="Ireland"
+  firstname2="Aubrie"
+  lastname2="Whittaker"
+  email="Aubrie.Whittaker@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>29.092</random_float>
+  <bool>false</bool>
+  <date>1995-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Latisha</elt><elt>Clementine</elt><elt>Dolli</elt><elt>Cecile</elt><elt>Sheree</elt>  
+  <Aubrie>
+    <age>57</age>
+  </Aubrie>
+</root>

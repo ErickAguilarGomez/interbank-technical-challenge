@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carree"
+  lastname="Wilona"
+  city="Funafuti"
+  country="Antigua and Barbuda"
+  firstname2="Alyssa"
+  lastname2="Seagraves"
+  email="Alyssa.Seagraves@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>9.311</random_float>
+  <bool>true</bool>
+  <date>1996-11-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lonnie</elt><elt>Elyssa</elt><elt>Sharlene</elt><elt>Dulce</elt><elt>Rosanne</elt>  
+  <Alyssa>
+    <age>51</age>
+  </Alyssa>
+</root>

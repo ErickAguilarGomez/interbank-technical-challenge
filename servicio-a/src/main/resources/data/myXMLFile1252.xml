@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Letizia"
+  lastname="Francene"
+  city="New York City"
+  country="Ethiopia"
+  firstname2="Georgetta"
+  lastname2="Kesley"
+  email="Georgetta.Kesley@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>25.688</random_float>
+  <bool>false</bool>
+  <date>1996-10-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jasmina</elt><elt>Hyacinthe</elt><elt>Ardeen</elt><elt>Jacquetta</elt><elt>Juliane</elt>  
+  <Georgetta>
+    <age>92</age>
+  </Georgetta>
+</root>

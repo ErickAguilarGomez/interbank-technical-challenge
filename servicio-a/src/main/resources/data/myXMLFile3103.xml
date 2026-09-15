@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorne"
+  lastname="Leary"
+  city="Porto Velho"
+  country="Paraguay"
+  firstname2="Hope"
+  lastname2="Holtz"
+  email="Hope.Holtz@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>26.075</random_float>
+  <bool>true</bool>
+  <date>1997-11-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gwenneth</elt><elt>Pollyanna</elt><elt>Bernie</elt><elt>Cherilyn</elt><elt>Talya</elt>  
+  <Hope>
+    <age>33</age>
+  </Hope>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sissy"
+  lastname="Sprage"
+  city="Kanpur"
+  country="Suriname"
+  firstname2="Gisela"
+  lastname2="Munn"
+  email="Gisela.Munn@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>15.931</random_float>
+  <bool>false</bool>
+  <date>1992-09-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Leontine</elt><elt>Eugine</elt><elt>Edyth</elt><elt>Aimil</elt><elt>Daphne</elt>  
+  <Gisela>
+    <age>34</age>
+  </Gisela>
+</root>

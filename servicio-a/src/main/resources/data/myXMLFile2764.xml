@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trixi"
+  lastname="Tillford"
+  city="Beirut"
+  country="Tanzania, United Republic of"
+  firstname2="Rhoda"
+  lastname2="Jacinda"
+  email="Rhoda.Jacinda@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>24.887</random_float>
+  <bool>false</bool>
+  <date>1995-04-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Estell</elt><elt>Gratia</elt><elt>Kirbee</elt><elt>Cathie</elt><elt>Heida</elt>  
+  <Rhoda>
+    <age>38</age>
+  </Rhoda>
+</root>

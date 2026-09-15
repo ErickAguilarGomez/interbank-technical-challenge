@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Septima"
+  city="Kandy"
+  country="Puerto Rico"
+  firstname2="Blinni"
+  lastname2="Cynar"
+  email="Blinni.Cynar@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>75.573</random_float>
+  <bool>false</bool>
+  <date>1994-07-16</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dennie</elt><elt>Verla</elt><elt>Annora</elt><elt>Lonnie</elt><elt>Annora</elt>  
+  <Blinni>
+    <age>29</age>
+  </Blinni>
+</root>

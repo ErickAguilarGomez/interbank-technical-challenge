@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Pascia"
+  city="Tallinn"
+  country="Qatar"
+  firstname2="Christal"
+  lastname2="Wilona"
+  email="Christal.Wilona@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>86.081</random_float>
+  <bool>true</bool>
+  <date>1982-01-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Clary</elt><elt>Netty</elt><elt>Jerry</elt><elt>Molli</elt><elt>Merrie</elt>  
+  <Christal>
+    <age>68</age>
+  </Christal>
+</root>

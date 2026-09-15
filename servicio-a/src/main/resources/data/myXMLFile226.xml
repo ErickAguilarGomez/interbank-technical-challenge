@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Miquela"
+  lastname="Alexandr"
+  city="Port Hedland"
+  country="Sri Lanka"
+  firstname2="Doralynne"
+  lastname2="Izaak"
+  email="Doralynne.Izaak@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>89.643</random_float>
+  <bool>false</bool>
+  <date>1987-06-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Doralynne</elt><elt>Romona</elt><elt>Lucille</elt><elt>Gale</elt><elt>Dawn</elt>  
+  <Doralynne>
+    <age>24</age>
+  </Doralynne>
+</root>

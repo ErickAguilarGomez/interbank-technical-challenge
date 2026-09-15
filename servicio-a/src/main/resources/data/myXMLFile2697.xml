@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Krystle"
+  lastname="Morehouse"
+  city="Belmopan"
+  country="Kenya"
+  firstname2="Phedra"
+  lastname2="Bevin"
+  email="Phedra.Bevin@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>39.654</random_float>
+  <bool>false</bool>
+  <date>1985-08-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Beverley</elt><elt>Catrina</elt><elt>Ekaterina</elt><elt>Sabina</elt><elt>Corina</elt>  
+  <Phedra>
+    <age>27</age>
+  </Phedra>
+</root>

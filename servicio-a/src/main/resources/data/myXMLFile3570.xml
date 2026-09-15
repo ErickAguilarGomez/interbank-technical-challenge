@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jackie"
+  lastname="Hylan"
+  city="Rotterdam"
+  country="United Kingdom"
+  firstname2="Tobe"
+  lastname2="Seligman"
+  email="Tobe.Seligman@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>89.929</random_float>
+  <bool>true</bool>
+  <date>1991-09-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ayn</elt><elt>Carol-Jean</elt><elt>Kristina</elt><elt>Wendi</elt><elt>Katleen</elt>  
+  <Tobe>
+    <age>21</age>
+  </Tobe>
+</root>

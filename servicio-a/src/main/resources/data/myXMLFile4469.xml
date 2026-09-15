@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Suzette"
+  lastname="Curren"
+  city="Maseru"
+  country="Cape Verde"
+  firstname2="Ericka"
+  lastname2="Flyn"
+  email="Ericka.Flyn@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>45.707</random_float>
+  <bool>false</bool>
+  <date>1993-02-10</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bibby</elt><elt>Sheelagh</elt><elt>Jemie</elt><elt>Annora</elt><elt>Tatiania</elt>  
+  <Ericka>
+    <age>64</age>
+  </Ericka>
+</root>

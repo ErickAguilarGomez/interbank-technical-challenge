@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britni"
+  lastname="Shelba"
+  city="Tripoli"
+  country="Morocco"
+  firstname2="Marcy"
+  lastname2="Ralfston"
+  email="Marcy.Ralfston@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>53.454</random_float>
+  <bool>true</bool>
+  <date>1980-07-14</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Juliane</elt><elt>Nonnah</elt><elt>Lorenza</elt><elt>Carlie</elt><elt>Emylee</elt>  
+  <Marcy>
+    <age>30</age>
+  </Marcy>
+</root>

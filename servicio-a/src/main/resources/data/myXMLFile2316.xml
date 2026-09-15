@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evaleen"
+  lastname="Orelee"
+  city="Ürümqi"
+  country="Dominica"
+  firstname2="Kalina"
+  lastname2="Zeeba"
+  email="Kalina.Zeeba@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>26.96</random_float>
+  <bool>true</bool>
+  <date>1988-04-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Elbertina</elt><elt>Darci</elt><elt>Aurelie</elt><elt>Brietta</elt><elt>Bobinette</elt>  
+  <Kalina>
+    <age>88</age>
+  </Kalina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Diogenes"
+  city="Hiroshima"
+  country="Pakistan"
+  firstname2="Lolita"
+  lastname2="Gaal"
+  email="Lolita.Gaal@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>14.544</random_float>
+  <bool>true</bool>
+  <date>1992-11-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorthy</elt><elt>Marguerite</elt><elt>Tori</elt><elt>Peri</elt><elt>Jaime</elt>  
+  <Lolita>
+    <age>90</age>
+  </Lolita>
+</root>

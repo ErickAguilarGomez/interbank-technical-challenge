@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shannah"
+  lastname="Goode"
+  city="Lahore"
+  country="Bhutan"
+  firstname2="Rani"
+  lastname2="Boycey"
+  email="Rani.Boycey@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>33.517</random_float>
+  <bool>false</bool>
+  <date>1990-03-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Joy</elt><elt>Zaria</elt><elt>Jorry</elt><elt>Kara-Lynn</elt><elt>Ekaterina</elt>  
+  <Rani>
+    <age>48</age>
+  </Rani>
+</root>

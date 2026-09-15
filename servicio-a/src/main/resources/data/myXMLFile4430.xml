@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Odell"
+  city="San Diego"
+  country="Papua New Guinea"
+  firstname2="Orsola"
+  lastname2="Franza"
+  email="Orsola.Franza@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>64.992</random_float>
+  <bool>false</bool>
+  <date>1992-07-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kaia</elt><elt>Jillayne</elt><elt>Wilma</elt><elt>Hallie</elt><elt>Emelina</elt>  
+  <Orsola>
+    <age>69</age>
+  </Orsola>
+</root>

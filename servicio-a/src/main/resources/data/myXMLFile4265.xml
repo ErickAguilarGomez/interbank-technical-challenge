@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harrietta"
+  lastname="Franza"
+  city="Shenzhen"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Tiffie"
+  lastname2="Egbert"
+  email="Tiffie.Egbert@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>2.757</random_float>
+  <bool>true</bool>
+  <date>1989-03-23</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elsie</elt><elt>Judy</elt><elt>Annice</elt><elt>Hyacinthe</elt><elt>Gui</elt>  
+  <Tiffie>
+    <age>56</age>
+  </Tiffie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frank"
+  lastname="Daegal"
+  city="Tskhinvali"
+  country="Saudi Arabia"
+  firstname2="Nyssa"
+  lastname2="Belldas"
+  email="Nyssa.Belldas@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>17.494</random_float>
+  <bool>false</bool>
+  <date>1998-07-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Bobbi</elt><elt>Ann-Marie</elt><elt>Janenna</elt><elt>Meghann</elt><elt>Aubrie</elt>  
+  <Nyssa>
+    <age>25</age>
+  </Nyssa>
+</root>

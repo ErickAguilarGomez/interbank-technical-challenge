@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eve"
+  lastname="Jena"
+  city="Batticaloa"
+  country="Guadeloupe"
+  firstname2="Kore"
+  lastname2="Leler"
+  email="Kore.Leler@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>28.246</random_float>
+  <bool>true</bool>
+  <date>1988-10-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Georgina</elt><elt>Gwenneth</elt><elt>Eugine</elt><elt>Gerrie</elt><elt>Bernardine</elt>  
+  <Kore>
+    <age>62</age>
+  </Kore>
+</root>

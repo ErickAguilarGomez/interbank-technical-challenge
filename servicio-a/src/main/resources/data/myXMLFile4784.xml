@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Correy"
+  lastname="Grayce"
+  city="Darwin"
+  country="Guinea"
+  firstname2="Kathi"
+  lastname2="Dom"
+  email="Kathi.Dom@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>7.61</random_float>
+  <bool>false</bool>
+  <date>1995-02-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sherrie</elt><elt>Regina</elt><elt>Ileana</elt><elt>Kayla</elt><elt>Queenie</elt>  
+  <Kathi>
+    <age>25</age>
+  </Kathi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deloria"
+  lastname="Agle"
+  city="Bulawayo"
+  country="Cape Verde"
+  firstname2="Bernie"
+  lastname2="Nadia"
+  email="Bernie.Nadia@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>92.068</random_float>
+  <bool>false</bool>
+  <date>1985-01-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ardenia</elt><elt>Collen</elt><elt>Tomasina</elt><elt>Kristina</elt><elt>Vita</elt>  
+  <Bernie>
+    <age>19</age>
+  </Bernie>
+</root>

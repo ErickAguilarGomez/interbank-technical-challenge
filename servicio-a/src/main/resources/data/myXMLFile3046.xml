@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Courtnay"
+  lastname="Kirbee"
+  city="Port Blair"
+  country="Croatia"
+  firstname2="Helsa"
+  lastname2="Suk"
+  email="Helsa.Suk@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>26.648</random_float>
+  <bool>true</bool>
+  <date>1984-08-24</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kaia</elt><elt>Aaren</elt><elt>Britte</elt><elt>Dacia</elt><elt>Maud</elt>  
+  <Helsa>
+    <age>82</age>
+  </Helsa>
+</root>

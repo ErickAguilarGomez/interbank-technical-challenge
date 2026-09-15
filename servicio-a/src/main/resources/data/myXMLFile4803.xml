@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aeriela"
+  lastname="Harned"
+  city="Kigali"
+  country="Canada"
+  firstname2="Jennica"
+  lastname2="Janith"
+  email="Jennica.Janith@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>13.582</random_float>
+  <bool>true</bool>
+  <date>1997-11-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mallory</elt><elt>Kary</elt><elt>Eadie</elt><elt>Nita</elt><elt>Roseline</elt>  
+  <Jennica>
+    <age>58</age>
+  </Jennica>
+</root>

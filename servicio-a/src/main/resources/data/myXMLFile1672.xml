@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="McAdams"
+  city="Accra"
+  country="Isle of Man"
+  firstname2="Norine"
+  lastname2="Rocray"
+  email="Norine.Rocray@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>3.548</random_float>
+  <bool>true</bool>
+  <date>1984-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carree</elt><elt>Jenda</elt><elt>Hallie</elt><elt>Collen</elt><elt>Alie</elt>  
+  <Norine>
+    <age>96</age>
+  </Norine>
+</root>

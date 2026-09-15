@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tressa"
+  lastname="Nisbet"
+  city="Koror"
+  country="Ethiopia"
+  firstname2="Tobe"
+  lastname2="Bord"
+  email="Tobe.Bord@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>45.69</random_float>
+  <bool>false</bool>
+  <date>1995-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Harrietta</elt><elt>Helsa</elt><elt>Codie</elt><elt>Glynnis</elt><elt>Hettie</elt>  
+  <Tobe>
+    <age>73</age>
+  </Tobe>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sybille"
+  lastname="Ralfston"
+  city="Wollongong"
+  country="Jordan"
+  firstname2="Shandie"
+  lastname2="Dawkins"
+  email="Shandie.Dawkins@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>31.796</random_float>
+  <bool>true</bool>
+  <date>1989-12-03</date>
+  <regEx>helloo to you</regEx>
+  <enum>online</enum>
+  <elt>Joceline</elt><elt>Natka</elt><elt>Gaylene</elt><elt>Jaime</elt><elt>Hermione</elt>  
+  <Shandie>
+    <age>72</age>
+  </Shandie>
+</root>

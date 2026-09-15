@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dolli"
+  lastname="Kauppi"
+  city="Road Town"
+  country="Greece"
+  firstname2="Fidelia"
+  lastname2="Hebner"
+  email="Fidelia.Hebner@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>67.354</random_float>
+  <bool>false</bool>
+  <date>1994-08-12</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Brandise</elt><elt>Roz</elt><elt>Elvira</elt><elt>Angelique</elt><elt>Mady</elt>  
+  <Fidelia>
+    <age>18</age>
+  </Fidelia>
+</root>

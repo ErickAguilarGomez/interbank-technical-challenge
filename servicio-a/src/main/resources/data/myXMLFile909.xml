@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tobe"
+  lastname="Sabella"
+  city="Austin"
+  country="China"
+  firstname2="Kerrin"
+  lastname2="Berl"
+  email="Kerrin.Berl@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>31.354</random_float>
+  <bool>true</bool>
+  <date>1981-07-22</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cristabel</elt><elt>Carolina</elt><elt>Ilse</elt><elt>Livvyy</elt><elt>Marjie</elt>  
+  <Kerrin>
+    <age>68</age>
+  </Kerrin>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Willetta"
+  lastname="Raffo"
+  city="Cleveland"
+  country="Antigua and Barbuda"
+  firstname2="Molli"
+  lastname2="Ambrosia"
+  email="Molli.Ambrosia@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>86.998</random_float>
+  <bool>true</bool>
+  <date>1984-04-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Annaliese</elt><elt>Elfreda</elt><elt>Queenie</elt><elt>Merci</elt><elt>Xylina</elt>  
+  <Molli>
+    <age>60</age>
+  </Molli>
+</root>

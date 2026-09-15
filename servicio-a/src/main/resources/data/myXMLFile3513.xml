@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kamilah"
+  lastname="Iiette"
+  city="Alor Star"
+  country="Namibia"
+  firstname2="Chastity"
+  lastname2="Rugen"
+  email="Chastity.Rugen@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>46.854</random_float>
+  <bool>true</bool>
+  <date>1988-05-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kathi</elt><elt>Shirlee</elt><elt>Maye</elt><elt>Imojean</elt><elt>Delilah</elt>  
+  <Chastity>
+    <age>49</age>
+  </Chastity>
+</root>

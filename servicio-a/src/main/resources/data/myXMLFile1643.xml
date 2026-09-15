@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mireielle"
+  lastname="Niles"
+  city="Port Moresby"
+  country="Netherlands"
+  firstname2="Sheree"
+  lastname2="Chinua"
+  email="Sheree.Chinua@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>80.413</random_float>
+  <bool>true</bool>
+  <date>1990-07-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Olwen</elt><elt>Teddie</elt><elt>Roslyn</elt><elt>Vonny</elt><elt>Brena</elt>  
+  <Sheree>
+    <age>71</age>
+  </Sheree>
+</root>

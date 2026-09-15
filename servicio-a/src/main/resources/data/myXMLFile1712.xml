@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chloris"
+  lastname="Yorick"
+  city="Port-au-Prince"
+  country="American Samoa"
+  firstname2="Basia"
+  lastname2="Morgun"
+  email="Basia.Morgun@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>35.065</random_float>
+  <bool>true</bool>
+  <date>1996-01-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kial</elt><elt>Brana</elt><elt>Evita</elt><elt>Cissiee</elt><elt>Elise</elt>  
+  <Basia>
+    <age>90</age>
+  </Basia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Middleton"
+  city="Las Vegas"
+  country="Iran, Islamic Republic Of"
+  firstname2="Kayla"
+  lastname2="Japeth"
+  email="Kayla.Japeth@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>3.411</random_float>
+  <bool>true</bool>
+  <date>1989-03-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Celene</elt><elt>Caressa</elt><elt>Orelia</elt><elt>Krystle</elt><elt>Kristan</elt>  
+  <Kayla>
+    <age>92</age>
+  </Kayla>
+</root>

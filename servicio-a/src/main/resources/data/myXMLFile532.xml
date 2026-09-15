@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ida"
+  lastname="Gibbeon"
+  city="Yerevan"
+  country="United Arab Emirates"
+  firstname2="Fred"
+  lastname2="Waldron"
+  email="Fred.Waldron@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>26.734</random_float>
+  <bool>false</bool>
+  <date>1996-12-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Bobinette</elt><elt>Sheree</elt><elt>Joy</elt><elt>Evaleen</elt><elt>Cissiee</elt>  
+  <Fred>
+    <age>88</age>
+  </Fred>
+</root>

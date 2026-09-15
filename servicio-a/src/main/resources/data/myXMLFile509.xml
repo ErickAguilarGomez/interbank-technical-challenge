@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fawne"
+  lastname="Howlyn"
+  city="Alexandria"
+  country="Micronesia, Federated States of"
+  firstname2="Nariko"
+  lastname2="Judye"
+  email="Nariko.Judye@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>59.689</random_float>
+  <bool>false</bool>
+  <date>1983-02-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Fernande</elt><elt>Clary</elt><elt>Nannie</elt><elt>Lindie</elt><elt>Rochette</elt>  
+  <Nariko>
+    <age>27</age>
+  </Nariko>
+</root>

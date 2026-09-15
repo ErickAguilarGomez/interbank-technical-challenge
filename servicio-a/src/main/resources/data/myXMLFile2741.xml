@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claresta"
+  lastname="Ade"
+  city="Osaka"
+  country="Bahamas"
+  firstname2="Averyl"
+  lastname2="Poll"
+  email="Averyl.Poll@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>25.944</random_float>
+  <bool>false</bool>
+  <date>1999-07-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ricky</elt><elt>Clary</elt><elt>Liana</elt><elt>Lory</elt><elt>Xylina</elt>  
+  <Averyl>
+    <age>67</age>
+  </Averyl>
+</root>

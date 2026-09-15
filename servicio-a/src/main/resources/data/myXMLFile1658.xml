@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Quinn"
+  city="Veracruz"
+  country="Ukraine"
+  firstname2="Corina"
+  lastname2="Klemperer"
+  email="Corina.Klemperer@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>10.435</random_float>
+  <bool>false</bool>
+  <date>1995-03-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sallie</elt><elt>Shaylyn</elt><elt>Ann-Marie</elt><elt>Zsa Zsa</elt><elt>Brandise</elt>  
+  <Corina>
+    <age>93</age>
+  </Corina>
+</root>

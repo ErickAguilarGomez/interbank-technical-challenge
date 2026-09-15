@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dode"
+  lastname="Ammann"
+  city="Bratsk"
+  country="Haiti"
+  firstname2="Chickie"
+  lastname2="Kosey"
+  email="Chickie.Kosey@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>51.039</random_float>
+  <bool>false</bool>
+  <date>1992-02-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Myrtice</elt><elt>Xylina</elt><elt>Lenna</elt><elt>Corina</elt><elt>Tersina</elt>  
+  <Chickie>
+    <age>27</age>
+  </Chickie>
+</root>

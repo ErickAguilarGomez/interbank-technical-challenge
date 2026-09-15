@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Liva"
+  city="Labasa"
+  country="Gabon"
+  firstname2="Kaia"
+  lastname2="Santoro"
+  email="Kaia.Santoro@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>59.775</random_float>
+  <bool>false</bool>
+  <date>1998-05-05</date>
+  <regEx>hellooo world</regEx>
+  <enum>online</enum>
+  <elt>Lucille</elt><elt>Doralynne</elt><elt>Katharina</elt><elt>Ana</elt><elt>Melina</elt>  
+  <Kaia>
+    <age>23</age>
+  </Kaia>
+</root>

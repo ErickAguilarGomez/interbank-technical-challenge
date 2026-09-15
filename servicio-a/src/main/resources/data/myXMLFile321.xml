@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Zitvaa"
+  city="Gdańsk"
+  country="Greenland"
+  firstname2="Deirdre"
+  lastname2="Codding"
+  email="Deirdre.Codding@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>95.279</random_float>
+  <bool>false</bool>
+  <date>1992-10-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Daphne</elt><elt>Kittie</elt><elt>Tami</elt><elt>Odessa</elt><elt>Monika</elt>  
+  <Deirdre>
+    <age>53</age>
+  </Deirdre>
+</root>

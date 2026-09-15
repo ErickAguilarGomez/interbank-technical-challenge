@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emilia"
+  lastname="Chauncey"
+  city="Majuro"
+  country="Mozambique"
+  firstname2="Concettina"
+  lastname2="Merna"
+  email="Concettina.Merna@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>98.754</random_float>
+  <bool>true</bool>
+  <date>1989-12-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nadine</elt><elt>Rebeca</elt><elt>Diena</elt><elt>Maryellen</elt><elt>Emilia</elt>  
+  <Concettina>
+    <age>24</age>
+  </Concettina>
+</root>

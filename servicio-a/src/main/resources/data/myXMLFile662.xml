@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rozele"
+  lastname="Jacobah"
+  city="Kanpur"
+  country="Belarus"
+  firstname2="Emelina"
+  lastname2="Sadowski"
+  email="Emelina.Sadowski@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>60.328</random_float>
+  <bool>false</bool>
+  <date>1980-09-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Meriel</elt><elt>Fayre</elt><elt>Nicoli</elt><elt>Fidelia</elt><elt>Dode</elt>  
+  <Emelina>
+    <age>77</age>
+  </Emelina>
+</root>

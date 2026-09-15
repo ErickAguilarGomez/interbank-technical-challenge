@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jennica"
+  lastname="Podvin"
+  city="Cartagena"
+  country="Venezuela"
+  firstname2="Helsa"
+  lastname2="Ader"
+  email="Helsa.Ader@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>79.257</random_float>
+  <bool>false</bool>
+  <date>1989-03-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Edyth</elt><elt>Isa</elt><elt>Delilah</elt><elt>Pamella</elt><elt>Bill</elt>  
+  <Helsa>
+    <age>98</age>
+  </Helsa>
+</root>

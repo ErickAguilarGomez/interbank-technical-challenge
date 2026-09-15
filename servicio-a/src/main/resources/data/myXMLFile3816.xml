@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cam"
+  lastname="Bennie"
+  city="El Aaiún"
+  country="Armenia"
+  firstname2="Andree"
+  lastname2="Barbey"
+  email="Andree.Barbey@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>61.174</random_float>
+  <bool>false</bool>
+  <date>1991-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tersina</elt><elt>Valli</elt><elt>Marcelline</elt><elt>Vinita</elt><elt>Kalina</elt>  
+  <Andree>
+    <age>80</age>
+  </Andree>
+</root>

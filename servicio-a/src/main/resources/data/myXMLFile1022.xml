@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Letizia"
+  lastname="Stuart"
+  city="Belize City"
+  country="Belgium"
+  firstname2="Orelia"
+  lastname2="Chesna"
+  email="Orelia.Chesna@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>74.248</random_float>
+  <bool>false</bool>
+  <date>1986-01-05</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Shannah</elt><elt>Atlanta</elt><elt>Dominga</elt><elt>Augustine</elt><elt>Yvonne</elt>  
+  <Orelia>
+    <age>79</age>
+  </Orelia>
+</root>

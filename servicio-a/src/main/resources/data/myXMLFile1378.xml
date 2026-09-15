@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tilly"
+  lastname="Marsden"
+  city="Kunming"
+  country="Austria"
+  firstname2="Christal"
+  lastname2="Secrest"
+  email="Christal.Secrest@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>34.471</random_float>
+  <bool>true</bool>
+  <date>1983-02-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dione</elt><elt>Jenilee</elt><elt>Verla</elt><elt>Kimberley</elt><elt>Elise</elt>  
+  <Christal>
+    <age>42</age>
+  </Christal>
+</root>

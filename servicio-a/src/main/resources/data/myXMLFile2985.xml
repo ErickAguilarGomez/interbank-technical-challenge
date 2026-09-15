@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Talya"
+  lastname="Adlare"
+  city="İzmir"
+  country="Monaco"
+  firstname2="Danika"
+  lastname2="Winthorpe"
+  email="Danika.Winthorpe@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>12.814</random_float>
+  <bool>false</bool>
+  <date>1998-12-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Linzy</elt><elt>Dawn</elt><elt>Glenda</elt><elt>Vere</elt><elt>Anestassia</elt>  
+  <Danika>
+    <age>27</age>
+  </Danika>
+</root>

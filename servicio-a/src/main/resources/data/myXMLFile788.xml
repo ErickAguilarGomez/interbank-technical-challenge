@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Barbey"
+  city="Cleveland"
+  country="Bosnia and Herzegovina"
+  firstname2="Ronna"
+  lastname2="Allina"
+  email="Ronna.Allina@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>91.92</random_float>
+  <bool>false</bool>
+  <date>1980-07-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Albertina</elt><elt>Lucy</elt><elt>Livvyy</elt><elt>Valeda</elt><elt>June</elt>  
+  <Ronna>
+    <age>59</age>
+  </Ronna>
+</root>

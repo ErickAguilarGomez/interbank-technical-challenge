@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glynnis"
+  lastname="Heisel"
+  city="San Salvador"
+  country="Philippines"
+  firstname2="Kaia"
+  lastname2="Bethany"
+  email="Kaia.Bethany@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>1.292</random_float>
+  <bool>false</bool>
+  <date>1987-09-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kassey</elt><elt>Myriam</elt><elt>Lila</elt><elt>Miquela</elt><elt>Linzy</elt>  
+  <Kaia>
+    <age>25</age>
+  </Kaia>
+</root>

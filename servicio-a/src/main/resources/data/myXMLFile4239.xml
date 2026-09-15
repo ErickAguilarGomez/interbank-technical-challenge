@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Courtnay"
+  lastname="Jess"
+  city="Almaty"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Alejandra"
+  lastname2="Tremayne"
+  email="Alejandra.Tremayne@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>57.036</random_float>
+  <bool>true</bool>
+  <date>1998-12-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Betta</elt><elt>Margarette</elt><elt>Kylynn</elt><elt>Olivette</elt><elt>Margalo</elt>  
+  <Alejandra>
+    <age>44</age>
+  </Alejandra>
+</root>

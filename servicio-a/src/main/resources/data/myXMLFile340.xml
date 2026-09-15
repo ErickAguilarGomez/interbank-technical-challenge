@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Viviene"
+  lastname="Manolo"
+  city="Minneapolis"
+  country="Guam"
+  firstname2="Tilly"
+  lastname2="Birdella"
+  email="Tilly.Birdella@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>50.183</random_float>
+  <bool>true</bool>
+  <date>1984-12-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Joane</elt><elt>Marylou</elt><elt>Helsa</elt><elt>Giustina</elt><elt>Fina</elt>  
+  <Tilly>
+    <age>41</age>
+  </Tilly>
+</root>

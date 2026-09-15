@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minne"
+  lastname="August"
+  city="Arequipa"
+  country="Norfolk Island"
+  firstname2="Sherrie"
+  lastname2="Lauraine"
+  email="Sherrie.Lauraine@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>34.978</random_float>
+  <bool>true</bool>
+  <date>1992-03-06</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Maud</elt><elt>Peri</elt><elt>Clo</elt><elt>Cassandra</elt><elt>Madeleine</elt>  
+  <Sherrie>
+    <age>27</age>
+  </Sherrie>
+</root>

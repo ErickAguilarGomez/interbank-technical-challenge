@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Demitria"
+  city="Nanning"
+  country="Uzbekistan"
+  firstname2="Glenda"
+  lastname2="Jillane"
+  email="Glenda.Jillane@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>35.162</random_float>
+  <bool>true</bool>
+  <date>1994-03-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rochette</elt><elt>Margarette</elt><elt>Esmeralda</elt><elt>Johna</elt><elt>Tonia</elt>  
+  <Glenda>
+    <age>79</age>
+  </Glenda>
+</root>

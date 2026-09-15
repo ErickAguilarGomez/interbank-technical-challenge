@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ethel"
+  lastname="Talia"
+  city="Zamboanga City"
+  country="Turks and Caicos Islands"
+  firstname2="Christy"
+  lastname2="Mozelle"
+  email="Christy.Mozelle@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>45.441</random_float>
+  <bool>false</bool>
+  <date>1990-10-29</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Monika</elt><elt>Joelly</elt><elt>Darlleen</elt><elt>Paola</elt><elt>Odessa</elt>  
+  <Christy>
+    <age>52</age>
+  </Christy>
+</root>

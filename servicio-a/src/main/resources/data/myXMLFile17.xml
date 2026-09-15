@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Ortrude"
+  city="Phuket (city)"
+  country="Brazil"
+  firstname2="Sashenka"
+  lastname2="Sharl"
+  email="Sashenka.Sharl@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>38.817</random_float>
+  <bool>true</bool>
+  <date>1996-03-24</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elena</elt><elt>Lanae</elt><elt>Ardenia</elt><elt>Nadine</elt><elt>Hildegaard</elt>  
+  <Sashenka>
+    <age>19</age>
+  </Sashenka>
+</root>

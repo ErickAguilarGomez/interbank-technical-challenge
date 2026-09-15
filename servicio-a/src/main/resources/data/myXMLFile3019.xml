@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Valerio"
+  city="Iquitos"
+  country="Switzerland"
+  firstname2="Codie"
+  lastname2="Carmena"
+  email="Codie.Carmena@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>62.327</random_float>
+  <bool>false</bool>
+  <date>1999-04-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fina</elt><elt>Dianemarie</elt><elt>Sue</elt><elt>Miquela</elt><elt>Gretal</elt>  
+  <Codie>
+    <age>50</age>
+  </Codie>
+</root>

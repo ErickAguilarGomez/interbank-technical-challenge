@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clarice"
+  lastname="Kylander"
+  city="Algiers"
+  country="Namibia"
+  firstname2="Bee"
+  lastname2="Swigart"
+  email="Bee.Swigart@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>35.485</random_float>
+  <bool>false</bool>
+  <date>1988-02-28</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lanae</elt><elt>Trudie</elt><elt>Celestyna</elt><elt>Tierney</elt><elt>Alie</elt>  
+  <Bee>
+    <age>28</age>
+  </Bee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edith"
+  lastname="Sinegold"
+  city="New Delhi"
+  country="AndorrA"
+  firstname2="Tobe"
+  lastname2="Slifka"
+  email="Tobe.Slifka@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>63.948</random_float>
+  <bool>true</bool>
+  <date>1995-06-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Larine</elt><elt>Mathilda</elt><elt>Paule</elt><elt>Leona</elt><elt>Shandie</elt>  
+  <Tobe>
+    <age>48</age>
+  </Tobe>
+</root>

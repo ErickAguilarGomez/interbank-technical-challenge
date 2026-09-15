@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nyssa"
+  lastname="Lail"
+  city="Recife"
+  country="Syrian Arab Republic"
+  firstname2="Doralynne"
+  lastname2="Rubie"
+  email="Doralynne.Rubie@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>61.309</random_float>
+  <bool>true</bool>
+  <date>1997-03-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Caritta</elt><elt>Kara-Lynn</elt><elt>Gusty</elt><elt>Maye</elt><elt>Meriel</elt>  
+  <Doralynne>
+    <age>59</age>
+  </Doralynne>
+</root>

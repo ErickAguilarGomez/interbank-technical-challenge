@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Binny"
+  lastname="Yorick"
+  city="Saint-Denis"
+  country="Viet Nam"
+  firstname2="Latisha"
+  lastname2="Haldas"
+  email="Latisha.Haldas@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>49.791</random_float>
+  <bool>false</bool>
+  <date>1986-11-23</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ariela</elt><elt>Allyce</elt><elt>Daphne</elt><elt>Myrtice</elt><elt>Adore</elt>  
+  <Latisha>
+    <age>34</age>
+  </Latisha>
+</root>

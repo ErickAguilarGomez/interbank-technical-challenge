@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Goode"
+  city="Gothenburg"
+  country="Turks and Caicos Islands"
+  firstname2="Fernande"
+  lastname2="Mich"
+  email="Fernande.Mich@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>98.468</random_float>
+  <bool>false</bool>
+  <date>1999-06-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rosene</elt><elt>Cathie</elt><elt>Kimberley</elt><elt>Drucie</elt><elt>Nikki</elt>  
+  <Fernande>
+    <age>27</age>
+  </Fernande>
+</root>

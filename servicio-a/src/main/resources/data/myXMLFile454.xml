@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Nore"
+  city="Bogotá"
+  country="Malta"
+  firstname2="Vinita"
+  lastname2="Klotz"
+  email="Vinita.Klotz@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>2.504</random_float>
+  <bool>true</bool>
+  <date>1997-05-01</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Annice</elt><elt>Jacenta</elt><elt>Lily</elt><elt>Vita</elt><elt>Pollyanna</elt>  
+  <Vinita>
+    <age>23</age>
+  </Vinita>
+</root>

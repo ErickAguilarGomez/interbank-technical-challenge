@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Rustice"
+  city="Basse-Terre"
+  country="Bulgaria"
+  firstname2="Florie"
+  lastname2="Hourigan"
+  email="Florie.Hourigan@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>41.078</random_float>
+  <bool>true</bool>
+  <date>1993-06-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Aigneis</elt><elt>Codie</elt><elt>Keelia</elt><elt>Sophia</elt><elt>Monika</elt>  
+  <Florie>
+    <age>97</age>
+  </Florie>
+</root>

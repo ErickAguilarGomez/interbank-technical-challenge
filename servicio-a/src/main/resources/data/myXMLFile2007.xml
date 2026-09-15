@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dode"
+  lastname="Shields"
+  city="Kuala Lumpur"
+  country="Chile"
+  firstname2="Trudie"
+  lastname2="Kauppi"
+  email="Trudie.Kauppi@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>12.962</random_float>
+  <bool>false</bool>
+  <date>1981-12-03</date>
+  <regEx>helloooo to you</regEx>
+  <enum>online</enum>
+  <elt>Althea</elt><elt>Kellen</elt><elt>Gale</elt><elt>Viviene</elt><elt>Alleen</elt>  
+  <Trudie>
+    <age>82</age>
+  </Trudie>
+</root>

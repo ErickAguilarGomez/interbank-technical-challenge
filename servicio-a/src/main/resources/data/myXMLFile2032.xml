@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Neila"
+  lastname="Breed"
+  city="Denver"
+  country="Palestinian Territory, Occupied"
+  firstname2="Florie"
+  lastname2="Gladstone"
+  email="Florie.Gladstone@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>91.423</random_float>
+  <bool>false</bool>
+  <date>1989-04-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Hope</elt><elt>Alameda</elt><elt>Roseline</elt><elt>Myriam</elt><elt>Corene</elt>  
+  <Florie>
+    <age>81</age>
+  </Florie>
+</root>

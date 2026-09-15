@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lisette"
+  lastname="Vorster"
+  city="Puebla"
+  country="Panama"
+  firstname2="Nataline"
+  lastname2="Allare"
+  email="Nataline.Allare@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>21.869</random_float>
+  <bool>true</bool>
+  <date>1993-02-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Corly</elt><elt>Roxane</elt><elt>Nickie</elt><elt>Fawne</elt><elt>Blake</elt>  
+  <Nataline>
+    <age>63</age>
+  </Nataline>
+</root>

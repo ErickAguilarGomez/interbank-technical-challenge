@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pearline"
+  lastname="Sheedy"
+  city="Nukulaelae"
+  country="Poland"
+  firstname2="Bee"
+  lastname2="Barbey"
+  email="Bee.Barbey@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>65.44</random_float>
+  <bool>true</bool>
+  <date>1990-10-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cecile</elt><elt>Rosene</elt><elt>Joleen</elt><elt>Ethel</elt><elt>Amalie</elt>  
+  <Bee>
+    <age>42</age>
+  </Bee>
+</root>

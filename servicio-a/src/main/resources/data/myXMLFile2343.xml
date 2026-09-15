@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claresta"
+  lastname="Erich"
+  city="Vladivostok"
+  country="Bosnia and Herzegovina"
+  firstname2="Annora"
+  lastname2="Dreda"
+  email="Annora.Dreda@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>22.41</random_float>
+  <bool>false</bool>
+  <date>1991-08-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Veda</elt><elt>Wilma</elt><elt>Ruthe</elt><elt>Loree</elt><elt>Fernande</elt>  
+  <Annora>
+    <age>39</age>
+  </Annora>
+</root>

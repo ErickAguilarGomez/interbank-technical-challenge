@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="Destinee"
+  city="Indianapolis"
+  country="Dominica"
+  firstname2="Tilly"
+  lastname2="Gibbeon"
+  email="Tilly.Gibbeon@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>30.083</random_float>
+  <bool>true</bool>
+  <date>1993-01-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Myrtice</elt><elt>Joy</elt><elt>Lorie</elt><elt>Heida</elt><elt>Selma</elt>  
+  <Tilly>
+    <age>43</age>
+  </Tilly>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charlena"
+  lastname="Sawtelle"
+  city="Dibrugarh"
+  country="Isle of Man"
+  firstname2="Oona"
+  lastname2="Aprile"
+  email="Oona.Aprile@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>71.186</random_float>
+  <bool>true</bool>
+  <date>1986-02-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kore</elt><elt>Morganica</elt><elt>Dagmar</elt><elt>Carmencita</elt><elt>Aryn</elt>  
+  <Oona>
+    <age>100</age>
+  </Oona>
+</root>

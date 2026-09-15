@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Maribeth"
+  city="Guwahati"
+  country="Nauru"
+  firstname2="Miquela"
+  lastname2="Skurnik"
+  email="Miquela.Skurnik@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>67.285</random_float>
+  <bool>false</bool>
+  <date>1993-09-24</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Morganica</elt><elt>Sibella</elt><elt>Deirdre</elt><elt>Kate</elt><elt>Tonia</elt>  
+  <Miquela>
+    <age>94</age>
+  </Miquela>
+</root>

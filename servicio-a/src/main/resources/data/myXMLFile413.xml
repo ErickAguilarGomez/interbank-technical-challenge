@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gertrud"
+  lastname="Roxanna"
+  city="Pontianak"
+  country="Palau"
+  firstname2="Gaylene"
+  lastname2="Tjon"
+  email="Gaylene.Tjon@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>56.323</random_float>
+  <bool>false</bool>
+  <date>1987-04-12</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Chastity</elt><elt>Bibby</elt><elt>Morganica</elt><elt>Camile</elt><elt>Celene</elt>  
+  <Gaylene>
+    <age>78</age>
+  </Gaylene>
+</root>

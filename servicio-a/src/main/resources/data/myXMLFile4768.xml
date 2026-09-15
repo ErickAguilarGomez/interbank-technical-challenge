@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maridel"
+  lastname="Maroney"
+  city="Banjul"
+  country="Costa Rica"
+  firstname2="Mignon"
+  lastname2="Velick"
+  email="Mignon.Velick@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>30.224</random_float>
+  <bool>true</bool>
+  <date>1997-02-23</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nerta</elt><elt>Marnia</elt><elt>Hettie</elt><elt>Maisey</elt><elt>Karolina</elt>  
+  <Mignon>
+    <age>41</age>
+  </Mignon>
+</root>

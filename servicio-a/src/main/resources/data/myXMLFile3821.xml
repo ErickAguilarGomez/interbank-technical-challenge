@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Hermes"
+  city="Angra do Heroísmo"
+  country="Vanuatu"
+  firstname2="Kellen"
+  lastname2="Iaverne"
+  email="Kellen.Iaverne@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>18.913</random_float>
+  <bool>false</bool>
+  <date>1987-06-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Leanna</elt><elt>Helena</elt><elt>Willetta</elt><elt>Eve</elt><elt>Cam</elt>  
+  <Kellen>
+    <age>23</age>
+  </Kellen>
+</root>

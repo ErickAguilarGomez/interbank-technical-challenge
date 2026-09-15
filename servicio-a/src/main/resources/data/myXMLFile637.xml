@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christal"
+  lastname="Imelida"
+  city="Cairns"
+  country="Holy See (Vatican City State)"
+  firstname2="Genevra"
+  lastname2="Vastah"
+  email="Genevra.Vastah@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>51.283</random_float>
+  <bool>true</bool>
+  <date>1981-02-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Correy</elt><elt>Siana</elt><elt>Miquela</elt><elt>Melina</elt><elt>Barbi</elt>  
+  <Genevra>
+    <age>32</age>
+  </Genevra>
+</root>

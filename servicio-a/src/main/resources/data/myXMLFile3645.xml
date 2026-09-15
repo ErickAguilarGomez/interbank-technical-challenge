@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Ciro"
+  city="Addis Ababa"
+  country="Ethiopia"
+  firstname2="Florencia"
+  lastname2="Taima"
+  email="Florencia.Taima@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>100.578</random_float>
+  <bool>false</bool>
+  <date>1987-02-17</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rhoda</elt><elt>Britte</elt><elt>Elie</elt><elt>Inga</elt><elt>Dorice</elt>  
+  <Florencia>
+    <age>71</age>
+  </Florencia>
+</root>

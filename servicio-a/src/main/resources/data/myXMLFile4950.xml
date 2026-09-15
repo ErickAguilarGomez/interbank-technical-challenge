@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jemie"
+  lastname="Gillan"
+  city="Anchorage"
+  country="French Southern Territories"
+  firstname2="Lenna"
+  lastname2="Drus"
+  email="Lenna.Drus@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>79.88</random_float>
+  <bool>false</bool>
+  <date>1994-06-13</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jeanna</elt><elt>Feliza</elt><elt>Jean</elt><elt>Moyna</elt><elt>Regina</elt>  
+  <Lenna>
+    <age>79</age>
+  </Lenna>
+</root>

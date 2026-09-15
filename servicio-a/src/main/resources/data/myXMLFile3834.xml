@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cissiee"
+  lastname="Bibi"
+  city="Bangalore"
+  country="Norfolk Island"
+  firstname2="Concettina"
+  lastname2="Shirberg"
+  email="Concettina.Shirberg@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>52.324</random_float>
+  <bool>true</bool>
+  <date>1986-03-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rubie</elt><elt>Coral</elt><elt>Ebonee</elt><elt>Barbi</elt><elt>Lynea</elt>  
+  <Concettina>
+    <age>76</age>
+  </Concettina>
+</root>

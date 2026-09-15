@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gianina"
+  lastname="Adamsen"
+  city="Manila"
+  country="Tonga"
+  firstname2="Britni"
+  lastname2="Orelee"
+  email="Britni.Orelee@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>59.29</random_float>
+  <bool>false</bool>
+  <date>1993-10-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Althea</elt><elt>Cathie</elt><elt>Tarra</elt><elt>Brynna</elt><elt>Dorene</elt>  
+  <Britni>
+    <age>91</age>
+  </Britni>
+</root>

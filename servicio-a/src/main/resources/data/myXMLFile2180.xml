@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Guildroy"
+  city="Vaduz"
+  country="Colombia"
+  firstname2="Teriann"
+  lastname2="Karl"
+  email="Teriann.Karl@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>22.329</random_float>
+  <bool>true</bool>
+  <date>1984-12-03</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cyndie</elt><elt>Lynea</elt><elt>Kayla</elt><elt>Laurene</elt><elt>Arlina</elt>  
+  <Teriann>
+    <age>86</age>
+  </Teriann>
+</root>

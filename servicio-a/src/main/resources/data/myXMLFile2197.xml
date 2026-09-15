@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minda"
+  lastname="Melan"
+  city="Abu Dhabi"
+  country="Turks and Caicos Islands"
+  firstname2="Adore"
+  lastname2="Talia"
+  email="Adore.Talia@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>35.306</random_float>
+  <bool>true</bool>
+  <date>1997-07-01</date>
+  <regEx>hellooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tina</elt><elt>Edith</elt><elt>Nyssa</elt><elt>Susette</elt><elt>Giustina</elt>  
+  <Adore>
+    <age>70</age>
+  </Adore>
+</root>

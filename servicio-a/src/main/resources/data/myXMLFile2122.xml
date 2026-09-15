@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Shields"
+  city="Rabi Island"
+  country="Italy"
+  firstname2="Dode"
+  lastname2="Jerold"
+  email="Dode.Jerold@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>22.646</random_float>
+  <bool>true</bool>
+  <date>1981-06-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Di</elt><elt>Mallory</elt><elt>Meg</elt><elt>Mellicent</elt><elt>Raina</elt>  
+  <Dode>
+    <age>61</age>
+  </Dode>
+</root>

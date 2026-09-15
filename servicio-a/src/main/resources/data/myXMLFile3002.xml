@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nikki"
+  lastname="Adamsen"
+  city="Nukulaelae"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Layla"
+  lastname2="Knowling"
+  email="Layla.Knowling@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>97.93</random_float>
+  <bool>false</bool>
+  <date>1994-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tomasina</elt><elt>Lexine</elt><elt>Jany</elt><elt>Fanny</elt><elt>Carlie</elt>  
+  <Layla>
+    <age>26</age>
+  </Layla>
+</root>

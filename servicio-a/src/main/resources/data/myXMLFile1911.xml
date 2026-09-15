@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ilse"
+  lastname="Turne"
+  city="São José dos Campos"
+  country="Netherlands"
+  firstname2="Tera"
+  lastname2="Alice"
+  email="Tera.Alice@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>66.256</random_float>
+  <bool>true</bool>
+  <date>1993-04-15</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kittie</elt><elt>Micheline</elt><elt>Gretal</elt><elt>Miquela</elt><elt>Marylou</elt>  
+  <Tera>
+    <age>58</age>
+  </Tera>
+</root>

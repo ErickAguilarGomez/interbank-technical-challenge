@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Sekofski"
+  city="Amsterdam"
+  country="Virgin Islands, U.S."
+  firstname2="Harmonia"
+  lastname2="Sundin"
+  email="Harmonia.Sundin@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>89.314</random_float>
+  <bool>true</bool>
+  <date>1980-12-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Leia</elt><elt>Kary</elt><elt>Rebeca</elt><elt>Felice</elt><elt>Emylee</elt>  
+  <Harmonia>
+    <age>81</age>
+  </Harmonia>
+</root>

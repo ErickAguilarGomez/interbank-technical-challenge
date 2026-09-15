@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Kat"
+  city="Banda Aceh"
+  country="Guadeloupe"
+  firstname2="Tarra"
+  lastname2="Mauer"
+  email="Tarra.Mauer@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>30.199</random_float>
+  <bool>false</bool>
+  <date>1982-12-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mildrid</elt><elt>Sherrie</elt><elt>Perry</elt><elt>Carmencita</elt><elt>Romona</elt>  
+  <Tarra>
+    <age>26</age>
+  </Tarra>
+</root>

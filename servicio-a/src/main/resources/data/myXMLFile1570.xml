@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Amara"
+  lastname="Gilmour"
+  city="Kota Kinabalu"
+  country="Viet Nam"
+  firstname2="Roseline"
+  lastname2="Donell"
+  email="Roseline.Donell@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>70.982</random_float>
+  <bool>false</bool>
+  <date>1982-02-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sarette</elt><elt>Codie</elt><elt>Tobe</elt><elt>Priscilla</elt><elt>Ermengarde</elt>  
+  <Roseline>
+    <age>49</age>
+  </Roseline>
+</root>

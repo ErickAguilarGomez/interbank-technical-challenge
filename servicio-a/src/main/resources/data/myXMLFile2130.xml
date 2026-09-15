@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merci"
+  lastname="Olympium"
+  city="Andorra la Vella"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Harmonia"
+  lastname2="Chaing"
+  email="Harmonia.Chaing@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>67.839</random_float>
+  <bool>false</bool>
+  <date>1982-12-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Penelopa</elt><elt>Rivalee</elt><elt>Kathy</elt><elt>Margalo</elt><elt>Ernesta</elt>  
+  <Harmonia>
+    <age>22</age>
+  </Harmonia>
+</root>

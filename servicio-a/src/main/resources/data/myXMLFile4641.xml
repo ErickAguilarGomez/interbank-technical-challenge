@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dolli"
+  lastname="Ledah"
+  city="Santo Domingo"
+  country="Costa Rica"
+  firstname2="Bettine"
+  lastname2="Creamer"
+  email="Bettine.Creamer@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>13.835</random_float>
+  <bool>false</bool>
+  <date>1980-05-22</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sean</elt><elt>Shaylyn</elt><elt>Lilith</elt><elt>Amalie</elt><elt>Jean</elt>  
+  <Bettine>
+    <age>33</age>
+  </Bettine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emilia"
+  lastname="Oriana"
+  city="Sri Jayawardenapura-Kotte"
+  country="Guyana"
+  firstname2="Larine"
+  lastname2="Pacorro"
+  email="Larine.Pacorro@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>38.007</random_float>
+  <bool>false</bool>
+  <date>1995-11-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Agathe</elt><elt>Bertine</elt><elt>Natka</elt><elt>Melina</elt><elt>Vanessa</elt>  
+  <Larine>
+    <age>59</age>
+  </Larine>
+</root>

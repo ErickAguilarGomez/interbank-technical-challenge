@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Korrie"
+  lastname="Gunn"
+  city="Pittsburgh"
+  country="Norway"
+  firstname2="Maurene"
+  lastname2="Hachmin"
+  email="Maurene.Hachmin@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>48.573</random_float>
+  <bool>true</bool>
+  <date>1997-12-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Constance</elt><elt>Jobi</elt><elt>Marcelline</elt><elt>Dede</elt><elt>Etta</elt>  
+  <Maurene>
+    <age>92</age>
+  </Maurene>
+</root>

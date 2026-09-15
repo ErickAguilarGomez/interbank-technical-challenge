@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paola"
+  lastname="Rosemary"
+  city="Blantyre"
+  country="American Samoa"
+  firstname2="Shell"
+  lastname2="Raseda"
+  email="Shell.Raseda@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>32.584</random_float>
+  <bool>false</bool>
+  <date>1984-02-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jean</elt><elt>Lory</elt><elt>Susette</elt><elt>Ginnie</elt><elt>Brianna</elt>  
+  <Shell>
+    <age>62</age>
+  </Shell>
+</root>

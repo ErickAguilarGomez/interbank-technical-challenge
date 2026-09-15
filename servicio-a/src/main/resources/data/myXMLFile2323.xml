@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alie"
+  lastname="Isidore"
+  city="Stuttgart"
+  country="Norfolk Island"
+  firstname2="Linet"
+  lastname2="Maurine"
+  email="Linet.Maurine@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>5.077</random_float>
+  <bool>true</bool>
+  <date>1981-11-01</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Calla</elt><elt>Courtnay</elt><elt>Malina</elt><elt>Nelle</elt><elt>Elvira</elt>  
+  <Linet>
+    <age>58</age>
+  </Linet>
+</root>

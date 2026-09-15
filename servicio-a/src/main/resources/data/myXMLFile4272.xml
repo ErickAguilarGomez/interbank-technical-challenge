@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meriel"
+  lastname="Esmaria"
+  city="Daegu"
+  country="Guadeloupe"
+  firstname2="Janenna"
+  lastname2="Peg"
+  email="Janenna.Peg@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>61.623</random_float>
+  <bool>true</bool>
+  <date>1996-02-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elena</elt><elt>Renie</elt><elt>Joane</elt><elt>Shannah</elt><elt>Lolita</elt>  
+  <Janenna>
+    <age>18</age>
+  </Janenna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madelle"
+  lastname="Dunkin"
+  city="City of Halifax"
+  country="Greenland"
+  firstname2="Tressa"
+  lastname2="Bollay"
+  email="Tressa.Bollay@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>77.544</random_float>
+  <bool>false</bool>
+  <date>1983-05-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Christian</elt><elt>Phedra</elt><elt>Ann-Marie</elt><elt>Gwenneth</elt><elt>Malina</elt>  
+  <Tressa>
+    <age>39</age>
+  </Tressa>
+</root>

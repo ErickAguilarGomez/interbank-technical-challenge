@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joceline"
+  lastname="Seligman"
+  city="Dongguan"
+  country="Burundi"
+  firstname2="Keelia"
+  lastname2="Shaddock"
+  email="Keelia.Shaddock@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>89.622</random_float>
+  <bool>true</bool>
+  <date>1982-04-01</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Anica</elt><elt>Kaja</elt><elt>Sonni</elt><elt>Queenie</elt><elt>Maryellen</elt>  
+  <Keelia>
+    <age>66</age>
+  </Keelia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aubrie"
+  lastname="Dyche"
+  city="Yamoussoukro"
+  country="South Africa"
+  firstname2="Zsa Zsa"
+  lastname2="Donell"
+  email="Zsa Zsa.Donell@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>18.548</random_float>
+  <bool>true</bool>
+  <date>1986-09-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Clarice</elt><elt>Alisha</elt><elt>Aimil</elt><elt>Darlleen</elt><elt>Chere</elt>  
+  <Zsa Zsa>
+    <age>77</age>
+  </Zsa Zsa>
+</root>

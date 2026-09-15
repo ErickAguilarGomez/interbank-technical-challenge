@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genevra"
+  lastname="Abernon"
+  city="Bandung"
+  country="United States"
+  firstname2="Vita"
+  lastname2="Emanuel"
+  email="Vita.Emanuel@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>5.634</random_float>
+  <bool>true</bool>
+  <date>1999-07-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Xylina</elt><elt>Katharina</elt><elt>Anica</elt><elt>Gerianna</elt><elt>Jobi</elt>  
+  <Vita>
+    <age>83</age>
+  </Vita>
+</root>

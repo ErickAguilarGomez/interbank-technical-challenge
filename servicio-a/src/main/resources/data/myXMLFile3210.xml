@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Bryna"
+  city="George Town"
+  country="Tunisia"
+  firstname2="Arlina"
+  lastname2="Thilda"
+  email="Arlina.Thilda@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>9.207</random_float>
+  <bool>false</bool>
+  <date>1987-07-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Zondra</elt><elt>Libbie</elt><elt>Randa</elt><elt>Gwenneth</elt><elt>Kamilah</elt>  
+  <Arlina>
+    <age>18</age>
+  </Arlina>
+</root>

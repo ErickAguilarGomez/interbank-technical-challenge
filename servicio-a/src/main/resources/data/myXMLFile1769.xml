@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Camile"
+  lastname="Erlandson"
+  city="Rochester"
+  country="Saint Pierre and Miquelon"
+  firstname2="Hayley"
+  lastname2="Lesley"
+  email="Hayley.Lesley@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>16.043</random_float>
+  <bool>false</bool>
+  <date>1984-07-31</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lily</elt><elt>Aaren</elt><elt>Ira</elt><elt>Miquela</elt><elt>Estell</elt>  
+  <Hayley>
+    <age>70</age>
+  </Hayley>
+</root>

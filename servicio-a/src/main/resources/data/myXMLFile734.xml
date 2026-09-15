@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jaclyn"
+  lastname="Vorster"
+  city="Riverside"
+  country="Finland"
+  firstname2="Mignon"
+  lastname2="Meter"
+  email="Mignon.Meter@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>92.42</random_float>
+  <bool>true</bool>
+  <date>1985-03-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Andeee</elt><elt>Dominga</elt><elt>Heida</elt><elt>Deane</elt><elt>Elie</elt>  
+  <Mignon>
+    <age>39</age>
+  </Mignon>
+</root>

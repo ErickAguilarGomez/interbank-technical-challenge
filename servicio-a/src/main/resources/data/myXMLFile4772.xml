@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aimil"
+  lastname="Ahab"
+  city="Riyadh"
+  country="French Polynesia"
+  firstname2="Marcy"
+  lastname2="Zola"
+  email="Marcy.Zola@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>20.143</random_float>
+  <bool>true</bool>
+  <date>1984-08-22</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Minda</elt><elt>Blinni</elt><elt>Ana</elt><elt>Jan</elt><elt>Cindelyn</elt>  
+  <Marcy>
+    <age>91</age>
+  </Marcy>
+</root>

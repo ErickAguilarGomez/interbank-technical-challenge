@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Diena"
+  lastname="Jaylene"
+  city="Charlotte Amalie"
+  country="Papua New Guinea"
+  firstname2="Ardeen"
+  lastname2="Herrera"
+  email="Ardeen.Herrera@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>79.818</random_float>
+  <bool>true</bool>
+  <date>1989-03-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Amalie</elt><elt>Binny</elt><elt>Lily</elt><elt>Tilly</elt><elt>Lolita</elt>  
+  <Ardeen>
+    <age>99</age>
+  </Ardeen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Reneta"
+  city="Malabo"
+  country="Gambia"
+  firstname2="Gilda"
+  lastname2="Read"
+  email="Gilda.Read@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>53.851</random_float>
+  <bool>false</bool>
+  <date>1986-07-21</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Miquela</elt><elt>Ericka</elt><elt>Kimmy</elt><elt>Elora</elt><elt>Talya</elt>  
+  <Gilda>
+    <age>22</age>
+  </Gilda>
+</root>

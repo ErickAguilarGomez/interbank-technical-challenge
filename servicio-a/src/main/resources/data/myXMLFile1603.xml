@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genovera"
+  lastname="Zenas"
+  city="Kyoto"
+  country="Zambia"
+  firstname2="Brena"
+  lastname2="Mitzi"
+  email="Brena.Mitzi@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>51.453</random_float>
+  <bool>true</bool>
+  <date>1981-09-09</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marcy</elt><elt>Audrie</elt><elt>Selma</elt><elt>Christian</elt><elt>Nonnah</elt>  
+  <Brena>
+    <age>37</age>
+  </Brena>
+</root>

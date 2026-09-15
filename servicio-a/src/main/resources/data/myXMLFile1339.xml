@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Leffen"
+  city="Kingstown"
+  country="Tonga"
+  firstname2="Kate"
+  lastname2="Tamar"
+  email="Kate.Tamar@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>23.219</random_float>
+  <bool>false</bool>
+  <date>1989-08-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tabbatha</elt><elt>Margalo</elt><elt>Paola</elt><elt>Zsa Zsa</elt><elt>Rhea</elt>  
+  <Kate>
+    <age>19</age>
+  </Kate>
+</root>

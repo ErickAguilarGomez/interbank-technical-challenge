@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Regan"
+  city="Tampa"
+  country="Montserrat"
+  firstname2="Maridel"
+  lastname2="Merna"
+  email="Maridel.Merna@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>27.934</random_float>
+  <bool>false</bool>
+  <date>1993-04-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Anestassia</elt><elt>Di</elt><elt>Lacie</elt><elt>Rochette</elt><elt>Rozele</elt>  
+  <Maridel>
+    <age>84</age>
+  </Maridel>
+</root>

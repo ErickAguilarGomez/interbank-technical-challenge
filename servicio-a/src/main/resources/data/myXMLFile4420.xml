@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanchon"
+  lastname="Peg"
+  city="George Town"
+  country="Comoros"
+  firstname2="Clary"
+  lastname2="Sacken"
+  email="Clary.Sacken@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>70.829</random_float>
+  <bool>false</bool>
+  <date>1982-04-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Libbie</elt><elt>Neila</elt><elt>Cindelyn</elt><elt>Karly</elt><elt>Eve</elt>  
+  <Clary>
+    <age>63</age>
+  </Clary>
+</root>

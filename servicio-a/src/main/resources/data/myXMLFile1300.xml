@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulce"
+  lastname="Atonsah"
+  city="Tirana"
+  country="Marshall Islands"
+  firstname2="Miquela"
+  lastname2="Avi"
+  email="Miquela.Avi@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>83.545</random_float>
+  <bool>true</bool>
+  <date>2000-01-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marinna</elt><elt>Tonia</elt><elt>Hallie</elt><elt>Dennie</elt><elt>Georgetta</elt>  
+  <Miquela>
+    <age>50</age>
+  </Miquela>
+</root>

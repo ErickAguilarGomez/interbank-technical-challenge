@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorne"
+  lastname="Odysseus"
+  city="Porto Velho"
+  country="Belize"
+  firstname2="Sybille"
+  lastname2="Urias"
+  email="Sybille.Urias@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>84.82</random_float>
+  <bool>true</bool>
+  <date>1984-07-08</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Willetta</elt><elt>Angelique</elt><elt>Valeda</elt><elt>Yolane</elt><elt>Marjie</elt>  
+  <Sybille>
+    <age>68</age>
+  </Sybille>
+</root>

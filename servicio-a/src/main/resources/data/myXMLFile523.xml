@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charmaine"
+  lastname="Cordi"
+  city="Gaborone"
+  country="Equatorial Guinea"
+  firstname2="Alia"
+  lastname2="Etom"
+  email="Alia.Etom@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>79.973</random_float>
+  <bool>false</bool>
+  <date>1998-12-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nyssa</elt><elt>Deloria</elt><elt>Karina</elt><elt>Rori</elt><elt>Joy</elt>  
+  <Alia>
+    <age>21</age>
+  </Alia>
+</root>

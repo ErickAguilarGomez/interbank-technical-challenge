@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Amelia"
+  lastname="Ardeha"
+  city="Valencia"
+  country="Burkina Faso"
+  firstname2="Ebonee"
+  lastname2="Noam"
+  email="Ebonee.Noam@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>25.461</random_float>
+  <bool>false</bool>
+  <date>1987-01-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Stacey</elt><elt>Cathie</elt><elt>Blake</elt><elt>Arlina</elt><elt>Loree</elt>  
+  <Ebonee>
+    <age>44</age>
+  </Ebonee>
+</root>

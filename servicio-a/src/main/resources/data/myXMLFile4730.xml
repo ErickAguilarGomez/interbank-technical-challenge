@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jsandye"
+  lastname="Nore"
+  city="Mumbai"
+  country="Afghanistan"
+  firstname2="Lucille"
+  lastname2="Terrence"
+  email="Lucille.Terrence@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>19.916</random_float>
+  <bool>false</bool>
+  <date>1989-03-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rebeca</elt><elt>Rozele</elt><elt>Mamie</elt><elt>Celisse</elt><elt>Nadine</elt>  
+  <Lucille>
+    <age>36</age>
+  </Lucille>
+</root>

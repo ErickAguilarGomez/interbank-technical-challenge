@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Peonir"
+  city="Saskatoon"
+  country="Singapore"
+  firstname2="Rosene"
+  lastname2="Glovsky"
+  email="Rosene.Glovsky@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>30.925</random_float>
+  <bool>false</bool>
+  <date>1981-06-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sandie</elt><elt>Molli</elt><elt>Edee</elt><elt>Elbertina</elt><elt>Gwyneth</elt>  
+  <Rosene>
+    <age>75</age>
+  </Rosene>
+</root>

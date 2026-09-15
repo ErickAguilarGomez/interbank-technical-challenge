@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Stefa"
+  city="Kaesong"
+  country="Reunion"
+  firstname2="Fanny"
+  lastname2="Cutlerr"
+  email="Fanny.Cutlerr@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>93.331</random_float>
+  <bool>true</bool>
+  <date>1992-05-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tabbatha</elt><elt>Corina</elt><elt>Kimmy</elt><elt>Edee</elt><elt>Mara</elt>  
+  <Fanny>
+    <age>61</age>
+  </Fanny>
+</root>

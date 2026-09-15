@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ilse"
+  lastname="Letsou"
+  city="Wollongong"
+  country="Papua New Guinea"
+  firstname2="Maud"
+  lastname2="Verger"
+  email="Maud.Verger@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>93.685</random_float>
+  <bool>true</bool>
+  <date>1984-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marcelline</elt><elt>Joeann</elt><elt>Glenda</elt><elt>Dari</elt><elt>Laure</elt>  
+  <Maud>
+    <age>63</age>
+  </Maud>
+</root>

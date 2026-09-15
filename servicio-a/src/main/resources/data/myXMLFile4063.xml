@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deloria"
+  lastname="Dichy"
+  city="Cork (city)"
+  country="British Indian Ocean Territory"
+  firstname2="Bertine"
+  lastname2="Pandolfi"
+  email="Bertine.Pandolfi@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>24.426</random_float>
+  <bool>true</bool>
+  <date>1995-04-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sindee</elt><elt>Tilly</elt><elt>Eolanda</elt><elt>Daphne</elt><elt>Felice</elt>  
+  <Bertine>
+    <age>18</age>
+  </Bertine>
+</root>

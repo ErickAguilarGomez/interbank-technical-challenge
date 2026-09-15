@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tobe"
+  lastname="Reidar"
+  city="Assis"
+  country="Tuvalu"
+  firstname2="Leontine"
+  lastname2="Jerald"
+  email="Leontine.Jerald@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>3.514</random_float>
+  <bool>true</bool>
+  <date>1992-10-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rosene</elt><elt>Rhoda</elt><elt>Grier</elt><elt>Fina</elt><elt>Lolita</elt>  
+  <Leontine>
+    <age>28</age>
+  </Leontine>
+</root>

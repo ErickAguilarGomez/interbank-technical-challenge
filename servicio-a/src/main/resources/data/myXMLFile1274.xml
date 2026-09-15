@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Bearnard"
+  city="Salzburg"
+  country="Western Sahara"
+  firstname2="Tressa"
+  lastname2="Kosey"
+  email="Tressa.Kosey@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>28.697</random_float>
+  <bool>true</bool>
+  <date>1992-06-04</date>
+  <regEx>helloooooo world</regEx>
+  <enum>online</enum>
+  <elt>Juliane</elt><elt>Genevra</elt><elt>Korrie</elt><elt>Hollie</elt><elt>Dorice</elt>  
+  <Tressa>
+    <age>49</age>
+  </Tressa>
+</root>

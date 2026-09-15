@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claudina"
+  lastname="Nelsen"
+  city="Valdivia"
+  country="Senegal"
+  firstname2="Coral"
+  lastname2="Azeria"
+  email="Coral.Azeria@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>8.232</random_float>
+  <bool>false</bool>
+  <date>1995-07-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marcy</elt><elt>Lisette</elt><elt>Lita</elt><elt>Ardys</elt><elt>Sara-Ann</elt>  
+  <Coral>
+    <age>36</age>
+  </Coral>
+</root>

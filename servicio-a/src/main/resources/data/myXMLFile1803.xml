@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Viviene"
+  lastname="Chauncey"
+  city="Frankfurt"
+  country="Brazil"
+  firstname2="Jinny"
+  lastname2="Sammons"
+  email="Jinny.Sammons@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>40.597</random_float>
+  <bool>true</bool>
+  <date>1984-08-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Atlanta</elt><elt>Shel</elt><elt>Lily</elt><elt>Cyndie</elt><elt>Lucille</elt>  
+  <Jinny>
+    <age>69</age>
+  </Jinny>
+</root>

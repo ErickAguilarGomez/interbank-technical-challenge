@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Delacourt"
+  city="Medellín"
+  country="Maldives"
+  firstname2="Aubrie"
+  lastname2="Jenness"
+  email="Aubrie.Jenness@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>92.868</random_float>
+  <bool>false</bool>
+  <date>1986-06-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Florie</elt><elt>Quintina</elt><elt>Netty</elt><elt>Iseabal</elt><elt>Gusty</elt>  
+  <Aubrie>
+    <age>18</age>
+  </Aubrie>
+</root>

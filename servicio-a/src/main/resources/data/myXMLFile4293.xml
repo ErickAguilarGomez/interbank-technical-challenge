@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cacilie"
+  lastname="Gerge"
+  city="Santiago"
+  country="Colombia"
+  firstname2="Robbi"
+  lastname2="Therine"
+  email="Robbi.Therine@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>47.213</random_float>
+  <bool>false</bool>
+  <date>1984-03-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sabina</elt><elt>Amalie</elt><elt>Teddie</elt><elt>Anthia</elt><elt>Evaleen</elt>  
+  <Robbi>
+    <age>65</age>
+  </Robbi>
+</root>

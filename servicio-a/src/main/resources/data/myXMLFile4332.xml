@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Fry"
+  city="Singapore"
+  country="British Indian Ocean Territory"
+  firstname2="Misha"
+  lastname2="Delila"
+  email="Misha.Delila@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>66.591</random_float>
+  <bool>false</bool>
+  <date>1988-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Melisent</elt><elt>Lita</elt><elt>Celene</elt><elt>Lory</elt><elt>Vita</elt>  
+  <Misha>
+    <age>96</age>
+  </Misha>
+</root>

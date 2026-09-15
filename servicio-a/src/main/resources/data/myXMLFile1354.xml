@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alleen"
+  lastname="Cosenza"
+  city="Valletta"
+  country="Congo"
+  firstname2="Anestassia"
+  lastname2="Joni"
+  email="Anestassia.Joni@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>33.035</random_float>
+  <bool>true</bool>
+  <date>1989-09-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Romona</elt><elt>Noelle</elt><elt>Courtnay</elt><elt>Emelina</elt><elt>Frieda</elt>  
+  <Anestassia>
+    <age>38</age>
+  </Anestassia>
+</root>

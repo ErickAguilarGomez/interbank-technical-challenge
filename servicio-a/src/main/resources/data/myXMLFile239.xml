@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kamilah"
+  lastname="Reinke"
+  city="Nagoya"
+  country="Indonesia"
+  firstname2="Celene"
+  lastname2="Bebe"
+  email="Celene.Bebe@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>73.56</random_float>
+  <bool>false</bool>
+  <date>1986-11-22</date>
+  <regEx>hellooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carmencita</elt><elt>Jacenta</elt><elt>Jillayne</elt><elt>Isa</elt><elt>Orelia</elt>  
+  <Celene>
+    <age>45</age>
+  </Celene>
+</root>

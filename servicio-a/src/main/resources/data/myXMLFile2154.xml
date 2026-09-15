@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Etta"
+  lastname="Rosette"
+  city="Gdańsk"
+  country="Bolivia"
+  firstname2="Mureil"
+  lastname2="Oster"
+  email="Mureil.Oster@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>58.167</random_float>
+  <bool>false</bool>
+  <date>1980-05-29</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Di</elt><elt>Dotty</elt><elt>Basia</elt><elt>Jenda</elt><elt>Kalina</elt>  
+  <Mureil>
+    <age>69</age>
+  </Mureil>
+</root>

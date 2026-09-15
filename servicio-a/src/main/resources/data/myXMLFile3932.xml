@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orelia"
+  lastname="Sharl"
+  city="Jinan"
+  country="Pakistan"
+  firstname2="Ketti"
+  lastname2="Pierette"
+  email="Ketti.Pierette@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>40.304</random_float>
+  <bool>true</bool>
+  <date>1986-09-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elbertina</elt><elt>Veda</elt><elt>Joy</elt><elt>Sabina</elt><elt>Lenna</elt>  
+  <Ketti>
+    <age>50</age>
+  </Ketti>
+</root>

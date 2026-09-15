@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sashenka"
+  lastname="Charmine"
+  city="Auckland"
+  country="Timor-Leste"
+  firstname2="Clarice"
+  lastname2="Zamora"
+  email="Clarice.Zamora@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>54.644</random_float>
+  <bool>true</bool>
+  <date>1981-05-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Concettina</elt><elt>Lilith</elt><elt>Brynna</elt><elt>Roz</elt><elt>Hope</elt>  
+  <Clarice>
+    <age>47</age>
+  </Clarice>
+</root>

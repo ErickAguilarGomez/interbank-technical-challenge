@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Delp"
+  city="Montevideo"
+  country="Bermuda"
+  firstname2="Teddie"
+  lastname2="Kronfeld"
+  email="Teddie.Kronfeld@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>69.069</random_float>
+  <bool>false</bool>
+  <date>1985-12-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tonia</elt><elt>Rebeca</elt><elt>Dari</elt><elt>Ardeen</elt><elt>Gusella</elt>  
+  <Teddie>
+    <age>58</age>
+  </Teddie>
+</root>

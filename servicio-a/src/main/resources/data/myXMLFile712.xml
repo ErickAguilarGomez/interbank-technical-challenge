@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dacia"
+  lastname="Tayib"
+  city="Asunción"
+  country="Uganda"
+  firstname2="Moyna"
+  lastname2="Erlandson"
+  email="Moyna.Erlandson@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>59.78</random_float>
+  <bool>false</bool>
+  <date>1987-07-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kalina</elt><elt>Kellen</elt><elt>Lila</elt><elt>Kore</elt><elt>Rochette</elt>  
+  <Moyna>
+    <age>90</age>
+  </Moyna>
+</root>

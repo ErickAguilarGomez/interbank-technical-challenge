@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Krystle"
+  lastname="Loring"
+  city="New Orleans"
+  country="San Marino"
+  firstname2="Sheelagh"
+  lastname2="Kussell"
+  email="Sheelagh.Kussell@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>30.803</random_float>
+  <bool>false</bool>
+  <date>1998-06-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hermione</elt><elt>Aimil</elt><elt>Dacia</elt><elt>Jolyn</elt><elt>Meghann</elt>  
+  <Sheelagh>
+    <age>98</age>
+  </Sheelagh>
+</root>

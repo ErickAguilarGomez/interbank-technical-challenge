@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christian"
+  lastname="Vernier"
+  city="Malabo"
+  country="Lebanon"
+  firstname2="Emma"
+  lastname2="Bivins"
+  email="Emma.Bivins@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>57.21</random_float>
+  <bool>false</bool>
+  <date>1981-05-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Feliza</elt><elt>Kylynn</elt><elt>Dania</elt><elt>Annecorinne</elt><elt>Lanna</elt>  
+  <Emma>
+    <age>97</age>
+  </Emma>
+</root>

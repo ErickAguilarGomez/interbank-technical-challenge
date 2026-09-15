@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jerry"
+  lastname="Middleton"
+  city="San Fernando"
+  country="Romania"
+  firstname2="Roseline"
+  lastname2="Valoniah"
+  email="Roseline.Valoniah@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>60.166</random_float>
+  <bool>true</bool>
+  <date>1983-09-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lucille</elt><elt>Debee</elt><elt>Collen</elt><elt>Tomasina</elt><elt>Rhoda</elt>  
+  <Roseline>
+    <age>68</age>
+  </Roseline>
+</root>

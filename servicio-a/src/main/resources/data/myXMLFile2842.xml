@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minda"
+  lastname="Tannie"
+  city="Yokohama"
+  country="Marshall Islands"
+  firstname2="Willetta"
+  lastname2="Kress"
+  email="Willetta.Kress@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>76.66</random_float>
+  <bool>true</bool>
+  <date>1993-04-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Anestassia</elt><elt>Barbara</elt><elt>Larine</elt><elt>Daryl</elt><elt>Ursulina</elt>  
+  <Willetta>
+    <age>57</age>
+  </Willetta>
+</root>

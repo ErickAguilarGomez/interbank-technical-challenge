@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orsola"
+  lastname="Bashemeth"
+  city="Ponta Delgada"
+  country="Ireland"
+  firstname2="Merrie"
+  lastname2="Dorothy"
+  email="Merrie.Dorothy@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>75.977</random_float>
+  <bool>true</bool>
+  <date>1998-03-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Andree</elt><elt>Kirstin</elt><elt>Sandie</elt><elt>Pearline</elt><elt>Sean</elt>  
+  <Merrie>
+    <age>73</age>
+  </Merrie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ursulina"
+  lastname="Curren"
+  city="Hyderabad"
+  country="Belarus"
+  firstname2="Jillayne"
+  lastname2="Hebner"
+  email="Jillayne.Hebner@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>91.399</random_float>
+  <bool>true</bool>
+  <date>1999-07-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sara-Ann</elt><elt>Kristina</elt><elt>Albertina</elt><elt>Iseabal</elt><elt>Marguerite</elt>  
+  <Jillayne>
+    <age>75</age>
+  </Jillayne>
+</root>

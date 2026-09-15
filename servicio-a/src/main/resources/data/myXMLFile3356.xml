@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melanie"
+  lastname="Cassius"
+  city="Balikpapan"
+  country="Lesotho"
+  firstname2="Melanie"
+  lastname2="Lamoree"
+  email="Melanie.Lamoree@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>77.734</random_float>
+  <bool>true</bool>
+  <date>1983-01-18</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Perry</elt><elt>Myrtice</elt><elt>Shell</elt><elt>Claresta</elt><elt>Thalia</elt>  
+  <Melanie>
+    <age>51</age>
+  </Melanie>
+</root>

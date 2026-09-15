@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teriann"
+  lastname="Cecile"
+  city="Thiès"
+  country="Marshall Islands"
+  firstname2="Mary"
+  lastname2="Stilwell"
+  email="Mary.Stilwell@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>90.981</random_float>
+  <bool>true</bool>
+  <date>1986-04-17</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Blake</elt><elt>Amara</elt><elt>Lauryn</elt><elt>Caressa</elt><elt>Deane</elt>  
+  <Mary>
+    <age>28</age>
+  </Mary>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorthy"
+  lastname="Bakerman"
+  city="Liverpool"
+  country="Svalbard and Jan Mayen"
+  firstname2="Kial"
+  lastname2="Brieta"
+  email="Kial.Brieta@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>53.126</random_float>
+  <bool>true</bool>
+  <date>1981-11-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Daune</elt><elt>Veda</elt><elt>Fanny</elt><elt>Karolina</elt><elt>Helsa</elt>  
+  <Kial>
+    <age>89</age>
+  </Kial>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Burch"
+  city="Split (city)"
+  country="Martinique"
+  firstname2="Oralee"
+  lastname2="Henebry"
+  email="Oralee.Henebry@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>100.383</random_float>
+  <bool>false</bool>
+  <date>1991-04-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cacilie</elt><elt>Lynea</elt><elt>Queenie</elt><elt>Talya</elt><elt>Elora</elt>  
+  <Oralee>
+    <age>63</age>
+  </Oralee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Augustine"
+  lastname="Wu"
+  city="Austin"
+  country="Hong Kong"
+  firstname2="Rivalee"
+  lastname2="Maxi"
+  email="Rivalee.Maxi@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>31.471</random_float>
+  <bool>false</bool>
+  <date>1984-07-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ada</elt><elt>Neila</elt><elt>Petronia</elt><elt>Wanda</elt><elt>Clo</elt>  
+  <Rivalee>
+    <age>59</age>
+  </Rivalee>
+</root>

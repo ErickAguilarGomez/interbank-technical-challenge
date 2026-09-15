@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caritta"
+  lastname="Tillford"
+  city="Srinagar"
+  country="Sweden"
+  firstname2="Arlina"
+  lastname2="Doig"
+  email="Arlina.Doig@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>97.007</random_float>
+  <bool>false</bool>
+  <date>1995-11-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Barbi</elt><elt>Marcelline</elt><elt>Joleen</elt><elt>Carlie</elt><elt>Roslyn</elt>  
+  <Arlina>
+    <age>68</age>
+  </Arlina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Stover"
+  city="Kinshasa"
+  country="Belize"
+  firstname2="Rosabelle"
+  lastname2="Isacco"
+  email="Rosabelle.Isacco@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>76.682</random_float>
+  <bool>true</bool>
+  <date>1985-05-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deirdre</elt><elt>Mathilda</elt><elt>Loree</elt><elt>Sindee</elt><elt>Briney</elt>  
+  <Rosabelle>
+    <age>89</age>
+  </Rosabelle>
+</root>

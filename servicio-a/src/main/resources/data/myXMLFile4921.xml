@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Alfons"
+  city="Buenos Aires"
+  country="Mali"
+  firstname2="Kittie"
+  lastname2="Alabaster"
+  email="Kittie.Alabaster@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>2.629</random_float>
+  <bool>true</bool>
+  <date>1986-06-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Karena</elt><elt>Chere</elt><elt>Stacey</elt><elt>Lindie</elt><elt>Jany</elt>  
+  <Kittie>
+    <age>44</age>
+  </Kittie>
+</root>

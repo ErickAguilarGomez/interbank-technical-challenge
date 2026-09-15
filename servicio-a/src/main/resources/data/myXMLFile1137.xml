@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doralynne"
+  lastname="Creamer"
+  city="Thimphu"
+  country="Central African Republic"
+  firstname2="Georgina"
+  lastname2="Colleen"
+  email="Georgina.Colleen@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>22.319</random_float>
+  <bool>false</bool>
+  <date>1985-03-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Merle</elt><elt>Addia</elt><elt>Sheelagh</elt><elt>Rozele</elt><elt>Linet</elt>  
+  <Georgina>
+    <age>21</age>
+  </Georgina>
+</root>

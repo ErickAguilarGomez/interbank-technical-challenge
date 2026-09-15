@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="MacIntosh"
+  city="Kiev"
+  country="Niger"
+  firstname2="Tersina"
+  lastname2="Dom"
+  email="Tersina.Dom@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>61.322</random_float>
+  <bool>true</bool>
+  <date>1983-06-29</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Elvira</elt><elt>Tonia</elt><elt>Jorry</elt><elt>Fidelia</elt><elt>Ninnetta</elt>  
+  <Tersina>
+    <age>70</age>
+  </Tersina>
+</root>

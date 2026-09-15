@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Steffane"
+  lastname="Stover"
+  city="Manaus"
+  country="Sweden"
+  firstname2="Hermione"
+  lastname2="Marisa"
+  email="Hermione.Marisa@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>39.189</random_float>
+  <bool>false</bool>
+  <date>1984-05-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bibby</elt><elt>Heddie</elt><elt>Tracey</elt><elt>Feliza</elt><elt>Kamilah</elt>  
+  <Hermione>
+    <age>42</age>
+  </Hermione>
+</root>

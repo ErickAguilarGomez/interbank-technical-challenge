@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joeann"
+  lastname="Lilybelle"
+  city="Tegucigalpa"
+  country="Czech Republic"
+  firstname2="Brandise"
+  lastname2="Tomasina"
+  email="Brandise.Tomasina@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>77.693</random_float>
+  <bool>false</bool>
+  <date>1991-02-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Adelle</elt><elt>Lanae</elt><elt>Norine</elt><elt>Selia</elt><elt>Daphne</elt>  
+  <Brandise>
+    <age>89</age>
+  </Brandise>
+</root>

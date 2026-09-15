@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ileana"
+  lastname="Adrienne"
+  city="Ambon"
+  country="Somalia"
+  firstname2="Emmey"
+  lastname2="Posner"
+  email="Emmey.Posner@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>67.994</random_float>
+  <bool>true</bool>
+  <date>1985-09-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Judy</elt><elt>Allyce</elt><elt>Netty</elt><elt>Kary</elt><elt>Tomasina</elt>  
+  <Emmey>
+    <age>97</age>
+  </Emmey>
+</root>

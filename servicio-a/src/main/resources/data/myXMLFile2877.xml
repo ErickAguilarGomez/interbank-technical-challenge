@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elyssa"
+  lastname="Anestassia"
+  city="Nukulaelae"
+  country="Cuba"
+  firstname2="Daune"
+  lastname2="Eben"
+  email="Daune.Eben@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>17.837</random_float>
+  <bool>true</bool>
+  <date>1996-03-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Melanie</elt><elt>Bernie</elt><elt>Desirae</elt><elt>Shandie</elt><elt>Tori</elt>  
+  <Daune>
+    <age>34</age>
+  </Daune>
+</root>

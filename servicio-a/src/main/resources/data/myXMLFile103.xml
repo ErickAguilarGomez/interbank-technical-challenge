@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flo"
+  lastname="Nea"
+  city="Dodoma"
+  country="Guadeloupe"
+  firstname2="Sashenka"
+  lastname2="Terrence"
+  email="Sashenka.Terrence@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>94.66</random_float>
+  <bool>true</bool>
+  <date>1994-11-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gusella</elt><elt>Valeda</elt><elt>Johna</elt><elt>Lacie</elt><elt>Annabela</elt>  
+  <Sashenka>
+    <age>39</age>
+  </Sashenka>
+</root>

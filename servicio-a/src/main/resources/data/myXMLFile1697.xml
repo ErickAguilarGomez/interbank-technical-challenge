@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fawne"
+  lastname="Cottle"
+  city="Belize City"
+  country="Romania"
+  firstname2="Candi"
+  lastname2="Federica"
+  email="Candi.Federica@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>49.272</random_float>
+  <bool>false</bool>
+  <date>1995-01-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jolyn</elt><elt>Jessy</elt><elt>Pearline</elt><elt>Janey</elt><elt>Roseline</elt>  
+  <Candi>
+    <age>21</age>
+  </Candi>
+</root>

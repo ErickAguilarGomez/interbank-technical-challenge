@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leeanne"
+  lastname="Delacourt"
+  city="Sucre"
+  country="French Southern Territories"
+  firstname2="Lyssa"
+  lastname2="Trace"
+  email="Lyssa.Trace@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>10.892</random_float>
+  <bool>true</bool>
+  <date>1981-11-03</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Myriam</elt><elt>Teriann</elt><elt>Ardeen</elt><elt>Emma</elt><elt>Maurene</elt>  
+  <Lyssa>
+    <age>29</age>
+  </Lyssa>
+</root>

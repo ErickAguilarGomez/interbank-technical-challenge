@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gale"
+  lastname="Terencio"
+  city="Denpasar"
+  country="Cocos (Keeling) Islands"
+  firstname2="Dode"
+  lastname2="Brunell"
+  email="Dode.Brunell@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>37.049</random_float>
+  <bool>true</bool>
+  <date>1996-02-12</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aubrie</elt><elt>Bernie</elt><elt>Shannah</elt><elt>Debee</elt><elt>Madalyn</elt>  
+  <Dode>
+    <age>38</age>
+  </Dode>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Ries"
+  city="Freetown"
+  country="Moldova, Republic of"
+  firstname2="Tersina"
+  lastname2="Lamoree"
+  email="Tersina.Lamoree@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>39.547</random_float>
+  <bool>false</bool>
+  <date>1991-07-12</date>
+  <regEx>helloo to you</regEx>
+  <enum>online</enum>
+  <elt>Gilligan</elt><elt>Amii</elt><elt>Aeriela</elt><elt>Lynde</elt><elt>Maud</elt>  
+  <Tersina>
+    <age>95</age>
+  </Tersina>
+</root>

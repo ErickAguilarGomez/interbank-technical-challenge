@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Grier"
+  lastname="Flyn"
+  city="Dunedin"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Marita"
+  lastname2="Longfellow"
+  email="Marita.Longfellow@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>95.725</random_float>
+  <bool>false</bool>
+  <date>1980-12-02</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Georgetta</elt><elt>Abbie</elt><elt>Kelly</elt><elt>Janenna</elt><elt>Beatriz</elt>  
+  <Marita>
+    <age>51</age>
+  </Marita>
+</root>

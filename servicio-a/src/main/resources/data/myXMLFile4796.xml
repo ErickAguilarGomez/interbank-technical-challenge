@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Albertina"
+  lastname="Mullane"
+  city="Zamboanga City"
+  country="Gabon"
+  firstname2="Belva"
+  lastname2="Poppy"
+  email="Belva.Poppy@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>18.595</random_float>
+  <bool>true</bool>
+  <date>1990-06-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ira</elt><elt>Ana</elt><elt>Danika</elt><elt>Shell</elt><elt>Sindee</elt>  
+  <Belva>
+    <age>88</age>
+  </Belva>
+</root>

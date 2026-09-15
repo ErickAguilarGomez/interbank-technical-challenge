@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Herrera"
+  city="Bloemfontein"
+  country="United States Minor Outlying Islands"
+  firstname2="Melodie"
+  lastname2="Sammons"
+  email="Melodie.Sammons@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>45.402</random_float>
+  <bool>false</bool>
+  <date>1980-07-11</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nanete</elt><elt>Loree</elt><elt>Edyth</elt><elt>Mignon</elt><elt>Elbertina</elt>  
+  <Melodie>
+    <age>40</age>
+  </Melodie>
+</root>

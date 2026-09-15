@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chloris"
+  lastname="Pandolfi"
+  city="Perm"
+  country="New Zealand"
+  firstname2="Imojean"
+  lastname2="Gower"
+  email="Imojean.Gower@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>67.557</random_float>
+  <bool>true</bool>
+  <date>1989-04-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Claudina</elt><elt>Blondelle</elt><elt>Lynde</elt><elt>Konstance</elt><elt>Candi</elt>  
+  <Imojean>
+    <age>80</age>
+  </Imojean>
+</root>

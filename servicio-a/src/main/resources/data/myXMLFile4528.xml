@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Goldie"
+  lastname="Wesle"
+  city="Luxembourg (city)"
+  country="Zambia"
+  firstname2="Sibella"
+  lastname2="Drisko"
+  email="Sibella.Drisko@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>52.398</random_float>
+  <bool>false</bool>
+  <date>1998-01-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Phedra</elt><elt>Bertine</elt><elt>Lita</elt><elt>Queenie</elt><elt>Elise</elt>  
+  <Sibella>
+    <age>23</age>
+  </Sibella>
+</root>

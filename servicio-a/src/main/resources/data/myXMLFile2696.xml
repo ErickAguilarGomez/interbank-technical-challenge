@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deane"
+  lastname="Cavan"
+  city="Johor Bahru"
+  country="Svalbard and Jan Mayen"
+  firstname2="Christy"
+  lastname2="Hylan"
+  email="Christy.Hylan@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>47.567</random_float>
+  <bool>true</bool>
+  <date>1982-09-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gusella</elt><elt>Doralynne</elt><elt>Tonia</elt><elt>Brianna</elt><elt>Hope</elt>  
+  <Christy>
+    <age>97</age>
+  </Christy>
+</root>

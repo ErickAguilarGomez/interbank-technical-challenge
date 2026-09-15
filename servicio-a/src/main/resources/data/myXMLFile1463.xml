@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Ailyn"
+  city="Belize City"
+  country="Costa Rica"
+  firstname2="Averyl"
+  lastname2="Belldas"
+  email="Averyl.Belldas@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>72.206</random_float>
+  <bool>false</bool>
+  <date>1983-02-23</date>
+  <regEx>hello to you</regEx>
+  <enum>xml</enum>
+  <elt>Teddie</elt><elt>Dorene</elt><elt>Hyacinthe</elt><elt>Malina</elt><elt>Glynnis</elt>  
+  <Averyl>
+    <age>79</age>
+  </Averyl>
+</root>

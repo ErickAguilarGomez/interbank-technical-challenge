@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Theodora"
+  lastname="Vernier"
+  city="Ulan Bator"
+  country="Belarus"
+  firstname2="Drucie"
+  lastname2="Anderea"
+  email="Drucie.Anderea@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>95.123</random_float>
+  <bool>false</bool>
+  <date>1992-01-01</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Alisha</elt><elt>Raquela</elt><elt>Elsie</elt><elt>Mary</elt><elt>Codie</elt>  
+  <Drucie>
+    <age>65</age>
+  </Drucie>
+</root>

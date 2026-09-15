@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leontine"
+  lastname="Bach"
+  city="Banjul"
+  country="Namibia"
+  firstname2="Maud"
+  lastname2="Gerge"
+  email="Maud.Gerge@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>26.922</random_float>
+  <bool>true</bool>
+  <date>1983-03-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rani</elt><elt>Nickie</elt><elt>Averyl</elt><elt>Chere</elt><elt>Henriette</elt>  
+  <Maud>
+    <age>20</age>
+  </Maud>
+</root>

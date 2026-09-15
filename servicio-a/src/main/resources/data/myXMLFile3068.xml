@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Bobbee"
+  city="Minneapolis"
+  country="Jersey"
+  firstname2="Myrtice"
+  lastname2="Nadia"
+  email="Myrtice.Nadia@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>76.499</random_float>
+  <bool>false</bool>
+  <date>1983-11-11</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kristina</elt><elt>Lily</elt><elt>Ardenia</elt><elt>Kenna</elt><elt>Lory</elt>  
+  <Myrtice>
+    <age>45</age>
+  </Myrtice>
+</root>

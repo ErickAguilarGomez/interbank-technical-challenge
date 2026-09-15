@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rori"
+  lastname="Turne"
+  city="Bloemfontein"
+  country="Antarctica"
+  firstname2="Peri"
+  lastname2="Monk"
+  email="Peri.Monk@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>28.862</random_float>
+  <bool>false</bool>
+  <date>1982-05-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Brana</elt><elt>Selma</elt><elt>Meriel</elt><elt>Aurore</elt><elt>Viviene</elt>  
+  <Peri>
+    <age>100</age>
+  </Peri>
+</root>

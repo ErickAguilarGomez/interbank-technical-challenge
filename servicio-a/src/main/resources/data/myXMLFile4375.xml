@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Daegal"
+  city="Abuja"
+  country="Switzerland"
+  firstname2="Silvana"
+  lastname2="Hylan"
+  email="Silvana.Hylan@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>8.796</random_float>
+  <bool>true</bool>
+  <date>1981-02-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nanete</elt><elt>Emmey</elt><elt>Kamilah</elt><elt>Rosanne</elt><elt>Aimil</elt>  
+  <Silvana>
+    <age>24</age>
+  </Silvana>
+</root>

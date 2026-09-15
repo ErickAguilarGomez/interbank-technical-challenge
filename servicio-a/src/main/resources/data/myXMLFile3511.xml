@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annecorinne"
+  lastname="Myrilla"
+  city="Hanoi"
+  country="Madagascar"
+  firstname2="Jinny"
+  lastname2="Sprage"
+  email="Jinny.Sprage@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>75.255</random_float>
+  <bool>true</bool>
+  <date>1984-05-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mary</elt><elt>Agnese</elt><elt>Claresta</elt><elt>Joelly</elt><elt>Bernardine</elt>  
+  <Jinny>
+    <age>52</age>
+  </Jinny>
+</root>

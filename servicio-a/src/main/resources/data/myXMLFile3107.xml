@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ursulina"
+  lastname="Wesle"
+  city="Magadan"
+  country="Zambia"
+  firstname2="Renae"
+  lastname2="Rheingold"
+  email="Renae.Rheingold@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>41.786</random_float>
+  <bool>true</bool>
+  <date>1999-12-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Madalyn</elt><elt>Merry</elt><elt>Claresta</elt><elt>Leona</elt><elt>Odessa</elt>  
+  <Renae>
+    <age>57</age>
+  </Renae>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ellette"
+  lastname="Harl"
+  city="Cali"
+  country="Montserrat"
+  firstname2="Tera"
+  lastname2="Liva"
+  email="Tera.Liva@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>9.839</random_float>
+  <bool>false</bool>
+  <date>1987-10-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Celestyna</elt><elt>Marylou</elt><elt>Kristina</elt><elt>Alexine</elt><elt>Emelina</elt>  
+  <Tera>
+    <age>70</age>
+  </Tera>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dari"
+  lastname="Alisia"
+  city="Horta (Azores)"
+  country="Philippines"
+  firstname2="Mellicent"
+  lastname2="Harned"
+  email="Mellicent.Harned@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>73.097</random_float>
+  <bool>false</bool>
+  <date>1998-05-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wanda</elt><elt>Nollie</elt><elt>Vita</elt><elt>Deirdre</elt><elt>Sadie</elt>  
+  <Mellicent>
+    <age>59</age>
+  </Mellicent>
+</root>

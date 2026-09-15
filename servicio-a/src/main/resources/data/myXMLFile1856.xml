@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Averyl"
+  lastname="Sikorski"
+  city="Siem Reap"
+  country="Mauritania"
+  firstname2="Madalyn"
+  lastname2="Carri"
+  email="Madalyn.Carri@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>26.402</random_float>
+  <bool>true</bool>
+  <date>1993-05-17</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tierney</elt><elt>Sharai</elt><elt>Anthia</elt><elt>Jean</elt><elt>Daryl</elt>  
+  <Madalyn>
+    <age>39</age>
+  </Madalyn>
+</root>

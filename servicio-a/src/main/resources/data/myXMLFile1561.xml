@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Kiyoshi"
+  city="Auckland"
+  country="France"
+  firstname2="Joeann"
+  lastname2="Artie"
+  email="Joeann.Artie@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>71.819</random_float>
+  <bool>true</bool>
+  <date>1995-12-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Donetta</elt><elt>Carilyn</elt><elt>Katuscha</elt><elt>Leeanne</elt><elt>Adore</elt>  
+  <Joeann>
+    <age>80</age>
+  </Joeann>
+</root>

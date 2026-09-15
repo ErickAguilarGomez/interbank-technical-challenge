@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Calla"
+  lastname="Iiette"
+  city="Palikir"
+  country="Isle of Man"
+  firstname2="Joelly"
+  lastname2="Nicoline"
+  email="Joelly.Nicoline@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>16.941</random_float>
+  <bool>false</bool>
+  <date>1995-02-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Reeba</elt><elt>Vita</elt><elt>Jinny</elt><elt>Lilith</elt><elt>Lorie</elt>  
+  <Joelly>
+    <age>48</age>
+  </Joelly>
+</root>

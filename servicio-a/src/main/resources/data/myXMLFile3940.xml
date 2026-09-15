@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Dreda"
+  city="Toulouse"
+  country="Holy See (Vatican City State)"
+  firstname2="Bobinette"
+  lastname2="Faria"
+  email="Bobinette.Faria@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>1.874</random_float>
+  <bool>true</bool>
+  <date>1995-07-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nonnah</elt><elt>Trudie</elt><elt>Gui</elt><elt>Robbi</elt><elt>Lyssa</elt>  
+  <Bobinette>
+    <age>85</age>
+  </Bobinette>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Kylander"
+  city="Iloilo City"
+  country="Czech Republic"
+  firstname2="Clementine"
+  lastname2="Ricarda"
+  email="Clementine.Ricarda@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>88.2</random_float>
+  <bool>false</bool>
+  <date>1982-06-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Courtnay</elt><elt>Brooks</elt><elt>Glenda</elt><elt>Myriam</elt><elt>Charissa</elt>  
+  <Clementine>
+    <age>29</age>
+  </Clementine>
+</root>

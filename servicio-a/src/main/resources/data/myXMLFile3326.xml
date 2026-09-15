@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Kannry"
+  city="Novosibirsk"
+  country="Colombia"
+  firstname2="Averyl"
+  lastname2="Marden"
+  email="Averyl.Marden@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>60.222</random_float>
+  <bool>true</bool>
+  <date>1985-11-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Yetty</elt><elt>Caritta</elt><elt>Shandie</elt><elt>Roxane</elt><elt>Clo</elt>  
+  <Averyl>
+    <age>67</age>
+  </Averyl>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paola"
+  lastname="Deegan"
+  city="Ilhéus"
+  country="New Caledonia"
+  firstname2="Laurene"
+  lastname2="Lareena"
+  email="Laurene.Lareena@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>37.393</random_float>
+  <bool>false</bool>
+  <date>1996-02-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Clementine</elt><elt>Sindee</elt><elt>Joy</elt><elt>Cindelyn</elt><elt>Julieta</elt>  
+  <Laurene>
+    <age>85</age>
+  </Laurene>
+</root>

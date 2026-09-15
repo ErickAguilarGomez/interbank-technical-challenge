@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariele"
+  lastname="Koziara"
+  city="Balikpapan"
+  country="Sudan"
+  firstname2="Elmira"
+  lastname2="Sandye"
+  email="Elmira.Sandye@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>66.571</random_float>
+  <bool>false</bool>
+  <date>1991-03-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sheelagh</elt><elt>Lenna</elt><elt>Lorie</elt><elt>Lisette</elt><elt>Elie</elt>  
+  <Elmira>
+    <age>18</age>
+  </Elmira>
+</root>

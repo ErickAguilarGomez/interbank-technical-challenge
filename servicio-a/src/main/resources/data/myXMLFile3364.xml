@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Regina"
+  lastname="Jethro"
+  city="Santo Domingo"
+  country="Cocos (Keeling) Islands"
+  firstname2="Moyna"
+  lastname2="Tomasina"
+  email="Moyna.Tomasina@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>43.574</random_float>
+  <bool>false</bool>
+  <date>1984-02-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emylee</elt><elt>Robinia</elt><elt>Renie</elt><elt>Petronia</elt><elt>Ingrid</elt>  
+  <Moyna>
+    <age>90</age>
+  </Moyna>
+</root>

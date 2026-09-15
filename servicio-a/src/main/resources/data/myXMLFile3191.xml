@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Morrill"
+  city="Puebla"
+  country="Solomon Islands"
+  firstname2="Almeta"
+  lastname2="Kermit"
+  email="Almeta.Kermit@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>93.101</random_float>
+  <bool>true</bool>
+  <date>1990-03-13</date>
+  <regEx>helloooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kassey</elt><elt>Dagmar</elt><elt>Eadie</elt><elt>Leia</elt><elt>Halette</elt>  
+  <Almeta>
+    <age>59</age>
+  </Almeta>
+</root>

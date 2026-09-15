@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="June"
+  lastname="Monk"
+  city="Liverpool"
+  country="Botswana"
+  firstname2="Krystle"
+  lastname2="Presber"
+  email="Krystle.Presber@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>15.282</random_float>
+  <bool>true</bool>
+  <date>1983-08-08</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Minda</elt><elt>Leanna</elt><elt>Marjie</elt><elt>Magdalena</elt><elt>Mariann</elt>  
+  <Krystle>
+    <age>70</age>
+  </Krystle>
+</root>

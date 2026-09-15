@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Romona"
+  lastname="Israeli"
+  city="Malé"
+  country="Solomon Islands"
+  firstname2="Amalie"
+  lastname2="Pascia"
+  email="Amalie.Pascia@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>93.154</random_float>
+  <bool>true</bool>
+  <date>1983-01-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kial</elt><elt>Talya</elt><elt>Verla</elt><elt>Susette</elt><elt>Susan</elt>  
+  <Amalie>
+    <age>56</age>
+  </Amalie>
+</root>

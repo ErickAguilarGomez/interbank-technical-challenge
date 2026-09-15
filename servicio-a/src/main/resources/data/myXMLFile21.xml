@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Penelopa"
+  lastname="Noam"
+  city="Zhengzhou"
+  country="Reunion"
+  firstname2="Clementine"
+  lastname2="Trey"
+  email="Clementine.Trey@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>69.527</random_float>
+  <bool>false</bool>
+  <date>1994-11-16</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Margarette</elt><elt>Kathi</elt><elt>Annecorinne</elt><elt>Alleen</elt><elt>Lanae</elt>  
+  <Clementine>
+    <age>89</age>
+  </Clementine>
+</root>

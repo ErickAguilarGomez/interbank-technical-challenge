@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Johnsson"
+  city="Kaliningrad"
+  country="Mauritius"
+  firstname2="Carree"
+  lastname2="Waldron"
+  email="Carree.Waldron@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>22.958</random_float>
+  <bool>true</bool>
+  <date>1989-08-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carly</elt><elt>Halette</elt><elt>Pollyanna</elt><elt>Dulcinea</elt><elt>Libbie</elt>  
+  <Carree>
+    <age>39</age>
+  </Carree>
+</root>

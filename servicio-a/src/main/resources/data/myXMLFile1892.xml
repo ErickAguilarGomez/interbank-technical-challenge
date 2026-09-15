@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Etta"
+  lastname="Thema"
+  city="Curitiba"
+  country="United States"
+  firstname2="Grier"
+  lastname2="Sikorski"
+  email="Grier.Sikorski@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>34.266</random_float>
+  <bool>true</bool>
+  <date>1985-12-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Millie</elt><elt>Gratia</elt><elt>Jacquetta</elt><elt>Ezmeralda</elt><elt>Hollie</elt>  
+  <Grier>
+    <age>81</age>
+  </Grier>
+</root>

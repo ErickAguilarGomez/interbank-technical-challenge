@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emma"
+  lastname="Bearnard"
+  city="Tbilisi"
+  country="Cambodia"
+  firstname2="Marnia"
+  lastname2="Matthew"
+  email="Marnia.Matthew@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>89.861</random_float>
+  <bool>false</bool>
+  <date>1981-03-14</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tomasina</elt><elt>Sindee</elt><elt>Dagmar</elt><elt>Gloria</elt><elt>Tabbatha</elt>  
+  <Marnia>
+    <age>22</age>
+  </Marnia>
+</root>

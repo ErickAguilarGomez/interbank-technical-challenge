@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanny"
+  lastname="Sammons"
+  city="Jerusalem"
+  country="Italy"
+  firstname2="Giustina"
+  lastname2="Carleen"
+  email="Giustina.Carleen@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>55.486</random_float>
+  <bool>false</bool>
+  <date>1992-08-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Eolanda</elt><elt>Tamqrah</elt><elt>Basia</elt><elt>Annaliese</elt><elt>Corry</elt>  
+  <Giustina>
+    <age>19</age>
+  </Giustina>
+</root>

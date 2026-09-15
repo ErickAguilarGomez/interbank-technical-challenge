@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Sigfrid"
+  city="Kigali"
+  country="Bosnia and Herzegovina"
+  firstname2="Shaine"
+  lastname2="Swigart"
+  email="Shaine.Swigart@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>11.833</random_float>
+  <bool>true</bool>
+  <date>1981-02-05</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Frieda</elt><elt>Chrystel</elt><elt>Leontine</elt><elt>Phedra</elt><elt>Kary</elt>  
+  <Shaine>
+    <age>85</age>
+  </Shaine>
+</root>

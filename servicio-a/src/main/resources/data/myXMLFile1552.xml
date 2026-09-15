@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heddie"
+  lastname="Nedrud"
+  city="Taichung"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Sheree"
+  lastname2="Docilla"
+  email="Sheree.Docilla@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>31.389</random_float>
+  <bool>false</bool>
+  <date>1993-04-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Frank</elt><elt>Gavrielle</elt><elt>Emma</elt><elt>Dorothy</elt><elt>Odessa</elt>  
+  <Sheree>
+    <age>48</age>
+  </Sheree>
+</root>

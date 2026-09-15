@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phedra"
+  lastname="Rocray"
+  city="Raleigh"
+  country="Korea, Republic of"
+  firstname2="Katuscha"
+  lastname2="Lytton"
+  email="Katuscha.Lytton@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>47.279</random_float>
+  <bool>true</bool>
+  <date>1981-12-27</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tina</elt><elt>Estell</elt><elt>Britte</elt><elt>Celisse</elt><elt>Delilah</elt>  
+  <Katuscha>
+    <age>68</age>
+  </Katuscha>
+</root>

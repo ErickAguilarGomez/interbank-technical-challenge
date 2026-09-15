@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meghann"
+  lastname="Ferrell"
+  city="The Hague"
+  country="Gabon"
+  firstname2="Lindie"
+  lastname2="Hortensia"
+  email="Lindie.Hortensia@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>47.127</random_float>
+  <bool>true</bool>
+  <date>1991-09-05</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ardeen</elt><elt>Cassandra</elt><elt>Stacey</elt><elt>Gabriellia</elt><elt>Alia</elt>  
+  <Lindie>
+    <age>50</age>
+  </Lindie>
+</root>

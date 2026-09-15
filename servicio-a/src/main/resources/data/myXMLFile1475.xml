@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nicoli"
+  lastname="Xerxes"
+  city="Veracruz"
+  country="United States"
+  firstname2="Philis"
+  lastname2="Francene"
+  email="Philis.Francene@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>28.435</random_float>
+  <bool>false</bool>
+  <date>1999-11-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Imojean</elt><elt>Perry</elt><elt>Mellicent</elt><elt>Jan</elt><elt>Sara-Ann</elt>  
+  <Philis>
+    <age>65</age>
+  </Philis>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Graig"
+  city="Kanpur"
+  country="Uruguay"
+  firstname2="Adele"
+  lastname2="Hutchison"
+  email="Adele.Hutchison@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>13.283</random_float>
+  <bool>true</bool>
+  <date>1985-09-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dyann</elt><elt>Lisette</elt><elt>Elmira</elt><elt>Janenna</elt><elt>Arlina</elt>  
+  <Adele>
+    <age>39</age>
+  </Adele>
+</root>

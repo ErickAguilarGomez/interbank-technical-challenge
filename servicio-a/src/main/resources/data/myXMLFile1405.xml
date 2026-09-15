@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Concettina"
+  lastname="Boycey"
+  city="Mogadishu"
+  country="Israel"
+  firstname2="Kristan"
+  lastname2="Wareing"
+  email="Kristan.Wareing@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>42.867</random_float>
+  <bool>false</bool>
+  <date>1981-04-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Charmaine</elt><elt>Nannie</elt><elt>Aimil</elt><elt>Netty</elt><elt>Jasmina</elt>  
+  <Kristan>
+    <age>33</age>
+  </Kristan>
+</root>

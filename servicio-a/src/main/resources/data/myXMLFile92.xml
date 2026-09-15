@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyda"
+  lastname="Shama"
+  city="Ambon"
+  country="Puerto Rico"
+  firstname2="Mathilda"
+  lastname2="Sacken"
+  email="Mathilda.Sacken@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>16.873</random_float>
+  <bool>true</bool>
+  <date>1985-03-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Glynnis</elt><elt>Celisse</elt><elt>Emelina</elt><elt>Madalyn</elt><elt>Christian</elt>  
+  <Mathilda>
+    <age>78</age>
+  </Mathilda>
+</root>

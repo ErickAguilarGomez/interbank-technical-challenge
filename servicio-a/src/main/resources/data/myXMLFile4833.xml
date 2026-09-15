@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doralynne"
+  lastname="Marsden"
+  city="Novosibirsk"
+  country="Qatar"
+  firstname2="Janenna"
+  lastname2="Alisia"
+  email="Janenna.Alisia@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>64.441</random_float>
+  <bool>true</bool>
+  <date>1986-04-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Berget</elt><elt>Atlanta</elt><elt>Estell</elt><elt>Robinia</elt><elt>Dorthy</elt>  
+  <Janenna>
+    <age>66</age>
+  </Janenna>
+</root>

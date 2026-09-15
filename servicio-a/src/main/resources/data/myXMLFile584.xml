@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Bari"
+  city="Avarua"
+  country="Aruba"
+  firstname2="Marline"
+  lastname2="Jena"
+  email="Marline.Jena@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>27.199</random_float>
+  <bool>false</bool>
+  <date>1995-12-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nerta</elt><elt>Tamqrah</elt><elt>Roslyn</elt><elt>Ericka</elt><elt>Frances</elt>  
+  <Marline>
+    <age>62</age>
+  </Marline>
+</root>

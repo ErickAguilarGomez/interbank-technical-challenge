@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winifred"
+  lastname="Penelopa"
+  city="Berlin"
+  country="Gibraltar"
+  firstname2="Ekaterina"
+  lastname2="Erb"
+  email="Ekaterina.Erb@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>31.971</random_float>
+  <bool>false</bool>
+  <date>1987-06-14</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Pierette</elt><elt>Wilma</elt><elt>Jan</elt><elt>Mildrid</elt><elt>Monika</elt>  
+  <Ekaterina>
+    <age>79</age>
+  </Ekaterina>
+</root>

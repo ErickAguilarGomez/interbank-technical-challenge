@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Chesna"
+  city="Ciudad del Este"
+  country="Equatorial Guinea"
+  firstname2="Jerry"
+  lastname2="Schalles"
+  email="Jerry.Schalles@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>24.995</random_float>
+  <bool>true</bool>
+  <date>1991-07-23</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sheree</elt><elt>Wileen</elt><elt>Clementine</elt><elt>Barbara</elt><elt>Marylou</elt>  
+  <Jerry>
+    <age>92</age>
+  </Jerry>
+</root>

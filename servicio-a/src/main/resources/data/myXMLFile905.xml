@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="McCutcheon"
+  city="Cockburn Town"
+  country="India"
+  firstname2="Gaylene"
+  lastname2="Parette"
+  email="Gaylene.Parette@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>95.859</random_float>
+  <bool>false</bool>
+  <date>1997-03-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Christian</elt><elt>Chandra</elt><elt>Tatiania</elt><elt>Rani</elt><elt>Clarice</elt>  
+  <Gaylene>
+    <age>25</age>
+  </Gaylene>
+</root>

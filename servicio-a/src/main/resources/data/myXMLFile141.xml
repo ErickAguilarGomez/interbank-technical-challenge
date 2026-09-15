@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Augustine"
+  lastname="Stevy"
+  city="Pattaya"
+  country="Bermuda"
+  firstname2="Gertrud"
+  lastname2="Drus"
+  email="Gertrud.Drus@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>18.621</random_float>
+  <bool>false</bool>
+  <date>1983-11-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kirbee</elt><elt>Emylee</elt><elt>Viviene</elt><elt>Meghann</elt><elt>Hallie</elt>  
+  <Gertrud>
+    <age>33</age>
+  </Gertrud>
+</root>

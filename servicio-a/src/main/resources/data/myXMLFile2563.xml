@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ezmeralda"
+  lastname="Thomasina"
+  city="Chaguanas"
+  country="Cayman Islands"
+  firstname2="Peri"
+  lastname2="Kauppi"
+  email="Peri.Kauppi@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>72.345</random_float>
+  <bool>false</bool>
+  <date>1988-04-04</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Heida</elt><elt>Nickie</elt><elt>Feliza</elt><elt>Merry</elt><elt>Ezmeralda</elt>  
+  <Peri>
+    <age>25</age>
+  </Peri>
+</root>

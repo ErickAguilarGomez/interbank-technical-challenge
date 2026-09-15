@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marita"
+  lastname="Roscoe"
+  city="Rockhampton"
+  country="Holy See (Vatican City State)"
+  firstname2="Stephanie"
+  lastname2="Atcliffe"
+  email="Stephanie.Atcliffe@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>68.283</random_float>
+  <bool>true</bool>
+  <date>1987-03-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gisela</elt><elt>Goldie</elt><elt>Silvana</elt><elt>Sabina</elt><elt>Kimmy</elt>  
+  <Stephanie>
+    <age>90</age>
+  </Stephanie>
+</root>

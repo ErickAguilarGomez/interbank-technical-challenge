@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florencia"
+  lastname="Ciro"
+  city="Innsbruck"
+  country="Austria"
+  firstname2="Linet"
+  lastname2="Thomasina"
+  email="Linet.Thomasina@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>52.967</random_float>
+  <bool>true</bool>
+  <date>1992-03-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Wendi</elt><elt>Linet</elt><elt>Kaia</elt><elt>Natka</elt><elt>Verla</elt>  
+  <Linet>
+    <age>91</age>
+  </Linet>
+</root>

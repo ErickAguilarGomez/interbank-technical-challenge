@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brana"
+  lastname="Aurelio"
+  city="Cairo"
+  country="Dominica"
+  firstname2="Bobbi"
+  lastname2="Adamsen"
+  email="Bobbi.Adamsen@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>37.093</random_float>
+  <bool>false</bool>
+  <date>1999-01-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Correy</elt><elt>Nessie</elt><elt>Ermengarde</elt><elt>Sean</elt><elt>Vinita</elt>  
+  <Bobbi>
+    <age>70</age>
+  </Bobbi>
+</root>

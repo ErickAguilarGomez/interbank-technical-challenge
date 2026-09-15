@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobinette"
+  lastname="Marijo"
+  city="Baghdad"
+  country="Croatia"
+  firstname2="Arabel"
+  lastname2="Clarissa"
+  email="Arabel.Clarissa@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>11.352</random_float>
+  <bool>false</bool>
+  <date>1984-08-31</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Heida</elt><elt>Heida</elt><elt>Aeriela</elt><elt>Sue</elt><elt>Mathilda</elt>  
+  <Arabel>
+    <age>23</age>
+  </Arabel>
+</root>

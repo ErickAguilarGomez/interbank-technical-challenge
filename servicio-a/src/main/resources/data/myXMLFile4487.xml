@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margette"
+  lastname="Selway"
+  city="Albuquerque"
+  country="Cuba"
+  firstname2="Kore"
+  lastname2="Sparhawk"
+  email="Kore.Sparhawk@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>3.094</random_float>
+  <bool>false</bool>
+  <date>1993-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Angelique</elt><elt>Max</elt><elt>Merci</elt><elt>Pollyanna</elt><elt>Frieda</elt>  
+  <Kore>
+    <age>23</age>
+  </Kore>
+</root>

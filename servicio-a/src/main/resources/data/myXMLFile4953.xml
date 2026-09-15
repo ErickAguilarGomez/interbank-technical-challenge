@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Girardo"
+  city="Stuttgart"
+  country="Saint Kitts and Nevis"
+  firstname2="Stevana"
+  lastname2="Therine"
+  email="Stevana.Therine@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>99.635</random_float>
+  <bool>false</bool>
+  <date>1984-10-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jordan</elt><elt>Harmonia</elt><elt>Lory</elt><elt>Camile</elt><elt>Brooks</elt>  
+  <Stevana>
+    <age>73</age>
+  </Stevana>
+</root>

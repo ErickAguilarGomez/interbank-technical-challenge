@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shauna"
+  lastname="Nester"
+  city="Malmö"
+  country="Bosnia and Herzegovina"
+  firstname2="Fanny"
+  lastname2="Zola"
+  email="Fanny.Zola@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>93.651</random_float>
+  <bool>true</bool>
+  <date>1983-01-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marguerite</elt><elt>Jsandye</elt><elt>Adore</elt><elt>Charlena</elt><elt>Lyssa</elt>  
+  <Fanny>
+    <age>86</age>
+  </Fanny>
+</root>

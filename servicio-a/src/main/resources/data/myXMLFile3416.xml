@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Bashemeth"
+  city="Baku"
+  country="Palestinian Territory, Occupied"
+  firstname2="Maurene"
+  lastname2="Sigfrid"
+  email="Maurene.Sigfrid@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>38.528</random_float>
+  <bool>true</bool>
+  <date>1984-01-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Candi</elt><elt>Betta</elt><elt>Annice</elt><elt>Gabriellia</elt><elt>Marcelline</elt>  
+  <Maurene>
+    <age>58</age>
+  </Maurene>
+</root>

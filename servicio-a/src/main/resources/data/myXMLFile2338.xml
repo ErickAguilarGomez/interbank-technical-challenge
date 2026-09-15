@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edith"
+  lastname="Klemperer"
+  city="Whitehorse"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Emilia"
+  lastname2="Niccolo"
+  email="Emilia.Niccolo@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>95.29</random_float>
+  <bool>false</bool>
+  <date>1980-06-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tarra</elt><elt>Annora</elt><elt>Devina</elt><elt>Adriana</elt><elt>Emmey</elt>  
+  <Emilia>
+    <age>57</age>
+  </Emilia>
+</root>

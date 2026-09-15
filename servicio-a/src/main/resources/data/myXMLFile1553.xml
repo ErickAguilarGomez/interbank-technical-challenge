@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardys"
+  lastname="Shields"
+  city="Hobart"
+  country="Hungary"
+  firstname2="Konstance"
+  lastname2="Lucienne"
+  email="Konstance.Lucienne@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>6.071</random_float>
+  <bool>true</bool>
+  <date>1984-03-12</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aurore</elt><elt>Karina</elt><elt>Philis</elt><elt>Binny</elt><elt>Zia</elt>  
+  <Konstance>
+    <age>47</age>
+  </Konstance>
+</root>

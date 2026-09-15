@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynnea"
+  lastname="Heidt"
+  city="Amritsar"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Carol-Jean"
+  lastname2="Ilka"
+  email="Carol-Jean.Ilka@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>42.129</random_float>
+  <bool>true</bool>
+  <date>1990-03-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Christal</elt><elt>Quintina</elt><elt>Bill</elt><elt>Kathi</elt><elt>Sandie</elt>  
+  <Carol-Jean>
+    <age>60</age>
+  </Carol-Jean>
+</root>

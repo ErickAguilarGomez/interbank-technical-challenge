@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cecile"
+  lastname="Riordan"
+  city="St. George's"
+  country="Gambia"
+  firstname2="Pollyanna"
+  lastname2="Dalli"
+  email="Pollyanna.Dalli@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>69.901</random_float>
+  <bool>true</bool>
+  <date>1985-06-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Wynne</elt><elt>Jenda</elt><elt>Mara</elt><elt>Gilda</elt><elt>Korrie</elt>  
+  <Pollyanna>
+    <age>81</age>
+  </Pollyanna>
+</root>

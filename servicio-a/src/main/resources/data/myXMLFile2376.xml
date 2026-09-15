@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="Dorcy"
+  city="Macapá"
+  country="Romania"
+  firstname2="Nanete"
+  lastname2="Middleton"
+  email="Nanete.Middleton@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>37.559</random_float>
+  <bool>false</bool>
+  <date>1991-06-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elmira</elt><elt>Vinita</elt><elt>Gisela</elt><elt>Netty</elt><elt>Wendi</elt>  
+  <Nanete>
+    <age>93</age>
+  </Nanete>
+</root>

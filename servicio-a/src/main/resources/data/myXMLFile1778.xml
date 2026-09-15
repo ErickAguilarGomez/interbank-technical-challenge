@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Huggins"
+  city="Perth"
+  country="Kuwait"
+  firstname2="Brandise"
+  lastname2="Hull"
+  email="Brandise.Hull@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>94.502</random_float>
+  <bool>true</bool>
+  <date>1994-05-11</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Paulita</elt><elt>Cristabel</elt><elt>Dianemarie</elt><elt>Nannie</elt><elt>Ronna</elt>  
+  <Brandise>
+    <age>65</age>
+  </Brandise>
+</root>

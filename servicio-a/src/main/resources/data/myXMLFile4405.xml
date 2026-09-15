@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nonnah"
+  lastname="Cordi"
+  city="Makati City"
+  country="Uganda"
+  firstname2="Carree"
+  lastname2="Bultman"
+  email="Carree.Bultman@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>29.128</random_float>
+  <bool>true</bool>
+  <date>1995-03-08</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Therine</elt><elt>Tani</elt><elt>Sophia</elt><elt>Queenie</elt><elt>Nikki</elt>  
+  <Carree>
+    <age>55</age>
+  </Carree>
+</root>

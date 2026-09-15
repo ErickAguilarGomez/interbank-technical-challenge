@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alie"
+  lastname="Evangelia"
+  city="Stepanakert"
+  country="Angola"
+  firstname2="Moyna"
+  lastname2="Tice"
+  email="Moyna.Tice@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>94.85</random_float>
+  <bool>true</bool>
+  <date>1997-09-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Adriana</elt><elt>Lita</elt><elt>Rori</elt><elt>Agnese</elt><elt>Valli</elt>  
+  <Moyna>
+    <age>98</age>
+  </Moyna>
+</root>

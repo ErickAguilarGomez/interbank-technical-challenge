@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rayna"
+  lastname="Myrilla"
+  city="Andorra la Vella"
+  country="India"
+  firstname2="Evaleen"
+  lastname2="Jerold"
+  email="Evaleen.Jerold@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>20.963</random_float>
+  <bool>true</bool>
+  <date>1986-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Deloria</elt><elt>Annora</elt><elt>Trudie</elt><elt>Elyssa</elt><elt>Layla</elt>  
+  <Evaleen>
+    <age>57</age>
+  </Evaleen>
+</root>

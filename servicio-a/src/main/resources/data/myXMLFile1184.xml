@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eolanda"
+  lastname="Koziara"
+  city="Balikpapan"
+  country="Barbados"
+  firstname2="Tilly"
+  lastname2="Joni"
+  email="Tilly.Joni@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>57.664</random_float>
+  <bool>true</bool>
+  <date>1993-04-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Merci</elt><elt>Mary</elt><elt>Orelia</elt><elt>Jackie</elt><elt>Georgina</elt>  
+  <Tilly>
+    <age>65</age>
+  </Tilly>
+</root>

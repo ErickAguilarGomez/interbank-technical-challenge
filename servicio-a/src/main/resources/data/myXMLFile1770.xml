@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="Jammal"
+  city="Tampa"
+  country="China"
+  firstname2="Kate"
+  lastname2="O'Carroll"
+  email="Kate.O'Carroll@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>44.498</random_float>
+  <bool>true</bool>
+  <date>1980-07-13</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hannis</elt><elt>Trixi</elt><elt>Zaria</elt><elt>Angelique</elt><elt>Neila</elt>  
+  <Kate>
+    <age>94</age>
+  </Kate>
+</root>

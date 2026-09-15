@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Norine"
+  lastname="Letsou"
+  city="Multan"
+  country="Australia"
+  firstname2="Rosanne"
+  lastname2="Ralfston"
+  email="Rosanne.Ralfston@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>49.81</random_float>
+  <bool>false</bool>
+  <date>1997-12-24</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Merry</elt><elt>Alisha</elt><elt>Sidoney</elt><elt>Glenda</elt><elt>Louella</elt>  
+  <Rosanne>
+    <age>84</age>
+  </Rosanne>
+</root>

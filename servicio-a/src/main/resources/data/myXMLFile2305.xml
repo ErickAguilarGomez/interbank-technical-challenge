@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aili"
+  lastname="Lemuela"
+  city="Chengdu"
+  country="Haiti"
+  firstname2="Merci"
+  lastname2="Parette"
+  email="Merci.Parette@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>58.151</random_float>
+  <bool>true</bool>
+  <date>1980-09-26</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Roxane</elt><elt>Albertina</elt><elt>Glynnis</elt><elt>Elie</elt><elt>Codie</elt>  
+  <Merci>
+    <age>63</age>
+  </Merci>
+</root>

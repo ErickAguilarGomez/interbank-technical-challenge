@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanae"
+  lastname="Gombach"
+  city="Cincinnati"
+  country="Saint Pierre and Miquelon"
+  firstname2="Karolina"
+  lastname2="Masao"
+  email="Karolina.Masao@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>20.047</random_float>
+  <bool>false</bool>
+  <date>1983-11-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rebeca</elt><elt>Marleah</elt><elt>Edee</elt><elt>Vevay</elt><elt>Eve</elt>  
+  <Karolina>
+    <age>58</age>
+  </Karolina>
+</root>

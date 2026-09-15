@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laurene"
+  lastname="Buttaro"
+  city="Denver"
+  country="Estonia"
+  firstname2="Kittie"
+  lastname2="Vivle"
+  email="Kittie.Vivle@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>60.589</random_float>
+  <bool>false</bool>
+  <date>1996-04-02</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Peri</elt><elt>Bibby</elt><elt>Charissa</elt><elt>Belva</elt><elt>Therine</elt>  
+  <Kittie>
+    <age>74</age>
+  </Kittie>
+</root>

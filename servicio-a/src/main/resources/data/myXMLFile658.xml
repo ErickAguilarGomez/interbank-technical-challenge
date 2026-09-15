@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Devina"
+  lastname="Jary"
+  city="Rabat"
+  country="Cuba"
+  firstname2="Livvyy"
+  lastname2="Norvol"
+  email="Livvyy.Norvol@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>4.635</random_float>
+  <bool>false</bool>
+  <date>1987-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sean</elt><elt>Antonietta</elt><elt>Gratia</elt><elt>Catrina</elt><elt>Beth</elt>  
+  <Livvyy>
+    <age>65</age>
+  </Livvyy>
+</root>

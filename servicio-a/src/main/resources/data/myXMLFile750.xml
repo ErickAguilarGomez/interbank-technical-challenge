@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nessie"
+  lastname="Joli"
+  city="Kanpur"
+  country="Gibraltar"
+  firstname2="Letizia"
+  lastname2="Gaulin"
+  email="Letizia.Gaulin@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>14.864</random_float>
+  <bool>false</bool>
+  <date>1999-09-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sophia</elt><elt>Annora</elt><elt>Carmencita</elt><elt>Shirlee</elt><elt>Mildrid</elt>  
+  <Letizia>
+    <age>73</age>
+  </Letizia>
+</root>

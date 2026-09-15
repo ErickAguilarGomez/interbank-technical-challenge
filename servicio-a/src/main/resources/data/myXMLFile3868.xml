@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rani"
+  lastname="Dermott"
+  city="Horta (Azores)"
+  country="Nauru"
+  firstname2="Shaylyn"
+  lastname2="Jeanne"
+  email="Shaylyn.Jeanne@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>14.954</random_float>
+  <bool>false</bool>
+  <date>1997-07-15</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ofilia</elt><elt>Chrystel</elt><elt>Aurelie</elt><elt>Candy</elt><elt>Molli</elt>  
+  <Shaylyn>
+    <age>90</age>
+  </Shaylyn>
+</root>

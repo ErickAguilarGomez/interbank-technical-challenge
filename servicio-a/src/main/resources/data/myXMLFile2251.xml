@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emilia"
+  lastname="Havens"
+  city="Mashhad"
+  country="China"
+  firstname2="Roz"
+  lastname2="Gillan"
+  email="Roz.Gillan@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>67.286</random_float>
+  <bool>true</bool>
+  <date>1999-11-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Basia</elt><elt>Di</elt><elt>Blondelle</elt><elt>Blake</elt><elt>Kassey</elt>  
+  <Roz>
+    <age>37</age>
+  </Roz>
+</root>

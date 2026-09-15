@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Maurine"
+  city="Austin"
+  country="Kiribati"
+  firstname2="Sandie"
+  lastname2="Brodench"
+  email="Sandie.Brodench@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>43.735</random_float>
+  <bool>false</bool>
+  <date>1985-11-25</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Xylina</elt><elt>Konstance</elt><elt>Harmonia</elt><elt>Renae</elt><elt>Mary</elt>  
+  <Sandie>
+    <age>31</age>
+  </Sandie>
+</root>

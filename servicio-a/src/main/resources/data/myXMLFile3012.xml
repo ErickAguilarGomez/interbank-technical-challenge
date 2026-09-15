@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacquetta"
+  lastname="Deny"
+  city="Wuhan"
+  country="Burkina Faso"
+  firstname2="Oralee"
+  lastname2="Hanleigh"
+  email="Oralee.Hanleigh@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>58.443</random_float>
+  <bool>false</bool>
+  <date>1993-12-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Theodora</elt><elt>Tilly</elt><elt>Tobe</elt><elt>Lusa</elt><elt>Debee</elt>  
+  <Oralee>
+    <age>72</age>
+  </Oralee>
+</root>

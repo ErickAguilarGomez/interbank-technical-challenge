@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorthy"
+  lastname="Belldas"
+  city="Iqaluit"
+  country="Slovenia"
+  firstname2="Karolina"
+  lastname2="Boycey"
+  email="Karolina.Boycey@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>97.252</random_float>
+  <bool>false</bool>
+  <date>1991-03-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Valeda</elt><elt>Clarice</elt><elt>Mady</elt><elt>Doralynne</elt><elt>Ofilia</elt>  
+  <Karolina>
+    <age>25</age>
+  </Karolina>
+</root>

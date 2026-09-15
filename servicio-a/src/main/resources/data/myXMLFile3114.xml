@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florencia"
+  lastname="Sothena"
+  city="Funafuti"
+  country="Germany"
+  firstname2="Paule"
+  lastname2="Strephon"
+  email="Paule.Strephon@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>68.733</random_float>
+  <bool>false</bool>
+  <date>1983-09-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorothy</elt><elt>Verla</elt><elt>Ketti</elt><elt>Molli</elt><elt>Berta</elt>  
+  <Paule>
+    <age>19</age>
+  </Paule>
+</root>

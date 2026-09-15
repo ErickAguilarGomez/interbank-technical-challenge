@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Dom"
+  city="Antananarivo"
+  country="AndorrA"
+  firstname2="Elvira"
+  lastname2="Friede"
+  email="Elvira.Friede@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>36.946</random_float>
+  <bool>true</bool>
+  <date>1987-03-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nataline</elt><elt>Angela</elt><elt>Lorne</elt><elt>Tami</elt><elt>Vere</elt>  
+  <Elvira>
+    <age>24</age>
+  </Elvira>
+</root>

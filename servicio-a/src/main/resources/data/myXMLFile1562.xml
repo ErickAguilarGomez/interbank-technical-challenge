@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ekaterina"
+  lastname="Gino"
+  city="Adamstown"
+  country="Swaziland"
+  firstname2="Netty"
+  lastname2="Markman"
+  email="Netty.Markman@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>63.734</random_float>
+  <bool>false</bool>
+  <date>1996-10-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kristan</elt><elt>Tonia</elt><elt>Molli</elt><elt>Lindie</elt><elt>Wynne</elt>  
+  <Netty>
+    <age>76</age>
+  </Netty>
+</root>

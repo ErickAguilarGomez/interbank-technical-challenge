@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sam"
+  lastname="Klemperer"
+  city="Chiang Mai"
+  country="China"
+  firstname2="Harmonia"
+  lastname2="Ludewig"
+  email="Harmonia.Ludewig@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>76.807</random_float>
+  <bool>false</bool>
+  <date>1985-06-03</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Helena</elt><elt>Lily</elt><elt>Cristine</elt><elt>Magdalena</elt><elt>Arabel</elt>  
+  <Harmonia>
+    <age>98</age>
+  </Harmonia>
+</root>

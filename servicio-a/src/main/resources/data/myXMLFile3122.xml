@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ethel"
+  lastname="Zeeba"
+  city="Hai Phong"
+  country="Burundi"
+  firstname2="Raf"
+  lastname2="Cath"
+  email="Raf.Cath@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>10.715</random_float>
+  <bool>true</bool>
+  <date>1997-07-25</date>
+  <regEx>helloo to you</regEx>
+  <enum>online</enum>
+  <elt>Larine</elt><elt>Tina</elt><elt>Orsola</elt><elt>Elora</elt><elt>Brianna</elt>  
+  <Raf>
+    <age>90</age>
+  </Raf>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edee"
+  lastname="Swanhildas"
+  city="Lyon"
+  country="Malta"
+  firstname2="Pierette"
+  lastname2="Presber"
+  email="Pierette.Presber@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>57.975</random_float>
+  <bool>false</bool>
+  <date>1982-03-20</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Queenie</elt><elt>Corene</elt><elt>Rayna</elt><elt>Marti</elt><elt>Tiffie</elt>  
+  <Pierette>
+    <age>30</age>
+  </Pierette>
+</root>

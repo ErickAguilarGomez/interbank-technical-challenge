@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Gualtiero"
+  city="Palikir"
+  country="Liechtenstein"
+  firstname2="Kalina"
+  lastname2="Baptlsta"
+  email="Kalina.Baptlsta@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>27.336</random_float>
+  <bool>true</bool>
+  <date>1989-02-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Raf</elt><elt>Veda</elt><elt>Helsa</elt><elt>Lucy</elt><elt>Keelia</elt>  
+  <Kalina>
+    <age>52</age>
+  </Kalina>
+</root>

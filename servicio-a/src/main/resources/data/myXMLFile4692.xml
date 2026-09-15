@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elyssa"
+  lastname="Suanne"
+  city="Pittsburgh"
+  country="Holy See (Vatican City State)"
+  firstname2="Nikki"
+  lastname2="Greyson"
+  email="Nikki.Greyson@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>73.183</random_float>
+  <bool>true</bool>
+  <date>1992-07-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Edyth</elt><elt>Rozele</elt><elt>Babita</elt><elt>Alyda</elt><elt>Jenilee</elt>  
+  <Nikki>
+    <age>74</age>
+  </Nikki>
+</root>

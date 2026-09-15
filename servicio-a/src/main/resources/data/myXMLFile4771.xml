@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agathe"
+  lastname="Leopold"
+  city="Bilbao"
+  country="Singapore"
+  firstname2="Melisent"
+  lastname2="Rudolph"
+  email="Melisent.Rudolph@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>66.439</random_float>
+  <bool>false</bool>
+  <date>1995-12-26</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Brandise</elt><elt>Neila</elt><elt>Di</elt><elt>Gerianna</elt><elt>Glenda</elt>  
+  <Melisent>
+    <age>98</age>
+  </Melisent>
+</root>

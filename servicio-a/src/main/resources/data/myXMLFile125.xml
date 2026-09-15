@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Joseph"
+  city="Chongqing"
+  country="France"
+  firstname2="Randa"
+  lastname2="Kiersten"
+  email="Randa.Kiersten@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>37.741</random_float>
+  <bool>true</bool>
+  <date>1999-04-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Susan</elt><elt>Wileen</elt><elt>Lexine</elt><elt>Mahalia</elt><elt>Romona</elt>  
+  <Randa>
+    <age>48</age>
+  </Randa>
+</root>

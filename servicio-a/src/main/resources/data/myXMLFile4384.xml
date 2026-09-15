@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Kathie"
+  city="Maceió"
+  country="Wallis and Futuna"
+  firstname2="Tabbatha"
+  lastname2="Hanleigh"
+  email="Tabbatha.Hanleigh@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>56.471</random_float>
+  <bool>true</bool>
+  <date>1993-11-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jenilee</elt><elt>Chere</elt><elt>Tomasina</elt><elt>Tobe</elt><elt>Vanessa</elt>  
+  <Tabbatha>
+    <age>56</age>
+  </Tabbatha>
+</root>

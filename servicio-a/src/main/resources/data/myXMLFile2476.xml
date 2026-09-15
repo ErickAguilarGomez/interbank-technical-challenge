@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alleen"
+  lastname="Miru"
+  city="Naypyidaw"
+  country="Kazakhstan"
+  firstname2="Dode"
+  lastname2="Stanwood"
+  email="Dode.Stanwood@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>24.024</random_float>
+  <bool>false</bool>
+  <date>1998-10-22</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Abbie</elt><elt>Vanessa</elt><elt>Florie</elt><elt>Dawn</elt><elt>Sara-Ann</elt>  
+  <Dode>
+    <age>56</age>
+  </Dode>
+</root>

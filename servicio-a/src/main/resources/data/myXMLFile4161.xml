@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Therine"
+  lastname="Adlare"
+  city="Perm"
+  country="Venezuela"
+  firstname2="Gusella"
+  lastname2="Felizio"
+  email="Gusella.Felizio@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>82.291</random_float>
+  <bool>false</bool>
+  <date>1981-12-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Florie</elt><elt>Wendi</elt><elt>Nananne</elt><elt>Hope</elt><elt>Ashlee</elt>  
+  <Gusella>
+    <age>91</age>
+  </Gusella>
+</root>

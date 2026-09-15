@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vere"
+  lastname="Cloris"
+  city="Nanning"
+  country="Jamaica"
+  firstname2="Michaelina"
+  lastname2="Gemini"
+  email="Michaelina.Gemini@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>32.641</random_float>
+  <bool>true</bool>
+  <date>1980-10-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Myrtice</elt><elt>Zsa Zsa</elt><elt>Patricia</elt><elt>Heddie</elt><elt>Theodora</elt>  
+  <Michaelina>
+    <age>67</age>
+  </Michaelina>
+</root>

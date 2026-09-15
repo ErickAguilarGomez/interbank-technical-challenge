@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alexine"
+  lastname="Wind"
+  city="Stockholm"
+  country="Holy See (Vatican City State)"
+  firstname2="Tiffie"
+  lastname2="Jagir"
+  email="Tiffie.Jagir@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>7.074</random_float>
+  <bool>false</bool>
+  <date>1992-04-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Claudina</elt><elt>Mamie</elt><elt>Ida</elt><elt>Meghann</elt><elt>Aeriela</elt>  
+  <Tiffie>
+    <age>32</age>
+  </Tiffie>
+</root>

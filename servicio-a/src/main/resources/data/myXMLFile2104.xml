@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Claudine"
+  city="Ciudad del Este"
+  country="Bahrain"
+  firstname2="Linzy"
+  lastname2="Brotherson"
+  email="Linzy.Brotherson@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>67.712</random_float>
+  <bool>false</bool>
+  <date>1996-06-04</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Amara</elt><elt>Phylis</elt><elt>Valera</elt><elt>Oralee</elt><elt>Blake</elt>  
+  <Linzy>
+    <age>91</age>
+  </Linzy>
+</root>

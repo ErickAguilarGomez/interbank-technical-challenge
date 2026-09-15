@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frieda"
+  lastname="Bonilla"
+  city="Belgrade"
+  country="Turks and Caicos Islands"
+  firstname2="Alia"
+  lastname2="Rooney"
+  email="Alia.Rooney@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>40.495</random_float>
+  <bool>true</bool>
+  <date>1988-12-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Blinni</elt><elt>Augustine</elt><elt>Nyssa</elt><elt>Ana</elt><elt>Bibby</elt>  
+  <Alia>
+    <age>45</age>
+  </Alia>
+</root>

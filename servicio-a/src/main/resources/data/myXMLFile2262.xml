@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Suk"
+  city="Amritsar"
+  country="Mexico"
+  firstname2="Gilligan"
+  lastname2="Dreda"
+  email="Gilligan.Dreda@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>3.717</random_float>
+  <bool>false</bool>
+  <date>1993-03-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kara-Lynn</elt><elt>Winifred</elt><elt>Claudina</elt><elt>Merrie</elt><elt>Caressa</elt>  
+  <Gilligan>
+    <age>31</age>
+  </Gilligan>
+</root>

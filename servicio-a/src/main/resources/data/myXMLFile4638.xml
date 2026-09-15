@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Krystle"
+  city="Ushuaia"
+  country="Estonia"
+  firstname2="Mariele"
+  lastname2="Rosette"
+  email="Mariele.Rosette@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>88.332</random_float>
+  <bool>false</bool>
+  <date>1994-10-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jessy</elt><elt>Gusty</elt><elt>Lita</elt><elt>Lanna</elt><elt>Rochette</elt>  
+  <Mariele>
+    <age>79</age>
+  </Mariele>
+</root>

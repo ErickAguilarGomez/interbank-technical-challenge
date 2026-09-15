@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belinda"
+  lastname="Anestassia"
+  city="San Diego"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Albertina"
+  lastname2="Lissi"
+  email="Albertina.Lissi@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>36.877</random_float>
+  <bool>true</bool>
+  <date>1983-01-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lizzie</elt><elt>Carilyn</elt><elt>Correy</elt><elt>Angela</elt><elt>Sibella</elt>  
+  <Albertina>
+    <age>39</age>
+  </Albertina>
+</root>

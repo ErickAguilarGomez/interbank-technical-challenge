@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardeen"
+  lastname="Geffner"
+  city="Freetown"
+  country="Qatar"
+  firstname2="Alyssa"
+  lastname2="Fillbert"
+  email="Alyssa.Fillbert@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>14.73</random_float>
+  <bool>true</bool>
+  <date>1993-10-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Danika</elt><elt>Willetta</elt><elt>Abbie</elt><elt>Debee</elt><elt>Nelle</elt>  
+  <Alyssa>
+    <age>35</age>
+  </Alyssa>
+</root>

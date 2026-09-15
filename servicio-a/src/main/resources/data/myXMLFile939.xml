@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lesly"
+  lastname="Chapland"
+  city="Abidjan"
+  country="Monaco"
+  firstname2="Olivette"
+  lastname2="Mike"
+  email="Olivette.Mike@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>81.904</random_float>
+  <bool>true</bool>
+  <date>1995-11-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Claresta</elt><elt>Gusty</elt><elt>Candy</elt><elt>Candi</elt><elt>Carolina</elt>  
+  <Olivette>
+    <age>29</age>
+  </Olivette>
+</root>

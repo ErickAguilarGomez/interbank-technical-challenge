@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyndie"
+  lastname="Gusella"
+  city="Mecca"
+  country="Moldova, Republic of"
+  firstname2="Cassondra"
+  lastname2="Klemperer"
+  email="Cassondra.Klemperer@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>25.881</random_float>
+  <bool>false</bool>
+  <date>1981-01-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lucy</elt><elt>Selia</elt><elt>Chrystel</elt><elt>Gloria</elt><elt>Emma</elt>  
+  <Cassondra>
+    <age>53</age>
+  </Cassondra>
+</root>

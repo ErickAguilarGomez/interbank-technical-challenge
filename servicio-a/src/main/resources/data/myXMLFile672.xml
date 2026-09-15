@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Shaver"
+  city="Djibouti (city)"
+  country="Sudan"
+  firstname2="Codie"
+  lastname2="Iaverne"
+  email="Codie.Iaverne@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>40.443</random_float>
+  <bool>true</bool>
+  <date>1994-07-08</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kylynn</elt><elt>Ardeen</elt><elt>Talya</elt><elt>Merci</elt><elt>Cam</elt>  
+  <Codie>
+    <age>72</age>
+  </Codie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Vorster"
+  city="Invercargill"
+  country="Lesotho"
+  firstname2="Mahalia"
+  lastname2="Goddard"
+  email="Mahalia.Goddard@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>57.59</random_float>
+  <bool>false</bool>
+  <date>1989-01-26</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Randa</elt><elt>Bertine</elt><elt>Adele</elt><elt>Karina</elt><elt>Carly</elt>  
+  <Mahalia>
+    <age>74</age>
+  </Mahalia>
+</root>

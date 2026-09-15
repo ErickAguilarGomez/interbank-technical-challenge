@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Atlanta"
+  lastname="Belanger"
+  city="Willemstad"
+  country="Oman"
+  firstname2="Henriette"
+  lastname2="Jethro"
+  email="Henriette.Jethro@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>61.336</random_float>
+  <bool>false</bool>
+  <date>1991-08-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lucy</elt><elt>Britte</elt><elt>Mahalia</elt><elt>Melisent</elt><elt>Kittie</elt>  
+  <Henriette>
+    <age>60</age>
+  </Henriette>
+</root>

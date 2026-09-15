@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brana"
+  lastname="Ioab"
+  city="Kuwait City"
+  country="Croatia"
+  firstname2="Minne"
+  lastname2="Borrell"
+  email="Minne.Borrell@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>26.169</random_float>
+  <bool>true</bool>
+  <date>1984-04-13</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Corene</elt><elt>Sheree</elt><elt>Lily</elt><elt>Lexine</elt><elt>Justinn</elt>  
+  <Minne>
+    <age>58</age>
+  </Minne>
+</root>

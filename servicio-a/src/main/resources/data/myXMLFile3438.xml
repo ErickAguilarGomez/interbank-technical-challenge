@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jerry"
+  lastname="Shelba"
+  city="Espoo"
+  country="Guadeloupe"
+  firstname2="Cyb"
+  lastname2="Reidar"
+  email="Cyb.Reidar@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>83.07</random_float>
+  <bool>false</bool>
+  <date>1988-04-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Laure</elt><elt>Kimberley</elt><elt>Meg</elt><elt>Emelina</elt><elt>Tatiania</elt>  
+  <Cyb>
+    <age>97</age>
+  </Cyb>
+</root>

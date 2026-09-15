@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Kiyoshi"
+  city="Xi'an"
+  country="Belize"
+  firstname2="Elie"
+  lastname2="Kravits"
+  email="Elie.Kravits@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>34.362</random_float>
+  <bool>true</bool>
+  <date>1984-07-18</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lolita</elt><elt>Kelly</elt><elt>Emma</elt><elt>Chloris</elt><elt>Rosaline</elt>  
+  <Elie>
+    <age>66</age>
+  </Elie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aili"
+  lastname="Ophelia"
+  city="Udon Thani"
+  country="Djibouti"
+  firstname2="Adriana"
+  lastname2="Hertzfeld"
+  email="Adriana.Hertzfeld@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>1.743</random_float>
+  <bool>true</bool>
+  <date>1987-02-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lita</elt><elt>Fidelia</elt><elt>Nikki</elt><elt>Catharine</elt><elt>Elvira</elt>  
+  <Adriana>
+    <age>37</age>
+  </Adriana>
+</root>

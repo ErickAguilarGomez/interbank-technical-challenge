@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorthy"
+  lastname="Cullin"
+  city="Manama"
+  country="Bosnia and Herzegovina"
+  firstname2="Addia"
+  lastname2="Nahum"
+  email="Addia.Nahum@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>4.738</random_float>
+  <bool>true</bool>
+  <date>1980-11-21</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jenda</elt><elt>Amii</elt><elt>Lanae</elt><elt>Barbi</elt><elt>Ileana</elt>  
+  <Addia>
+    <age>73</age>
+  </Addia>
+</root>

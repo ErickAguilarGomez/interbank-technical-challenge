@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Henebry"
+  city="Shigatse"
+  country="Ecuador"
+  firstname2="Tani"
+  lastname2="Raama"
+  email="Tani.Raama@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>24.917</random_float>
+  <bool>true</bool>
+  <date>1995-05-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Annora</elt><elt>Alia</elt><elt>Sadie</elt><elt>Leona</elt><elt>Ashlee</elt>  
+  <Tani>
+    <age>77</age>
+  </Tani>
+</root>

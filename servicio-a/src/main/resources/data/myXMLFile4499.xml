@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Byrne"
+  city="Ahmedabad"
+  country="Qatar"
+  firstname2="Raquela"
+  lastname2="Daveta"
+  email="Raquela.Daveta@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>56.759</random_float>
+  <bool>true</bool>
+  <date>1991-11-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dione</elt><elt>Reeba</elt><elt>Grier</elt><elt>Dari</elt><elt>Albertina</elt>  
+  <Raquela>
+    <age>62</age>
+  </Raquela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zondra"
+  lastname="Fennessy"
+  city="Punta Arenas"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Pearline"
+  lastname2="Haerr"
+  email="Pearline.Haerr@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>96.257</random_float>
+  <bool>false</bool>
+  <date>1990-10-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Queenie</elt><elt>Josephine</elt><elt>Sophia</elt><elt>Hildegaard</elt><elt>Patricia</elt>  
+  <Pearline>
+    <age>19</age>
+  </Pearline>
+</root>

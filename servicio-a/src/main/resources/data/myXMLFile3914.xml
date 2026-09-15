@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Estella"
+  city="Dammam"
+  country="Venezuela"
+  firstname2="Gale"
+  lastname2="Rheingold"
+  email="Gale.Rheingold@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>85.185</random_float>
+  <bool>true</bool>
+  <date>1981-12-26</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Charmaine</elt><elt>Belva</elt><elt>Chloris</elt><elt>Deedee</elt><elt>Sidoney</elt>  
+  <Gale>
+    <age>43</age>
+  </Gale>
+</root>

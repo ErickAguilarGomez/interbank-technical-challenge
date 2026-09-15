@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Philis"
+  lastname="Matthew"
+  city="Kyoto"
+  country="British Indian Ocean Territory"
+  firstname2="Leanna"
+  lastname2="Ciro"
+  email="Leanna.Ciro@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>3.556</random_float>
+  <bool>false</bool>
+  <date>1981-03-23</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Violet</elt><elt>Carol-Jean</elt><elt>Chandra</elt><elt>Penelopa</elt><elt>Judy</elt>  
+  <Leanna>
+    <age>45</age>
+  </Leanna>
+</root>

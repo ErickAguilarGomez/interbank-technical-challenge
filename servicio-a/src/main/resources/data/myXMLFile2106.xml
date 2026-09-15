@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nadine"
+  lastname="Cordi"
+  city="Bandar Seri Begawan"
+  country="Iraq"
+  firstname2="Linet"
+  lastname2="Cyrie"
+  email="Linet.Cyrie@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>83.605</random_float>
+  <bool>false</bool>
+  <date>1998-03-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sam</elt><elt>Imojean</elt><elt>Janenna</elt><elt>Tiffie</elt><elt>Alyda</elt>  
+  <Linet>
+    <age>19</age>
+  </Linet>
+</root>

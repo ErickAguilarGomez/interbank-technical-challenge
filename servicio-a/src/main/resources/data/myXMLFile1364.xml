@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Magdalena"
+  lastname="Parette"
+  city="Stockholm"
+  country="Antarctica"
+  firstname2="Carolina"
+  lastname2="Teddman"
+  email="Carolina.Teddman@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>26.857</random_float>
+  <bool>false</bool>
+  <date>1982-11-07</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rosanne</elt><elt>Delilah</elt><elt>Drucie</elt><elt>Imojean</elt><elt>Jaclyn</elt>  
+  <Carolina>
+    <age>76</age>
+  </Carolina>
+</root>

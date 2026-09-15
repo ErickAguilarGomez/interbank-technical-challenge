@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Penelopa"
+  lastname="Belanger"
+  city="Sofia"
+  country="Comoros"
+  firstname2="Lanna"
+  lastname2="Publia"
+  email="Lanna.Publia@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>82.545</random_float>
+  <bool>true</bool>
+  <date>1993-04-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carol-Jean</elt><elt>Roz</elt><elt>Cam</elt><elt>Mahalia</elt><elt>Elie</elt>  
+  <Lanna>
+    <age>19</age>
+  </Lanna>
+</root>

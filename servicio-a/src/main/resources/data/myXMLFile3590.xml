@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Korrie"
+  lastname="Ricarda"
+  city="Suva"
+  country="Guadeloupe"
+  firstname2="Basia"
+  lastname2="Dorothy"
+  email="Basia.Dorothy@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>9.046</random_float>
+  <bool>true</bool>
+  <date>1981-08-31</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Malina</elt><elt>Merrie</elt><elt>Belva</elt><elt>Keelia</elt><elt>Tersina</elt>  
+  <Basia>
+    <age>30</age>
+  </Basia>
+</root>

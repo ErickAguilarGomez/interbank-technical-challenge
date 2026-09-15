@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynnea"
+  lastname="Boycey"
+  city="Tskhinvali"
+  country="Djibouti"
+  firstname2="Damaris"
+  lastname2="Fredi"
+  email="Damaris.Fredi@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>17.303</random_float>
+  <bool>false</bool>
+  <date>1987-12-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Brooks</elt><elt>Nickie</elt><elt>Molli</elt><elt>Binny</elt><elt>Nannie</elt>  
+  <Damaris>
+    <age>74</age>
+  </Damaris>
+</root>

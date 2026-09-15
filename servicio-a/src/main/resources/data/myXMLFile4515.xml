@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmencita"
+  lastname="Silvan"
+  city="Ashgabat"
+  country="Netherlands Antilles"
+  firstname2="Florencia"
+  lastname2="Hashim"
+  email="Florencia.Hashim@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>51.31</random_float>
+  <bool>false</bool>
+  <date>1998-11-04</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Juliane</elt><elt>Veda</elt><elt>Charmaine</elt><elt>Dolli</elt><elt>Cacilie</elt>  
+  <Florencia>
+    <age>97</age>
+  </Florencia>
+</root>

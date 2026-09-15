@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Bibi"
+  city="Thessaloniki"
+  country="Thailand"
+  firstname2="Marguerite"
+  lastname2="Fillbert"
+  email="Marguerite.Fillbert@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>46.49</random_float>
+  <bool>true</bool>
+  <date>1999-11-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ronna</elt><elt>Celene</elt><elt>Fina</elt><elt>Flo</elt><elt>Sheelagh</elt>  
+  <Marguerite>
+    <age>81</age>
+  </Marguerite>
+</root>

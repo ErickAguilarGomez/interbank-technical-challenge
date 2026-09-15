@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kelly"
+  lastname="Toffic"
+  city="Osaka"
+  country="Moldova, Republic of"
+  firstname2="Constance"
+  lastname2="Esmaria"
+  email="Constance.Esmaria@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>4.104</random_float>
+  <bool>true</bool>
+  <date>1983-10-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Michaelina</elt><elt>Amelia</elt><elt>Letizia</elt><elt>Daphne</elt><elt>Ernesta</elt>  
+  <Constance>
+    <age>28</age>
+  </Constance>
+</root>

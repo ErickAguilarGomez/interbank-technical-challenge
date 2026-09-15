@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orsola"
+  lastname="Kiersten"
+  city="Murmansk"
+  country="Papua New Guinea"
+  firstname2="Lolita"
+  lastname2="Alcott"
+  email="Lolita.Alcott@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>97.702</random_float>
+  <bool>true</bool>
+  <date>1980-05-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cathie</elt><elt>Madalyn</elt><elt>Paola</elt><elt>Selma</elt><elt>Sam</elt>  
+  <Lolita>
+    <age>94</age>
+  </Lolita>
+</root>

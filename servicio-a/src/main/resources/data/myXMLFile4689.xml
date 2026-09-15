@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanna"
+  lastname="Breed"
+  city="Providence"
+  country="Nigeria"
+  firstname2="Cassondra"
+  lastname2="Vorster"
+  email="Cassondra.Vorster@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>29.713</random_float>
+  <bool>true</bool>
+  <date>1984-10-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marcy</elt><elt>Emma</elt><elt>Melanie</elt><elt>Liana</elt><elt>Riannon</elt>  
+  <Cassondra>
+    <age>41</age>
+  </Cassondra>
+</root>

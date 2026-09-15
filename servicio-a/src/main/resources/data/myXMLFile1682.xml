@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ulrike"
+  lastname="Vins"
+  city="Stuttgart"
+  country="Moldova, Republic of"
+  firstname2="Moyna"
+  lastname2="Norvol"
+  email="Moyna.Norvol@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>91.449</random_float>
+  <bool>false</bool>
+  <date>1991-11-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Goldie</elt><elt>Deirdre</elt><elt>Andeee</elt><elt>Marika</elt><elt>Lynea</elt>  
+  <Moyna>
+    <age>41</age>
+  </Moyna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dari"
+  lastname="Dichy"
+  city="Apia"
+  country="Iceland"
+  firstname2="Maridel"
+  lastname2="Wittie"
+  email="Maridel.Wittie@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>87.396</random_float>
+  <bool>false</bool>
+  <date>1993-07-14</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Beth</elt><elt>Selia</elt><elt>Cassondra</elt><elt>Di</elt><elt>Ileana</elt>  
+  <Maridel>
+    <age>93</age>
+  </Maridel>
+</root>

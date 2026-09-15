@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winny"
+  lastname="Telfer"
+  city="Toulouse"
+  country="Burkina Faso"
+  firstname2="Audrie"
+  lastname2="McGrody"
+  email="Audrie.McGrody@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>81.043</random_float>
+  <bool>false</bool>
+  <date>1990-05-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ellette</elt><elt>Rayna</elt><elt>Roberta</elt><elt>Debee</elt><elt>Ethel</elt>  
+  <Audrie>
+    <age>86</age>
+  </Audrie>
+</root>

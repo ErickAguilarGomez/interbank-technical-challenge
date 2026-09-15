@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Jalbert"
+  city="Mbabane"
+  country="Congo"
+  firstname2="Glynnis"
+  lastname2="Baptlsta"
+  email="Glynnis.Baptlsta@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>32.162</random_float>
+  <bool>true</bool>
+  <date>1983-11-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Morganica</elt><elt>Lilith</elt><elt>Melanie</elt><elt>Millie</elt><elt>Leona</elt>  
+  <Glynnis>
+    <age>77</age>
+  </Glynnis>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Middleton"
+  city="Kanpur"
+  country="Anguilla"
+  firstname2="Sonni"
+  lastname2="Roumell"
+  email="Sonni.Roumell@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>43.453</random_float>
+  <bool>true</bool>
+  <date>1993-02-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Concettina</elt><elt>Jere</elt><elt>Dawn</elt><elt>Phylis</elt><elt>Teriann</elt>  
+  <Sonni>
+    <age>49</age>
+  </Sonni>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rayna"
+  lastname="Teddman"
+  city="Leeds"
+  country="Turks and Caicos Islands"
+  firstname2="Tera"
+  lastname2="Shama"
+  email="Tera.Shama@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>1.849</random_float>
+  <bool>false</bool>
+  <date>1989-10-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jessy</elt><elt>Elmira</elt><elt>Donetta</elt><elt>Marti</elt><elt>Cassandra</elt>  
+  <Tera>
+    <age>87</age>
+  </Tera>
+</root>

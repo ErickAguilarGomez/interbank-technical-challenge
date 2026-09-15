@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melisent"
+  lastname="Sherfield"
+  city="Zürich"
+  country="Kyrgyzstan"
+  firstname2="Ariela"
+  lastname2="Hylan"
+  email="Ariela.Hylan@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>72.425</random_float>
+  <bool>true</bool>
+  <date>1983-02-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hettie</elt><elt>Molli</elt><elt>Roz</elt><elt>Bee</elt><elt>Cissiee</elt>  
+  <Ariela>
+    <age>96</age>
+  </Ariela>
+</root>

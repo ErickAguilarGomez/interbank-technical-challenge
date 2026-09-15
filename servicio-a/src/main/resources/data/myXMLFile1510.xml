@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Hamil"
+  city="London"
+  country="Marshall Islands"
+  firstname2="Tatiania"
+  lastname2="Plato"
+  email="Tatiania.Plato@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>78.502</random_float>
+  <bool>false</bool>
+  <date>1996-04-16</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Flory</elt><elt>Amalie</elt><elt>Melisent</elt><elt>Orelia</elt><elt>Kelly</elt>  
+  <Tatiania>
+    <age>93</age>
+  </Tatiania>
+</root>

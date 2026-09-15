@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Sekofski"
+  city="Caracas"
+  country="El Salvador"
+  firstname2="Nita"
+  lastname2="Haldas"
+  email="Nita.Haldas@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>50.326</random_float>
+  <bool>true</bool>
+  <date>1991-01-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kore</elt><elt>Mellicent</elt><elt>Glenda</elt><elt>Leanna</elt><elt>Florencia</elt>  
+  <Nita>
+    <age>57</age>
+  </Nita>
+</root>

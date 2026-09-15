@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Scammon"
+  city="Campinas"
+  country="New Zealand"
+  firstname2="Misha"
+  lastname2="Lay"
+  email="Misha.Lay@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>13.101</random_float>
+  <bool>false</bool>
+  <date>1991-10-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mamie</elt><elt>Elena</elt><elt>Dorthy</elt><elt>Harmonia</elt><elt>Flo</elt>  
+  <Misha>
+    <age>25</age>
+  </Misha>
+</root>

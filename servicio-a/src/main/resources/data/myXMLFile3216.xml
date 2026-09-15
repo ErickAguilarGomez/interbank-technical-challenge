@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Edison"
+  city="Denver"
+  country="Gambia"
+  firstname2="Elyssa"
+  lastname2="Berriman"
+  email="Elyssa.Berriman@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>63.088</random_float>
+  <bool>true</bool>
+  <date>1997-05-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Julieta</elt><elt>Bibby</elt><elt>Etta</elt><elt>Kirbee</elt><elt>Lonnie</elt>  
+  <Elyssa>
+    <age>21</age>
+  </Elyssa>
+</root>

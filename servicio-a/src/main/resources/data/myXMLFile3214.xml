@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Girardo"
+  city="Patna"
+  country="Norway"
+  firstname2="Benita"
+  lastname2="Ranjiv"
+  email="Benita.Ranjiv@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>45.894</random_float>
+  <bool>false</bool>
+  <date>1992-02-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Catrina</elt><elt>Sabina</elt><elt>Marline</elt><elt>Ira</elt><elt>Tarra</elt>  
+  <Benita>
+    <age>70</age>
+  </Benita>
+</root>

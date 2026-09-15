@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berta"
+  lastname="Soneson"
+  city="Durango"
+  country="British Indian Ocean Territory"
+  firstname2="Nanete"
+  lastname2="Silvan"
+  email="Nanete.Silvan@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>12.129</random_float>
+  <bool>false</bool>
+  <date>1981-04-22</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Doro</elt><elt>Deedee</elt><elt>Sophia</elt><elt>Ileana</elt><elt>Leontine</elt>  
+  <Nanete>
+    <age>92</age>
+  </Nanete>
+</root>

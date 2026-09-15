@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Calla"
+  lastname="Lowry"
+  city="Geelong"
+  country="Slovenia"
+  firstname2="Kassey"
+  lastname2="Kelula"
+  email="Kassey.Kelula@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>44.059</random_float>
+  <bool>false</bool>
+  <date>1994-02-16</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jacenta</elt><elt>Sheelagh</elt><elt>Stephanie</elt><elt>Antonietta</elt><elt>Pamella</elt>  
+  <Kassey>
+    <age>39</age>
+  </Kassey>
+</root>

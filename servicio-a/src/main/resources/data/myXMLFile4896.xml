@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brianna"
+  lastname="Allare"
+  city="Vatican City"
+  country="Taiwan, Province of China"
+  firstname2="Mara"
+  lastname2="Amand"
+  email="Mara.Amand@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>27.223</random_float>
+  <bool>true</bool>
+  <date>1990-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ericka</elt><elt>Addia</elt><elt>Theodora</elt><elt>Edith</elt><elt>Shannah</elt>  
+  <Mara>
+    <age>83</age>
+  </Mara>
+</root>

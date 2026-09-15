@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darci"
+  lastname="Hubert"
+  city="San Diego"
+  country="Niger"
+  firstname2="Tressa"
+  lastname2="Persse"
+  email="Tressa.Persse@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>65.049</random_float>
+  <bool>false</bool>
+  <date>1985-11-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Linzy</elt><elt>Berget</elt><elt>Nikki</elt><elt>Genevra</elt><elt>Jennica</elt>  
+  <Tressa>
+    <age>56</age>
+  </Tressa>
+</root>

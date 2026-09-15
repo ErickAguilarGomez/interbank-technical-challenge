@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusty"
+  lastname="Henrie"
+  city="Tianjin"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Jennica"
+  lastname2="Pettiford"
+  email="Jennica.Pettiford@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>15.122</random_float>
+  <bool>false</bool>
+  <date>1992-08-21</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Trudie</elt><elt>Jemie</elt><elt>Addia</elt><elt>Mara</elt><elt>Chrystel</elt>  
+  <Jennica>
+    <age>59</age>
+  </Jennica>
+</root>

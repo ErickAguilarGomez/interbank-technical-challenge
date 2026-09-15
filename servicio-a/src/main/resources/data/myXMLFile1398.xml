@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Blisse"
+  city="Yaren District"
+  country="Azerbaijan"
+  firstname2="Ekaterina"
+  lastname2="Loring"
+  email="Ekaterina.Loring@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>90.424</random_float>
+  <bool>true</bool>
+  <date>1989-08-01</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hermione</elt><elt>Raquela</elt><elt>Randa</elt><elt>Jsandye</elt><elt>Moyna</elt>  
+  <Ekaterina>
+    <age>63</age>
+  </Ekaterina>
+</root>

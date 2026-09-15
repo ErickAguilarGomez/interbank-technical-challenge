@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Bettine"
+  city="Regina"
+  country="Uzbekistan"
+  firstname2="Rhoda"
+  lastname2="Adamsen"
+  email="Rhoda.Adamsen@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>6.123</random_float>
+  <bool>true</bool>
+  <date>1999-01-01</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ofilia</elt><elt>Ida</elt><elt>Modestia</elt><elt>Margalo</elt><elt>Perry</elt>  
+  <Rhoda>
+    <age>94</age>
+  </Rhoda>
+</root>

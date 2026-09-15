@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Calla"
+  lastname="Flyn"
+  city="Horta (Azores)"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Basia"
+  lastname2="Marden"
+  email="Basia.Marden@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>41.081</random_float>
+  <bool>false</bool>
+  <date>1994-08-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ellette</elt><elt>Dode</elt><elt>Celisse</elt><elt>Maud</elt><elt>Tiffie</elt>  
+  <Basia>
+    <age>58</age>
+  </Basia>
+</root>

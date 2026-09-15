@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Tomasina"
+  city="Casablanca"
+  country="New Caledonia"
+  firstname2="Angela"
+  lastname2="Pernick"
+  email="Angela.Pernick@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>12.282</random_float>
+  <bool>true</bool>
+  <date>1999-02-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Thalia</elt><elt>Sean</elt><elt>Johna</elt><elt>Wilma</elt><elt>Korrie</elt>  
+  <Angela>
+    <age>80</age>
+  </Angela>
+</root>

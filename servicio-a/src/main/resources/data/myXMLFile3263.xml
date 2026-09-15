@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorne"
+  lastname="Woodberry"
+  city="Cairo"
+  country="Palestinian Territory, Occupied"
+  firstname2="Adriana"
+  lastname2="Evangelia"
+  email="Adriana.Evangelia@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>12.801</random_float>
+  <bool>false</bool>
+  <date>1997-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Daryl</elt><elt>Jessamyn</elt><elt>Kalina</elt><elt>Marinna</elt><elt>Livvyy</elt>  
+  <Adriana>
+    <age>35</age>
+  </Adriana>
+</root>

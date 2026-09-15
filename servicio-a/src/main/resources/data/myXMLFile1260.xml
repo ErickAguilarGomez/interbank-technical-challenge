@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agathe"
+  lastname="Dowski"
+  city="Dededo"
+  country="Antigua and Barbuda"
+  firstname2="Teriann"
+  lastname2="Phi"
+  email="Teriann.Phi@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>38.869</random_float>
+  <bool>false</bool>
+  <date>1999-01-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ulrike</elt><elt>Fayre</elt><elt>Concettina</elt><elt>Lyssa</elt><elt>Kristan</elt>  
+  <Teriann>
+    <age>97</age>
+  </Teriann>
+</root>

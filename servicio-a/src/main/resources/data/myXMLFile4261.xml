@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marguerite"
+  lastname="Freddi"
+  city="Hai Phong"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Zondra"
+  lastname2="Medrek"
+  email="Zondra.Medrek@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>31.637</random_float>
+  <bool>false</bool>
+  <date>1986-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Cacilie</elt><elt>Katharina</elt><elt>Kathy</elt><elt>Vivia</elt><elt>Hettie</elt>  
+  <Zondra>
+    <age>31</age>
+  </Zondra>
+</root>

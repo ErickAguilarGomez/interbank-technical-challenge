@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Berriman"
+  city="Nouméa"
+  country="Lebanon"
+  firstname2="Addia"
+  lastname2="Barney"
+  email="Addia.Barney@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>72.453</random_float>
+  <bool>false</bool>
+  <date>1981-11-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Keelia</elt><elt>Ardeen</elt><elt>Dorothy</elt><elt>Eugine</elt><elt>Ursulina</elt>  
+  <Addia>
+    <age>74</age>
+  </Addia>
+</root>

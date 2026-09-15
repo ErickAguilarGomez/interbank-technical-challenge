@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Capello"
+  city="Tiraspol"
+  country="Angola"
+  firstname2="Emmey"
+  lastname2="Celestine"
+  email="Emmey.Celestine@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>5.176</random_float>
+  <bool>true</bool>
+  <date>1994-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joceline</elt><elt>Myrtice</elt><elt>Rosabelle</elt><elt>Nanete</elt><elt>Trixi</elt>  
+  <Emmey>
+    <age>68</age>
+  </Emmey>
+</root>

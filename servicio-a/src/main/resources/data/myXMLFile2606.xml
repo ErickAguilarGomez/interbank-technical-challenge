@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Danny"
+  lastname="Shaver"
+  city="Wonsan"
+  country="Sierra Leone"
+  firstname2="Eolanda"
+  lastname2="Liebermann"
+  email="Eolanda.Liebermann@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>6.466</random_float>
+  <bool>false</bool>
+  <date>1996-05-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Madelle</elt><elt>Juliane</elt><elt>Kayla</elt><elt>Nadine</elt><elt>Luci</elt>  
+  <Eolanda>
+    <age>66</age>
+  </Eolanda>
+</root>

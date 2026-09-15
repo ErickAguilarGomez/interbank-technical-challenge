@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Kesley"
+  city="Kingstown"
+  country="Kazakhstan"
+  firstname2="Donetta"
+  lastname2="Schonfeld"
+  email="Donetta.Schonfeld@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>23.117</random_float>
+  <bool>true</bool>
+  <date>1988-08-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Charlena</elt><elt>Rhea</elt><elt>Mureil</elt><elt>Robinia</elt><elt>Teriann</elt>  
+  <Donetta>
+    <age>88</age>
+  </Donetta>
+</root>

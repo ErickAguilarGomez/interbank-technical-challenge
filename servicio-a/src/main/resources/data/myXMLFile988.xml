@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Merriott"
+  city="Nukuʻalofa"
+  country="Korea, Republic of"
+  firstname2="Ardeen"
+  lastname2="Lacombe"
+  email="Ardeen.Lacombe@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>61.043</random_float>
+  <bool>false</bool>
+  <date>1982-09-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ardeen</elt><elt>Jere</elt><elt>Jany</elt><elt>Molli</elt><elt>Alyda</elt>  
+  <Ardeen>
+    <age>52</age>
+  </Ardeen>
+</root>

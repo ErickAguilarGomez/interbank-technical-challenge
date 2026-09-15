@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaine"
+  lastname="Juan"
+  city="Kandahar"
+  country="El Salvador"
+  firstname2="Alisha"
+  lastname2="Quent"
+  email="Alisha.Quent@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>56.58</random_float>
+  <bool>true</bool>
+  <date>1987-11-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Layla</elt><elt>Kerrin</elt><elt>Perry</elt><elt>Reeba</elt><elt>Rosene</elt>  
+  <Alisha>
+    <age>25</age>
+  </Alisha>
+</root>

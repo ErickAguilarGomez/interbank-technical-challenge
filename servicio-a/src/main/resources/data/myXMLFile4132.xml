@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gianina"
+  lastname="Arvo"
+  city="Dunedin"
+  country="Belgium"
+  firstname2="Kimmy"
+  lastname2="Croix"
+  email="Kimmy.Croix@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>88.876</random_float>
+  <bool>false</bool>
+  <date>1999-06-13</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Blinni</elt><elt>Mariann</elt><elt>Merrie</elt><elt>Peri</elt><elt>Lorie</elt>  
+  <Kimmy>
+    <age>87</age>
+  </Kimmy>
+</root>

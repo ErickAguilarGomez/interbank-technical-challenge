@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorice"
+  lastname="Concha"
+  city="Newcastle"
+  country="Viet Nam"
+  firstname2="Letizia"
+  lastname2="Armanda"
+  email="Letizia.Armanda@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>9.101</random_float>
+  <bool>true</bool>
+  <date>1990-11-06</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lexine</elt><elt>Marti</elt><elt>Courtnay</elt><elt>Moyna</elt><elt>Stephanie</elt>  
+  <Letizia>
+    <age>49</age>
+  </Letizia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valli"
+  lastname="Buttaro"
+  city="Ljubljana"
+  country="Slovenia"
+  firstname2="Maurene"
+  lastname2="Ephrem"
+  email="Maurene.Ephrem@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>38.721</random_float>
+  <bool>false</bool>
+  <date>1983-04-22</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Bee</elt><elt>Lusa</elt><elt>Merle</elt><elt>Dagmar</elt><elt>Elie</elt>  
+  <Maurene>
+    <age>80</age>
+  </Maurene>
+</root>

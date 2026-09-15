@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Damaris"
+  lastname="Zuzana"
+  city="San Fernando"
+  country="Micronesia, Federated States of"
+  firstname2="Vinita"
+  lastname2="Carleen"
+  email="Vinita.Carleen@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>62.032</random_float>
+  <bool>false</bool>
+  <date>1997-05-08</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Maisey</elt><elt>Rani</elt><elt>Courtnay</elt><elt>Giustina</elt><elt>Flo</elt>  
+  <Vinita>
+    <age>18</age>
+  </Vinita>
+</root>

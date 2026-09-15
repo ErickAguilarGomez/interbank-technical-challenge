@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Willetta"
+  lastname="Stelle"
+  city="Saskatoon"
+  country="Albania"
+  firstname2="Cyndie"
+  lastname2="Pattin"
+  email="Cyndie.Pattin@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>51.332</random_float>
+  <bool>true</bool>
+  <date>1986-04-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jinny</elt><elt>Michaelina</elt><elt>Kaia</elt><elt>Regina</elt><elt>Margalo</elt>  
+  <Cyndie>
+    <age>38</age>
+  </Cyndie>
+</root>

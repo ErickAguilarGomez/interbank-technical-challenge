@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trudie"
+  lastname="Delila"
+  city="Kuwait City"
+  country="Germany"
+  firstname2="Daune"
+  lastname2="Ummersen"
+  email="Daune.Ummersen@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>68.757</random_float>
+  <bool>true</bool>
+  <date>1984-05-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lila</elt><elt>Bernardine</elt><elt>Trudie</elt><elt>Meg</elt><elt>Nessie</elt>  
+  <Daune>
+    <age>47</age>
+  </Daune>
+</root>

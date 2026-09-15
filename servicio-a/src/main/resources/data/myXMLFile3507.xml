@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genevra"
+  lastname="Cecile"
+  city="Yellowknife"
+  country="Lesotho"
+  firstname2="Valli"
+  lastname2="Braun"
+  email="Valli.Braun@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>44.99</random_float>
+  <bool>false</bool>
+  <date>1981-12-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Zaria</elt><elt>Carly</elt><elt>Mara</elt><elt>Yetty</elt><elt>Lelah</elt>  
+  <Valli>
+    <age>96</age>
+  </Valli>
+</root>

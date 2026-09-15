@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dede"
+  lastname="Haldas"
+  city="Hanover"
+  country="Colombia"
+  firstname2="Amalie"
+  lastname2="Elsinore"
+  email="Amalie.Elsinore@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>97.876</random_float>
+  <bool>true</bool>
+  <date>1986-06-19</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dyann</elt><elt>Valeda</elt><elt>Sindee</elt><elt>Valeda</elt><elt>Alisha</elt>  
+  <Amalie>
+    <age>37</age>
+  </Amalie>
+</root>

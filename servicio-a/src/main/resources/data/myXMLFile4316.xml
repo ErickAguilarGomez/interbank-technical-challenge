@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lory"
+  lastname="Schonfeld"
+  city="Split (city)"
+  country="Italy"
+  firstname2="Maye"
+  lastname2="Meter"
+  email="Maye.Meter@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>12.128</random_float>
+  <bool>true</bool>
+  <date>1992-07-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Brooks</elt><elt>Margette</elt><elt>Bee</elt><elt>Maurene</elt><elt>Heddie</elt>  
+  <Maye>
+    <age>82</age>
+  </Maye>
+</root>

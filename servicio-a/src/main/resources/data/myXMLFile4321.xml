@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kayla"
+  lastname="Chandler"
+  city="Jinan"
+  country="Senegal"
+  firstname2="Merci"
+  lastname2="Amand"
+  email="Merci.Amand@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>38.108</random_float>
+  <bool>true</bool>
+  <date>1993-01-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marline</elt><elt>Wynne</elt><elt>Jordan</elt><elt>Bettine</elt><elt>Caritta</elt>  
+  <Merci>
+    <age>34</age>
+  </Merci>
+</root>

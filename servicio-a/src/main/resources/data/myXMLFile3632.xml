@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Ball"
+  city="Dresden"
+  country="Liberia"
+  firstname2="Marylou"
+  lastname2="Diogenes"
+  email="Marylou.Diogenes@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>83.925</random_float>
+  <bool>false</bool>
+  <date>1985-08-31</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Queenie</elt><elt>Elie</elt><elt>Marcy</elt><elt>Leona</elt><elt>Kaja</elt>  
+  <Marylou>
+    <age>50</age>
+  </Marylou>
+</root>

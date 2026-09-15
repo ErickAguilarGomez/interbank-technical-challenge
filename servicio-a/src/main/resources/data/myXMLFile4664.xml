@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosene"
+  lastname="Peg"
+  city="Vatican City"
+  country="United Arab Emirates"
+  firstname2="Charlena"
+  lastname2="Roumell"
+  email="Charlena.Roumell@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>1.947</random_float>
+  <bool>true</bool>
+  <date>1989-02-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ronna</elt><elt>Oona</elt><elt>Neila</elt><elt>Gale</elt><elt>Siana</elt>  
+  <Charlena>
+    <age>41</age>
+  </Charlena>
+</root>

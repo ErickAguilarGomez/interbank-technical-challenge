@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Laurianne"
+  city="Calama"
+  country="Nicaragua"
+  firstname2="Mathilda"
+  lastname2="Bivins"
+  email="Mathilda.Bivins@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>6.32</random_float>
+  <bool>false</bool>
+  <date>1995-05-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gerrie</elt><elt>Wanda</elt><elt>Beth</elt><elt>Karly</elt><elt>Dyann</elt>  
+  <Mathilda>
+    <age>93</age>
+  </Mathilda>
+</root>

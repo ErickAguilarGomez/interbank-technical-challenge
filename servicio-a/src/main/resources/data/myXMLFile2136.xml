@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Kare"
+  city="Timbuktu"
+  country="Iran, Islamic Republic Of"
+  firstname2="Corina"
+  lastname2="Koziara"
+  email="Corina.Koziara@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>90.169</random_float>
+  <bool>true</bool>
+  <date>1987-08-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hallie</elt><elt>Korrie</elt><elt>Laure</elt><elt>Brooks</elt><elt>Adriana</elt>  
+  <Corina>
+    <age>51</age>
+  </Corina>
+</root>

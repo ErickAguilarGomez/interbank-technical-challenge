@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Magdalena"
+  lastname="Braun"
+  city="Doha"
+  country="Guam"
+  firstname2="Paulita"
+  lastname2="Fancie"
+  email="Paulita.Fancie@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>19.467</random_float>
+  <bool>true</bool>
+  <date>1987-07-26</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lita</elt><elt>Tonia</elt><elt>Clementine</elt><elt>Janenna</elt><elt>Halette</elt>  
+  <Paulita>
+    <age>96</age>
+  </Paulita>
+</root>

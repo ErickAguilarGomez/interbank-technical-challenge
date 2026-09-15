@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Averyl"
+  lastname="Couture"
+  city="Jinan"
+  country="Somalia"
+  firstname2="Agathe"
+  lastname2="Lesley"
+  email="Agathe.Lesley@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>58.877</random_float>
+  <bool>false</bool>
+  <date>1990-03-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ebonee</elt><elt>Carree</elt><elt>Lanna</elt><elt>Dyann</elt><elt>Jean</elt>  
+  <Agathe>
+    <age>57</age>
+  </Agathe>
+</root>

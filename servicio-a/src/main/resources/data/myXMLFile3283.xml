@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="Rese"
+  city="Malmö"
+  country="South Africa"
+  firstname2="Ulrike"
+  lastname2="Janene"
+  email="Ulrike.Janene@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>84.964</random_float>
+  <bool>true</bool>
+  <date>1999-05-31</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ilse</elt><elt>Janey</elt><elt>Mara</elt><elt>Gretal</elt><elt>Cecile</elt>  
+  <Ulrike>
+    <age>63</age>
+  </Ulrike>
+</root>

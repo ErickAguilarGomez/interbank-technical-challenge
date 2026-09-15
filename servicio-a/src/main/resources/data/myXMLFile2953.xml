@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carol-Jean"
+  lastname="Schalles"
+  city="Kuwait City"
+  country="Jamaica"
+  firstname2="Georgetta"
+  lastname2="Bevin"
+  email="Georgetta.Bevin@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>67.439</random_float>
+  <bool>false</bool>
+  <date>1981-09-26</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Alie</elt><elt>Netty</elt><elt>Britte</elt><elt>Johna</elt><elt>Emmey</elt>  
+  <Georgetta>
+    <age>71</age>
+  </Georgetta>
+</root>

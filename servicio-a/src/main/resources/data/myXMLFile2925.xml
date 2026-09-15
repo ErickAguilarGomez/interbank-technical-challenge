@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Roarke"
+  city="Tiraspol"
+  country="Bouvet Island"
+  firstname2="Elena"
+  lastname2="Cristi"
+  email="Elena.Cristi@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>80.424</random_float>
+  <bool>true</bool>
+  <date>1997-01-17</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Minne</elt><elt>Kittie</elt><elt>Benita</elt><elt>Sibella</elt><elt>Myrtice</elt>  
+  <Elena>
+    <age>63</age>
+  </Elena>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="June"
+  lastname="Etom"
+  city="Santiago"
+  country="Greenland"
+  firstname2="Mara"
+  lastname2="Shelba"
+  email="Mara.Shelba@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>53.649</random_float>
+  <bool>false</bool>
+  <date>1994-02-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mildrid</elt><elt>Kylynn</elt><elt>Brynna</elt><elt>Ekaterina</elt><elt>Marinna</elt>  
+  <Mara>
+    <age>56</age>
+  </Mara>
+</root>

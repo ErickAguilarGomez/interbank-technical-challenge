@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Briney"
+  lastname="Magdalen"
+  city="Yakutsk"
+  country="British Indian Ocean Territory"
+  firstname2="June"
+  lastname2="Stephie"
+  email="June.Stephie@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>94.554</random_float>
+  <bool>false</bool>
+  <date>1984-12-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jan</elt><elt>Deirdre</elt><elt>Amelia</elt><elt>Wileen</elt><elt>Paulita</elt>  
+  <June>
+    <age>21</age>
+  </June>
+</root>

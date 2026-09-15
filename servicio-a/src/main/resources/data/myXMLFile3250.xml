@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Vary"
+  city="Bulawayo"
+  country="Marshall Islands"
+  firstname2="Maye"
+  lastname2="Abram"
+  email="Maye.Abram@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>55.59</random_float>
+  <bool>false</bool>
+  <date>1993-11-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elie</elt><elt>Cyb</elt><elt>Chere</elt><elt>Tarra</elt><elt>Jeanna</elt>  
+  <Maye>
+    <age>46</age>
+  </Maye>
+</root>

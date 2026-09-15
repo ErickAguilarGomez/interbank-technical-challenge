@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heddie"
+  lastname="Schenck"
+  city="Ouagadougou"
+  country="Hong Kong"
+  firstname2="Roslyn"
+  lastname2="Natalia"
+  email="Roslyn.Natalia@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>99.551</random_float>
+  <bool>false</bool>
+  <date>1991-02-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kenna</elt><elt>Michaelina</elt><elt>Deedee</elt><elt>Meghann</elt><elt>Tilly</elt>  
+  <Roslyn>
+    <age>66</age>
+  </Roslyn>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ana"
+  lastname="Brotherson"
+  city="Douala"
+  country="Denmark"
+  firstname2="Mady"
+  lastname2="Kannry"
+  email="Mady.Kannry@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>85.723</random_float>
+  <bool>false</bool>
+  <date>1986-10-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hope</elt><elt>Marinna</elt><elt>Shell</elt><elt>Michaelina</elt><elt>Xylina</elt>  
+  <Mady>
+    <age>56</age>
+  </Mady>
+</root>

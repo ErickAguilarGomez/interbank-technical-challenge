@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arabel"
+  lastname="Rosalba"
+  city="Reykjavík"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Lory"
+  lastname2="Darrell"
+  email="Lory.Darrell@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>21.891</random_float>
+  <bool>false</bool>
+  <date>1994-01-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Linzy</elt><elt>Marcelline</elt><elt>Tabbatha</elt><elt>Candi</elt><elt>Olivette</elt>  
+  <Lory>
+    <age>46</age>
+  </Lory>
+</root>

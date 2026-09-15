@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Wyn"
+  city="Ürümqi"
+  country="Costa Rica"
+  firstname2="Susette"
+  lastname2="Nicoline"
+  email="Susette.Nicoline@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>78.133</random_float>
+  <bool>true</bool>
+  <date>1981-04-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jennica</elt><elt>Hettie</elt><elt>Lanna</elt><elt>Elfreda</elt><elt>Yetty</elt>  
+  <Susette>
+    <age>69</age>
+  </Susette>
+</root>

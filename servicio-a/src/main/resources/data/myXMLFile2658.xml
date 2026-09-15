@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Abbie"
+  lastname="Gamaliel"
+  city="Brussels"
+  country="Dominican Republic"
+  firstname2="Sabina"
+  lastname2="Cornelia"
+  email="Sabina.Cornelia@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>17.677</random_float>
+  <bool>true</bool>
+  <date>1996-04-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Antonietta</elt><elt>Blake</elt><elt>Yetty</elt><elt>Jaclyn</elt><elt>Giustina</elt>  
+  <Sabina>
+    <age>21</age>
+  </Sabina>
+</root>

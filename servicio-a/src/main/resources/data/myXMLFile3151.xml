@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kara-Lynn"
+  lastname="Korey"
+  city="Anadyr (town)"
+  country="United States"
+  firstname2="Christy"
+  lastname2="Hewitt"
+  email="Christy.Hewitt@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>65.501</random_float>
+  <bool>true</bool>
+  <date>1991-09-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Wendi</elt><elt>Mariele</elt><elt>Marinna</elt><elt>Shaine</elt><elt>Kore</elt>  
+  <Christy>
+    <age>30</age>
+  </Christy>
+</root>

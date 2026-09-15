@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Sisile"
+  city="Sydney"
+  country="Christmas Island"
+  firstname2="Tressa"
+  lastname2="Seumas"
+  email="Tressa.Seumas@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>53.144</random_float>
+  <bool>false</bool>
+  <date>1985-03-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Beatriz</elt><elt>Correy</elt><elt>Willetta</elt><elt>Clementine</elt><elt>Linzy</elt>  
+  <Tressa>
+    <age>56</age>
+  </Tressa>
+</root>

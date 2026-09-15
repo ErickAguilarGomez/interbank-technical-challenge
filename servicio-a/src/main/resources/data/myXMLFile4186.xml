@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Avi"
+  city="Rabi Island"
+  country="Tokelau"
+  firstname2="Betta"
+  lastname2="Infield"
+  email="Betta.Infield@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>23.325</random_float>
+  <bool>true</bool>
+  <date>1984-07-20</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Evaleen</elt><elt>Cristine</elt><elt>Nickie</elt><elt>Regina</elt><elt>Carmela</elt>  
+  <Betta>
+    <age>33</age>
+  </Betta>
+</root>

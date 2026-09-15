@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blinni"
+  lastname="Nicoline"
+  city="Hagåtña"
+  country="Bahamas"
+  firstname2="Arlina"
+  lastname2="Lay"
+  email="Arlina.Lay@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>1.793</random_float>
+  <bool>false</bool>
+  <date>1997-02-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Valeda</elt><elt>Tressa</elt><elt>Suzette</elt><elt>Tami</elt><elt>Mamie</elt>  
+  <Arlina>
+    <age>46</age>
+  </Arlina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trudie"
+  lastname="Quent"
+  city="Ho Chi Minh City"
+  country="Zambia"
+  firstname2="Caressa"
+  lastname2="Vastah"
+  email="Caressa.Vastah@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>30.616</random_float>
+  <bool>true</bool>
+  <date>1990-05-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vere</elt><elt>Briney</elt><elt>Gretal</elt><elt>Dode</elt><elt>Alejandra</elt>  
+  <Caressa>
+    <age>97</age>
+  </Caressa>
+</root>

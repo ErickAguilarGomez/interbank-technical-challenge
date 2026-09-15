@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wendi"
+  lastname="Cosenza"
+  city="Kraków"
+  country="Mongolia"
+  firstname2="Stacey"
+  lastname2="Paine"
+  email="Stacey.Paine@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>27.216</random_float>
+  <bool>false</bool>
+  <date>1984-10-11</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kalina</elt><elt>Ariela</elt><elt>Kalina</elt><elt>Lexine</elt><elt>Di</elt>  
+  <Stacey>
+    <age>81</age>
+  </Stacey>
+</root>

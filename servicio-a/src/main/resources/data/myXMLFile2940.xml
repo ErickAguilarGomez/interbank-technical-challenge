@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brana"
+  lastname="Grosz"
+  city="Vitória"
+  country="Korea, Republic of"
+  firstname2="Basia"
+  lastname2="Breed"
+  email="Basia.Breed@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>36.478</random_float>
+  <bool>true</bool>
+  <date>1985-09-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hettie</elt><elt>Dania</elt><elt>Madeleine</elt><elt>Sidoney</elt><elt>Brooks</elt>  
+  <Basia>
+    <age>80</age>
+  </Basia>
+</root>

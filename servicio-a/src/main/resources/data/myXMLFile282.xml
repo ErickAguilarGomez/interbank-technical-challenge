@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corly"
+  lastname="Hanshaw"
+  city="Yellowknife"
+  country="Christmas Island"
+  firstname2="Kirstin"
+  lastname2="Arne"
+  email="Kirstin.Arne@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>16.365</random_float>
+  <bool>false</bool>
+  <date>1992-06-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Phylis</elt><elt>Fredericka</elt><elt>Carly</elt><elt>Carmela</elt><elt>Merry</elt>  
+  <Kirstin>
+    <age>38</age>
+  </Kirstin>
+</root>

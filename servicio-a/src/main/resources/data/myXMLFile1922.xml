@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trixi"
+  lastname="Linehan"
+  city="Shijiazhuang"
+  country="Angola"
+  firstname2="Vere"
+  lastname2="Vorster"
+  email="Vere.Vorster@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>1.427</random_float>
+  <bool>false</bool>
+  <date>1999-01-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maridel</elt><elt>Kassey</elt><elt>Emma</elt><elt>Viki</elt><elt>Gaylene</elt>  
+  <Vere>
+    <age>29</age>
+  </Vere>
+</root>

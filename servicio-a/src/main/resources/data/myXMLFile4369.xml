@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Fillbert"
+  city="Edinburgh"
+  country="Australia"
+  firstname2="Rhea"
+  lastname2="Sancho"
+  email="Rhea.Sancho@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>83.146</random_float>
+  <bool>false</bool>
+  <date>1998-05-17</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Corina</elt><elt>Roseline</elt><elt>Maud</elt><elt>Gwenneth</elt><elt>Ninnetta</elt>  
+  <Rhea>
+    <age>43</age>
+  </Rhea>
+</root>

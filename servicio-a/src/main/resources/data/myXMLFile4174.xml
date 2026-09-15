@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Feliza"
+  lastname="Levey"
+  city="Porto-Novo"
+  country="Swaziland"
+  firstname2="Babita"
+  lastname2="Guthrie"
+  email="Babita.Guthrie@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>64.708</random_float>
+  <bool>true</bool>
+  <date>1985-12-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Monika</elt><elt>Brooks</elt><elt>Jemie</elt><elt>Kalina</elt><elt>Brana</elt>  
+  <Babita>
+    <age>40</age>
+  </Babita>
+</root>

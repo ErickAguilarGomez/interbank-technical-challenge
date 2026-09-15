@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sean"
+  lastname="Kravits"
+  city="Las Vegas"
+  country="Egypt"
+  firstname2="Dominga"
+  lastname2="Plato"
+  email="Dominga.Plato@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>97.315</random_float>
+  <bool>true</bool>
+  <date>1986-02-27</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Albertina</elt><elt>Vere</elt><elt>Nataline</elt><elt>Kara-Lynn</elt><elt>Alyssa</elt>  
+  <Dominga>
+    <age>18</age>
+  </Dominga>
+</root>

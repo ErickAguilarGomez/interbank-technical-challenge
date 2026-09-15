@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meriel"
+  lastname="Irmine"
+  city="Maceió"
+  country="Western Sahara"
+  firstname2="Melisent"
+  lastname2="Willie"
+  email="Melisent.Willie@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>88.777</random_float>
+  <bool>true</bool>
+  <date>1998-12-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Devina</elt><elt>Kassey</elt><elt>Anallese</elt><elt>Zia</elt><elt>Charissa</elt>  
+  <Melisent>
+    <age>42</age>
+  </Melisent>
+</root>

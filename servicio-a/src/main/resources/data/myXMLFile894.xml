@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adriana"
+  lastname="Virgin"
+  city="Tashkent"
+  country="Tonga"
+  firstname2="Steffane"
+  lastname2="Moina"
+  email="Steffane.Moina@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>73.801</random_float>
+  <bool>true</bool>
+  <date>1998-03-22</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Britni</elt><elt>Kellen</elt><elt>Amii</elt><elt>Angelique</elt><elt>Marjie</elt>  
+  <Steffane>
+    <age>34</age>
+  </Steffane>
+</root>

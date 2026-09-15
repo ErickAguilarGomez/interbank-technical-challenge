@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Alabaster"
+  city="Yellowknife"
+  country="Bouvet Island"
+  firstname2="Bibby"
+  lastname2="Dunkin"
+  email="Bibby.Dunkin@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>75.923</random_float>
+  <bool>false</bool>
+  <date>1993-02-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marita</elt><elt>Mariele</elt><elt>Letizia</elt><elt>Hollie</elt><elt>Madelle</elt>  
+  <Bibby>
+    <age>100</age>
+  </Bibby>
+</root>

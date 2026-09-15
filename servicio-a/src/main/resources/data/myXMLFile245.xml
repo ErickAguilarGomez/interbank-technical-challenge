@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maridel"
+  lastname="Wandie"
+  city="Geelong"
+  country="Algeria"
+  firstname2="Bibby"
+  lastname2="Berriman"
+  email="Bibby.Berriman@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>77.654</random_float>
+  <bool>false</bool>
+  <date>1982-11-11</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Annabela</elt><elt>Marti</elt><elt>Cecile</elt><elt>Mellicent</elt><elt>Elka</elt>  
+  <Bibby>
+    <age>40</age>
+  </Bibby>
+</root>

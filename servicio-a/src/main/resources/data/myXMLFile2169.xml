@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mahalia"
+  lastname="Amadas"
+  city="Columbus"
+  country="Sao Tome and Principe"
+  firstname2="Michaelina"
+  lastname2="Marsden"
+  email="Michaelina.Marsden@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>41.697</random_float>
+  <bool>true</bool>
+  <date>1984-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ermengarde</elt><elt>Konstance</elt><elt>Theodora</elt><elt>Lolita</elt><elt>Belva</elt>  
+  <Michaelina>
+    <age>51</age>
+  </Michaelina>
+</root>

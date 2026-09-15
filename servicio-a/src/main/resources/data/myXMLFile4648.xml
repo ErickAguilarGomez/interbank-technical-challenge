@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanchon"
+  lastname="Knowling"
+  city="Sapporo"
+  country="Kiribati"
+  firstname2="Gusella"
+  lastname2="Gladstone"
+  email="Gusella.Gladstone@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>66.484</random_float>
+  <bool>false</bool>
+  <date>1990-10-22</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Minne</elt><elt>Catharine</elt><elt>Mariele</elt><elt>Cissiee</elt><elt>Corly</elt>  
+  <Gusella>
+    <age>20</age>
+  </Gusella>
+</root>

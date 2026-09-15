@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ariela"
+  lastname="Maroney"
+  city="Makati City"
+  country="Somalia"
+  firstname2="Molli"
+  lastname2="Irmine"
+  email="Molli.Irmine@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>95.692</random_float>
+  <bool>false</bool>
+  <date>1987-09-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Flory</elt><elt>Brynna</elt><elt>Lusa</elt><elt>Merry</elt><elt>Sharlene</elt>  
+  <Molli>
+    <age>72</age>
+  </Molli>
+</root>

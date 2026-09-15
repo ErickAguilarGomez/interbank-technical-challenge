@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darci"
+  lastname="Elbertina"
+  city="Paris"
+  country="Turkey"
+  firstname2="Margette"
+  lastname2="Lattie"
+  email="Margette.Lattie@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>57.965</random_float>
+  <bool>false</bool>
+  <date>1984-12-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Brena</elt><elt>Dorene</elt><elt>Oralee</elt><elt>Betta</elt><elt>Esmeralda</elt>  
+  <Margette>
+    <age>35</age>
+  </Margette>
+</root>

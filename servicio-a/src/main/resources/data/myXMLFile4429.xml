@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heddie"
+  lastname="Shirberg"
+  city="Funafuti"
+  country="Botswana"
+  firstname2="Ellette"
+  lastname2="Salvidor"
+  email="Ellette.Salvidor@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>38.091</random_float>
+  <bool>false</bool>
+  <date>1984-10-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Vita</elt><elt>Lusa</elt><elt>Dorice</elt><elt>Viviene</elt><elt>Tani</elt>  
+  <Ellette>
+    <age>99</age>
+  </Ellette>
+</root>

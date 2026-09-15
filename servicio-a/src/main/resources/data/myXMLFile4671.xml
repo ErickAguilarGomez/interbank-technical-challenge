@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Nunci"
+  city="Saint Petersburg"
+  country="Angola"
+  firstname2="Florencia"
+  lastname2="Alabaster"
+  email="Florencia.Alabaster@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>20.34</random_float>
+  <bool>true</bool>
+  <date>1997-12-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emelina</elt><elt>Hannis</elt><elt>Tani</elt><elt>Raquela</elt><elt>Gabi</elt>  
+  <Florencia>
+    <age>100</age>
+  </Florencia>
+</root>

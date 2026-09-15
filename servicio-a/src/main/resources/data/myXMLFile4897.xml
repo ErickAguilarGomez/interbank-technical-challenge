@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Micheline"
+  lastname="Shirberg"
+  city="Castries"
+  country="Netherlands Antilles"
+  firstname2="Corly"
+  lastname2="Gaspard"
+  email="Corly.Gaspard@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>40.534</random_float>
+  <bool>true</bool>
+  <date>1981-11-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tamqrah</elt><elt>Aili</elt><elt>Melodie</elt><elt>Sallie</elt><elt>Viviene</elt>  
+  <Corly>
+    <age>47</age>
+  </Corly>
+</root>

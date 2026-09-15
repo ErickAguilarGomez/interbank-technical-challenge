@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Molli"
+  lastname="Hoenack"
+  city="Arbil"
+  country="Malawi"
+  firstname2="Joane"
+  lastname2="Hebner"
+  email="Joane.Hebner@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>81.875</random_float>
+  <bool>false</bool>
+  <date>1997-10-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Alleen</elt><elt>Dede</elt><elt>Jolyn</elt><elt>Willetta</elt><elt>Johna</elt>  
+  <Joane>
+    <age>52</age>
+  </Joane>
+</root>

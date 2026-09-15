@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Torray"
+  city="Sana'a"
+  country="Turkmenistan"
+  firstname2="Tamqrah"
+  lastname2="Longfellow"
+  email="Tamqrah.Longfellow@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>55.929</random_float>
+  <bool>false</bool>
+  <date>1996-01-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Drucie</elt><elt>Cherilyn</elt><elt>Roxane</elt><elt>Jemie</elt><elt>Keelia</elt>  
+  <Tamqrah>
+    <age>58</age>
+  </Tamqrah>
+</root>

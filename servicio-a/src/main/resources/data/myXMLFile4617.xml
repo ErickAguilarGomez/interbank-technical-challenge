@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardys"
+  lastname="Colp"
+  city="Naples"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Tami"
+  lastname2="Truc"
+  email="Tami.Truc@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>20.686</random_float>
+  <bool>false</bool>
+  <date>1984-06-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Deane</elt><elt>Kirstin</elt><elt>Nollie</elt><elt>Ottilie</elt><elt>Heida</elt>  
+  <Tami>
+    <age>27</age>
+  </Tami>
+</root>

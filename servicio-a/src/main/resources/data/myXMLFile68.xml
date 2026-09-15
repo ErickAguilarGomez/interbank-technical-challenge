@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Gibbeon"
+  city="Chaguanas"
+  country="Turkmenistan"
+  firstname2="Tonia"
+  lastname2="Hollingsworth"
+  email="Tonia.Hollingsworth@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>6.012</random_float>
+  <bool>true</bool>
+  <date>1996-07-18</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ulrike</elt><elt>Blake</elt><elt>Charissa</elt><elt>Layla</elt><elt>Devina</elt>  
+  <Tonia>
+    <age>67</age>
+  </Tonia>
+</root>

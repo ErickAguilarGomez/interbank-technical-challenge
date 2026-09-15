@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Merat"
+  city="Abuja"
+  country="Iraq"
+  firstname2="Maridel"
+  lastname2="Rozanna"
+  email="Maridel.Rozanna@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>44.764</random_float>
+  <bool>false</bool>
+  <date>1994-05-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Susette</elt><elt>Binny</elt><elt>Janenna</elt><elt>Drucie</elt><elt>Elka</elt>  
+  <Maridel>
+    <age>24</age>
+  </Maridel>
+</root>

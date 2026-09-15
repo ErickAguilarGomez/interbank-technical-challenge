@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nataline"
+  lastname="Rillings"
+  city="Ljubljana"
+  country="Samoa"
+  firstname2="Tani"
+  lastname2="Ephrem"
+  email="Tani.Ephrem@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>41.041</random_float>
+  <bool>true</bool>
+  <date>1982-07-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ernesta</elt><elt>Kara-Lynn</elt><elt>Netty</elt><elt>Jemie</elt><elt>Mellicent</elt>  
+  <Tani>
+    <age>60</age>
+  </Tani>
+</root>

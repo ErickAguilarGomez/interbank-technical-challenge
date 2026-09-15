@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Bibi"
+  city="Cuiabá"
+  country="French Polynesia"
+  firstname2="Elise"
+  lastname2="Ulphia"
+  email="Elise.Ulphia@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>67.356</random_float>
+  <bool>true</bool>
+  <date>1980-12-26</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mignon</elt><elt>Elyssa</elt><elt>Ivett</elt><elt>Petronia</elt><elt>Bertine</elt>  
+  <Elise>
+    <age>84</age>
+  </Elise>
+</root>

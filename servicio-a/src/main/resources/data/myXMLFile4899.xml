@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celene"
+  lastname="Faust"
+  city="Srinagar"
+  country="Swaziland"
+  firstname2="Ginnie"
+  lastname2="Hoban"
+  email="Ginnie.Hoban@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>62.608</random_float>
+  <bool>false</bool>
+  <date>1996-10-12</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dyann</elt><elt>Cathyleen</elt><elt>Yetty</elt><elt>Evaleen</elt><elt>Arlena</elt>  
+  <Ginnie>
+    <age>26</age>
+  </Ginnie>
+</root>

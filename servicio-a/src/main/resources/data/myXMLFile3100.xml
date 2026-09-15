@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merry"
+  lastname="Obed"
+  city="Las Palmas de Gran Canaria"
+  country="Djibouti"
+  firstname2="Rebeca"
+  lastname2="Devlen"
+  email="Rebeca.Devlen@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>95.526</random_float>
+  <bool>true</bool>
+  <date>1980-01-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Esmeralda</elt><elt>Hope</elt><elt>Selia</elt><elt>Hayley</elt><elt>Karina</elt>  
+  <Rebeca>
+    <age>76</age>
+  </Rebeca>
+</root>

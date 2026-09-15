@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elka"
+  lastname="Kermit"
+  city="Amman"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Edith"
+  lastname2="Shields"
+  email="Edith.Shields@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>43.977</random_float>
+  <bool>false</bool>
+  <date>1989-07-15</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Moyna</elt><elt>Wynne</elt><elt>Ardys</elt><elt>Letizia</elt><elt>Clary</elt>  
+  <Edith>
+    <age>31</age>
+  </Edith>
+</root>

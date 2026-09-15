@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aaren"
+  lastname="Gualtiero"
+  city="Naypyidaw"
+  country="Monaco"
+  firstname2="Blake"
+  lastname2="Waite"
+  email="Blake.Waite@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>34.283</random_float>
+  <bool>false</bool>
+  <date>1999-03-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Roseline</elt><elt>Bernardine</elt><elt>Celene</elt><elt>Rhoda</elt><elt>Lenna</elt>  
+  <Blake>
+    <age>38</age>
+  </Blake>
+</root>

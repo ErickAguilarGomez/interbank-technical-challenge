@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Gaspard"
+  city="Bandar Seri Begawan"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Heddie"
+  lastname2="Campball"
+  email="Heddie.Campball@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>53.975</random_float>
+  <bool>true</bool>
+  <date>1994-06-24</date>
+  <regEx>helloooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Robbi</elt><elt>Gusella</elt><elt>Elise</elt><elt>Kirbee</elt><elt>Kittie</elt>  
+  <Heddie>
+    <age>70</age>
+  </Heddie>
+</root>

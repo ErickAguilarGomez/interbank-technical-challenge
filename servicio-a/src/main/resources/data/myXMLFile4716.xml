@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brooks"
+  lastname="Atcliffe"
+  city="Bratislava"
+  country="Jersey"
+  firstname2="Ottilie"
+  lastname2="Larochelle"
+  email="Ottilie.Larochelle@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>8.131</random_float>
+  <bool>true</bool>
+  <date>1992-07-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lily</elt><elt>Nyssa</elt><elt>Riannon</elt><elt>Tarra</elt><elt>Bertine</elt>  
+  <Ottilie>
+    <age>37</age>
+  </Ottilie>
+</root>

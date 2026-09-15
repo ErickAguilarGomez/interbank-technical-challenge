@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Carmena"
+  city="Hanoi"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Aaren"
+  lastname2="Palocz"
+  email="Aaren.Palocz@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>11.141</random_float>
+  <bool>false</bool>
+  <date>1999-03-21</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Annecorinne</elt><elt>Katharina</elt><elt>Susan</elt><elt>Morganica</elt><elt>Clarice</elt>  
+  <Aaren>
+    <age>85</age>
+  </Aaren>
+</root>

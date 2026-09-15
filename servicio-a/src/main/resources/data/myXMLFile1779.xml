@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sarette"
+  lastname="Howlyn"
+  city="Las Palmas de Gran Canaria"
+  country="Turkey"
+  firstname2="Meghann"
+  lastname2="Zuzana"
+  email="Meghann.Zuzana@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>9.934</random_float>
+  <bool>true</bool>
+  <date>1996-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Linet</elt><elt>Frank</elt><elt>Petronia</elt><elt>Frances</elt><elt>Meghann</elt>  
+  <Meghann>
+    <age>100</age>
+  </Meghann>
+</root>

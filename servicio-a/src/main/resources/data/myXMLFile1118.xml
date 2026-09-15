@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brianna"
+  lastname="Ahab"
+  city="Tamale"
+  country="Honduras"
+  firstname2="Deloria"
+  lastname2="Bahr"
+  email="Deloria.Bahr@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>89.15</random_float>
+  <bool>true</bool>
+  <date>1985-04-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Philis</elt><elt>Glenda</elt><elt>Jasmina</elt><elt>Giustina</elt><elt>Ann-Marie</elt>  
+  <Deloria>
+    <age>59</age>
+  </Deloria>
+</root>

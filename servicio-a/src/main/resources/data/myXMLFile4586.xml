@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bertine"
+  lastname="Toffic"
+  city="Petropavlovsk-Kamchatsky"
+  country="Chad"
+  firstname2="Candi"
+  lastname2="Georas"
+  email="Candi.Georas@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>59.783</random_float>
+  <bool>false</bool>
+  <date>1999-01-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Binny</elt><elt>Ida</elt><elt>Gratia</elt><elt>Pierette</elt><elt>Ilse</elt>  
+  <Candi>
+    <age>97</age>
+  </Candi>
+</root>

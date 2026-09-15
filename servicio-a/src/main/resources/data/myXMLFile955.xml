@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Stoller"
+  city="Gold Coast"
+  country="Saint Pierre and Miquelon"
+  firstname2="Tatiania"
+  lastname2="Leary"
+  email="Tatiania.Leary@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>4.455</random_float>
+  <bool>true</bool>
+  <date>1986-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Courtnay</elt><elt>Kittie</elt><elt>Margalo</elt><elt>Sheree</elt><elt>Frances</elt>  
+  <Tatiania>
+    <age>52</age>
+  </Tatiania>
+</root>

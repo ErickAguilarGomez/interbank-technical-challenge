@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alia"
+  lastname="Salvidor"
+  city="Nassau"
+  country="Lithuania"
+  firstname2="Brana"
+  lastname2="Pillsbury"
+  email="Brana.Pillsbury@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>60.918</random_float>
+  <bool>false</bool>
+  <date>1989-08-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Krystle</elt><elt>Gertrud</elt><elt>Marleah</elt><elt>Shaylyn</elt><elt>Florencia</elt>  
+  <Brana>
+    <age>89</age>
+  </Brana>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Odessa"
+  lastname="Lytton"
+  city="Managua"
+  country="Czech Republic"
+  firstname2="Rhoda"
+  lastname2="Nunci"
+  email="Rhoda.Nunci@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>62.351</random_float>
+  <bool>true</bool>
+  <date>1985-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Wendi</elt><elt>Silvana</elt><elt>Konstance</elt><elt>Donnie</elt><elt>Sophia</elt>  
+  <Rhoda>
+    <age>39</age>
+  </Rhoda>
+</root>

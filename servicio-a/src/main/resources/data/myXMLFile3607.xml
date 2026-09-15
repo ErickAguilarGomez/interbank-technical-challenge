@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Atlanta"
+  lastname="Newell"
+  city="Paris"
+  country="Cambodia"
+  firstname2="Patricia"
+  lastname2="Hunfredo"
+  email="Patricia.Hunfredo@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>43.776</random_float>
+  <bool>true</bool>
+  <date>1999-04-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lorie</elt><elt>Kamilah</elt><elt>Consuela</elt><elt>Jolyn</elt><elt>Edith</elt>  
+  <Patricia>
+    <age>52</age>
+  </Patricia>
+</root>

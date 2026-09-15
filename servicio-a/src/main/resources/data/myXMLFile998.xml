@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gratia"
+  lastname="Weinreb"
+  city="Novosibirsk"
+  country="Bermuda"
+  firstname2="Peri"
+  lastname2="Christal"
+  email="Peri.Christal@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>88.674</random_float>
+  <bool>true</bool>
+  <date>1982-10-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tatiania</elt><elt>Glenda</elt><elt>Coral</elt><elt>Hildegaard</elt><elt>Hildegaard</elt>  
+  <Peri>
+    <age>72</age>
+  </Peri>
+</root>

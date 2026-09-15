@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orsola"
+  lastname="Jalbert"
+  city="Dongguan"
+  country="Iran, Islamic Republic Of"
+  firstname2="Anallese"
+  lastname2="Karna"
+  email="Anallese.Karna@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>77.397</random_float>
+  <bool>false</bool>
+  <date>1989-01-18</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Konstance</elt><elt>Lauryn</elt><elt>Brena</elt><elt>Daryl</elt><elt>Alyssa</elt>  
+  <Anallese>
+    <age>90</age>
+  </Anallese>
+</root>

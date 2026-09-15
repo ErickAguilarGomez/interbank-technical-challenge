@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wileen"
+  lastname="Milde"
+  city="Livingstone"
+  country="Bahamas"
+  firstname2="Anica"
+  lastname2="Zeeba"
+  email="Anica.Zeeba@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>66.596</random_float>
+  <bool>true</bool>
+  <date>1988-11-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dulcinea</elt><elt>Tera</elt><elt>Sonni</elt><elt>Drucie</elt><elt>Gretal</elt>  
+  <Anica>
+    <age>80</age>
+  </Anica>
+</root>

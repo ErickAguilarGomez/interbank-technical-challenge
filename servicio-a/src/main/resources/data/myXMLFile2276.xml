@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Winnick"
+  city="Francistown"
+  country="Norway"
+  firstname2="Dorene"
+  lastname2="Bonucci"
+  email="Dorene.Bonucci@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>51.661</random_float>
+  <bool>true</bool>
+  <date>1980-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nadine</elt><elt>Mady</elt><elt>Juliane</elt><elt>Selia</elt><elt>Romona</elt>  
+  <Dorene>
+    <age>92</age>
+  </Dorene>
+</root>

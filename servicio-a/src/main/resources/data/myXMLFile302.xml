@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Amara"
+  lastname="Bouchard"
+  city="Las Vegas"
+  country="Antigua and Barbuda"
+  firstname2="Pollyanna"
+  lastname2="Bigner"
+  email="Pollyanna.Bigner@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>43.531</random_float>
+  <bool>true</bool>
+  <date>1996-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Regina</elt><elt>Shirlee</elt><elt>Glynnis</elt><elt>Lucille</elt><elt>Yvonne</elt>  
+  <Pollyanna>
+    <age>52</age>
+  </Pollyanna>
+</root>

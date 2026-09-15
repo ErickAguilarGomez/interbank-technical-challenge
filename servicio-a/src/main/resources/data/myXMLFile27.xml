@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bill"
+  lastname="Danby"
+  city="Ndola"
+  country="Malaysia"
+  firstname2="Evita"
+  lastname2="Ashely"
+  email="Evita.Ashely@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>95.839</random_float>
+  <bool>false</bool>
+  <date>1997-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tracey</elt><elt>Lilith</elt><elt>Farrah</elt><elt>Nita</elt><elt>Tarra</elt>  
+  <Evita>
+    <age>18</age>
+  </Evita>
+</root>

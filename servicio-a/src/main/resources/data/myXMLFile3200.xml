@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joane"
+  lastname="Ailyn"
+  city="Abuja"
+  country="Madagascar"
+  firstname2="Hannis"
+  lastname2="Idelia"
+  email="Hannis.Idelia@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>66.717</random_float>
+  <bool>false</bool>
+  <date>1991-06-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Keelia</elt><elt>Dennie</elt><elt>Maurene</elt><elt>Elmira</elt><elt>Ann-Marie</elt>  
+  <Hannis>
+    <age>57</age>
+  </Hannis>
+</root>

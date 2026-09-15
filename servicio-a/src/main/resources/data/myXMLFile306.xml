@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Dituri"
+  city="South Tarawa"
+  country="Slovenia"
+  firstname2="Louella"
+  lastname2="Pelagias"
+  email="Louella.Pelagias@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>66.063</random_float>
+  <bool>true</bool>
+  <date>1986-02-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cyndie</elt><elt>Charissa</elt><elt>Elena</elt><elt>Blake</elt><elt>Zaria</elt>  
+  <Louella>
+    <age>96</age>
+  </Louella>
+</root>

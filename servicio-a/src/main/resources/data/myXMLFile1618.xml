@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catharine"
+  lastname="Haymes"
+  city="Berlin"
+  country="Anguilla"
+  firstname2="Devina"
+  lastname2="Shaver"
+  email="Devina.Shaver@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>50.501</random_float>
+  <bool>true</bool>
+  <date>1987-09-08</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Emylee</elt><elt>Blondelle</elt><elt>Jackie</elt><elt>Kelly</elt><elt>Cacilie</elt>  
+  <Devina>
+    <age>72</age>
+  </Devina>
+</root>

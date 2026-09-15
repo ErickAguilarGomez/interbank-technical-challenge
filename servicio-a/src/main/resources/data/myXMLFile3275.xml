@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arlina"
+  lastname="Borrell"
+  city="Mwanza"
+  country="Solomon Islands"
+  firstname2="Lyssa"
+  lastname2="Serilda"
+  email="Lyssa.Serilda@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>4.645</random_float>
+  <bool>false</bool>
+  <date>1980-12-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sophia</elt><elt>Binny</elt><elt>Ericka</elt><elt>Averyl</elt><elt>Daphne</elt>  
+  <Lyssa>
+    <age>34</age>
+  </Lyssa>
+</root>

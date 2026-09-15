@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dennie"
+  lastname="Emerson"
+  city="Baghdad"
+  country="Svalbard and Jan Mayen"
+  firstname2="Beverley"
+  lastname2="Edee"
+  email="Beverley.Edee@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>72.691</random_float>
+  <bool>true</bool>
+  <date>1993-09-11</date>
+  <regEx>hello world</regEx>
+  <enum>xml</enum>
+  <elt>Eve</elt><elt>Tami</elt><elt>Aryn</elt><elt>Blake</elt><elt>Carly</elt>  
+  <Beverley>
+    <age>24</age>
+  </Beverley>
+</root>

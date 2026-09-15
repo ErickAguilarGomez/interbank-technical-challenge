@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Violet"
+  lastname="Abram"
+  city="Puerto Williams"
+  country="Saint Helena"
+  firstname2="Eugine"
+  lastname2="Mauer"
+  email="Eugine.Mauer@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>24.816</random_float>
+  <bool>false</bool>
+  <date>1981-10-15</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kerrin</elt><elt>Blinni</elt><elt>Marcy</elt><elt>Theodora</elt><elt>Myrtice</elt>  
+  <Eugine>
+    <age>42</age>
+  </Eugine>
+</root>

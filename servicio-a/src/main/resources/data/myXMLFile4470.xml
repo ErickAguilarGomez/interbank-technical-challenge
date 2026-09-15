@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Whittaker"
+  city="Kinshasa"
+  country="Wallis and Futuna"
+  firstname2="Aigneis"
+  lastname2="Ivens"
+  email="Aigneis.Ivens@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>100.881</random_float>
+  <bool>true</bool>
+  <date>1996-10-09</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Stephanie</elt><elt>Vinita</elt><elt>Brana</elt><elt>Annice</elt><elt>Helena</elt>  
+  <Aigneis>
+    <age>51</age>
+  </Aigneis>
+</root>

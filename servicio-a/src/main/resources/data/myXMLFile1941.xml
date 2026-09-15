@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Wadell"
+  city="Prague"
+  country="Taiwan, Province of China"
+  firstname2="Kaja"
+  lastname2="Zenas"
+  email="Kaja.Zenas@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>78.623</random_float>
+  <bool>false</bool>
+  <date>1996-09-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Christian</elt><elt>Corly</elt><elt>Kassey</elt><elt>Jillayne</elt><elt>Eolanda</elt>  
+  <Kaja>
+    <age>81</age>
+  </Kaja>
+</root>

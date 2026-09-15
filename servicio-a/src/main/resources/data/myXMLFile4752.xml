@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbi"
+  lastname="Mullane"
+  city="Hargeisa"
+  country="Kenya"
+  firstname2="Liana"
+  lastname2="Pettiford"
+  email="Liana.Pettiford@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>74.974</random_float>
+  <bool>true</bool>
+  <date>1992-08-14</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aimil</elt><elt>Marjie</elt><elt>Queenie</elt><elt>Jacquetta</elt><elt>Ardeen</elt>  
+  <Liana>
+    <age>99</age>
+  </Liana>
+</root>

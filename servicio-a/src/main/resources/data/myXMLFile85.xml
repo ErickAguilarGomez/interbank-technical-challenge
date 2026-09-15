@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Yerkovich"
+  city="Kuwait City"
+  country="Greece"
+  firstname2="Tonia"
+  lastname2="Imelida"
+  email="Tonia.Imelida@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>43.391</random_float>
+  <bool>false</bool>
+  <date>1992-06-13</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Karena</elt><elt>Jobi</elt><elt>Hallie</elt><elt>Corina</elt><elt>Leeanne</elt>  
+  <Tonia>
+    <age>65</age>
+  </Tonia>
+</root>

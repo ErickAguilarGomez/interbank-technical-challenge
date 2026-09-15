@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Monika"
+  lastname="Dom"
+  city="Simferopol"
+  country="British Indian Ocean Territory"
+  firstname2="Sissy"
+  lastname2="Lenny"
+  email="Sissy.Lenny@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>13.17</random_float>
+  <bool>false</bool>
+  <date>1992-02-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lorne</elt><elt>Jackie</elt><elt>Lynnea</elt><elt>Fina</elt><elt>Ilse</elt>  
+  <Sissy>
+    <age>62</age>
+  </Sissy>
+</root>

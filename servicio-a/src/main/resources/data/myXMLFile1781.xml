@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nollie"
+  lastname="Meli"
+  city="Gaborone"
+  country="Syrian Arab Republic"
+  firstname2="Sheree"
+  lastname2="Leler"
+  email="Sheree.Leler@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>77.953</random_float>
+  <bool>true</bool>
+  <date>1986-03-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Candi</elt><elt>Ellette</elt><elt>Trudie</elt><elt>Starla</elt><elt>Jan</elt>  
+  <Sheree>
+    <age>84</age>
+  </Sheree>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Reidar"
+  city="Port Said"
+  country="Timor-Leste"
+  firstname2="Ilse"
+  lastname2="Wareing"
+  email="Ilse.Wareing@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>11.728</random_float>
+  <bool>true</bool>
+  <date>1998-03-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shaine</elt><elt>Melisent</elt><elt>Sadie</elt><elt>Heida</elt><elt>Orsola</elt>  
+  <Ilse>
+    <age>84</age>
+  </Ilse>
+</root>

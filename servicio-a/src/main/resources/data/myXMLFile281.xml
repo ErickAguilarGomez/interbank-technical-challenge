@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorenza"
+  lastname="Syd"
+  city="Peshawar"
+  country="Cocos (Keeling) Islands"
+  firstname2="Chastity"
+  lastname2="Karl"
+  email="Chastity.Karl@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>92.369</random_float>
+  <bool>true</bool>
+  <date>1987-09-14</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rubie</elt><elt>Joy</elt><elt>Leanna</elt><elt>Cherilyn</elt><elt>Farrah</elt>  
+  <Chastity>
+    <age>18</age>
+  </Chastity>
+</root>

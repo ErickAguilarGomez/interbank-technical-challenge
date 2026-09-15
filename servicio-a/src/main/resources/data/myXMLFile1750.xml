@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jaime"
+  lastname="Khorma"
+  city="São Paulo"
+  country="Myanmar"
+  firstname2="Vanessa"
+  lastname2="Franza"
+  email="Vanessa.Franza@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>23.227</random_float>
+  <bool>false</bool>
+  <date>1982-05-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rochette</elt><elt>Jean</elt><elt>Georgetta</elt><elt>Nonnah</elt><elt>Carilyn</elt>  
+  <Vanessa>
+    <age>48</age>
+  </Vanessa>
+</root>

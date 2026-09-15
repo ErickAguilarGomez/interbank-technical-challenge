@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Briney"
+  lastname="Natica"
+  city="Dakar"
+  country="Indonesia"
+  firstname2="Rayna"
+  lastname2="Lacombe"
+  email="Rayna.Lacombe@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>29.65</random_float>
+  <bool>true</bool>
+  <date>1993-08-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ofilia</elt><elt>Berta</elt><elt>Philis</elt><elt>Maud</elt><elt>Maye</elt>  
+  <Rayna>
+    <age>29</age>
+  </Rayna>
+</root>

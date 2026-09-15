@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nollie"
+  lastname="Dalli"
+  city="Melekeok"
+  country="Guadeloupe"
+  firstname2="Bill"
+  lastname2="Helve"
+  email="Bill.Helve@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>43.577</random_float>
+  <bool>false</bool>
+  <date>1997-04-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ernesta</elt><elt>Sonni</elt><elt>Iseabal</elt><elt>Teddie</elt><elt>Karina</elt>  
+  <Bill>
+    <age>98</age>
+  </Bill>
+</root>

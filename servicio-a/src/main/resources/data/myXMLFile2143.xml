@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brana"
+  lastname="Redmond"
+  city="Panama City"
+  country="Senegal"
+  firstname2="Carmela"
+  lastname2="Roscoe"
+  email="Carmela.Roscoe@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>9.824</random_float>
+  <bool>false</bool>
+  <date>1994-12-15</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hermione</elt><elt>Annaliese</elt><elt>Shell</elt><elt>Ileana</elt><elt>Mellicent</elt>  
+  <Carmela>
+    <age>59</age>
+  </Carmela>
+</root>

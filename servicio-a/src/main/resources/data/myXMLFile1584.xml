@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tarra"
+  lastname="Celestine"
+  city="Oklahoma City"
+  country="Vanuatu"
+  firstname2="Helena"
+  lastname2="Janith"
+  email="Helena.Janith@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>33.932</random_float>
+  <bool>false</bool>
+  <date>1993-07-27</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jany</elt><elt>Marleah</elt><elt>Shel</elt><elt>Heida</elt><elt>Robinia</elt>  
+  <Helena>
+    <age>92</age>
+  </Helena>
+</root>

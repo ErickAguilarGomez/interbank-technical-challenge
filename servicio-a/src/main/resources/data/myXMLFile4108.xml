@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tybie"
+  lastname="Trinetta"
+  city="Islamabad"
+  country="New Caledonia"
+  firstname2="Dagmar"
+  lastname2="Cimbura"
+  email="Dagmar.Cimbura@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>23.576</random_float>
+  <bool>false</bool>
+  <date>1986-10-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ginnie</elt><elt>Ruthe</elt><elt>Barbi</elt><elt>Tressa</elt><elt>Kathy</elt>  
+  <Dagmar>
+    <age>67</age>
+  </Dagmar>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lelah"
+  lastname="Loeb"
+  city="Kharkiv"
+  country="Somalia"
+  firstname2="Korrie"
+  lastname2="Leonard"
+  email="Korrie.Leonard@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>69.118</random_float>
+  <bool>false</bool>
+  <date>1995-06-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Heddie</elt><elt>Marcelline</elt><elt>Allis</elt><elt>Wilma</elt><elt>Bernie</elt>  
+  <Korrie>
+    <age>82</age>
+  </Korrie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Almeta"
+  lastname="Croix"
+  city="Fukuoka"
+  country="Germany"
+  firstname2="Emma"
+  lastname2="Brittani"
+  email="Emma.Brittani@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>95.234</random_float>
+  <bool>false</bool>
+  <date>1986-08-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jean</elt><elt>Gavrielle</elt><elt>Linet</elt><elt>Frances</elt><elt>Sophia</elt>  
+  <Emma>
+    <age>66</age>
+  </Emma>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Odysseus"
+  city="Simferopol"
+  country="Togo"
+  firstname2="Deirdre"
+  lastname2="Glenden"
+  email="Deirdre.Glenden@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>14.861</random_float>
+  <bool>false</bool>
+  <date>1991-04-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rosaline</elt><elt>Priscilla</elt><elt>Anica</elt><elt>Iseabal</elt><elt>Danny</elt>  
+  <Deirdre>
+    <age>99</age>
+  </Deirdre>
+</root>

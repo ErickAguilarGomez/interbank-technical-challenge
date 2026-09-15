@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minne"
+  lastname="Nunci"
+  city="Chiang Mai"
+  country="Jamaica"
+  firstname2="Kittie"
+  lastname2="Dahlia"
+  email="Kittie.Dahlia@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>57.141</random_float>
+  <bool>true</bool>
+  <date>1982-12-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Micheline</elt><elt>Dulce</elt><elt>Ida</elt><elt>Wynne</elt><elt>Malina</elt>  
+  <Kittie>
+    <age>63</age>
+  </Kittie>
+</root>

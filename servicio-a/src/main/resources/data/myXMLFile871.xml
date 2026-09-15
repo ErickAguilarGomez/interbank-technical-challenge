@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Randa"
+  lastname="Sundin"
+  city="Surat"
+  country="French Southern Territories"
+  firstname2="Kristina"
+  lastname2="Ralfston"
+  email="Kristina.Ralfston@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>45.541</random_float>
+  <bool>true</bool>
+  <date>1985-02-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rochette</elt><elt>Veda</elt><elt>Dulcinea</elt><elt>Sharai</elt><elt>Wendi</elt>  
+  <Kristina>
+    <age>90</age>
+  </Kristina>
+</root>

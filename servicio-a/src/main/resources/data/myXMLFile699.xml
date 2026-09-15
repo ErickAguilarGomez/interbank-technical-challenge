@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Althea"
+  lastname="Kinnard"
+  city="Pago Pago"
+  country="Syrian Arab Republic"
+  firstname2="Dulce"
+  lastname2="Koziara"
+  email="Dulce.Koziara@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>7.398</random_float>
+  <bool>true</bool>
+  <date>1997-08-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dari</elt><elt>Cissiee</elt><elt>Edith</elt><elt>Anthia</elt><elt>Jenilee</elt>  
+  <Dulce>
+    <age>26</age>
+  </Dulce>
+</root>

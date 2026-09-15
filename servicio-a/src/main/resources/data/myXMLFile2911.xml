@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laure"
+  lastname="Trinetta"
+  city="Edmonton"
+  country="Greece"
+  firstname2="Corly"
+  lastname2="Haymes"
+  email="Corly.Haymes@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>44.924</random_float>
+  <bool>false</bool>
+  <date>1980-03-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ofilia</elt><elt>Edee</elt><elt>Vonny</elt><elt>Noelle</elt><elt>Ardys</elt>  
+  <Corly>
+    <age>99</age>
+  </Corly>
+</root>

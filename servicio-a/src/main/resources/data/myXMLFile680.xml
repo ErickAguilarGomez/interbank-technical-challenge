@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Bow"
+  city="Medellín"
+  country="Hong Kong"
+  firstname2="Angelique"
+  lastname2="Helve"
+  email="Angelique.Helve@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>68.581</random_float>
+  <bool>false</bool>
+  <date>1987-09-04</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ileana</elt><elt>Lizzie</elt><elt>Margarette</elt><elt>Jaclyn</elt><elt>Dagmar</elt>  
+  <Angelique>
+    <age>66</age>
+  </Angelique>
+</root>

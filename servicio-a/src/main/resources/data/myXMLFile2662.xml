@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="Maryanne"
+  city="Geelong"
+  country="Gabon"
+  firstname2="Regina"
+  lastname2="Cutlerr"
+  email="Regina.Cutlerr@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>37.022</random_float>
+  <bool>true</bool>
+  <date>1992-04-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Caressa</elt><elt>Ezmeralda</elt><elt>Iseabal</elt><elt>Roslyn</elt><elt>Di</elt>  
+  <Regina>
+    <age>53</age>
+  </Regina>
+</root>

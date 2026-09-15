@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trixi"
+  lastname="Daegal"
+  city="Douala"
+  country="Australia"
+  firstname2="Ofilia"
+  lastname2="Codding"
+  email="Ofilia.Codding@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>21.258</random_float>
+  <bool>false</bool>
+  <date>1994-10-28</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hermione</elt><elt>Darlleen</elt><elt>Blondelle</elt><elt>Ira</elt><elt>Jinny</elt>  
+  <Ofilia>
+    <age>34</age>
+  </Ofilia>
+</root>

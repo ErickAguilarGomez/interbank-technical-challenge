@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Standing"
+  city="Kaliningrad"
+  country="Germany"
+  firstname2="Vivia"
+  lastname2="Daveta"
+  email="Vivia.Daveta@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>46.561</random_float>
+  <bool>false</bool>
+  <date>1989-08-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Claudina</elt><elt>Audrie</elt><elt>Karena</elt><elt>Jacquetta</elt><elt>Latisha</elt>  
+  <Vivia>
+    <age>94</age>
+  </Vivia>
+</root>

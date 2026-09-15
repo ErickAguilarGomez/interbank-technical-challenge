@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwenneth"
+  lastname="Mandler"
+  city="Prague"
+  country="Bouvet Island"
+  firstname2="Liana"
+  lastname2="Stephie"
+  email="Liana.Stephie@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>60.414</random_float>
+  <bool>false</bool>
+  <date>1990-12-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Glynnis</elt><elt>Daphne</elt><elt>Raina</elt><elt>Dyann</elt><elt>Mureil</elt>  
+  <Liana>
+    <age>47</age>
+  </Liana>
+</root>

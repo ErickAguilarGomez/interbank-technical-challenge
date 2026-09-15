@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Weaks"
+  city="Udon Thani"
+  country="Cote D"Ivoire"
+  firstname2="Lesly"
+  lastname2="Orelee"
+  email="Lesly.Orelee@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>3.716</random_float>
+  <bool>false</bool>
+  <date>1984-11-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ninnetta</elt><elt>Ann-Marie</elt><elt>Rozele</elt><elt>Celisse</elt><elt>Jessamyn</elt>  
+  <Lesly>
+    <age>53</age>
+  </Lesly>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jillayne"
+  lastname="Candy"
+  city="Naypyidaw"
+  country="Namibia"
+  firstname2="Kimmy"
+  lastname2="Sherrie"
+  email="Kimmy.Sherrie@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>81.623</random_float>
+  <bool>true</bool>
+  <date>1990-11-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Valli</elt><elt>Jaclyn</elt><elt>Jany</elt><elt>Elmira</elt><elt>Ana</elt>  
+  <Kimmy>
+    <age>38</age>
+  </Kimmy>
+</root>

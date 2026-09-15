@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claudina"
+  lastname="Love"
+  city="Macapá"
+  country="AndorrA"
+  firstname2="Nariko"
+  lastname2="Faso"
+  email="Nariko.Faso@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>69.011</random_float>
+  <bool>true</bool>
+  <date>1999-10-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Maridel</elt><elt>Lily</elt><elt>Myrtice</elt><elt>Kathy</elt><elt>Agnese</elt>  
+  <Nariko>
+    <age>98</age>
+  </Nariko>
+</root>

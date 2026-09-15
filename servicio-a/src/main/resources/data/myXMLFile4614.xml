@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Allare"
+  city="Cockburn Town"
+  country="Chile"
+  firstname2="Kirbee"
+  lastname2="Gavrila"
+  email="Kirbee.Gavrila@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>15.242</random_float>
+  <bool>false</bool>
+  <date>1983-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aaren</elt><elt>Wilma</elt><elt>Gusella</elt><elt>Rochette</elt><elt>Karolina</elt>  
+  <Kirbee>
+    <age>62</age>
+  </Kirbee>
+</root>

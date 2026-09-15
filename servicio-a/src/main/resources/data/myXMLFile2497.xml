@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Philipp"
+  city="Santa Cruz de Tenerife"
+  country="Samoa"
+  firstname2="Bettine"
+  lastname2="Yusuk"
+  email="Bettine.Yusuk@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>35.579</random_float>
+  <bool>true</bool>
+  <date>1982-03-19</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rosene</elt><elt>Debee</elt><elt>Miquela</elt><elt>Nelle</elt><elt>Carmencita</elt>  
+  <Bettine>
+    <age>91</age>
+  </Bettine>
+</root>

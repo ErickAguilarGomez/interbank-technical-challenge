@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Nadia"
+  city="Rabat"
+  country="United States Minor Outlying Islands"
+  firstname2="Grier"
+  lastname2="Dom"
+  email="Grier.Dom@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>27.824</random_float>
+  <bool>false</bool>
+  <date>1996-02-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Corly</elt><elt>Zia</elt><elt>Melisent</elt><elt>Courtnay</elt><elt>Minne</elt>  
+  <Grier>
+    <age>41</age>
+  </Grier>
+</root>

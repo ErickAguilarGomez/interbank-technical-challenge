@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Felice"
+  lastname="Zola"
+  city="Sarajevo"
+  country="Belarus"
+  firstname2="Gloria"
+  lastname2="Docilla"
+  email="Gloria.Docilla@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>36.894</random_float>
+  <bool>false</bool>
+  <date>1997-04-05</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Katharina</elt><elt>Kerrin</elt><elt>Tani</elt><elt>Yvonne</elt><elt>Miquela</elt>  
+  <Gloria>
+    <age>55</age>
+  </Gloria>
+</root>

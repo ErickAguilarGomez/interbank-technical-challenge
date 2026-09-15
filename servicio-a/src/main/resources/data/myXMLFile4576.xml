@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardeen"
+  lastname="Gemini"
+  city="Nashville"
+  country="Croatia"
+  firstname2="Larine"
+  lastname2="Darian"
+  email="Larine.Darian@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>91.518</random_float>
+  <bool>true</bool>
+  <date>1991-01-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorice</elt><elt>Lyssa</elt><elt>Lonnie</elt><elt>Melodie</elt><elt>Natka</elt>  
+  <Larine>
+    <age>34</age>
+  </Larine>
+</root>

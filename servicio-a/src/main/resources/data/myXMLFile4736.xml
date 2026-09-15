@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celene"
+  lastname="Buckler"
+  city="Istanbul"
+  country="Wallis and Futuna"
+  firstname2="Pierette"
+  lastname2="Sammons"
+  email="Pierette.Sammons@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>40.314</random_float>
+  <bool>false</bool>
+  <date>1996-04-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Amara</elt><elt>Inga</elt><elt>Ezmeralda</elt><elt>Jinny</elt><elt>Shel</elt>  
+  <Pierette>
+    <age>22</age>
+  </Pierette>
+</root>

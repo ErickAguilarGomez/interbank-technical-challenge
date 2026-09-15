@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gertrud"
+  lastname="Justinn"
+  city="Omdurman"
+  country="Bolivia"
+  firstname2="Elsie"
+  lastname2="Byrne"
+  email="Elsie.Byrne@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>19.252</random_float>
+  <bool>false</bool>
+  <date>1992-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Korrie</elt><elt>Peri</elt><elt>Gwyneth</elt><elt>Lila</elt><elt>Brandise</elt>  
+  <Elsie>
+    <age>98</age>
+  </Elsie>
+</root>

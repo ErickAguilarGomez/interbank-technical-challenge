@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgina"
+  lastname="Peg"
+  city="Sri Jayawardenapura-Kotte"
+  country="Benin"
+  firstname2="Nataline"
+  lastname2="LaRue"
+  email="Nataline.LaRue@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>24.206</random_float>
+  <bool>false</bool>
+  <date>1989-12-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Magdalena</elt><elt>Marcy</elt><elt>Danika</elt><elt>Roxane</elt><elt>Marjie</elt>  
+  <Nataline>
+    <age>83</age>
+  </Nataline>
+</root>

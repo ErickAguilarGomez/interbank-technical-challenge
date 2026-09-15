@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dolli"
+  lastname="Sherfield"
+  city="Louisville"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Farrah"
+  lastname2="Nisbet"
+  email="Farrah.Nisbet@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>7.347</random_float>
+  <bool>false</bool>
+  <date>1980-12-11</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fanny</elt><elt>Ariela</elt><elt>Ardeen</elt><elt>Maridel</elt><elt>Krystle</elt>  
+  <Farrah>
+    <age>46</age>
+  </Farrah>
+</root>

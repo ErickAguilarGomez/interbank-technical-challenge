@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roslyn"
+  lastname="Gino"
+  city="Denpasar"
+  country="China"
+  firstname2="Odessa"
+  lastname2="Bonucci"
+  email="Odessa.Bonucci@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>99.222</random_float>
+  <bool>false</bool>
+  <date>1999-02-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elvira</elt><elt>Dulcinea</elt><elt>Philis</elt><elt>Clementine</elt><elt>Thalia</elt>  
+  <Odessa>
+    <age>23</age>
+  </Odessa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jaime"
+  lastname="Turne"
+  city="Adelaide"
+  country="Vanuatu"
+  firstname2="Annaliese"
+  lastname2="Pandolfi"
+  email="Annaliese.Pandolfi@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>56.218</random_float>
+  <bool>true</bool>
+  <date>1985-10-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Minne</elt><elt>Danny</elt><elt>Dennie</elt><elt>Kellen</elt><elt>Lynde</elt>  
+  <Annaliese>
+    <age>29</age>
+  </Annaliese>
+</root>

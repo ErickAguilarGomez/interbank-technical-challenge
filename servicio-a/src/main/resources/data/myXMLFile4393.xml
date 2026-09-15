@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marnia"
+  lastname="Jeanne"
+  city="Faisalabad"
+  country="Timor-Leste"
+  firstname2="Bernardine"
+  lastname2="Delp"
+  email="Bernardine.Delp@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>42.586</random_float>
+  <bool>false</bool>
+  <date>1990-03-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joelly</elt><elt>Juliane</elt><elt>Kathy</elt><elt>Elka</elt><elt>Quintina</elt>  
+  <Bernardine>
+    <age>87</age>
+  </Bernardine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcy"
+  lastname="Sandye"
+  city="Calgary"
+  country="Afghanistan"
+  firstname2="Elmira"
+  lastname2="Pearse"
+  email="Elmira.Pearse@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>74.479</random_float>
+  <bool>true</bool>
+  <date>1994-09-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Shauna</elt><elt>Maisey</elt><elt>Trixi</elt><elt>Jolyn</elt><elt>Rani</elt>  
+  <Elmira>
+    <age>31</age>
+  </Elmira>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margarette"
+  lastname="Kaete"
+  city="Gothenburg"
+  country="Egypt"
+  firstname2="Reeba"
+  lastname2="Capello"
+  email="Reeba.Capello@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>86.506</random_float>
+  <bool>false</bool>
+  <date>1997-10-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marinna</elt><elt>Karena</elt><elt>Mara</elt><elt>Renae</elt><elt>Kirstin</elt>  
+  <Reeba>
+    <age>27</age>
+  </Reeba>
+</root>

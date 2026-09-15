@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catrina"
+  lastname="Elo"
+  city="Sacramento"
+  country="Somalia"
+  firstname2="Fayre"
+  lastname2="Melleta"
+  email="Fayre.Melleta@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>49.542</random_float>
+  <bool>true</bool>
+  <date>1983-08-10</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Maud</elt><elt>Zaria</elt><elt>Tomasina</elt><elt>Paule</elt><elt>Flo</elt>  
+  <Fayre>
+    <age>48</age>
+  </Fayre>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meriel"
+  lastname="Wandie"
+  city="Iloilo City"
+  country="Saint Kitts and Nevis"
+  firstname2="Dagmar"
+  lastname2="Ioab"
+  email="Dagmar.Ioab@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>21.183</random_float>
+  <bool>true</bool>
+  <date>1983-08-06</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gilda</elt><elt>Roberta</elt><elt>Minda</elt><elt>Jackie</elt><elt>Celestyna</elt>  
+  <Dagmar>
+    <age>82</age>
+  </Dagmar>
+</root>

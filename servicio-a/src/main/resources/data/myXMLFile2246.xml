@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brianna"
+  lastname="Sisile"
+  city="Athens"
+  country="Tokelau"
+  firstname2="Edee"
+  lastname2="Allina"
+  email="Edee.Allina@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>16.254</random_float>
+  <bool>true</bool>
+  <date>1994-12-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alejandra</elt><elt>Doro</elt><elt>Wynne</elt><elt>Glenda</elt><elt>Joane</elt>  
+  <Edee>
+    <age>87</age>
+  </Edee>
+</root>

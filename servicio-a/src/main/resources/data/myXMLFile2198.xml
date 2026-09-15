@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linet"
+  lastname="Vary"
+  city="Dili"
+  country="Guinea"
+  firstname2="Siana"
+  lastname2="Konyn"
+  email="Siana.Konyn@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>98.371</random_float>
+  <bool>true</bool>
+  <date>1986-12-20</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Raina</elt><elt>Asia</elt><elt>Barbara</elt><elt>Jacquetta</elt><elt>Hallie</elt>  
+  <Siana>
+    <age>83</age>
+  </Siana>
+</root>

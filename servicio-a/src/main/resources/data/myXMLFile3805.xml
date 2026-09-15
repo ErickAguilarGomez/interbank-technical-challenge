@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vivia"
+  lastname="Ovid"
+  city="Quetzaltenango"
+  country="Guatemala"
+  firstname2="Ada"
+  lastname2="Sholley"
+  email="Ada.Sholley@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>24.195</random_float>
+  <bool>false</bool>
+  <date>1985-05-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Wynne</elt><elt>Felice</elt><elt>Cassondra</elt><elt>Janis</elt><elt>Ulrike</elt>  
+  <Ada>
+    <age>46</age>
+  </Ada>
+</root>

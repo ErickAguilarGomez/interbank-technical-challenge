@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Halette"
+  lastname="Ferrell"
+  city="Nukuʻalofa"
+  country="Equatorial Guinea"
+  firstname2="Sheree"
+  lastname2="Wolfgram"
+  email="Sheree.Wolfgram@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>25.886</random_float>
+  <bool>true</bool>
+  <date>1988-09-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ursulina</elt><elt>Norine</elt><elt>Dorthy</elt><elt>Constance</elt><elt>Merle</elt>  
+  <Sheree>
+    <age>29</age>
+  </Sheree>
+</root>

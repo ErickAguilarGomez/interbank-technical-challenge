@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosaline"
+  lastname="Selway"
+  city="Reykjavík"
+  country="Singapore"
+  firstname2="Lanna"
+  lastname2="Pascia"
+  email="Lanna.Pascia@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>73.356</random_float>
+  <bool>true</bool>
+  <date>1998-07-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Georgetta</elt><elt>Cam</elt><elt>Chickie</elt><elt>Gusty</elt><elt>Agnese</elt>  
+  <Lanna>
+    <age>62</age>
+  </Lanna>
+</root>

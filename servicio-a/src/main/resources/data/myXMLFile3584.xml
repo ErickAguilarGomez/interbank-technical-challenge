@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jere"
+  lastname="Berriman"
+  city="Dhaka"
+  country="Sri Lanka"
+  firstname2="Elfreda"
+  lastname2="Firmin"
+  email="Elfreda.Firmin@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>44.001</random_float>
+  <bool>true</bool>
+  <date>1991-10-01</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nikki</elt><elt>Lynea</elt><elt>Estell</elt><elt>Henriette</elt><elt>Sharlene</elt>  
+  <Elfreda>
+    <age>56</age>
+  </Elfreda>
+</root>

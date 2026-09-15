@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Riannon"
+  lastname="Ledah"
+  city="Tabriz"
+  country="Uganda"
+  firstname2="Addia"
+  lastname2="Thornburg"
+  email="Addia.Thornburg@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>10.092</random_float>
+  <bool>true</bool>
+  <date>1995-04-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Starla</elt><elt>Esmeralda</elt><elt>Charlena</elt><elt>Katharina</elt><elt>Ermengarde</elt>  
+  <Addia>
+    <age>47</age>
+  </Addia>
+</root>

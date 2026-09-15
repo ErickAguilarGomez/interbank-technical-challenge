@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Whiffen"
+  city="Valletta"
+  country="Grenada"
+  firstname2="Edyth"
+  lastname2="Honoria"
+  email="Edyth.Honoria@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>15.079</random_float>
+  <bool>false</bool>
+  <date>1985-03-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Paule</elt><elt>Emmey</elt><elt>Addia</elt><elt>Myriam</elt><elt>Michaelina</elt>  
+  <Edyth>
+    <age>26</age>
+  </Edyth>
+</root>

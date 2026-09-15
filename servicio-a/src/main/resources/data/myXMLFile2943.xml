@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="LaRue"
+  city="Medan"
+  country="American Samoa"
+  firstname2="Romona"
+  lastname2="Magdalen"
+  email="Romona.Magdalen@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>86.065</random_float>
+  <bool>true</bool>
+  <date>1989-10-16</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Olwen</elt><elt>Jsandye</elt><elt>Shannah</elt><elt>Lelah</elt><elt>Gertrud</elt>  
+  <Romona>
+    <age>29</age>
+  </Romona>
+</root>

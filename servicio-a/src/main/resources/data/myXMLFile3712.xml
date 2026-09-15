@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Fairweather"
+  city="Iquitos"
+  country="Dominican Republic"
+  firstname2="Agathe"
+  lastname2="Alice"
+  email="Agathe.Alice@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>27.335</random_float>
+  <bool>false</bool>
+  <date>1981-06-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wileen</elt><elt>Paulita</elt><elt>Daphne</elt><elt>Shauna</elt><elt>Nannie</elt>  
+  <Agathe>
+    <age>43</age>
+  </Agathe>
+</root>

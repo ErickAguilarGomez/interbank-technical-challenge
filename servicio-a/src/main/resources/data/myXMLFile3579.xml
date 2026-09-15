@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chloris"
+  lastname="Haldas"
+  city="Atlanta"
+  country="Croatia"
+  firstname2="Binny"
+  lastname2="Lanita"
+  email="Binny.Lanita@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>12.732</random_float>
+  <bool>false</bool>
+  <date>1994-06-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Libbie</elt><elt>Fawne</elt><elt>Louella</elt><elt>Melina</elt><elt>Anallese</elt>  
+  <Binny>
+    <age>50</age>
+  </Binny>
+</root>

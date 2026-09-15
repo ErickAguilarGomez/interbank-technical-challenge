@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sherrie"
+  lastname="Atonsah"
+  city="Vladivostok"
+  country="Germany"
+  firstname2="Barbi"
+  lastname2="Merriott"
+  email="Barbi.Merriott@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>92.73</random_float>
+  <bool>false</bool>
+  <date>1985-08-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kathi</elt><elt>Gui</elt><elt>Vere</elt><elt>Joy</elt><elt>Ariela</elt>  
+  <Barbi>
+    <age>28</age>
+  </Barbi>
+</root>

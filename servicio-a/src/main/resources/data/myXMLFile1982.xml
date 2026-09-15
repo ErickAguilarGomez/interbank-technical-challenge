@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Steffane"
+  lastname="Knowling"
+  city="Basra"
+  country="Tokelau"
+  firstname2="Modestia"
+  lastname2="Weinreb"
+  email="Modestia.Weinreb@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>13.618</random_float>
+  <bool>true</bool>
+  <date>1981-02-24</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ursulina</elt><elt>Perry</elt><elt>Tierney</elt><elt>Giustina</elt><elt>Hannis</elt>  
+  <Modestia>
+    <age>80</age>
+  </Modestia>
+</root>

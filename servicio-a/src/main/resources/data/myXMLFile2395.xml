@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nataline"
+  lastname="Wiener"
+  city="Makati City"
+  country="French Southern Territories"
+  firstname2="Briney"
+  lastname2="Astra"
+  email="Briney.Astra@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>59.54</random_float>
+  <bool>true</bool>
+  <date>1980-11-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Roz</elt><elt>Andeee</elt><elt>Dorothy</elt><elt>Farrah</elt><elt>Tatiania</elt>  
+  <Briney>
+    <age>88</age>
+  </Briney>
+</root>

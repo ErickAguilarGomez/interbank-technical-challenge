@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Vilma"
+  city="Baltimore"
+  country="Singapore"
+  firstname2="Jordan"
+  lastname2="Dash"
+  email="Jordan.Dash@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>14.037</random_float>
+  <bool>false</bool>
+  <date>1984-07-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mureil</elt><elt>Kaja</elt><elt>Wilma</elt><elt>Aeriela</elt><elt>Mignon</elt>  
+  <Jordan>
+    <age>18</age>
+  </Jordan>
+</root>

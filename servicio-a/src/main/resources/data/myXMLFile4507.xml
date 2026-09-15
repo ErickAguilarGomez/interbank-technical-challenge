@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bibby"
+  lastname="Lytton"
+  city="Chuí"
+  country="Solomon Islands"
+  firstname2="Karina"
+  lastname2="Maiah"
+  email="Karina.Maiah@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>48.39</random_float>
+  <bool>false</bool>
+  <date>1991-07-05</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Larine</elt><elt>Jany</elt><elt>Rayna</elt><elt>Netty</elt><elt>Annabela</elt>  
+  <Karina>
+    <age>27</age>
+  </Karina>
+</root>

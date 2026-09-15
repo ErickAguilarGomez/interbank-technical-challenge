@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Carleen"
+  city="Agartala"
+  country="Lao People"S Democratic Republic"
+  firstname2="Jere"
+  lastname2="Obed"
+  email="Jere.Obed@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>47.625</random_float>
+  <bool>false</bool>
+  <date>1997-01-03</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Taffy</elt><elt>Felice</elt><elt>Asia</elt><elt>Roseline</elt><elt>Berta</elt>  
+  <Jere>
+    <age>93</age>
+  </Jere>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Sallyann"
+  city="Tagbilaran"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Gusella"
+  lastname2="Imelida"
+  email="Gusella.Imelida@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>93.05</random_float>
+  <bool>false</bool>
+  <date>1984-01-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sherrie</elt><elt>Chere</elt><elt>Marsiella</elt><elt>Rosaline</elt><elt>Melina</elt>  
+  <Gusella>
+    <age>39</age>
+  </Gusella>
+</root>

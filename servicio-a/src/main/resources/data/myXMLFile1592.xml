@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caritta"
+  lastname="Pacorro"
+  city="Thimphu"
+  country="Niue"
+  firstname2="Hildegaard"
+  lastname2="Philoo"
+  email="Hildegaard.Philoo@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>9.28</random_float>
+  <bool>true</bool>
+  <date>1986-02-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Laurene</elt><elt>Dale</elt><elt>Amalie</elt><elt>Rani</elt><elt>Elora</elt>  
+  <Hildegaard>
+    <age>64</age>
+  </Hildegaard>
+</root>

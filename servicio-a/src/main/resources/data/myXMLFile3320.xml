@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Imojean"
+  lastname="Bohlin"
+  city="Aarhus"
+  country="Cayman Islands"
+  firstname2="Amii"
+  lastname2="Gaynor"
+  email="Amii.Gaynor@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>1.223</random_float>
+  <bool>false</bool>
+  <date>1988-11-19</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joceline</elt><elt>Correy</elt><elt>Leia</elt><elt>Gerrie</elt><elt>Phedra</elt>  
+  <Amii>
+    <age>19</age>
+  </Amii>
+</root>

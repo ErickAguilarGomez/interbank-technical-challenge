@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laure"
+  lastname="Engdahl"
+  city="Porto Alegre"
+  country="Estonia"
+  firstname2="Delilah"
+  lastname2="Dalli"
+  email="Delilah.Dalli@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>83.21</random_float>
+  <bool>false</bool>
+  <date>1987-05-09</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mahalia</elt><elt>Petronia</elt><elt>Dode</elt><elt>Viki</elt><elt>Wileen</elt>  
+  <Delilah>
+    <age>45</age>
+  </Delilah>
+</root>

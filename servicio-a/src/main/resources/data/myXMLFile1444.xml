@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="Joachim"
+  city="Minsk"
+  country="Cocos (Keeling) Islands"
+  firstname2="Claresta"
+  lastname2="Travax"
+  email="Claresta.Travax@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>61.559</random_float>
+  <bool>true</bool>
+  <date>1982-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joceline</elt><elt>Lily</elt><elt>Petronia</elt><elt>Micheline</elt><elt>Dagmar</elt>  
+  <Claresta>
+    <age>63</age>
+  </Claresta>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Averyl"
+  lastname="Burch"
+  city="Mbabane"
+  country="Jamaica"
+  firstname2="Kellen"
+  lastname2="Tamar"
+  email="Kellen.Tamar@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>29.872</random_float>
+  <bool>false</bool>
+  <date>1994-07-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lisette</elt><elt>Corene</elt><elt>Hettie</elt><elt>Tomasina</elt><elt>Ketti</elt>  
+  <Kellen>
+    <age>42</age>
+  </Kellen>
+</root>

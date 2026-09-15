@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Miquela"
+  lastname="Iphlgenia"
+  city="Arbil"
+  country="British Indian Ocean Territory"
+  firstname2="Cindelyn"
+  lastname2="Dash"
+  email="Cindelyn.Dash@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>27.302</random_float>
+  <bool>true</bool>
+  <date>1981-10-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marjie</elt><elt>Althea</elt><elt>Kial</elt><elt>Siana</elt><elt>Daphne</elt>  
+  <Cindelyn>
+    <age>50</age>
+  </Cindelyn>
+</root>

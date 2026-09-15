@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carlie"
+  lastname="Chobot"
+  city="Malé"
+  country="Ghana"
+  firstname2="Ginnie"
+  lastname2="Bollay"
+  email="Ginnie.Bollay@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>82.372</random_float>
+  <bool>false</bool>
+  <date>1981-11-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jordan</elt><elt>Lonnie</elt><elt>Queenie</elt><elt>Ermengarde</elt><elt>Fredericka</elt>  
+  <Ginnie>
+    <age>28</age>
+  </Ginnie>
+</root>

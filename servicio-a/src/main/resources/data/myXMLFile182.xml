@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Sibyls"
+  city="Batticaloa"
+  country="Austria"
+  firstname2="Paule"
+  lastname2="Tillford"
+  email="Paule.Tillford@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>94.792</random_float>
+  <bool>true</bool>
+  <date>1992-06-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rosaline</elt><elt>Karina</elt><elt>Melisent</elt><elt>Fanny</elt><elt>Theodora</elt>  
+  <Paule>
+    <age>77</age>
+  </Paule>
+</root>

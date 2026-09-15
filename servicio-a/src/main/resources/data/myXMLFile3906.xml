@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ninnetta"
+  lastname="Stephie"
+  city="Mexico City"
+  country="Guinea-Bissau"
+  firstname2="Celestyna"
+  lastname2="Buckler"
+  email="Celestyna.Buckler@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>99.638</random_float>
+  <bool>true</bool>
+  <date>1980-08-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kaia</elt><elt>Brana</elt><elt>Charmaine</elt><elt>Lucille</elt><elt>Eugine</elt>  
+  <Celestyna>
+    <age>81</age>
+  </Celestyna>
+</root>

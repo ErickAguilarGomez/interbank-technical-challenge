@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Smitt"
+  city="Columbus"
+  country="Algeria"
+  firstname2="Kirbee"
+  lastname2="Eldrid"
+  email="Kirbee.Eldrid@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>48.407</random_float>
+  <bool>true</bool>
+  <date>1994-09-01</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Viviene</elt><elt>Shirlee</elt><elt>Trixi</elt><elt>Margette</elt><elt>Fina</elt>  
+  <Kirbee>
+    <age>51</age>
+  </Kirbee>
+</root>

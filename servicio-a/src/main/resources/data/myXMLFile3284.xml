@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sissy"
+  lastname="Nance"
+  city="Saint Petersburg"
+  country="Virgin Islands, U.S."
+  firstname2="Alleen"
+  lastname2="Israeli"
+  email="Alleen.Israeli@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>26.179</random_float>
+  <bool>false</bool>
+  <date>1980-07-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Basia</elt><elt>Glynnis</elt><elt>Brietta</elt><elt>Dyann</elt><elt>Katuscha</elt>  
+  <Alleen>
+    <age>50</age>
+  </Alleen>
+</root>

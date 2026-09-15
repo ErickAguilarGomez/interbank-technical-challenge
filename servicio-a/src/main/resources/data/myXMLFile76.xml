@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daune"
+  lastname="Roarke"
+  city="Tallinn"
+  country="Pakistan"
+  firstname2="Dulcinea"
+  lastname2="Behre"
+  email="Dulcinea.Behre@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>16.717</random_float>
+  <bool>true</bool>
+  <date>1986-04-28</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Clarice</elt><elt>Jessamyn</elt><elt>Ninnetta</elt><elt>Corry</elt><elt>Xylina</elt>  
+  <Dulcinea>
+    <age>67</age>
+  </Dulcinea>
+</root>

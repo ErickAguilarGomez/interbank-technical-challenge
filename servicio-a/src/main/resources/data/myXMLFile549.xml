@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lily"
+  lastname="Bollay"
+  city="Bloemfontein"
+  country="Anguilla"
+  firstname2="Rhea"
+  lastname2="Elephus"
+  email="Rhea.Elephus@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>25.875</random_float>
+  <bool>false</bool>
+  <date>1996-02-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ileana</elt><elt>Brooks</elt><elt>Yvonne</elt><elt>Jordan</elt><elt>Felice</elt>  
+  <Rhea>
+    <age>60</age>
+  </Rhea>
+</root>

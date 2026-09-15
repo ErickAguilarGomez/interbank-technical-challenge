@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christian"
+  lastname="Armanda"
+  city="Aberdeen"
+  country="Saint Lucia"
+  firstname2="Bertine"
+  lastname2="Jess"
+  email="Bertine.Jess@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>98.221</random_float>
+  <bool>true</bool>
+  <date>1984-05-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jacenta</elt><elt>Justinn</elt><elt>Vita</elt><elt>Kylynn</elt><elt>Berget</elt>  
+  <Bertine>
+    <age>48</age>
+  </Bertine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dianemarie"
+  lastname="Hutchison"
+  city="Manzini"
+  country="Korea, Republic of"
+  firstname2="Aurore"
+  lastname2="Callista"
+  email="Aurore.Callista@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>70.544</random_float>
+  <bool>true</bool>
+  <date>1987-07-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jasmina</elt><elt>Larine</elt><elt>Shaine</elt><elt>Kamilah</elt><elt>Peri</elt>  
+  <Aurore>
+    <age>40</age>
+  </Aurore>
+</root>

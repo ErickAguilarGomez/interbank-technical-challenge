@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Ioab"
+  city="Milan"
+  country="Albania"
+  firstname2="Corry"
+  lastname2="Edison"
+  email="Corry.Edison@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>43.09</random_float>
+  <bool>false</bool>
+  <date>1990-04-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jean</elt><elt>Hannis</elt><elt>Robbi</elt><elt>Genovera</elt><elt>Tina</elt>  
+  <Corry>
+    <age>50</age>
+  </Corry>
+</root>

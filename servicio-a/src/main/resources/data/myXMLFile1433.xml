@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Lindemann"
+  city="Vladivostok"
+  country="Kazakhstan"
+  firstname2="Annora"
+  lastname2="Korey"
+  email="Annora.Korey@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>21.929</random_float>
+  <bool>true</bool>
+  <date>1996-07-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Celisse</elt><elt>Hettie</elt><elt>Renie</elt><elt>Margette</elt><elt>Jessamyn</elt>  
+  <Annora>
+    <age>87</age>
+  </Annora>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Donoghue"
+  city="Lomé"
+  country="Holy See (Vatican City State)"
+  firstname2="Ericka"
+  lastname2="Narton"
+  email="Ericka.Narton@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>55.389</random_float>
+  <bool>false</bool>
+  <date>1980-03-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lauryn</elt><elt>Elie</elt><elt>Amara</elt><elt>Magdalena</elt><elt>Deane</elt>  
+  <Ericka>
+    <age>74</age>
+  </Ericka>
+</root>

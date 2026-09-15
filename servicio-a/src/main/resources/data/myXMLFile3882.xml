@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorthy"
+  lastname="Uund"
+  city="Tagbilaran"
+  country="Mauritius"
+  firstname2="Vevay"
+  lastname2="Katrine"
+  email="Vevay.Katrine@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>34.284</random_float>
+  <bool>false</bool>
+  <date>1996-01-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Renie</elt><elt>Candy</elt><elt>Elka</elt><elt>Nataline</elt><elt>Cristine</elt>  
+  <Vevay>
+    <age>82</age>
+  </Vevay>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusty"
+  lastname="Shama"
+  city="Kandahar"
+  country="Germany"
+  firstname2="Cristabel"
+  lastname2="Brieta"
+  email="Cristabel.Brieta@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>69.053</random_float>
+  <bool>true</bool>
+  <date>1994-11-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lynea</elt><elt>Mallory</elt><elt>Emilia</elt><elt>Aigneis</elt><elt>Iseabal</elt>  
+  <Cristabel>
+    <age>41</age>
+  </Cristabel>
+</root>

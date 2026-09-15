@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ana"
+  lastname="Ietta"
+  city="Shenyang"
+  country="Mongolia"
+  firstname2="Gloria"
+  lastname2="Catie"
+  email="Gloria.Catie@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>69.851</random_float>
+  <bool>true</bool>
+  <date>1998-07-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Georgetta</elt><elt>Kristan</elt><elt>Ketti</elt><elt>Molli</elt><elt>Corry</elt>  
+  <Gloria>
+    <age>57</age>
+  </Gloria>
+</root>

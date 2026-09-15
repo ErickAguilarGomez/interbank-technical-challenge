@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jan"
+  lastname="Tengdin"
+  city="Berlin"
+  country="French Southern Territories"
+  firstname2="Farrah"
+  lastname2="Marcellus"
+  email="Farrah.Marcellus@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>59.985</random_float>
+  <bool>true</bool>
+  <date>1982-05-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Binny</elt><elt>Elyssa</elt><elt>Cissiee</elt><elt>Valera</elt><elt>Asia</elt>  
+  <Farrah>
+    <age>95</age>
+  </Farrah>
+</root>

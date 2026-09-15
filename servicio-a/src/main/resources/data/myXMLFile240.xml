@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beverley"
+  lastname="Curren"
+  city="Taipei"
+  country="Moldova, Republic of"
+  firstname2="Agnese"
+  lastname2="Clie"
+  email="Agnese.Clie@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>11.448</random_float>
+  <bool>true</bool>
+  <date>1986-10-31</date>
+  <regEx>hellooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Karena</elt><elt>Cherrita</elt><elt>Angelique</elt><elt>Cyb</elt><elt>Suzette</elt>  
+  <Agnese>
+    <age>28</age>
+  </Agnese>
+</root>

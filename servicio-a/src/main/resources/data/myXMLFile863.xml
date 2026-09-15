@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lexine"
+  lastname="Tiffa"
+  city="Tagbilaran"
+  country="Guadeloupe"
+  firstname2="Camile"
+  lastname2="Rad"
+  email="Camile.Rad@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>42.434</random_float>
+  <bool>true</bool>
+  <date>1988-01-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sindee</elt><elt>Linet</elt><elt>Rhoda</elt><elt>Ivett</elt><elt>Queenie</elt>  
+  <Camile>
+    <age>21</age>
+  </Camile>
+</root>

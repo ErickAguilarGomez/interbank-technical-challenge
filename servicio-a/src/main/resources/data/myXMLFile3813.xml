@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Thema"
+  city="Milwaukee"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Carmela"
+  lastname2="Adalbert"
+  email="Carmela.Adalbert@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>32.206</random_float>
+  <bool>true</bool>
+  <date>1989-04-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dode</elt><elt>Ira</elt><elt>Lindie</elt><elt>Emmey</elt><elt>Dolli</elt>  
+  <Carmela>
+    <age>53</age>
+  </Carmela>
+</root>

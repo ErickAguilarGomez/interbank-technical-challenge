@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ira"
+  lastname="Zeeba"
+  city="Yangon"
+  country="Iraq"
+  firstname2="Madelle"
+  lastname2="Kress"
+  email="Madelle.Kress@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>77</random_float>
+  <bool>false</bool>
+  <date>1984-01-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Deloria</elt><elt>Susette</elt><elt>Barbi</elt><elt>Daryl</elt><elt>Harrietta</elt>  
+  <Madelle>
+    <age>18</age>
+  </Madelle>
+</root>

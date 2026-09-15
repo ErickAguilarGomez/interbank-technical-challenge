@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berta"
+  lastname="Edison"
+  city="Nanning"
+  country="Antarctica"
+  firstname2="Tonia"
+  lastname2="Soneson"
+  email="Tonia.Soneson@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>13.682</random_float>
+  <bool>true</bool>
+  <date>1995-01-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gale</elt><elt>Caryl</elt><elt>Ottilie</elt><elt>Kate</elt><elt>Janey</elt>  
+  <Tonia>
+    <age>40</age>
+  </Tonia>
+</root>

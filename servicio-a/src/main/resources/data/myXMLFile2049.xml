@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheree"
+  lastname="Hessler"
+  city="Maracaibo"
+  country="Norfolk Island"
+  firstname2="Fanchon"
+  lastname2="Belldas"
+  email="Fanchon.Belldas@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>23.287</random_float>
+  <bool>false</bool>
+  <date>1997-09-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Brynna</elt><elt>Jinny</elt><elt>Chloris</elt><elt>Joelly</elt><elt>Elmira</elt>  
+  <Fanchon>
+    <age>77</age>
+  </Fanchon>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Bord"
+  city="Veracruz"
+  country="Christmas Island"
+  firstname2="Lorie"
+  lastname2="Vivle"
+  email="Lorie.Vivle@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>93.081</random_float>
+  <bool>false</bool>
+  <date>1995-09-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wileen</elt><elt>Ardys</elt><elt>Brandise</elt><elt>Deedee</elt><elt>Orelia</elt>  
+  <Lorie>
+    <age>91</age>
+  </Lorie>
+</root>

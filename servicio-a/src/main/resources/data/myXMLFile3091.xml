@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alie"
+  lastname="Lory"
+  city="Chaguanas"
+  country="Guam"
+  firstname2="Basia"
+  lastname2="Kare"
+  email="Basia.Kare@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>32.465</random_float>
+  <bool>true</bool>
+  <date>1999-06-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deloria</elt><elt>Elie</elt><elt>Alyssa</elt><elt>Anica</elt><elt>Ana</elt>  
+  <Basia>
+    <age>75</age>
+  </Basia>
+</root>

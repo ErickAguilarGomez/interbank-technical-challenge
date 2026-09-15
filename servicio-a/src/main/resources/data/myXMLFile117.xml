@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="Ogren"
+  city="Dili"
+  country="Myanmar"
+  firstname2="Nonnah"
+  lastname2="Elsinore"
+  email="Nonnah.Elsinore@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>79.201</random_float>
+  <bool>true</bool>
+  <date>1983-07-26</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hannis</elt><elt>Abbie</elt><elt>Joy</elt><elt>Jobi</elt><elt>Rhea</elt>  
+  <Nonnah>
+    <age>18</age>
+  </Nonnah>
+</root>

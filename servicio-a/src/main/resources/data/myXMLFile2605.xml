@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bee"
+  lastname="Wallis"
+  city="Tegucigalpa"
+  country="Denmark"
+  firstname2="Carlie"
+  lastname2="Damarra"
+  email="Carlie.Damarra@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>92.694</random_float>
+  <bool>true</bool>
+  <date>1994-05-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tami</elt><elt>Magdalena</elt><elt>Gwenneth</elt><elt>Viki</elt><elt>Georgetta</elt>  
+  <Carlie>
+    <age>45</age>
+  </Carlie>
+</root>

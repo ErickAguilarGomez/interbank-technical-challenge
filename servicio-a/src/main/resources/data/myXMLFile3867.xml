@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheree"
+  lastname="Morrill"
+  city="Jersey City"
+  country="Hong Kong"
+  firstname2="Pollyanna"
+  lastname2="Saunderson"
+  email="Pollyanna.Saunderson@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>49.792</random_float>
+  <bool>true</bool>
+  <date>1982-09-23</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jessy</elt><elt>Marcelline</elt><elt>Valera</elt><elt>Gilda</elt><elt>Jessamyn</elt>  
+  <Pollyanna>
+    <age>33</age>
+  </Pollyanna>
+</root>

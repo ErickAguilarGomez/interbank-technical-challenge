@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shandie"
+  lastname="Dash"
+  city="Vatican City"
+  country="Cambodia"
+  firstname2="Katuscha"
+  lastname2="Norrie"
+  email="Katuscha.Norrie@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>24.64</random_float>
+  <bool>true</bool>
+  <date>1993-07-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kittie</elt><elt>Beth</elt><elt>Gwenneth</elt><elt>Tierney</elt><elt>Emilia</elt>  
+  <Katuscha>
+    <age>50</age>
+  </Katuscha>
+</root>

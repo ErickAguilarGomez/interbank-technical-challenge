@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minne"
+  lastname="Zuzana"
+  city="Kawasaki"
+  country="Indonesia"
+  firstname2="Agathe"
+  lastname2="Burkle"
+  email="Agathe.Burkle@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>81.789</random_float>
+  <bool>false</bool>
+  <date>1991-10-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ketti</elt><elt>Ilse</elt><elt>Sharai</elt><elt>Latisha</elt><elt>Fernande</elt>  
+  <Agathe>
+    <age>73</age>
+  </Agathe>
+</root>

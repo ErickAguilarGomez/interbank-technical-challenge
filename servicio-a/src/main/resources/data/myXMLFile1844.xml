@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorie"
+  lastname="Curren"
+  city="Lanzhou"
+  country="Korea, Republic of"
+  firstname2="Bernie"
+  lastname2="Fitzsimmons"
+  email="Bernie.Fitzsimmons@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>87.614</random_float>
+  <bool>true</bool>
+  <date>1993-01-27</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Luci</elt><elt>Petronia</elt><elt>Paola</elt><elt>Addia</elt><elt>Robinia</elt>  
+  <Bernie>
+    <age>52</age>
+  </Bernie>
+</root>

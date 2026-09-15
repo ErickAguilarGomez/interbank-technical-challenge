@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Artie"
+  city="Ljubljana"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Cherrita"
+  lastname2="Fleeta"
+  email="Cherrita.Fleeta@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>41.22</random_float>
+  <bool>true</bool>
+  <date>1995-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alleen</elt><elt>Dulce</elt><elt>Augustine</elt><elt>Ulrike</elt><elt>Mariann</elt>  
+  <Cherrita>
+    <age>32</age>
+  </Cherrita>
+</root>

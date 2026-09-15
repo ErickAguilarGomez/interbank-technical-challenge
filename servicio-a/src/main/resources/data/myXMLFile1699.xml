@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Dermott"
+  city="Mwanza"
+  country="Venezuela"
+  firstname2="Nanete"
+  lastname2="Wyn"
+  email="Nanete.Wyn@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>29.185</random_float>
+  <bool>true</bool>
+  <date>1985-01-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Linzy</elt><elt>Renie</elt><elt>Cathie</elt><elt>Selia</elt><elt>Margarette</elt>  
+  <Nanete>
+    <age>48</age>
+  </Nanete>
+</root>

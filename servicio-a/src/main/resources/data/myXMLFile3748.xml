@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Letsou"
+  city="Kunming"
+  country="Gambia"
+  firstname2="Anthia"
+  lastname2="Kenney"
+  email="Anthia.Kenney@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>43.869</random_float>
+  <bool>true</bool>
+  <date>1993-01-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gisela</elt><elt>Drucie</elt><elt>Sabina</elt><elt>Suzette</elt><elt>Nonnah</elt>  
+  <Anthia>
+    <age>61</age>
+  </Anthia>
+</root>

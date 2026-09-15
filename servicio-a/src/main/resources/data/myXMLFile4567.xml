@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Shelba"
+  city="Birmingham"
+  country="Finland"
+  firstname2="Peri"
+  lastname2="Salvidor"
+  email="Peri.Salvidor@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>72.646</random_float>
+  <bool>true</bool>
+  <date>1981-09-09</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Andeee</elt><elt>Stephanie</elt><elt>Rochette</elt><elt>Heddie</elt><elt>Hannis</elt>  
+  <Peri>
+    <age>85</age>
+  </Peri>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harmonia"
+  lastname="Llovera"
+  city="Kansas City"
+  country="Western Sahara"
+  firstname2="Beverley"
+  lastname2="Claudine"
+  email="Beverley.Claudine@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>28.837</random_float>
+  <bool>true</bool>
+  <date>1990-01-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ricky</elt><elt>Estell</elt><elt>Micheline</elt><elt>Frances</elt><elt>Alejandra</elt>  
+  <Beverley>
+    <age>20</age>
+  </Beverley>
+</root>

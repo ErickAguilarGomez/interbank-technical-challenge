@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harmonia"
+  lastname="Stefa"
+  city="Medina"
+  country="Brunei Darussalam"
+  firstname2="Alia"
+  lastname2="Trace"
+  email="Alia.Trace@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>65.188</random_float>
+  <bool>false</bool>
+  <date>1992-02-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lorne</elt><elt>Lenna</elt><elt>Maye</elt><elt>Justinn</elt><elt>Joane</elt>  
+  <Alia>
+    <age>47</age>
+  </Alia>
+</root>

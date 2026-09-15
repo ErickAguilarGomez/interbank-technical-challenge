@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nadine"
+  lastname="Martsen"
+  city="Tampa"
+  country="Honduras"
+  firstname2="Basia"
+  lastname2="Docilla"
+  email="Basia.Docilla@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>100.043</random_float>
+  <bool>false</bool>
+  <date>1986-09-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lesly</elt><elt>Rayna</elt><elt>Meghann</elt><elt>Kamilah</elt><elt>Genovera</elt>  
+  <Basia>
+    <age>95</age>
+  </Basia>
+</root>

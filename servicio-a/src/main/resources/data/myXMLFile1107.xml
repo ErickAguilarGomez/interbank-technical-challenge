@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tarra"
+  lastname="Blase"
+  city="Stockholm"
+  country="Vanuatu"
+  firstname2="Noelle"
+  lastname2="Ajay"
+  email="Noelle.Ajay@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>88.803</random_float>
+  <bool>true</bool>
+  <date>1988-12-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Maisey</elt><elt>Amii</elt><elt>Sandie</elt><elt>Jacquetta</elt><elt>Bettine</elt>  
+  <Noelle>
+    <age>23</age>
+  </Noelle>
+</root>

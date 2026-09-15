@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ekaterina"
+  lastname="Pauly"
+  city="Shillong"
+  country="Mauritania"
+  firstname2="Mireielle"
+  lastname2="Kauppi"
+  email="Mireielle.Kauppi@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>5.463</random_float>
+  <bool>true</bool>
+  <date>1991-08-15</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Berta</elt><elt>Leeanne</elt><elt>Phedra</elt><elt>Glenda</elt><elt>Katharina</elt>  
+  <Mireielle>
+    <age>24</age>
+  </Mireielle>
+</root>

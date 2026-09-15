@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joelly"
+  lastname="Georas"
+  city="Algiers"
+  country="Monaco"
+  firstname2="Lita"
+  lastname2="Rese"
+  email="Lita.Rese@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>51.8</random_float>
+  <bool>false</bool>
+  <date>1997-04-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lorenza</elt><elt>Dode</elt><elt>Rhoda</elt><elt>Meriel</elt><elt>Daune</elt>  
+  <Lita>
+    <age>77</age>
+  </Lita>
+</root>

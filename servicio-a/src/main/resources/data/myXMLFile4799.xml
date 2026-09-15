@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nananne"
+  lastname="Shanley"
+  city="Sukhumi"
+  country="Hong Kong"
+  firstname2="Edee"
+  lastname2="Kellby"
+  email="Edee.Kellby@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>78.891</random_float>
+  <bool>true</bool>
+  <date>1980-10-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aryn</elt><elt>Chickie</elt><elt>Lorie</elt><elt>Augustine</elt><elt>Joelly</elt>  
+  <Edee>
+    <age>75</age>
+  </Edee>
+</root>

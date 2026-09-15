@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Addia"
+  lastname="Fitzsimmons"
+  city="Salt Lake City"
+  country="Oman"
+  firstname2="Joane"
+  lastname2="Jenness"
+  email="Joane.Jenness@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>80.242</random_float>
+  <bool>true</bool>
+  <date>1993-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Corly</elt><elt>Cassandra</elt><elt>Kathi</elt><elt>Sonni</elt><elt>Tressa</elt>  
+  <Joane>
+    <age>32</age>
+  </Joane>
+</root>

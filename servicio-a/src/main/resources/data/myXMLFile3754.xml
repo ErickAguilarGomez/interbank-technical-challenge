@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roberta"
+  lastname="Etom"
+  city="Surabaya"
+  country="Cocos (Keeling) Islands"
+  firstname2="Tracey"
+  lastname2="Erminia"
+  email="Tracey.Erminia@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>99.688</random_float>
+  <bool>false</bool>
+  <date>1981-08-11</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Imojean</elt><elt>Lynea</elt><elt>Di</elt><elt>Tilly</elt><elt>Ofilia</elt>  
+  <Tracey>
+    <age>40</age>
+  </Tracey>
+</root>

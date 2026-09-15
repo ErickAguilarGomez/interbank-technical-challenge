@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emilia"
+  lastname="Gualtiero"
+  city="Sana'a"
+  country="Greenland"
+  firstname2="Sheelagh"
+  lastname2="Palocz"
+  email="Sheelagh.Palocz@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>84.8</random_float>
+  <bool>false</bool>
+  <date>1989-05-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Josephine</elt><elt>Louella</elt><elt>Catrina</elt><elt>Bibby</elt><elt>Nanete</elt>  
+  <Sheelagh>
+    <age>44</age>
+  </Sheelagh>
+</root>

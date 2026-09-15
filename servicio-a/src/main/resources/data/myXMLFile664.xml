@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melina"
+  lastname="Kunin"
+  city="Surat"
+  country="Saint Pierre and Miquelon"
+  firstname2="Elmira"
+  lastname2="Hollingsworth"
+  email="Elmira.Hollingsworth@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>47.25</random_float>
+  <bool>true</bool>
+  <date>1986-03-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Celene</elt><elt>Gabi</elt><elt>Winny</elt><elt>Ofilia</elt><elt>Kore</elt>  
+  <Elmira>
+    <age>79</age>
+  </Elmira>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Bonilla"
+  city="Yakutsk"
+  country="Afghanistan"
+  firstname2="Silvana"
+  lastname2="Earlie"
+  email="Silvana.Earlie@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>5.709</random_float>
+  <bool>false</bool>
+  <date>1999-01-13</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Celene</elt><elt>Vinita</elt><elt>Violet</elt><elt>Henriette</elt><elt>Cherilyn</elt>  
+  <Silvana>
+    <age>81</age>
+  </Silvana>
+</root>

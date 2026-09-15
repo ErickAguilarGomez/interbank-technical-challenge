@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gale"
+  lastname="Middleton"
+  city="Kigali"
+  country="Macao"
+  firstname2="Mariele"
+  lastname2="Jotham"
+  email="Mariele.Jotham@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>75.654</random_float>
+  <bool>false</bool>
+  <date>1984-10-27</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elena</elt><elt>Georgetta</elt><elt>Lenna</elt><elt>Merle</elt><elt>Ebonee</elt>  
+  <Mariele>
+    <age>35</age>
+  </Mariele>
+</root>

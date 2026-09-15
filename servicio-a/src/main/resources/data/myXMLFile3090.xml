@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Lytton"
+  city="Dresden"
+  country="Croatia"
+  firstname2="Frances"
+  lastname2="Bronk"
+  email="Frances.Bronk@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>15.992</random_float>
+  <bool>true</bool>
+  <date>1990-11-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Raina</elt><elt>Bernie</elt><elt>Joceline</elt><elt>Suzette</elt><elt>Regina</elt>  
+  <Frances>
+    <age>99</age>
+  </Frances>
+</root>

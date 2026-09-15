@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Aprile"
+  city="Sukhumi"
+  country="Cocos (Keeling) Islands"
+  firstname2="Claudina"
+  lastname2="Mandler"
+  email="Claudina.Mandler@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>61.013</random_float>
+  <bool>false</bool>
+  <date>1989-12-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Paola</elt><elt>Miquela</elt><elt>Gilda</elt><elt>Celisse</elt><elt>Shandie</elt>  
+  <Claudina>
+    <age>45</age>
+  </Claudina>
+</root>

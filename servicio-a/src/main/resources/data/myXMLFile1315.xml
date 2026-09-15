@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wanda"
+  lastname="Alisia"
+  city="Indianapolis"
+  country="Trinidad and Tobago"
+  firstname2="Codie"
+  lastname2="Gabrielli"
+  email="Codie.Gabrielli@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>24.687</random_float>
+  <bool>false</bool>
+  <date>1993-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Damaris</elt><elt>Danika</elt><elt>Alie</elt><elt>Clo</elt><elt>Doralynne</elt>  
+  <Codie>
+    <age>88</age>
+  </Codie>
+</root>

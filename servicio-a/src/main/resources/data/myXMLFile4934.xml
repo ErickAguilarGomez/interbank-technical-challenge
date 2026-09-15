@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheree"
+  lastname="Buckler"
+  city="Tiraspol"
+  country="Bosnia and Herzegovina"
+  firstname2="Dyann"
+  lastname2="Halla"
+  email="Dyann.Halla@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>30.977</random_float>
+  <bool>true</bool>
+  <date>1999-11-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Violet</elt><elt>Tori</elt><elt>Addia</elt><elt>Kathy</elt><elt>Orsola</elt>  
+  <Dyann>
+    <age>81</age>
+  </Dyann>
+</root>

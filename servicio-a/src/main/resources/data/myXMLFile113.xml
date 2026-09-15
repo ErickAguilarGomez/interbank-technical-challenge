@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaine"
+  lastname="Skurnik"
+  city="Rabi Island"
+  country="South Africa"
+  firstname2="Debee"
+  lastname2="Klemperer"
+  email="Debee.Klemperer@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>66.522</random_float>
+  <bool>true</bool>
+  <date>1995-08-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Consuela</elt><elt>Phylis</elt><elt>Albertina</elt><elt>Steffane</elt><elt>Florie</elt>  
+  <Debee>
+    <age>25</age>
+  </Debee>
+</root>

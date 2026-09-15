@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbi"
+  lastname="Yoko"
+  city="Nouméa"
+  country="Pitcairn"
+  firstname2="Andeee"
+  lastname2="Durware"
+  email="Andeee.Durware@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>4.901</random_float>
+  <bool>true</bool>
+  <date>1995-08-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Averyl</elt><elt>Marnia</elt><elt>Elvira</elt><elt>Valera</elt><elt>Vonny</elt>  
+  <Andeee>
+    <age>23</age>
+  </Andeee>
+</root>

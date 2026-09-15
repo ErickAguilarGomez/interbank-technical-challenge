@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jackie"
+  lastname="Alfons"
+  city="Agartala"
+  country="Norfolk Island"
+  firstname2="Amalie"
+  lastname2="Skurnik"
+  email="Amalie.Skurnik@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>100.134</random_float>
+  <bool>true</bool>
+  <date>1997-07-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marline</elt><elt>Celestyna</elt><elt>Tani</elt><elt>Elena</elt><elt>Renae</elt>  
+  <Amalie>
+    <age>75</age>
+  </Amalie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lesly"
+  lastname="Raychel"
+  city="Bloemfontein"
+  country="Sao Tome and Principe"
+  firstname2="Nonnah"
+  lastname2="Rese"
+  email="Nonnah.Rese@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>1.033</random_float>
+  <bool>true</bool>
+  <date>1980-08-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tersina</elt><elt>Eadie</elt><elt>Chere</elt><elt>Carmencita</elt><elt>Fidelia</elt>  
+  <Nonnah>
+    <age>25</age>
+  </Nonnah>
+</root>

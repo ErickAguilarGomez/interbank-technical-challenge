@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adelle"
+  lastname="Merna"
+  city="Salt Lake City"
+  country="Slovenia"
+  firstname2="Elsie"
+  lastname2="Grimbly"
+  email="Elsie.Grimbly@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>56.766</random_float>
+  <bool>false</bool>
+  <date>1982-06-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lily</elt><elt>Netty</elt><elt>Shandie</elt><elt>Ariela</elt><elt>Dede</elt>  
+  <Elsie>
+    <age>27</age>
+  </Elsie>
+</root>

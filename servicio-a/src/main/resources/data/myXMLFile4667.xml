@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vanessa"
+  lastname="Screens"
+  city="Vancouver"
+  country="Tonga"
+  firstname2="Karolina"
+  lastname2="Berl"
+  email="Karolina.Berl@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>66.989</random_float>
+  <bool>false</bool>
+  <date>1981-08-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sonni</elt><elt>Trudie</elt><elt>Roslyn</elt><elt>Mireielle</elt><elt>Amara</elt>  
+  <Karolina>
+    <age>81</age>
+  </Karolina>
+</root>

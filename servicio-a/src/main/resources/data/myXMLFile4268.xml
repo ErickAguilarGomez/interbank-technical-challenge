@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Niles"
+  city="Kolkata"
+  country="Czech Republic"
+  firstname2="Kirstin"
+  lastname2="Bury"
+  email="Kirstin.Bury@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>83.583</random_float>
+  <bool>false</bool>
+  <date>1983-07-06</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gusella</elt><elt>Reeba</elt><elt>Hannis</elt><elt>Mara</elt><elt>Phylis</elt>  
+  <Kirstin>
+    <age>68</age>
+  </Kirstin>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jere"
+  lastname="Oster"
+  city="Fredericton"
+  country="Brazil"
+  firstname2="Tomasina"
+  lastname2="Erich"
+  email="Tomasina.Erich@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>9.851</random_float>
+  <bool>false</bool>
+  <date>1997-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ayn</elt><elt>Ethel</elt><elt>Verla</elt><elt>Constance</elt><elt>Clary</elt>  
+  <Tomasina>
+    <age>37</age>
+  </Tomasina>
+</root>

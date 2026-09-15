@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Michaelina"
+  lastname="Salchunas"
+  city="Majuro"
+  country="Ecuador"
+  firstname2="Jillayne"
+  lastname2="Heidt"
+  email="Jillayne.Heidt@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>72.988</random_float>
+  <bool>true</bool>
+  <date>1990-10-31</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Xylina</elt><elt>Kittie</elt><elt>Jany</elt><elt>Carol-Jean</elt><elt>Aigneis</elt>  
+  <Jillayne>
+    <age>38</age>
+  </Jillayne>
+</root>

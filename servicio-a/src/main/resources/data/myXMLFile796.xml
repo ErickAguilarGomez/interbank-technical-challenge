@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Gilbertson"
+  city="Ipoh"
+  country="Åland Islands"
+  firstname2="Kathi"
+  lastname2="Parette"
+  email="Kathi.Parette@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>92.935</random_float>
+  <bool>false</bool>
+  <date>1991-05-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Viki</elt><elt>Delilah</elt><elt>Zondra</elt><elt>Ericka</elt><elt>Emilia</elt>  
+  <Kathi>
+    <age>23</age>
+  </Kathi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Percy"
+  city="Abu Dhabi"
+  country="South Africa"
+  firstname2="Nonnah"
+  lastname2="Hoban"
+  email="Nonnah.Hoban@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>95.951</random_float>
+  <bool>true</bool>
+  <date>1989-04-30</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Carolina</elt><elt>Almeta</elt><elt>Margette</elt><elt>Sheelagh</elt><elt>Margalo</elt>  
+  <Nonnah>
+    <age>25</age>
+  </Nonnah>
+</root>

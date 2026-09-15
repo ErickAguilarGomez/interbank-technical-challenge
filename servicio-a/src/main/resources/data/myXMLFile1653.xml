@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margette"
+  lastname="Dudley"
+  city="Santiago"
+  country="Bulgaria"
+  firstname2="Jemie"
+  lastname2="Baylor"
+  email="Jemie.Baylor@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>82.221</random_float>
+  <bool>true</bool>
+  <date>1983-04-14</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tina</elt><elt>Nelle</elt><elt>Vevay</elt><elt>Lynde</elt><elt>Gerianna</elt>  
+  <Jemie>
+    <age>95</age>
+  </Jemie>
+</root>

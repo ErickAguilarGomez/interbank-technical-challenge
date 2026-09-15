@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynde"
+  lastname="Sharl"
+  city="Barcelona"
+  country="Comoros"
+  firstname2="Sue"
+  lastname2="Swanhildas"
+  email="Sue.Swanhildas@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>47.664</random_float>
+  <bool>false</bool>
+  <date>1994-12-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ronna</elt><elt>Sharai</elt><elt>Cacilie</elt><elt>Gale</elt><elt>Ruthe</elt>  
+  <Sue>
+    <age>48</age>
+  </Sue>
+</root>

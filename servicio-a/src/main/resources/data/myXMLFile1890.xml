@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Salchunas"
+  city="Koror"
+  country="Netherlands Antilles"
+  firstname2="Desirae"
+  lastname2="Karna"
+  email="Desirae.Karna@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>72.292</random_float>
+  <bool>true</bool>
+  <date>1993-02-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Keelia</elt><elt>Ekaterina</elt><elt>Lanna</elt><elt>Ericka</elt><elt>Sybille</elt>  
+  <Desirae>
+    <age>26</age>
+  </Desirae>
+</root>

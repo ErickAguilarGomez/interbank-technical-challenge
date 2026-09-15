@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nataline"
+  lastname="Eben"
+  city="Anchorage"
+  country="Fiji"
+  firstname2="Viki"
+  lastname2="Lilybelle"
+  email="Viki.Lilybelle@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>88.624</random_float>
+  <bool>false</bool>
+  <date>1981-11-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Aili</elt><elt>Gwenneth</elt><elt>Kate</elt><elt>Beverley</elt><elt>Eolanda</elt>  
+  <Viki>
+    <age>22</age>
+  </Viki>
+</root>

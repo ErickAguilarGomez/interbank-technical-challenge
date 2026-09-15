@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Marlie"
+  city="Stuttgart"
+  country="Mauritius"
+  firstname2="Phedra"
+  lastname2="Zeeba"
+  email="Phedra.Zeeba@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>93.752</random_float>
+  <bool>true</bool>
+  <date>1997-12-23</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marinna</elt><elt>Cissiee</elt><elt>Emelina</elt><elt>Aurore</elt><elt>Daune</elt>  
+  <Phedra>
+    <age>51</age>
+  </Phedra>
+</root>

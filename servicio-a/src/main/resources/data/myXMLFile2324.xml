@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynea"
+  lastname="Codding"
+  city="Harare"
+  country="Mauritius"
+  firstname2="Amii"
+  lastname2="Elbertina"
+  email="Amii.Elbertina@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>60.08</random_float>
+  <bool>false</bool>
+  <date>1982-12-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sara-Ann</elt><elt>Rayna</elt><elt>Gerianna</elt><elt>Belva</elt><elt>Jaime</elt>  
+  <Amii>
+    <age>84</age>
+  </Amii>
+</root>

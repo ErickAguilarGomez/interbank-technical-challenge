@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meriel"
+  lastname="Uird"
+  city="Tagbilaran"
+  country="Guatemala"
+  firstname2="Dennie"
+  lastname2="Maisey"
+  email="Dennie.Maisey@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>94.514</random_float>
+  <bool>false</bool>
+  <date>1994-10-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roslyn</elt><elt>Charissa</elt><elt>Rhoda</elt><elt>Tina</elt><elt>Josephine</elt>  
+  <Dennie>
+    <age>26</age>
+  </Dennie>
+</root>

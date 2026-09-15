@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Lanita"
+  city="Turin"
+  country="Mongolia"
+  firstname2="Anthia"
+  lastname2="Hamil"
+  email="Anthia.Hamil@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>49.176</random_float>
+  <bool>false</bool>
+  <date>1985-12-12</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Johna</elt><elt>Nataline</elt><elt>Cherilyn</elt><elt>Chastity</elt><elt>Bobbi</elt>  
+  <Anthia>
+    <age>76</age>
+  </Anthia>
+</root>

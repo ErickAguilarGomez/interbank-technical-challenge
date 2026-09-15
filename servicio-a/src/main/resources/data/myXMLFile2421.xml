@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Greyson"
+  city="Koror"
+  country="Solomon Islands"
+  firstname2="Laurene"
+  lastname2="Gaspard"
+  email="Laurene.Gaspard@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>87.822</random_float>
+  <bool>true</bool>
+  <date>1996-08-22</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Eugine</elt><elt>Coral</elt><elt>Charlena</elt><elt>Averyl</elt><elt>June</elt>  
+  <Laurene>
+    <age>46</age>
+  </Laurene>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaine"
+  lastname="Howlyn"
+  city="Kigali"
+  country="Antigua and Barbuda"
+  firstname2="Aubrie"
+  lastname2="Syd"
+  email="Aubrie.Syd@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>12.515</random_float>
+  <bool>true</bool>
+  <date>1989-09-07</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Damaris</elt><elt>Jany</elt><elt>Rozele</elt><elt>Marcy</elt><elt>Daphne</elt>  
+  <Aubrie>
+    <age>94</age>
+  </Aubrie>
+</root>

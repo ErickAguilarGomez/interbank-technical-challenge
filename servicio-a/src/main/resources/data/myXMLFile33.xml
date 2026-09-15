@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roberta"
+  lastname="Salchunas"
+  city="Birkirkara"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Raina"
+  lastname2="Auberbach"
+  email="Raina.Auberbach@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>70.624</random_float>
+  <bool>false</bool>
+  <date>1986-12-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nerta</elt><elt>Adore</elt><elt>Britni</elt><elt>Brietta</elt><elt>Mellicent</elt>  
+  <Raina>
+    <age>69</age>
+  </Raina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacenta"
+  lastname="Ledah"
+  city="Horta (Azores)"
+  country="Guadeloupe"
+  firstname2="Ernesta"
+  lastname2="MacIntosh"
+  email="Ernesta.MacIntosh@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>82.982</random_float>
+  <bool>true</bool>
+  <date>1994-07-22</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frank</elt><elt>Jaclyn</elt><elt>Aurelie</elt><elt>Briney</elt><elt>Korrie</elt>  
+  <Ernesta>
+    <age>96</age>
+  </Ernesta>
+</root>

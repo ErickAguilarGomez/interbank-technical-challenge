@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elora"
+  lastname="Isidore"
+  city="Oklahoma City"
+  country="Guinea-Bissau"
+  firstname2="Cindelyn"
+  lastname2="Gamaliel"
+  email="Cindelyn.Gamaliel@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>52.659</random_float>
+  <bool>true</bool>
+  <date>1987-05-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kayla</elt><elt>Gusty</elt><elt>Emelina</elt><elt>Gloria</elt><elt>Adore</elt>  
+  <Cindelyn>
+    <age>32</age>
+  </Cindelyn>
+</root>

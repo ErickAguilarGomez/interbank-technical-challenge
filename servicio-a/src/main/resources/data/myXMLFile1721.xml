@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="O'Rourke"
+  city="Port Said"
+  country="Slovakia"
+  firstname2="Ileana"
+  lastname2="Jacqui"
+  email="Ileana.Jacqui@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>73.988</random_float>
+  <bool>true</bool>
+  <date>1990-12-09</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cordi</elt><elt>Tiffie</elt><elt>Moyna</elt><elt>Oralee</elt><elt>Sissy</elt>  
+  <Ileana>
+    <age>18</age>
+  </Ileana>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gui"
+  lastname="Nicoline"
+  city="Ponta Delgada"
+  country="Guatemala"
+  firstname2="Lucille"
+  lastname2="Sharl"
+  email="Lucille.Sharl@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>67.219</random_float>
+  <bool>true</bool>
+  <date>1992-03-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Leia</elt><elt>Dorene</elt><elt>Christal</elt><elt>Jessamyn</elt><elt>Aurelie</elt>  
+  <Lucille>
+    <age>80</age>
+  </Lucille>
+</root>

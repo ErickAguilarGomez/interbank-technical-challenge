@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Brittani"
+  city="Helsinki"
+  country="Saudi Arabia"
+  firstname2="Dorene"
+  lastname2="Greenwald"
+  email="Dorene.Greenwald@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>26.579</random_float>
+  <bool>true</bool>
+  <date>1998-02-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Benita</elt><elt>Codie</elt><elt>Susette</elt><elt>Sibella</elt><elt>Jobi</elt>  
+  <Dorene>
+    <age>95</age>
+  </Dorene>
+</root>

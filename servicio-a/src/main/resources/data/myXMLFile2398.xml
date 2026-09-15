@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karlee"
+  lastname="Hoenack"
+  city="Phnom Penh"
+  country="Lebanon"
+  firstname2="Roseline"
+  lastname2="Martguerita"
+  email="Roseline.Martguerita@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>45.365</random_float>
+  <bool>true</bool>
+  <date>1995-06-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Adriana</elt><elt>Marleah</elt><elt>Mallory</elt><elt>Lorie</elt><elt>Delilah</elt>  
+  <Roseline>
+    <age>82</age>
+  </Roseline>
+</root>

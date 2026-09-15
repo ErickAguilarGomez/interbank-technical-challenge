@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Penelopa"
+  city="Monrovia"
+  country="Guadeloupe"
+  firstname2="Agathe"
+  lastname2="Shama"
+  email="Agathe.Shama@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>25.212</random_float>
+  <bool>true</bool>
+  <date>1989-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jemie</elt><elt>Sharlene</elt><elt>Tina</elt><elt>Annice</elt><elt>Marita</elt>  
+  <Agathe>
+    <age>27</age>
+  </Agathe>
+</root>

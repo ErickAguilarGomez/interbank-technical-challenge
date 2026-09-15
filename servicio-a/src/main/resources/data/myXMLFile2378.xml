@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Malina"
+  lastname="Goddard"
+  city="Tamale"
+  country="Slovakia"
+  firstname2="Ariela"
+  lastname2="Bendick"
+  email="Ariela.Bendick@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>46.522</random_float>
+  <bool>false</bool>
+  <date>1990-04-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Aimil</elt><elt>Katleen</elt><elt>Tobe</elt><elt>Aryn</elt><elt>Catrina</elt>  
+  <Ariela>
+    <age>98</age>
+  </Ariela>
+</root>

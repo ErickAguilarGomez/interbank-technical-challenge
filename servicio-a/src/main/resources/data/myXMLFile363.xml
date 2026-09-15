@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Fosque"
+  city="Puebla"
+  country="Taiwan, Province of China"
+  firstname2="Justinn"
+  lastname2="Barbey"
+  email="Justinn.Barbey@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>89.531</random_float>
+  <bool>true</bool>
+  <date>1996-02-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Cissiee</elt><elt>Ottilie</elt><elt>Marguerite</elt><elt>Edee</elt><elt>Ivett</elt>  
+  <Justinn>
+    <age>54</age>
+  </Justinn>
+</root>

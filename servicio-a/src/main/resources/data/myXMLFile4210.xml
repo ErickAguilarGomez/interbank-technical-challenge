@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evaleen"
+  lastname="Linskey"
+  city="Moroni"
+  country="Samoa"
+  firstname2="Penelopa"
+  lastname2="Blase"
+  email="Penelopa.Blase@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>11.882</random_float>
+  <bool>true</bool>
+  <date>1983-02-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Clo</elt><elt>Valli</elt><elt>Starla</elt><elt>Bobinette</elt><elt>Bibby</elt>  
+  <Penelopa>
+    <age>98</age>
+  </Penelopa>
+</root>

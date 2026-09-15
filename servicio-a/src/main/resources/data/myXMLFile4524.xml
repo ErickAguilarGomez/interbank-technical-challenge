@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathy"
+  lastname="Lubin"
+  city="Mendoza"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Roz"
+  lastname2="Esmaria"
+  email="Roz.Esmaria@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>6.324</random_float>
+  <bool>true</bool>
+  <date>1998-05-14</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Melanie</elt><elt>Ginnie</elt><elt>Averyl</elt><elt>Theodora</elt><elt>Ariela</elt>  
+  <Roz>
+    <age>54</age>
+  </Roz>
+</root>

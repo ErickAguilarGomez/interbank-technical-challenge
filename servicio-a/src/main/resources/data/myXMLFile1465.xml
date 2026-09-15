@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Alva"
+  city="Kansas City"
+  country="Honduras"
+  firstname2="Aigneis"
+  lastname2="Merna"
+  email="Aigneis.Merna@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>94.414</random_float>
+  <bool>false</bool>
+  <date>1984-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gilda</elt><elt>Molli</elt><elt>Dulcinea</elt><elt>Yvonne</elt><elt>Misha</elt>  
+  <Aigneis>
+    <age>95</age>
+  </Aigneis>
+</root>

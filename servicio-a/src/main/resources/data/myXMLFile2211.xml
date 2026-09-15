@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sallie"
+  lastname="Stelle"
+  city="Chişinău"
+  country="Samoa"
+  firstname2="Amara"
+  lastname2="Pond"
+  email="Amara.Pond@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>5.603</random_float>
+  <bool>false</bool>
+  <date>1991-04-08</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Charmaine</elt><elt>Viki</elt><elt>Kelly</elt><elt>Antonietta</elt><elt>Tamqrah</elt>  
+  <Amara>
+    <age>47</age>
+  </Amara>
+</root>

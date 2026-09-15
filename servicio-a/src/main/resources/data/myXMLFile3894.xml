@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aigneis"
+  lastname="Dorine"
+  city="Abu Dhabi"
+  country="Japan"
+  firstname2="Philis"
+  lastname2="Rad"
+  email="Philis.Rad@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>53.166</random_float>
+  <bool>true</bool>
+  <date>1991-01-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ana</elt><elt>Dotty</elt><elt>Susan</elt><elt>Phedra</elt><elt>Karly</elt>  
+  <Philis>
+    <age>55</age>
+  </Philis>
+</root>

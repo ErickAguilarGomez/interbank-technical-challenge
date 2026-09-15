@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darci"
+  lastname="Macey"
+  city="Angra do Heroísmo"
+  country="Algeria"
+  firstname2="Jaime"
+  lastname2="Ovid"
+  email="Jaime.Ovid@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>3.131</random_float>
+  <bool>false</bool>
+  <date>1997-10-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lynea</elt><elt>Kristina</elt><elt>Odessa</elt><elt>Catrina</elt><elt>Cassandra</elt>  
+  <Jaime>
+    <age>56</age>
+  </Jaime>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Willetta"
+  lastname="Vacuva"
+  city="Dakar"
+  country="Japan"
+  firstname2="Kimmy"
+  lastname2="Burkle"
+  email="Kimmy.Burkle@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>97.543</random_float>
+  <bool>false</bool>
+  <date>1998-03-12</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marinna</elt><elt>Monika</elt><elt>Tina</elt><elt>Aigneis</elt><elt>Kore</elt>  
+  <Kimmy>
+    <age>77</age>
+  </Kimmy>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shauna"
+  lastname="McClimans"
+  city="Tallinn"
+  country="United States Minor Outlying Islands"
+  firstname2="Oralee"
+  lastname2="Pearse"
+  email="Oralee.Pearse@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>90.983</random_float>
+  <bool>false</bool>
+  <date>1989-05-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gale</elt><elt>Angelique</elt><elt>Roseline</elt><elt>Binny</elt><elt>Farrah</elt>  
+  <Oralee>
+    <age>84</age>
+  </Oralee>
+</root>

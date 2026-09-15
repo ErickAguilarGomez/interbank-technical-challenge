@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulce"
+  lastname="Bollay"
+  city="Cockburn Town"
+  country="Samoa"
+  firstname2="Johna"
+  lastname2="Selway"
+  email="Johna.Selway@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>93.099</random_float>
+  <bool>false</bool>
+  <date>1989-09-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hollie</elt><elt>Nessie</elt><elt>Deirdre</elt><elt>Lacie</elt><elt>Merci</elt>  
+  <Johna>
+    <age>71</age>
+  </Johna>
+</root>

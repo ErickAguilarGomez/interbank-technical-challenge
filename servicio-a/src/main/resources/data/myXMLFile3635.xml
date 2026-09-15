@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Renae"
+  lastname="Bashemeth"
+  city="Addis Ababa"
+  country="Zambia"
+  firstname2="Chrystel"
+  lastname2="Haerr"
+  email="Chrystel.Haerr@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>51.856</random_float>
+  <bool>true</bool>
+  <date>1982-08-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Corly</elt><elt>Halette</elt><elt>Felice</elt><elt>Thalia</elt><elt>Karina</elt>  
+  <Chrystel>
+    <age>97</age>
+  </Chrystel>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosene"
+  lastname="Lissi"
+  city="Riyadh"
+  country="Australia"
+  firstname2="Ellette"
+  lastname2="Brodench"
+  email="Ellette.Brodench@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>55.45</random_float>
+  <bool>true</bool>
+  <date>1981-11-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carmencita</elt><elt>Jacenta</elt><elt>Ericka</elt><elt>Kayla</elt><elt>Judy</elt>  
+  <Ellette>
+    <age>24</age>
+  </Ellette>
+</root>

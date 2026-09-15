@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nyssa"
+  lastname="Wenda"
+  city="Luxor"
+  country="Saudi Arabia"
+  firstname2="Minne"
+  lastname2="Zachary"
+  email="Minne.Zachary@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>67.485</random_float>
+  <bool>false</bool>
+  <date>1990-08-16</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorothy</elt><elt>Lesly</elt><elt>Lanna</elt><elt>Winny</elt><elt>Caritta</elt>  
+  <Minne>
+    <age>38</age>
+  </Minne>
+</root>

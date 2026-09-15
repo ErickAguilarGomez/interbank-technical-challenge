@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meghann"
+  lastname="Pond"
+  city="Hangzhou"
+  country="Mexico"
+  firstname2="Joeann"
+  lastname2="Aaberg"
+  email="Joeann.Aaberg@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>95.884</random_float>
+  <bool>false</bool>
+  <date>1997-06-11</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Ebonee</elt><elt>Rivalee</elt><elt>Suzette</elt><elt>Cristabel</elt><elt>Harmonia</elt>  
+  <Joeann>
+    <age>44</age>
+  </Joeann>
+</root>

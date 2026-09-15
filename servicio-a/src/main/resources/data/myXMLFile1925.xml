@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Verla"
+  lastname="Zamora"
+  city="Christchurch"
+  country="Ethiopia"
+  firstname2="Queenie"
+  lastname2="Kylander"
+  email="Queenie.Kylander@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>61.283</random_float>
+  <bool>true</bool>
+  <date>1998-04-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Zia</elt><elt>Rosanne</elt><elt>Nonnah</elt><elt>Gloria</elt><elt>Gilligan</elt>  
+  <Queenie>
+    <age>18</age>
+  </Queenie>
+</root>

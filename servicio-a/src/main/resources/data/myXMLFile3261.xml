@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Giule"
+  city="Malacca Town"
+  country="Nigeria"
+  firstname2="Ariela"
+  lastname2="Carmena"
+  email="Ariela.Carmena@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>21.506</random_float>
+  <bool>false</bool>
+  <date>1987-06-30</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nita</elt><elt>Minda</elt><elt>Florie</elt><elt>Penelopa</elt><elt>Sara-Ann</elt>  
+  <Ariela>
+    <age>30</age>
+  </Ariela>
+</root>

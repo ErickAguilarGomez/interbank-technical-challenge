@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celisse"
+  lastname="Kiyoshi"
+  city="Glasgow"
+  country="Madagascar"
+  firstname2="Viki"
+  lastname2="Stav"
+  email="Viki.Stav@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>94.542</random_float>
+  <bool>false</bool>
+  <date>1995-08-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dale</elt><elt>Valli</elt><elt>Wilma</elt><elt>Teddie</elt><elt>Janeczka</elt>  
+  <Viki>
+    <age>67</age>
+  </Viki>
+</root>

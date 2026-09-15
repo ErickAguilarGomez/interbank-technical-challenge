@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Soneson"
+  city="Road Town"
+  country="Fiji"
+  firstname2="Correy"
+  lastname2="Corabella"
+  email="Correy.Corabella@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>43.707</random_float>
+  <bool>false</bool>
+  <date>1980-03-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Glynnis</elt><elt>Kristan</elt><elt>Norine</elt><elt>Cathyleen</elt><elt>Lisette</elt>  
+  <Correy>
+    <age>84</age>
+  </Correy>
+</root>

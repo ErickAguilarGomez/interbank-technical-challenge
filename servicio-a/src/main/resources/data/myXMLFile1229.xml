@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marinna"
+  lastname="Cadmar"
+  city="Osaka"
+  country="Mauritius"
+  firstname2="Joceline"
+  lastname2="Lewes"
+  email="Joceline.Lewes@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>3.961</random_float>
+  <bool>true</bool>
+  <date>1987-08-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hettie</elt><elt>Katleen</elt><elt>Aaren</elt><elt>Mary</elt><elt>Aryn</elt>  
+  <Joceline>
+    <age>100</age>
+  </Joceline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katharina"
+  lastname="Rillings"
+  city="Virginia Beach"
+  country="Mali"
+  firstname2="Leona"
+  lastname2="Kimmie"
+  email="Leona.Kimmie@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>59.793</random_float>
+  <bool>true</bool>
+  <date>1983-09-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Eve</elt><elt>Tamqrah</elt><elt>Gratia</elt><elt>Alyda</elt><elt>Marcelline</elt>  
+  <Leona>
+    <age>96</age>
+  </Leona>
+</root>

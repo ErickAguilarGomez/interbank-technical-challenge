@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Imelida"
+  city="Antofagasta"
+  country="Cote D"Ivoire"
+  firstname2="Lita"
+  lastname2="Hailee"
+  email="Lita.Hailee@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>85.529</random_float>
+  <bool>true</bool>
+  <date>1993-01-04</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roxane</elt><elt>Thalia</elt><elt>Monika</elt><elt>Ericka</elt><elt>Brana</elt>  
+  <Lita>
+    <age>93</age>
+  </Lita>
+</root>

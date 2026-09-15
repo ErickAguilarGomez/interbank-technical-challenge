@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aaren"
+  lastname="Cookie"
+  city="Srinagar"
+  country="Bouvet Island"
+  firstname2="Flo"
+  lastname2="Lay"
+  email="Flo.Lay@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>42.631</random_float>
+  <bool>true</bool>
+  <date>1989-12-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Robbi</elt><elt>Sam</elt><elt>Adriana</elt><elt>Tamqrah</elt><elt>Louella</elt>  
+  <Flo>
+    <age>77</age>
+  </Flo>
+</root>

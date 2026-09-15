@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lilith"
+  lastname="Gladstone"
+  city="Málaga"
+  country="Wallis and Futuna"
+  firstname2="Dacia"
+  lastname2="Beebe"
+  email="Dacia.Beebe@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>1.504</random_float>
+  <bool>false</bool>
+  <date>1989-09-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Marjie</elt><elt>Genovera</elt><elt>Vere</elt><elt>Gusella</elt><elt>Cam</elt>  
+  <Dacia>
+    <age>46</age>
+  </Dacia>
+</root>

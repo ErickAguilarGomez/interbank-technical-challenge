@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selia"
+  lastname="Maisey"
+  city="Ponta Delgada"
+  country="Algeria"
+  firstname2="Atlanta"
+  lastname2="Flyn"
+  email="Atlanta.Flyn@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>75.085</random_float>
+  <bool>true</bool>
+  <date>1982-04-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Brianna</elt><elt>Pearline</elt><elt>Silvana</elt><elt>Valera</elt><elt>Queenie</elt>  
+  <Atlanta>
+    <age>32</age>
+  </Atlanta>
+</root>

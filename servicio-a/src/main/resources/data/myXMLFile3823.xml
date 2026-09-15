@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Veda"
+  lastname="Carlson"
+  city="Dededo"
+  country="Portugal"
+  firstname2="Sharlene"
+  lastname2="Fosque"
+  email="Sharlene.Fosque@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>74.539</random_float>
+  <bool>true</bool>
+  <date>1986-12-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hope</elt><elt>Lynde</elt><elt>Doro</elt><elt>Ethel</elt><elt>Esmeralda</elt>  
+  <Sharlene>
+    <age>39</age>
+  </Sharlene>
+</root>

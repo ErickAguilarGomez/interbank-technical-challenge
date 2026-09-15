@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="McGrody"
+  city="Dakar"
+  country="French Polynesia"
+  firstname2="Lita"
+  lastname2="Vittoria"
+  email="Lita.Vittoria@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>95.22</random_float>
+  <bool>false</bool>
+  <date>1994-01-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Edith</elt><elt>Lindie</elt><elt>Kimmy</elt><elt>Elbertina</elt><elt>Florencia</elt>  
+  <Lita>
+    <age>48</age>
+  </Lita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zaria"
+  lastname="Fax"
+  city="Nagpur"
+  country="Guernsey"
+  firstname2="Sandie"
+  lastname2="Alva"
+  email="Sandie.Alva@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>85.172</random_float>
+  <bool>false</bool>
+  <date>1990-06-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Riannon</elt><elt>Selia</elt><elt>Roxane</elt><elt>Selma</elt><elt>Gerianna</elt>  
+  <Sandie>
+    <age>56</age>
+  </Sandie>
+</root>

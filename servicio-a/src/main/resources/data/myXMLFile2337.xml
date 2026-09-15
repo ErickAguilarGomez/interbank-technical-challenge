@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merci"
+  lastname="Tiffa"
+  city="Ashgabat"
+  country="Kazakhstan"
+  firstname2="Marcelline"
+  lastname2="Kinnard"
+  email="Marcelline.Kinnard@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>19.606</random_float>
+  <bool>false</bool>
+  <date>1989-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nanete</elt><elt>Dede</elt><elt>Halette</elt><elt>Roseline</elt><elt>Amara</elt>  
+  <Marcelline>
+    <age>89</age>
+  </Marcelline>
+</root>

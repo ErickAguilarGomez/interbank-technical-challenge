@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stevana"
+  lastname="Markman"
+  city="Hai Phong"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Teriann"
+  lastname2="Verger"
+  email="Teriann.Verger@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>82.372</random_float>
+  <bool>false</bool>
+  <date>1981-03-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Pierette</elt><elt>Darlleen</elt><elt>Tori</elt><elt>Susan</elt><elt>Minne</elt>  
+  <Teriann>
+    <age>93</age>
+  </Teriann>
+</root>

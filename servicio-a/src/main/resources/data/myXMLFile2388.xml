@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corene"
+  lastname="Gerge"
+  city="Miri"
+  country="Togo"
+  firstname2="Benita"
+  lastname2="Joachim"
+  email="Benita.Joachim@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>77.028</random_float>
+  <bool>false</bool>
+  <date>1988-05-12</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Corry</elt><elt>Elena</elt><elt>Christian</elt><elt>Brooks</elt><elt>Bettine</elt>  
+  <Benita>
+    <age>52</age>
+  </Benita>
+</root>

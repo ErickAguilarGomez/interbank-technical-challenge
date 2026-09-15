@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Hanshaw"
+  city="Mecca"
+  country="Anguilla"
+  firstname2="Patricia"
+  lastname2="Duwalt"
+  email="Patricia.Duwalt@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>82.397</random_float>
+  <bool>false</bool>
+  <date>1996-08-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Melisent</elt><elt>Ricky</elt><elt>Ninnetta</elt><elt>Marita</elt><elt>Marinna</elt>  
+  <Patricia>
+    <age>28</age>
+  </Patricia>
+</root>

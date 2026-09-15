@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Alfons"
+  city="Naples"
+  country="Benin"
+  firstname2="Merci"
+  lastname2="Mendez"
+  email="Merci.Mendez@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>42.018</random_float>
+  <bool>true</bool>
+  <date>1990-04-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wendi</elt><elt>Miquela</elt><elt>Bee</elt><elt>Cacilie</elt><elt>Rhoda</elt>  
+  <Merci>
+    <age>73</age>
+  </Merci>
+</root>

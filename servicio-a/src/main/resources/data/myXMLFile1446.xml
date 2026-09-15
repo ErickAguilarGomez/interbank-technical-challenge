@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jillayne"
+  lastname="Rogerio"
+  city="Batticaloa"
+  country="Maldives"
+  firstname2="Marline"
+  lastname2="Parsaye"
+  email="Marline.Parsaye@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>24.046</random_float>
+  <bool>false</bool>
+  <date>1993-07-19</date>
+  <regEx>hellooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tybie</elt><elt>Minne</elt><elt>Raina</elt><elt>Susan</elt><elt>Willetta</elt>  
+  <Marline>
+    <age>18</age>
+  </Marline>
+</root>

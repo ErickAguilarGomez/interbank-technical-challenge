@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dale"
+  lastname="Sundin"
+  city="Ndola"
+  country="Montserrat"
+  firstname2="Edith"
+  lastname2="Kamaria"
+  email="Edith.Kamaria@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>94.16</random_float>
+  <bool>false</bool>
+  <date>1984-06-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nanete</elt><elt>Roxane</elt><elt>Emelina</elt><elt>Cristabel</elt><elt>Eve</elt>  
+  <Edith>
+    <age>64</age>
+  </Edith>
+</root>

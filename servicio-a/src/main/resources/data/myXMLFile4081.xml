@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shell"
+  lastname="Velick"
+  city="Chaguanas"
+  country="Iran, Islamic Republic Of"
+  firstname2="Frank"
+  lastname2="Hoban"
+  email="Frank.Hoban@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>82.619</random_float>
+  <bool>false</bool>
+  <date>1981-01-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jennica</elt><elt>Lyssa</elt><elt>Dorothy</elt><elt>Lizzie</elt><elt>Benita</elt>  
+  <Frank>
+    <age>51</age>
+  </Frank>
+</root>

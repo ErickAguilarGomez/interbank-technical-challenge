@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sibella"
+  lastname="Dudley"
+  city="Dhaka"
+  country="Armenia"
+  firstname2="Nikki"
+  lastname2="Macey"
+  email="Nikki.Macey@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>65.928</random_float>
+  <bool>true</bool>
+  <date>1985-03-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Glenda</elt><elt>Almeta</elt><elt>Pamella</elt><elt>Kristan</elt><elt>Julieta</elt>  
+  <Nikki>
+    <age>92</age>
+  </Nikki>
+</root>

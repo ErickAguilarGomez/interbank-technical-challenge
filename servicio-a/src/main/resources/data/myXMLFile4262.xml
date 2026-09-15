@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Michella"
+  city="Dalian"
+  country="French Polynesia"
+  firstname2="Laure"
+  lastname2="Ralfston"
+  email="Laure.Ralfston@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>82.976</random_float>
+  <bool>false</bool>
+  <date>1999-10-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Leeanne</elt><elt>Beverley</elt><elt>Agathe</elt><elt>Pearline</elt><elt>Vonny</elt>  
+  <Laure>
+    <age>55</age>
+  </Laure>
+</root>

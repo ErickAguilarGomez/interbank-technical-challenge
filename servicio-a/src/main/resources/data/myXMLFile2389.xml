@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beth"
+  lastname="Mata"
+  city="Sri Jayawardenapura-Kotte"
+  country="Aruba"
+  firstname2="Nannie"
+  lastname2="Eben"
+  email="Nannie.Eben@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>91.017</random_float>
+  <bool>false</bool>
+  <date>1998-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Evita</elt><elt>Regina</elt><elt>Yvonne</elt><elt>Lindie</elt><elt>Marinna</elt>  
+  <Nannie>
+    <age>34</age>
+  </Nannie>
+</root>

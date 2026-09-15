@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassondra"
+  lastname="Rosemary"
+  city="Bratsk"
+  country="Uganda"
+  firstname2="Verla"
+  lastname2="Wind"
+  email="Verla.Wind@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>89.014</random_float>
+  <bool>false</bool>
+  <date>1984-11-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rhoda</elt><elt>Karly</elt><elt>June</elt><elt>Janey</elt><elt>Lelah</elt>  
+  <Verla>
+    <age>34</age>
+  </Verla>
+</root>

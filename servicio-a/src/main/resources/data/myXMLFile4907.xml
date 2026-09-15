@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jsandye"
+  lastname="Berne"
+  city="Bogotá"
+  country="AndorrA"
+  firstname2="Melodie"
+  lastname2="Daveta"
+  email="Melodie.Daveta@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>59.823</random_float>
+  <bool>false</bool>
+  <date>1980-08-19</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rhea</elt><elt>Farrah</elt><elt>Aili</elt><elt>Deirdre</elt><elt>Nadine</elt>  
+  <Melodie>
+    <age>56</age>
+  </Melodie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alia"
+  lastname="Teddman"
+  city="Francistown"
+  country="Lebanon"
+  firstname2="Dacia"
+  lastname2="Armanda"
+  email="Dacia.Armanda@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>20.584</random_float>
+  <bool>false</bool>
+  <date>1980-02-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rebeca</elt><elt>Merle</elt><elt>Mariann</elt><elt>Maisey</elt><elt>Nikki</elt>  
+  <Dacia>
+    <age>31</age>
+  </Dacia>
+</root>

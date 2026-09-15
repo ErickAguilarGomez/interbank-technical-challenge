@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ottilie"
+  lastname="Vittoria"
+  city="George Town"
+  country="Bhutan"
+  firstname2="Marcy"
+  lastname2="Japeth"
+  email="Marcy.Japeth@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>59.726</random_float>
+  <bool>true</bool>
+  <date>1993-01-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Valera</elt><elt>Angelique</elt><elt>Anallese</elt><elt>Molli</elt><elt>Anthia</elt>  
+  <Marcy>
+    <age>21</age>
+  </Marcy>
+</root>

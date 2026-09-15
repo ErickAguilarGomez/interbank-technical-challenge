@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kamilah"
+  lastname="Cleavland"
+  city="Basra"
+  country="Bulgaria"
+  firstname2="Shell"
+  lastname2="Egbert"
+  email="Shell.Egbert@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>90.348</random_float>
+  <bool>true</bool>
+  <date>1995-06-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Vevay</elt><elt>Carree</elt><elt>Fanny</elt><elt>Nikki</elt><elt>Merci</elt>  
+  <Shell>
+    <age>36</age>
+  </Shell>
+</root>

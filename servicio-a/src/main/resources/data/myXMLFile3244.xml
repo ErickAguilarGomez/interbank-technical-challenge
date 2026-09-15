@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Shelba"
+  city="Durango"
+  country="French Guiana"
+  firstname2="Max"
+  lastname2="Stoller"
+  email="Max.Stoller@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>43.458</random_float>
+  <bool>false</bool>
+  <date>1993-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Vita</elt><elt>Trixi</elt><elt>Daryl</elt><elt>Andeee</elt><elt>Ottilie</elt>  
+  <Max>
+    <age>45</age>
+  </Max>
+</root>

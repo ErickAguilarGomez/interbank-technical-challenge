@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Grier"
+  lastname="Pitt"
+  city="Incheon"
+  country="Congo"
+  firstname2="Daryl"
+  lastname2="Hepsibah"
+  email="Daryl.Hepsibah@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>71.348</random_float>
+  <bool>false</bool>
+  <date>1988-08-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ardeen</elt><elt>Jeanna</elt><elt>Yetty</elt><elt>Melina</elt><elt>Genevra</elt>  
+  <Daryl>
+    <age>21</age>
+  </Daryl>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cindelyn"
+  lastname="Sabella"
+  city="Montevideo"
+  country="Burkina Faso"
+  firstname2="Marita"
+  lastname2="Wyn"
+  email="Marita.Wyn@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>44.272</random_float>
+  <bool>true</bool>
+  <date>1990-03-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jsandye</elt><elt>Atlanta</elt><elt>Jinny</elt><elt>Elora</elt><elt>Marsiella</elt>  
+  <Marita>
+    <age>22</age>
+  </Marita>
+</root>

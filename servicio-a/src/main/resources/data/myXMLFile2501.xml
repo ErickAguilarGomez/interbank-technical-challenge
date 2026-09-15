@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kenna"
+  lastname="Tengdin"
+  city="Dublin"
+  country="Saint Pierre and Miquelon"
+  firstname2="Wynne"
+  lastname2="Toor"
+  email="Wynne.Toor@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>36.379</random_float>
+  <bool>true</bool>
+  <date>1991-05-28</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lanna</elt><elt>Hayley</elt><elt>Kimberley</elt><elt>Candi</elt><elt>Arabel</elt>  
+  <Wynne>
+    <age>38</age>
+  </Wynne>
+</root>

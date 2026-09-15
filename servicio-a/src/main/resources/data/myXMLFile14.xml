@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Regina"
+  lastname="Madox"
+  city="Reykjavík"
+  country="Croatia"
+  firstname2="Xylina"
+  lastname2="Cottle"
+  email="Xylina.Cottle@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>19.796</random_float>
+  <bool>false</bool>
+  <date>1984-11-29</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Adore</elt><elt>Mariann</elt><elt>Kellen</elt><elt>Fidelia</elt><elt>Hope</elt>  
+  <Xylina>
+    <age>62</age>
+  </Xylina>
+</root>

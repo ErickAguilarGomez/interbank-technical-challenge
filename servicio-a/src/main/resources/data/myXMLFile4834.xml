@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selma"
+  lastname="Mullane"
+  city="Linz"
+  country="Cote D"Ivoire"
+  firstname2="Gabriellia"
+  lastname2="Levey"
+  email="Gabriellia.Levey@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>14.107</random_float>
+  <bool>true</bool>
+  <date>1981-02-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Winny</elt><elt>Chere</elt><elt>Sue</elt><elt>Fanchon</elt><elt>Sallie</elt>  
+  <Gabriellia>
+    <age>77</age>
+  </Gabriellia>
+</root>

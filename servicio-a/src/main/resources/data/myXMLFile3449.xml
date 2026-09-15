@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Buffum"
+  city="Gaborone"
+  country="Hong Kong"
+  firstname2="Tarra"
+  lastname2="Dawkins"
+  email="Tarra.Dawkins@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>83.023</random_float>
+  <bool>true</bool>
+  <date>1991-12-15</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Silvana</elt><elt>Thalia</elt><elt>Letizia</elt><elt>Alyssa</elt><elt>Vanessa</elt>  
+  <Tarra>
+    <age>52</age>
+  </Tarra>
+</root>

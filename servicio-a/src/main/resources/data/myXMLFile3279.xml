@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anthia"
+  lastname="Lareena"
+  city="City of San Marino"
+  country="Belize"
+  firstname2="Taffy"
+  lastname2="Ehrman"
+  email="Taffy.Ehrman@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>97.691</random_float>
+  <bool>false</bool>
+  <date>1985-07-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Amara</elt><elt>Tierney</elt><elt>Shell</elt><elt>Kara-Lynn</elt><elt>Corene</elt>  
+  <Taffy>
+    <age>58</age>
+  </Taffy>
+</root>

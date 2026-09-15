@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Berriman"
+  city="Toulouse"
+  country="Mexico"
+  firstname2="Lolita"
+  lastname2="Rurik"
+  email="Lolita.Rurik@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>64.915</random_float>
+  <bool>true</bool>
+  <date>1994-05-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kelly</elt><elt>Dolli</elt><elt>Starla</elt><elt>Kamilah</elt><elt>Janenna</elt>  
+  <Lolita>
+    <age>78</age>
+  </Lolita>
+</root>

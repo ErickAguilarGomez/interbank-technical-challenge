@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Molli"
+  lastname="Stevy"
+  city="Düsseldorf"
+  country="Nigeria"
+  firstname2="Tamqrah"
+  lastname2="Moina"
+  email="Tamqrah.Moina@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>66.61</random_float>
+  <bool>true</bool>
+  <date>1993-12-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Danika</elt><elt>Elmira</elt><elt>Caritta</elt><elt>Mariele</elt><elt>Micheline</elt>  
+  <Tamqrah>
+    <age>81</age>
+  </Tamqrah>
+</root>

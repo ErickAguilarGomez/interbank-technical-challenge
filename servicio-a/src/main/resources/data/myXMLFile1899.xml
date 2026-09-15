@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Cordi"
+  city="Yaren District"
+  country="Iran, Islamic Republic Of"
+  firstname2="Dorthy"
+  lastname2="Sawtelle"
+  email="Dorthy.Sawtelle@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>67.674</random_float>
+  <bool>false</bool>
+  <date>1993-09-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alyda</elt><elt>Marjie</elt><elt>Ursulina</elt><elt>Alyda</elt><elt>Deloria</elt>  
+  <Dorthy>
+    <age>82</age>
+  </Dorthy>
+</root>

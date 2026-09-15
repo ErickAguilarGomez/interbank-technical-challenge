@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimmy"
+  lastname="Chandler"
+  city="Valdivia"
+  country="Comoros"
+  firstname2="Heida"
+  lastname2="McGrody"
+  email="Heida.McGrody@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>26.988</random_float>
+  <bool>true</bool>
+  <date>1988-03-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Maud</elt><elt>Bobinette</elt><elt>Clary</elt><elt>Starla</elt><elt>Gui</elt>  
+  <Heida>
+    <age>85</age>
+  </Heida>
+</root>

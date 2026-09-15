@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aubrie"
+  lastname="Noman"
+  city="Zapopan"
+  country="Maldives"
+  firstname2="Brena"
+  lastname2="Haerr"
+  email="Brena.Haerr@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>8.598</random_float>
+  <bool>true</bool>
+  <date>1985-02-19</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Anica</elt><elt>Dagmar</elt><elt>Chere</elt><elt>Dulcinea</elt><elt>Chere</elt>  
+  <Brena>
+    <age>92</age>
+  </Brena>
+</root>

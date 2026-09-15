@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merrie"
+  lastname="Gherardo"
+  city="Abuja"
+  country="Brazil"
+  firstname2="Ada"
+  lastname2="Rogerio"
+  email="Ada.Rogerio@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>67.251</random_float>
+  <bool>true</bool>
+  <date>1992-12-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Beverley</elt><elt>Bobbi</elt><elt>Mathilda</elt><elt>Carilyn</elt><elt>Neila</elt>  
+  <Ada>
+    <age>100</age>
+  </Ada>
+</root>

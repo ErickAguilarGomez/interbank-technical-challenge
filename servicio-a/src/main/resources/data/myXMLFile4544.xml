@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Marsden"
+  city="Yellowknife"
+  country="Algeria"
+  firstname2="Raina"
+  lastname2="August"
+  email="Raina.August@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>24.588</random_float>
+  <bool>true</bool>
+  <date>1987-05-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cathie</elt><elt>Mara</elt><elt>Susette</elt><elt>Jillayne</elt><elt>Jemie</elt>  
+  <Raina>
+    <age>24</age>
+  </Raina>
+</root>

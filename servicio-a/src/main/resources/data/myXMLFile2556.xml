@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Dearborn"
+  city="Durango"
+  country="Turkey"
+  firstname2="Ariela"
+  lastname2="Sherfield"
+  email="Ariela.Sherfield@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>71.192</random_float>
+  <bool>false</bool>
+  <date>1989-10-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ardenia</elt><elt>Mariele</elt><elt>Sharai</elt><elt>Vivia</elt><elt>Raina</elt>  
+  <Ariela>
+    <age>56</age>
+  </Ariela>
+</root>

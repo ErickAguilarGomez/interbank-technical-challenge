@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anica"
+  lastname="Vale"
+  city="Canberra"
+  country="Malaysia"
+  firstname2="Lilith"
+  lastname2="Cynar"
+  email="Lilith.Cynar@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>57.192</random_float>
+  <bool>false</bool>
+  <date>1997-03-09</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Wilma</elt><elt>Paola</elt><elt>Maridel</elt><elt>Ingrid</elt><elt>Meghann</elt>  
+  <Lilith>
+    <age>92</age>
+  </Lilith>
+</root>

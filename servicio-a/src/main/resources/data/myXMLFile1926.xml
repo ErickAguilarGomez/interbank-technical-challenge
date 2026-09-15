@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Dex"
+  city="Santiago de Cuba"
+  country="Aruba"
+  firstname2="Livvyy"
+  lastname2="Ezar"
+  email="Livvyy.Ezar@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>67.958</random_float>
+  <bool>true</bool>
+  <date>1993-04-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jacenta</elt><elt>Bobinette</elt><elt>Ardeen</elt><elt>Althea</elt><elt>Flory</elt>  
+  <Livvyy>
+    <age>67</age>
+  </Livvyy>
+</root>

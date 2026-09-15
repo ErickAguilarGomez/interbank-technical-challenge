@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Libbie"
+  lastname="Gerge"
+  city="Bilbao"
+  country="Grenada"
+  firstname2="Libbie"
+  lastname2="Wind"
+  email="Libbie.Wind@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>74.865</random_float>
+  <bool>true</bool>
+  <date>1996-10-17</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Neila</elt><elt>Agnese</elt><elt>Shirlee</elt><elt>Leeanne</elt><elt>Asia</elt>  
+  <Libbie>
+    <age>84</age>
+  </Libbie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mellicent"
+  lastname="Malina"
+  city="Nukuʻalofa"
+  country="Maldives"
+  firstname2="Flory"
+  lastname2="Barney"
+  email="Flory.Barney@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>60.464</random_float>
+  <bool>false</bool>
+  <date>1988-06-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gisela</elt><elt>Oralee</elt><elt>Florie</elt><elt>Nickie</elt><elt>Bee</elt>  
+  <Flory>
+    <age>41</age>
+  </Flory>
+</root>

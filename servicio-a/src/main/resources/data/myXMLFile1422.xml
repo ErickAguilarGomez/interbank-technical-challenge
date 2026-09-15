@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bee"
+  lastname="Audly"
+  city="Espoo"
+  country="Cameroon"
+  firstname2="Fidelia"
+  lastname2="Helfand"
+  email="Fidelia.Helfand@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>6.414</random_float>
+  <bool>true</bool>
+  <date>1994-12-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kenna</elt><elt>Candy</elt><elt>Marylou</elt><elt>Rhoda</elt><elt>Ermengarde</elt>  
+  <Fidelia>
+    <age>35</age>
+  </Fidelia>
+</root>

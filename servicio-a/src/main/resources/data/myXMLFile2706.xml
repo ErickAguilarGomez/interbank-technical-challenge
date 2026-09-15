@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Romona"
+  lastname="Odysseus"
+  city="Hangzhou"
+  country="Cameroon"
+  firstname2="Emelina"
+  lastname2="Chabot"
+  email="Emelina.Chabot@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>38.329</random_float>
+  <bool>true</bool>
+  <date>1997-03-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jaclyn</elt><elt>Donnie</elt><elt>Pamella</elt><elt>Jessamyn</elt><elt>Beth</elt>  
+  <Emelina>
+    <age>30</age>
+  </Emelina>
+</root>

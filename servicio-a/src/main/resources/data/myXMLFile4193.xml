@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Regina"
+  lastname="Imelida"
+  city="Hyderabad"
+  country="Turkmenistan"
+  firstname2="Cordi"
+  lastname2="Montgomery"
+  email="Cordi.Montgomery@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>75.842</random_float>
+  <bool>true</bool>
+  <date>1989-10-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Joane</elt><elt>Tamqrah</elt><elt>Maryellen</elt><elt>Lyssa</elt><elt>Taffy</elt>  
+  <Cordi>
+    <age>27</age>
+  </Cordi>
+</root>

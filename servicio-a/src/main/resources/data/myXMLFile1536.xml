@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Amara"
+  lastname="Baudin"
+  city="Paramaribo"
+  country="Liberia"
+  firstname2="Chere"
+  lastname2="Delacourt"
+  email="Chere.Delacourt@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>100.109</random_float>
+  <bool>false</bool>
+  <date>1987-08-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cacilie</elt><elt>Trudie</elt><elt>Ada</elt><elt>Jenda</elt><elt>Kore</elt>  
+  <Chere>
+    <age>56</age>
+  </Chere>
+</root>

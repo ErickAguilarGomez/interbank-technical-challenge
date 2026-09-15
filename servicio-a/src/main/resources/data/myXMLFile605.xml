@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tressa"
+  lastname="Craggie"
+  city="Durban"
+  country="United States"
+  firstname2="Arabel"
+  lastname2="Quent"
+  email="Arabel.Quent@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>15.716</random_float>
+  <bool>false</bool>
+  <date>1999-09-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ezmeralda</elt><elt>Pollyanna</elt><elt>Florencia</elt><elt>Winifred</elt><elt>Karina</elt>  
+  <Arabel>
+    <age>99</age>
+  </Arabel>
+</root>

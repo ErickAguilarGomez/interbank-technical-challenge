@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Halla"
+  city="Multan"
+  country="Malawi"
+  firstname2="Nelle"
+  lastname2="Gaspard"
+  email="Nelle.Gaspard@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>70.724</random_float>
+  <bool>false</bool>
+  <date>1980-07-10</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marti</elt><elt>Janis</elt><elt>Jenda</elt><elt>Minne</elt><elt>Tani</elt>  
+  <Nelle>
+    <age>44</age>
+  </Nelle>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sybille"
+  lastname="Behre"
+  city="Kabul"
+  country="Austria"
+  firstname2="Tilly"
+  lastname2="Kazimir"
+  email="Tilly.Kazimir@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>43.141</random_float>
+  <bool>false</bool>
+  <date>1990-08-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Annabela</elt><elt>Hope</elt><elt>Caressa</elt><elt>Margarette</elt><elt>Lisette</elt>  
+  <Tilly>
+    <age>63</age>
+  </Tilly>
+</root>

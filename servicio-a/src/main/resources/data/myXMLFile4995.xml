@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shandie"
+  lastname="Wind"
+  city="Valletta"
+  country="Mauritius"
+  firstname2="Belinda"
+  lastname2="Loeb"
+  email="Belinda.Loeb@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>85.851</random_float>
+  <bool>false</bool>
+  <date>1989-09-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marjie</elt><elt>Maryellen</elt><elt>Sherrie</elt><elt>Chloris</elt><elt>Chastity</elt>  
+  <Belinda>
+    <age>45</age>
+  </Belinda>
+</root>

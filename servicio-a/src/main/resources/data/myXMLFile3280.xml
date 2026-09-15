@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annaliese"
+  lastname="Carolin"
+  city="Namangan"
+  country="Christmas Island"
+  firstname2="Ida"
+  lastname2="Pacorro"
+  email="Ida.Pacorro@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>69.883</random_float>
+  <bool>false</bool>
+  <date>1990-08-10</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dode</elt><elt>Willetta</elt><elt>Dede</elt><elt>Clary</elt><elt>Almeta</elt>  
+  <Ida>
+    <age>98</age>
+  </Ida>
+</root>

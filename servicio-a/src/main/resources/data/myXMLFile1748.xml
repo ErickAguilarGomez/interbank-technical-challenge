@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gianina"
+  lastname="Levey"
+  city="Dresden"
+  country="Albania"
+  firstname2="Queenie"
+  lastname2="Kinnard"
+  email="Queenie.Kinnard@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>93.995</random_float>
+  <bool>true</bool>
+  <date>1985-05-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jenda</elt><elt>Hallie</elt><elt>Winny</elt><elt>Sadie</elt><elt>Doro</elt>  
+  <Queenie>
+    <age>91</age>
+  </Queenie>
+</root>

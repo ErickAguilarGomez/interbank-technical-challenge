@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belinda"
+  lastname="Anyah"
+  city="Hiroshima"
+  country="El Salvador"
+  firstname2="Mariann"
+  lastname2="Rozanna"
+  email="Mariann.Rozanna@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>69.143</random_float>
+  <bool>true</bool>
+  <date>1995-01-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Agathe</elt><elt>Mureil</elt><elt>Maryellen</elt><elt>Karlee</elt><elt>Sheelagh</elt>  
+  <Mariann>
+    <age>47</age>
+  </Mariann>
+</root>

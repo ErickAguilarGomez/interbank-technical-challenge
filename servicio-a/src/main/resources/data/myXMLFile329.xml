@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaylyn"
+  lastname="Luhe"
+  city="Townsville"
+  country="Benin"
+  firstname2="Marika"
+  lastname2="Mitzi"
+  email="Marika.Mitzi@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>35.186</random_float>
+  <bool>false</bool>
+  <date>1983-06-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sadie</elt><elt>Ira</elt><elt>Berta</elt><elt>Jennica</elt><elt>Karlee</elt>  
+  <Marika>
+    <age>93</age>
+  </Marika>
+</root>

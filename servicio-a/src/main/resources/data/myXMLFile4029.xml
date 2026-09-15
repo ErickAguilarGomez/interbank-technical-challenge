@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariann"
+  lastname="Amasa"
+  city="Shigatse"
+  country="Jamaica"
+  firstname2="Elyssa"
+  lastname2="Kamaria"
+  email="Elyssa.Kamaria@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>75.207</random_float>
+  <bool>false</bool>
+  <date>1985-12-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lila</elt><elt>Gisela</elt><elt>Iseabal</elt><elt>Lynde</elt><elt>Kenna</elt>  
+  <Elyssa>
+    <age>46</age>
+  </Elyssa>
+</root>

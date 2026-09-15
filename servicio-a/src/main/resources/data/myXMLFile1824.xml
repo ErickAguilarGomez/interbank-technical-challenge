@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Thad"
+  city="Rabi Island"
+  country="Kenya"
+  firstname2="Lita"
+  lastname2="Shields"
+  email="Lita.Shields@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>65.111</random_float>
+  <bool>true</bool>
+  <date>1985-05-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aubrie</elt><elt>Roxane</elt><elt>Dulce</elt><elt>Fina</elt><elt>Caritta</elt>  
+  <Lita>
+    <age>83</age>
+  </Lita>
+</root>

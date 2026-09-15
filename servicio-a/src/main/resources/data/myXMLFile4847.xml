@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roseline"
+  lastname="Pernick"
+  city="Murmansk"
+  country="United Arab Emirates"
+  firstname2="Genovera"
+  lastname2="Tjon"
+  email="Genovera.Tjon@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>90.406</random_float>
+  <bool>true</bool>
+  <date>1994-08-17</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lauryn</elt><elt>Shannah</elt><elt>Tracey</elt><elt>Tobe</elt><elt>Dianemarie</elt>  
+  <Genovera>
+    <age>57</age>
+  </Genovera>
+</root>

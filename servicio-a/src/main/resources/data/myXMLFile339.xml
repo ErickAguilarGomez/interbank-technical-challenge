@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Boehike"
+  city="Oslo"
+  country="Norway"
+  firstname2="Damaris"
+  lastname2="Alejoa"
+  email="Damaris.Alejoa@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>93.31</random_float>
+  <bool>false</bool>
+  <date>1994-09-22</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Chere</elt><elt>Farrah</elt><elt>Joelly</elt><elt>Katharina</elt><elt>Marline</elt>  
+  <Damaris>
+    <age>20</age>
+  </Damaris>
+</root>

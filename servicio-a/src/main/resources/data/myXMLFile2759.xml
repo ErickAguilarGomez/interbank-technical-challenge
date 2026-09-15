@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmencita"
+  lastname="Kermit"
+  city="Christchurch"
+  country="Zimbabwe"
+  firstname2="Edee"
+  lastname2="Elsinore"
+  email="Edee.Elsinore@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>18.815</random_float>
+  <bool>true</bool>
+  <date>1994-07-25</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Micheline</elt><elt>Candy</elt><elt>Sam</elt><elt>Elbertina</elt><elt>Christal</elt>  
+  <Edee>
+    <age>48</age>
+  </Edee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Jehu"
+  city="Mersin"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Ermengarde"
+  lastname2="Rosalba"
+  email="Ermengarde.Rosalba@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>46.861</random_float>
+  <bool>false</bool>
+  <date>1996-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Amii</elt><elt>Mellicent</elt><elt>Kittie</elt><elt>Brooks</elt><elt>Helena</elt>  
+  <Ermengarde>
+    <age>94</age>
+  </Ermengarde>
+</root>

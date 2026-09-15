@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sabina"
+  lastname="Lasley"
+  city="Porto"
+  country="Costa Rica"
+  firstname2="Alyda"
+  lastname2="Earlie"
+  email="Alyda.Earlie@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>43.193</random_float>
+  <bool>true</bool>
+  <date>1999-12-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Fanny</elt><elt>Mallory</elt><elt>Aimil</elt><elt>Joy</elt><elt>Nariko</elt>  
+  <Alyda>
+    <age>97</age>
+  </Alyda>
+</root>

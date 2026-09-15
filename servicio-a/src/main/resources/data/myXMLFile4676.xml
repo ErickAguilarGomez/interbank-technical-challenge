@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kate"
+  lastname="Ellerey"
+  city="Gothenburg"
+  country="Mayotte"
+  firstname2="Benita"
+  lastname2="Etom"
+  email="Benita.Etom@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>35.563</random_float>
+  <bool>false</bool>
+  <date>1993-02-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Frieda</elt><elt>Diena</elt><elt>Damaris</elt><elt>Orelia</elt><elt>Chandra</elt>  
+  <Benita>
+    <age>26</age>
+  </Benita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lexine"
+  lastname="Toor"
+  city="Columbus"
+  country="Brunei Darussalam"
+  firstname2="Dolli"
+  lastname2="Drisko"
+  email="Dolli.Drisko@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>60.827</random_float>
+  <bool>false</bool>
+  <date>1987-07-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sheree</elt><elt>Donnie</elt><elt>Shaine</elt><elt>Taffy</elt><elt>Carilyn</elt>  
+  <Dolli>
+    <age>95</age>
+  </Dolli>
+</root>

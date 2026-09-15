@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Natka"
+  lastname="Jagir"
+  city="Kandahar"
+  country="Trinidad and Tobago"
+  firstname2="Bernie"
+  lastname2="Erlandson"
+  email="Bernie.Erlandson@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>57.853</random_float>
+  <bool>true</bool>
+  <date>1994-11-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Demetris</elt><elt>Teddie</elt><elt>Jaclyn</elt><elt>Lorie</elt><elt>Kate</elt>  
+  <Bernie>
+    <age>78</age>
+  </Bernie>
+</root>

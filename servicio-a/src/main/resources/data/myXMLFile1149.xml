@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Cimbura"
+  city="Lilongwe"
+  country="Turkmenistan"
+  firstname2="Rosene"
+  lastname2="Jotham"
+  email="Rosene.Jotham@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>80.493</random_float>
+  <bool>false</bool>
+  <date>1998-10-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Stephanie</elt><elt>Madalyn</elt><elt>Atlanta</elt><elt>Luci</elt><elt>Elka</elt>  
+  <Rosene>
+    <age>37</age>
+  </Rosene>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selia"
+  lastname="Martguerita"
+  city="Cape Town"
+  country="Dominican Republic"
+  firstname2="Bobinette"
+  lastname2="Toor"
+  email="Bobinette.Toor@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>44.218</random_float>
+  <bool>false</bool>
+  <date>1989-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Viviene</elt><elt>Amelia</elt><elt>Lizzie</elt><elt>Giustina</elt><elt>Aaren</elt>  
+  <Bobinette>
+    <age>23</age>
+  </Bobinette>
+</root>

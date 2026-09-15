@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Consuela"
+  lastname="Gino"
+  city="Gaborone"
+  country="Thailand"
+  firstname2="Darci"
+  lastname2="Modie"
+  email="Darci.Modie@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>73.321</random_float>
+  <bool>false</bool>
+  <date>1998-11-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Beatriz</elt><elt>Roz</elt><elt>Vevay</elt><elt>Aeriela</elt><elt>Glynnis</elt>  
+  <Darci>
+    <age>99</age>
+  </Darci>
+</root>

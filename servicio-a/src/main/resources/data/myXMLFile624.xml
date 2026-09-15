@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kara-Lynn"
+  lastname="Burkle"
+  city="Darwin"
+  country="Dominican Republic"
+  firstname2="Gui"
+  lastname2="Jethro"
+  email="Gui.Jethro@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>88.722</random_float>
+  <bool>false</bool>
+  <date>1987-03-02</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dulce</elt><elt>Leanna</elt><elt>Orsola</elt><elt>Max</elt><elt>Kaia</elt>  
+  <Gui>
+    <age>38</age>
+  </Gui>
+</root>

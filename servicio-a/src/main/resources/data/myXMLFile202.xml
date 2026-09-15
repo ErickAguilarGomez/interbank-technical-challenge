@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Velick"
+  city="Mecca"
+  country="Bosnia and Herzegovina"
+  firstname2="Alyda"
+  lastname2="Uund"
+  email="Alyda.Uund@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>3.382</random_float>
+  <bool>true</bool>
+  <date>1988-11-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lorenza</elt><elt>Kore</elt><elt>Kimmy</elt><elt>Ardys</elt><elt>Brietta</elt>  
+  <Alyda>
+    <age>88</age>
+  </Alyda>
+</root>

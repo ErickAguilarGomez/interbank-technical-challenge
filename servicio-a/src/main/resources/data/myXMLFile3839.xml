@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Johna"
+  lastname="Chrystel"
+  city="Ho Chi Minh City"
+  country="Haiti"
+  firstname2="Claresta"
+  lastname2="Etom"
+  email="Claresta.Etom@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>68.01</random_float>
+  <bool>false</bool>
+  <date>1995-08-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lesly</elt><elt>Devina</elt><elt>Brianna</elt><elt>Kial</elt><elt>Orelia</elt>  
+  <Claresta>
+    <age>34</age>
+  </Claresta>
+</root>

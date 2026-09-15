@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Reidar"
+  city="Skopje"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Meriel"
+  lastname2="Lamoree"
+  email="Meriel.Lamoree@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>9.47</random_float>
+  <bool>true</bool>
+  <date>1996-01-28</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kenna</elt><elt>Jacquetta</elt><elt>Danika</elt><elt>Cyndie</elt><elt>Roberta</elt>  
+  <Meriel>
+    <age>59</age>
+  </Meriel>
+</root>

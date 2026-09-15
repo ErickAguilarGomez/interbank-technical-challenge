@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britte"
+  lastname="O'Neill"
+  city="Kanpur"
+  country="Western Sahara"
+  firstname2="Lanae"
+  lastname2="Schenck"
+  email="Lanae.Schenck@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>65.606</random_float>
+  <bool>true</bool>
+  <date>1982-11-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marcy</elt><elt>Michaelina</elt><elt>Livvyy</elt><elt>Michaelina</elt><elt>Daryl</elt>  
+  <Lanae>
+    <age>51</age>
+  </Lanae>
+</root>

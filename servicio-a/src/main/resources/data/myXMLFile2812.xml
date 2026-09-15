@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="Liebermann"
+  city="Basra"
+  country="Netherlands"
+  firstname2="Jacquetta"
+  lastname2="Nerita"
+  email="Jacquetta.Nerita@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>29.735</random_float>
+  <bool>false</bool>
+  <date>1997-05-11</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Maurene</elt><elt>Mahalia</elt><elt>Tarra</elt><elt>Catharine</elt><elt>Mignon</elt>  
+  <Jacquetta>
+    <age>32</age>
+  </Jacquetta>
+</root>

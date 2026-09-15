@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carlie"
+  lastname="Papageno"
+  city="Concepción"
+  country="Algeria"
+  firstname2="Imojean"
+  lastname2="Duwalt"
+  email="Imojean.Duwalt@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>18.067</random_float>
+  <bool>true</bool>
+  <date>1999-05-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Libbie</elt><elt>Patricia</elt><elt>Anthia</elt><elt>Verla</elt><elt>Mady</elt>  
+  <Imojean>
+    <age>47</age>
+  </Imojean>
+</root>

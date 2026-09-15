@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Baylor"
+  city="Minneapolis"
+  country="Martinique"
+  firstname2="Sashenka"
+  lastname2="Killigrew"
+  email="Sashenka.Killigrew@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>92.066</random_float>
+  <bool>false</bool>
+  <date>1983-02-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dania</elt><elt>Maridel</elt><elt>Queenie</elt><elt>Arlena</elt><elt>Winny</elt>  
+  <Sashenka>
+    <age>82</age>
+  </Sashenka>
+</root>

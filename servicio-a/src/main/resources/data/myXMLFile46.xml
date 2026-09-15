@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Lewes"
+  city="Cayenne"
+  country="Botswana"
+  firstname2="Leia"
+  lastname2="Bergman"
+  email="Leia.Bergman@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>45.486</random_float>
+  <bool>false</bool>
+  <date>1992-03-28</date>
+  <regEx>helloo to you</regEx>
+  <enum>online</enum>
+  <elt>Ethel</elt><elt>Brynna</elt><elt>Philis</elt><elt>Tybie</elt><elt>Althea</elt>  
+  <Leia>
+    <age>62</age>
+  </Leia>
+</root>

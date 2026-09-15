@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbara"
+  lastname="Chrystel"
+  city="Ushuaia"
+  country="Philippines"
+  firstname2="Chandra"
+  lastname2="Donoghue"
+  email="Chandra.Donoghue@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>6.646</random_float>
+  <bool>false</bool>
+  <date>1989-01-28</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Myriam</elt><elt>Goldie</elt><elt>Inga</elt><elt>Maurene</elt><elt>Calla</elt>  
+  <Chandra>
+    <age>83</age>
+  </Chandra>
+</root>

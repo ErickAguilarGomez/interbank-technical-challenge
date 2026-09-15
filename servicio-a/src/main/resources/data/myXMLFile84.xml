@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elora"
+  lastname="Yoko"
+  city="Sydney"
+  country="Belgium"
+  firstname2="Lulita"
+  lastname2="Brunell"
+  email="Lulita.Brunell@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>89.703</random_float>
+  <bool>false</bool>
+  <date>1989-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Merrie</elt><elt>Kittie</elt><elt>Janenna</elt><elt>Yvonne</elt><elt>Jessamyn</elt>  
+  <Lulita>
+    <age>42</age>
+  </Lulita>
+</root>

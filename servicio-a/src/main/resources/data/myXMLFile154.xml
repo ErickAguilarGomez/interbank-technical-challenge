@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sarette"
+  lastname="Marden"
+  city="Canberra"
+  country="Tunisia"
+  firstname2="Andree"
+  lastname2="Sandye"
+  email="Andree.Sandye@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>39.884</random_float>
+  <bool>true</bool>
+  <date>1990-01-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elie</elt><elt>Arlina</elt><elt>Juliane</elt><elt>Teriann</elt><elt>Mathilda</elt>  
+  <Andree>
+    <age>89</age>
+  </Andree>
+</root>

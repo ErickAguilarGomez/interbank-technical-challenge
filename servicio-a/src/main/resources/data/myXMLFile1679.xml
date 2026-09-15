@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Viki"
+  lastname="Sigfrid"
+  city="Ipoh"
+  country="Liberia"
+  firstname2="Corry"
+  lastname2="Plato"
+  email="Corry.Plato@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>28.981</random_float>
+  <bool>true</bool>
+  <date>1985-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elsie</elt><elt>Bill</elt><elt>Leia</elt><elt>Nickie</elt><elt>Iseabal</elt>  
+  <Corry>
+    <age>81</age>
+  </Corry>
+</root>

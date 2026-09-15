@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agathe"
+  lastname="Radu"
+  city="Zapopan"
+  country="Bangladesh"
+  firstname2="Lacie"
+  lastname2="Katrine"
+  email="Lacie.Katrine@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>19.482</random_float>
+  <bool>false</bool>
+  <date>1982-05-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Annora</elt><elt>Raina</elt><elt>Marcelline</elt><elt>Ardenia</elt><elt>Tera</elt>  
+  <Lacie>
+    <age>93</age>
+  </Lacie>
+</root>

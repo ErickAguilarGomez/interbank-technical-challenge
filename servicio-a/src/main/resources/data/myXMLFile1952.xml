@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Grier"
+  lastname="Maisey"
+  city="Gaborone"
+  country="Egypt"
+  firstname2="Liana"
+  lastname2="Soneson"
+  email="Liana.Soneson@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>5.681</random_float>
+  <bool>true</bool>
+  <date>1996-02-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ericka</elt><elt>Libbie</elt><elt>Jobi</elt><elt>Nollie</elt><elt>Meg</elt>  
+  <Liana>
+    <age>90</age>
+  </Liana>
+</root>

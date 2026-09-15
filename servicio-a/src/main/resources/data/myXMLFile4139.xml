@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Lewes"
+  city="Chicago"
+  country="Tonga"
+  firstname2="Zia"
+  lastname2="Morehouse"
+  email="Zia.Morehouse@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>89.958</random_float>
+  <bool>true</bool>
+  <date>1991-02-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Letizia</elt><elt>Lesly</elt><elt>Cindelyn</elt><elt>Lynde</elt><elt>Desirae</elt>  
+  <Zia>
+    <age>75</age>
+  </Zia>
+</root>

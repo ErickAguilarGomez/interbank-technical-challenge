@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathi"
+  lastname="Hathaway"
+  city="Managua"
+  country="Madagascar"
+  firstname2="Wanda"
+  lastname2="Brenn"
+  email="Wanda.Brenn@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>37.071</random_float>
+  <bool>false</bool>
+  <date>1983-06-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Leontine</elt><elt>Chickie</elt><elt>Pearline</elt><elt>Lesly</elt><elt>Lanna</elt>  
+  <Wanda>
+    <age>40</age>
+  </Wanda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbi"
+  lastname="Joni"
+  city="Yogyakarta (city)"
+  country="Nepal"
+  firstname2="Codie"
+  lastname2="Vanni"
+  email="Codie.Vanni@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>95.129</random_float>
+  <bool>true</bool>
+  <date>1989-03-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Flo</elt><elt>Jolyn</elt><elt>Marika</elt><elt>Rozele</elt><elt>Daune</elt>  
+  <Codie>
+    <age>52</age>
+  </Codie>
+</root>

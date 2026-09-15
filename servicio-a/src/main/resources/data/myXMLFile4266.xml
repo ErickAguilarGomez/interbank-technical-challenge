@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Violet"
+  lastname="Artie"
+  city="Simferopol"
+  country="Cocos (Keeling) Islands"
+  firstname2="Paola"
+  lastname2="Haymes"
+  email="Paola.Haymes@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>24.238</random_float>
+  <bool>true</bool>
+  <date>1986-08-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Darci</elt><elt>Courtnay</elt><elt>Netty</elt><elt>Antonietta</elt><elt>Karina</elt>  
+  <Paola>
+    <age>29</age>
+  </Paola>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ileana"
+  lastname="Stoller"
+  city="Cayenne"
+  country="Saint Helena"
+  firstname2="Lanae"
+  lastname2="Serilda"
+  email="Lanae.Serilda@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>59.177</random_float>
+  <bool>true</bool>
+  <date>1998-07-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Oralee</elt><elt>Talya</elt><elt>Tilly</elt><elt>Margarette</elt><elt>Carly</elt>  
+  <Lanae>
+    <age>74</age>
+  </Lanae>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brietta"
+  lastname="Nester"
+  city="Koror"
+  country="Sao Tome and Principe"
+  firstname2="Carilyn"
+  lastname2="Waldron"
+  email="Carilyn.Waldron@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>7.143</random_float>
+  <bool>true</bool>
+  <date>1982-07-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lanna</elt><elt>Jean</elt><elt>Nanete</elt><elt>Cyndie</elt><elt>Marleah</elt>  
+  <Carilyn>
+    <age>21</age>
+  </Carilyn>
+</root>

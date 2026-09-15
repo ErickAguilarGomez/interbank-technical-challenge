@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ivett"
+  lastname="Natica"
+  city="Montreal"
+  country="Venezuela"
+  firstname2="Clary"
+  lastname2="Vittoria"
+  email="Clary.Vittoria@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>21.105</random_float>
+  <bool>false</bool>
+  <date>1982-04-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Deedee</elt><elt>Susan</elt><elt>Hope</elt><elt>Petronia</elt><elt>Belinda</elt>  
+  <Clary>
+    <age>70</age>
+  </Clary>
+</root>

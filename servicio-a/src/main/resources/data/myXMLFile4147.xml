@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nicoli"
+  lastname="Bultman"
+  city="Innsbruck"
+  country="Marshall Islands"
+  firstname2="Melina"
+  lastname2="Fillbert"
+  email="Melina.Fillbert@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>70.659</random_float>
+  <bool>false</bool>
+  <date>1986-05-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Basia</elt><elt>Harmonia</elt><elt>Xylina</elt><elt>Lauryn</elt><elt>Corly</elt>  
+  <Melina>
+    <age>92</age>
+  </Melina>
+</root>

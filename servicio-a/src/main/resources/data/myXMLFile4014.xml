@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brena"
+  lastname="Dorothy"
+  city="Hiroshima"
+  country="Suriname"
+  firstname2="Lanae"
+  lastname2="Ralfston"
+  email="Lanae.Ralfston@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>95.142</random_float>
+  <bool>true</bool>
+  <date>1993-02-14</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Charmaine</elt><elt>Gerianna</elt><elt>Olwen</elt><elt>Antonietta</elt><elt>Hannis</elt>  
+  <Lanae>
+    <age>46</age>
+  </Lanae>
+</root>

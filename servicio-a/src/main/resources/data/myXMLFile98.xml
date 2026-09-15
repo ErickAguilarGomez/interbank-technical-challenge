@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vinita"
+  lastname="Maurine"
+  city="Malabo"
+  country="American Samoa"
+  firstname2="Silvana"
+  lastname2="Haerr"
+  email="Silvana.Haerr@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>12.249</random_float>
+  <bool>true</bool>
+  <date>1988-11-24</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Suzette</elt><elt>Brandise</elt><elt>Fina</elt><elt>Annecorinne</elt><elt>Britte</elt>  
+  <Silvana>
+    <age>82</age>
+  </Silvana>
+</root>

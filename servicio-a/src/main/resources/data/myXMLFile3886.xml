@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zaria"
+  lastname="Camden"
+  city="Hilo"
+  country="New Zealand"
+  firstname2="Annora"
+  lastname2="Waldron"
+  email="Annora.Waldron@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>37.175</random_float>
+  <bool>true</bool>
+  <date>1981-09-27</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Micheline</elt><elt>Darci</elt><elt>Shandie</elt><elt>Elfreda</elt><elt>Kerrin</elt>  
+  <Annora>
+    <age>66</age>
+  </Annora>
+</root>

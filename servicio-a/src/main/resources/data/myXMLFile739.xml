@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shel"
+  lastname="Urania"
+  city="Birmingham"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Nerta"
+  lastname2="Bates"
+  email="Nerta.Bates@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>71.8</random_float>
+  <bool>false</bool>
+  <date>1996-02-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Eolanda</elt><elt>Ulrike</elt><elt>Gilligan</elt><elt>Maud</elt><elt>Chloris</elt>  
+  <Nerta>
+    <age>80</age>
+  </Nerta>
+</root>

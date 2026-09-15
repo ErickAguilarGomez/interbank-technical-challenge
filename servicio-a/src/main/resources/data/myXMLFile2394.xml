@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allis"
+  lastname="Lacombe"
+  city="Saint John"
+  country="Kiribati"
+  firstname2="Lynde"
+  lastname2="Hermes"
+  email="Lynde.Hermes@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>9.003</random_float>
+  <bool>false</bool>
+  <date>1988-04-22</date>
+  <regEx>hellooooo world</regEx>
+  <enum>online</enum>
+  <elt>Karena</elt><elt>Alisha</elt><elt>Fredericka</elt><elt>Ottilie</elt><elt>Rosaline</elt>  
+  <Lynde>
+    <age>68</age>
+  </Lynde>
+</root>

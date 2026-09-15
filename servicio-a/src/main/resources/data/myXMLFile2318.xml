@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marita"
+  lastname="Phaidra"
+  city="Fredericton"
+  country="Denmark"
+  firstname2="Elvira"
+  lastname2="Guildroy"
+  email="Elvira.Guildroy@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>7.695</random_float>
+  <bool>true</bool>
+  <date>1988-09-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Anallese</elt><elt>Deirdre</elt><elt>Nerta</elt><elt>Viki</elt><elt>Claresta</elt>  
+  <Elvira>
+    <age>69</age>
+  </Elvira>
+</root>

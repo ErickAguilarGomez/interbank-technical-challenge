@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dede"
+  lastname="Tayib"
+  city="Minsk"
+  country="Syrian Arab Republic"
+  firstname2="Letizia"
+  lastname2="Briney"
+  email="Letizia.Briney@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>67.02</random_float>
+  <bool>false</bool>
+  <date>1992-08-15</date>
+  <regEx>helloooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gaylene</elt><elt>Perry</elt><elt>Alisha</elt><elt>Kelly</elt><elt>Tobe</elt>  
+  <Letizia>
+    <age>67</age>
+  </Letizia>
+</root>

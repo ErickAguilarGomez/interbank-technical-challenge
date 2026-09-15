@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annaliese"
+  lastname="Flyn"
+  city="Conakry"
+  country="Liechtenstein"
+  firstname2="Taffy"
+  lastname2="Romelda"
+  email="Taffy.Romelda@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>6.533</random_float>
+  <bool>false</bool>
+  <date>1993-01-22</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jessy</elt><elt>Dorene</elt><elt>Nyssa</elt><elt>Zondra</elt><elt>Janenna</elt>  
+  <Taffy>
+    <age>18</age>
+  </Taffy>
+</root>

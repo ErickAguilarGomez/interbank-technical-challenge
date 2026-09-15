@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kenna"
+  lastname="Rheingold"
+  city="Kunming"
+  country="Belarus"
+  firstname2="Deedee"
+  lastname2="Kaete"
+  email="Deedee.Kaete@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>23.353</random_float>
+  <bool>true</bool>
+  <date>1997-10-11</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Corly</elt><elt>Zsa Zsa</elt><elt>Aigneis</elt><elt>Shirlee</elt><elt>Emelina</elt>  
+  <Deedee>
+    <age>24</age>
+  </Deedee>
+</root>

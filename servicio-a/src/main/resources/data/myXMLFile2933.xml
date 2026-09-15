@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sashenka"
+  lastname="Phaidra"
+  city="Antofagasta"
+  country="Russian Federation"
+  firstname2="Cristine"
+  lastname2="Leffen"
+  email="Cristine.Leffen@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>57.673</random_float>
+  <bool>true</bool>
+  <date>1990-04-20</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kathy</elt><elt>Carilyn</elt><elt>Yetty</elt><elt>Genovera</elt><elt>Annabela</elt>  
+  <Cristine>
+    <age>27</age>
+  </Cristine>
+</root>

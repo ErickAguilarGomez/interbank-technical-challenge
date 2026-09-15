@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hermione"
+  lastname="Hourigan"
+  city="Hanga Roa"
+  country="Jordan"
+  firstname2="Robbi"
+  lastname2="Mullane"
+  email="Robbi.Mullane@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>99.259</random_float>
+  <bool>false</bool>
+  <date>1982-04-03</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tamqrah</elt><elt>Lynde</elt><elt>Rani</elt><elt>Goldie</elt><elt>Tiffie</elt>  
+  <Robbi>
+    <age>57</age>
+  </Robbi>
+</root>

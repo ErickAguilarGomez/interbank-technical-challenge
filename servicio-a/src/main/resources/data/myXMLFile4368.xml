@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Breed"
+  city="Pelotas"
+  country="Guadeloupe"
+  firstname2="Ebonee"
+  lastname2="Earlie"
+  email="Ebonee.Earlie@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>23.668</random_float>
+  <bool>false</bool>
+  <date>1990-06-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gertrud</elt><elt>Dode</elt><elt>Henriette</elt><elt>Merle</elt><elt>Doro</elt>  
+  <Ebonee>
+    <age>42</age>
+  </Ebonee>
+</root>

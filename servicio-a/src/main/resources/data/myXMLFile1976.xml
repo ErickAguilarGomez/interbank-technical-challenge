@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jeanna"
+  lastname="Erlandson"
+  city="Sarajevo"
+  country="Åland Islands"
+  firstname2="Cassandra"
+  lastname2="Barbey"
+  email="Cassandra.Barbey@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>89.794</random_float>
+  <bool>true</bool>
+  <date>1992-11-16</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Laure</elt><elt>Janis</elt><elt>Merrie</elt><elt>Pamella</elt><elt>Maurene</elt>  
+  <Cassandra>
+    <age>42</age>
+  </Cassandra>
+</root>

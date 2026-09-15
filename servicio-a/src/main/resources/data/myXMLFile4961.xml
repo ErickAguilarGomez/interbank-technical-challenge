@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Keelia"
+  lastname="Fosque"
+  city="Charlotte Amalie"
+  country="Mayotte"
+  firstname2="Celestyna"
+  lastname2="Kannry"
+  email="Celestyna.Kannry@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>87.197</random_float>
+  <bool>true</bool>
+  <date>1984-11-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sarette</elt><elt>Xylina</elt><elt>Frieda</elt><elt>Tracey</elt><elt>Cherilyn</elt>  
+  <Celestyna>
+    <age>21</age>
+  </Celestyna>
+</root>

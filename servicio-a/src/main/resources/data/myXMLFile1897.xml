@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heddie"
+  lastname="Kendrick"
+  city="Thiès"
+  country="Wallis and Futuna"
+  firstname2="Tarra"
+  lastname2="Aurelio"
+  email="Tarra.Aurelio@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>39.85</random_float>
+  <bool>false</bool>
+  <date>1991-04-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kary</elt><elt>Aeriela</elt><elt>Maud</elt><elt>Yvonne</elt><elt>Dorice</elt>  
+  <Tarra>
+    <age>59</age>
+  </Tarra>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winny"
+  lastname="Alva"
+  city="Charlottetown"
+  country="Uruguay"
+  firstname2="Fidelia"
+  lastname2="Gwenore"
+  email="Fidelia.Gwenore@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>14.791</random_float>
+  <bool>false</bool>
+  <date>1992-11-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kellen</elt><elt>Lusa</elt><elt>Kate</elt><elt>Kayla</elt><elt>Cecile</elt>  
+  <Fidelia>
+    <age>70</age>
+  </Fidelia>
+</root>

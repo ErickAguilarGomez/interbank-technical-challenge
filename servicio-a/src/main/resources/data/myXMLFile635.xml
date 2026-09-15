@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winifred"
+  lastname="Felizio"
+  city="Punta Arenas"
+  country="Nauru"
+  firstname2="Alexine"
+  lastname2="Shirberg"
+  email="Alexine.Shirberg@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>54.19</random_float>
+  <bool>true</bool>
+  <date>1987-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aeriela</elt><elt>Korrie</elt><elt>Benita</elt><elt>Sharai</elt><elt>Micheline</elt>  
+  <Alexine>
+    <age>50</age>
+  </Alexine>
+</root>

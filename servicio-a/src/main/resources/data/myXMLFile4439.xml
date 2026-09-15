@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doralynne"
+  lastname="Penelopa"
+  city="Jersey City"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Mahalia"
+  lastname2="Jerold"
+  email="Mahalia.Jerold@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>95.56</random_float>
+  <bool>false</bool>
+  <date>1997-08-22</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Adele</elt><elt>Belinda</elt><elt>Edith</elt><elt>Bernie</elt><elt>Petronia</elt>  
+  <Mahalia>
+    <age>85</age>
+  </Mahalia>
+</root>

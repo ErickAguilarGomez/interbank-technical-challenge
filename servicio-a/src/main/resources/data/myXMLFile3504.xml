@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meghann"
+  lastname="Taam"
+  city="Johannesburg"
+  country="Ireland"
+  firstname2="Natka"
+  lastname2="Standing"
+  email="Natka.Standing@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>19.243</random_float>
+  <bool>true</bool>
+  <date>1987-12-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Audrie</elt><elt>Shirlee</elt><elt>Cacilie</elt><elt>Aryn</elt><elt>Joane</elt>  
+  <Natka>
+    <age>37</age>
+  </Natka>
+</root>

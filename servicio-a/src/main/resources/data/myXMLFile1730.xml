@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kenna"
+  lastname="Cloris"
+  city="Dalian"
+  country="New Zealand"
+  firstname2="Kirbee"
+  lastname2="Pyle"
+  email="Kirbee.Pyle@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>80.24</random_float>
+  <bool>true</bool>
+  <date>1989-05-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hope</elt><elt>Cathie</elt><elt>Amelia</elt><elt>Farrah</elt><elt>Shannah</elt>  
+  <Kirbee>
+    <age>29</age>
+  </Kirbee>
+</root>

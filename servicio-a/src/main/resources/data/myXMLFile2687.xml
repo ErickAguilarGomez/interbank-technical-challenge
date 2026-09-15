@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Judy"
+  lastname="Schenck"
+  city="Padang"
+  country="Bahamas"
+  firstname2="Blondelle"
+  lastname2="Vacuva"
+  email="Blondelle.Vacuva@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>64.734</random_float>
+  <bool>true</bool>
+  <date>1998-11-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kaia</elt><elt>Tonia</elt><elt>Tonia</elt><elt>Noelle</elt><elt>Gabriellia</elt>  
+  <Blondelle>
+    <age>21</age>
+  </Blondelle>
+</root>

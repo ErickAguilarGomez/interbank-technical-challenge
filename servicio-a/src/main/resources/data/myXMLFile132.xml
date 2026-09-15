@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pearline"
+  lastname="Greyson"
+  city="Novosibirsk"
+  country="Fiji"
+  firstname2="Jany"
+  lastname2="Janith"
+  email="Jany.Janith@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>65.261</random_float>
+  <bool>false</bool>
+  <date>1984-08-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alyda</elt><elt>Frieda</elt><elt>Christal</elt><elt>Ebonee</elt><elt>Luci</elt>  
+  <Jany>
+    <age>66</age>
+  </Jany>
+</root>

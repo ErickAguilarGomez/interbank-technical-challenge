@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brianna"
+  lastname="Nisbet"
+  city="Darwin"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Katleen"
+  lastname2="Suzetta"
+  email="Katleen.Suzetta@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>66.331</random_float>
+  <bool>false</bool>
+  <date>1991-04-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Meghann</elt><elt>Jolyn</elt><elt>Nerta</elt><elt>Karlee</elt><elt>Brianna</elt>  
+  <Katleen>
+    <age>44</age>
+  </Katleen>
+</root>

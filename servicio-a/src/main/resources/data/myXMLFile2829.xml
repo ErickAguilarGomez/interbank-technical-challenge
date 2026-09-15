@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charmaine"
+  lastname="Ledah"
+  city="Liverpool"
+  country="Israel"
+  firstname2="Lusa"
+  lastname2="Alfons"
+  email="Lusa.Alfons@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>74.294</random_float>
+  <bool>false</bool>
+  <date>1987-02-02</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gerrie</elt><elt>Dominga</elt><elt>Vere</elt><elt>Teddie</elt><elt>Anallese</elt>  
+  <Lusa>
+    <age>80</age>
+  </Lusa>
+</root>

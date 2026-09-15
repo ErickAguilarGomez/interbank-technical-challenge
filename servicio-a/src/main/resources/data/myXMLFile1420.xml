@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Laverne"
+  city="Fukuoka"
+  country="Papua New Guinea"
+  firstname2="Alyssa"
+  lastname2="Edee"
+  email="Alyssa.Edee@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>20.376</random_float>
+  <bool>true</bool>
+  <date>1980-02-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Giustina</elt><elt>Karolina</elt><elt>Raf</elt><elt>Binny</elt><elt>Lory</elt>  
+  <Alyssa>
+    <age>84</age>
+  </Alyssa>
+</root>

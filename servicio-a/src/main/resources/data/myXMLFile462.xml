@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Brandice"
+  city="Ludhiana"
+  country="Gibraltar"
+  firstname2="Cassondra"
+  lastname2="Ciro"
+  email="Cassondra.Ciro@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>53.682</random_float>
+  <bool>false</bool>
+  <date>1992-08-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Paule</elt><elt>Georgetta</elt><elt>Renae</elt><elt>Regina</elt><elt>Maridel</elt>  
+  <Cassondra>
+    <age>87</age>
+  </Cassondra>
+</root>

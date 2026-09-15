@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sallie"
+  lastname="Autrey"
+  city="Pune"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Ayn"
+  lastname2="Ietta"
+  email="Ayn.Ietta@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>59.496</random_float>
+  <bool>true</bool>
+  <date>1984-07-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kore</elt><elt>Melanie</elt><elt>Fawne</elt><elt>Tatiania</elt><elt>Hildegaard</elt>  
+  <Ayn>
+    <age>60</age>
+  </Ayn>
+</root>

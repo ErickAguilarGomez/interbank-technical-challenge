@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rubie"
+  lastname="Howlyn"
+  city="Mecca"
+  country="United States"
+  firstname2="Livvyy"
+  lastname2="Poll"
+  email="Livvyy.Poll@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>67.969</random_float>
+  <bool>true</bool>
+  <date>1981-05-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dania</elt><elt>Carolina</elt><elt>Nadine</elt><elt>Audrie</elt><elt>Abbie</elt>  
+  <Livvyy>
+    <age>23</age>
+  </Livvyy>
+</root>

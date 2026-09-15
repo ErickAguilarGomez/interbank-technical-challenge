@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dode"
+  lastname="Glovsky"
+  city="Stepanakert"
+  country="India"
+  firstname2="Sean"
+  lastname2="Haldas"
+  email="Sean.Haldas@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>20.498</random_float>
+  <bool>true</bool>
+  <date>1996-10-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Christal</elt><elt>Dianemarie</elt><elt>Maisey</elt><elt>Kate</elt><elt>Hayley</elt>  
+  <Sean>
+    <age>61</age>
+  </Sean>
+</root>

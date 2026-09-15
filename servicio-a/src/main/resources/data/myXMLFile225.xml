@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sibella"
+  lastname="Adlare"
+  city="Calgary"
+  country="Palau"
+  firstname2="Elie"
+  lastname2="Callista"
+  email="Elie.Callista@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>82.47</random_float>
+  <bool>true</bool>
+  <date>1986-04-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vonny</elt><elt>Sashenka</elt><elt>Fanchon</elt><elt>Corina</elt><elt>Wanda</elt>  
+  <Elie>
+    <age>47</age>
+  </Elie>
+</root>

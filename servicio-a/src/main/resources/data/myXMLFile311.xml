@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Calhoun"
+  city="Belize City"
+  country="Algeria"
+  firstname2="Livvyy"
+  lastname2="Codding"
+  email="Livvyy.Codding@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>94.07</random_float>
+  <bool>true</bool>
+  <date>1986-10-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Suzette</elt><elt>Gale</elt><elt>Robinia</elt><elt>Petronia</elt><elt>Shel</elt>  
+  <Livvyy>
+    <age>83</age>
+  </Livvyy>
+</root>

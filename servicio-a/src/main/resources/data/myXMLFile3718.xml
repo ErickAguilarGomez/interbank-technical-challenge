@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Stilwell"
+  city="Zagreb"
+  country="Greenland"
+  firstname2="Christian"
+  lastname2="Anestassia"
+  email="Christian.Anestassia@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>75.902</random_float>
+  <bool>false</bool>
+  <date>1982-09-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kalina</elt><elt>Dorothy</elt><elt>Brietta</elt><elt>Felice</elt><elt>Stevana</elt>  
+  <Christian>
+    <age>79</age>
+  </Christian>
+</root>

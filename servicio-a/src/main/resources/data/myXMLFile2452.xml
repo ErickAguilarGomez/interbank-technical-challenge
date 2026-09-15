@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Regan"
+  city="El Aaiún"
+  country="French Southern Territories"
+  firstname2="Babita"
+  lastname2="Cherianne"
+  email="Babita.Cherianne@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>12.869</random_float>
+  <bool>false</bool>
+  <date>1990-09-07</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lelah</elt><elt>Raquela</elt><elt>Dominga</elt><elt>Henriette</elt><elt>Donnie</elt>  
+  <Babita>
+    <age>37</age>
+  </Babita>
+</root>

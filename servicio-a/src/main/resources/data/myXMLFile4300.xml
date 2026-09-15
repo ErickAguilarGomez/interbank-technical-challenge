@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Rooney"
+  city="Panama City"
+  country="Belize"
+  firstname2="Lelah"
+  lastname2="Wesle"
+  email="Lelah.Wesle@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>46.64</random_float>
+  <bool>true</bool>
+  <date>1999-02-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sidoney</elt><elt>Nicoli</elt><elt>Agnese</elt><elt>Chandra</elt><elt>Christal</elt>  
+  <Lelah>
+    <age>79</age>
+  </Lelah>
+</root>

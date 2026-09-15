@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbara"
+  lastname="Septima"
+  city="Livingstone"
+  country="Japan"
+  firstname2="Janis"
+  lastname2="Giff"
+  email="Janis.Giff@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>22.435</random_float>
+  <bool>true</bool>
+  <date>1992-01-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elvira</elt><elt>Meghann</elt><elt>Kathy</elt><elt>Catharine</elt><elt>Rhea</elt>  
+  <Janis>
+    <age>89</age>
+  </Janis>
+</root>

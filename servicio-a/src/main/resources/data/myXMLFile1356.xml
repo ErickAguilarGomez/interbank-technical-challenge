@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brynna"
+  lastname="Wooster"
+  city="Bishkek"
+  country="Equatorial Guinea"
+  firstname2="Andeee"
+  lastname2="Maxi"
+  email="Andeee.Maxi@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>15.427</random_float>
+  <bool>false</bool>
+  <date>1983-12-10</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rani</elt><elt>Viki</elt><elt>Donetta</elt><elt>Ursulina</elt><elt>Steffane</elt>  
+  <Andeee>
+    <age>25</age>
+  </Andeee>
+</root>

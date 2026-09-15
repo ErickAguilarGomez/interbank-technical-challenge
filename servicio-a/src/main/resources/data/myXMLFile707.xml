@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ottilie"
+  lastname="Celestine"
+  city="Winnipeg"
+  country="El Salvador"
+  firstname2="Nyssa"
+  lastname2="Fadiman"
+  email="Nyssa.Fadiman@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>17.269</random_float>
+  <bool>true</bool>
+  <date>1981-03-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Darci</elt><elt>Mignon</elt><elt>Briney</elt><elt>Elise</elt><elt>Elka</elt>  
+  <Nyssa>
+    <age>46</age>
+  </Nyssa>
+</root>

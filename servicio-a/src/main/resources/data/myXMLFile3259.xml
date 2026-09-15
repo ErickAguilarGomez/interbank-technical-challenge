@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Haldas"
+  city="Ulan Bator"
+  country="Macao"
+  firstname2="Chandra"
+  lastname2="Sharl"
+  email="Chandra.Sharl@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>68.611</random_float>
+  <bool>true</bool>
+  <date>1989-02-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Charmaine</elt><elt>Zia</elt><elt>Lanae</elt><elt>Joeann</elt><elt>Ardenia</elt>  
+  <Chandra>
+    <age>23</age>
+  </Chandra>
+</root>

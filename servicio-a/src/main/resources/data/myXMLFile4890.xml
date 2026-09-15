@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elka"
+  lastname="Pauly"
+  city="Sapporo"
+  country="Honduras"
+  firstname2="Ofilia"
+  lastname2="Noman"
+  email="Ofilia.Noman@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>5.619</random_float>
+  <bool>true</bool>
+  <date>1998-03-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Atlanta</elt><elt>Judy</elt><elt>Bill</elt><elt>Kirbee</elt><elt>Cordi</elt>  
+  <Ofilia>
+    <age>85</age>
+  </Ofilia>
+</root>

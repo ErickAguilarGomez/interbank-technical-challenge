@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Raimondo"
+  city="Birkirkara"
+  country="New Caledonia"
+  firstname2="Morganica"
+  lastname2="Aloise"
+  email="Morganica.Aloise@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>85.615</random_float>
+  <bool>true</bool>
+  <date>1980-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Henriette</elt><elt>Latisha</elt><elt>Norine</elt><elt>Brana</elt><elt>Neila</elt>  
+  <Morganica>
+    <age>87</age>
+  </Morganica>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Stevy"
+  city="Sucre"
+  country="Malaysia"
+  firstname2="Vinita"
+  lastname2="Eckblad"
+  email="Vinita.Eckblad@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>59.655</random_float>
+  <bool>false</bool>
+  <date>1994-10-14</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Florencia</elt><elt>Orsola</elt><elt>Kimberley</elt><elt>Mahalia</elt><elt>Agnese</elt>  
+  <Vinita>
+    <age>23</age>
+  </Vinita>
+</root>

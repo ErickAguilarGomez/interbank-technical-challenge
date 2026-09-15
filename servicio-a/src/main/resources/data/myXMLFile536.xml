@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Paton"
+  city="Mbabane"
+  country="Grenada"
+  firstname2="Amelia"
+  lastname2="Berriman"
+  email="Amelia.Berriman@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>96.171</random_float>
+  <bool>true</bool>
+  <date>1998-01-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joane</elt><elt>Charmaine</elt><elt>Marjie</elt><elt>Barbi</elt><elt>Norine</elt>  
+  <Amelia>
+    <age>23</age>
+  </Amelia>
+</root>

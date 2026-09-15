@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Rese"
+  city="Yekaterinburg"
+  country="Jordan"
+  firstname2="Damaris"
+  lastname2="Chrystel"
+  email="Damaris.Chrystel@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>80.491</random_float>
+  <bool>false</bool>
+  <date>1982-09-07</date>
+  <regEx>hellooo world</regEx>
+  <enum>online</enum>
+  <elt>Emmey</elt><elt>Dari</elt><elt>Aili</elt><elt>Lolita</elt><elt>Ronna</elt>  
+  <Damaris>
+    <age>97</age>
+  </Damaris>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kate"
+  lastname="Hutchison"
+  city="Charlottetown"
+  country="Pitcairn"
+  firstname2="Vere"
+  lastname2="Ursulette"
+  email="Vere.Ursulette@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>20.995</random_float>
+  <bool>true</bool>
+  <date>1994-06-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Libbie</elt><elt>Wynne</elt><elt>Daphne</elt><elt>Courtnay</elt><elt>Jacenta</elt>  
+  <Vere>
+    <age>27</age>
+  </Vere>
+</root>

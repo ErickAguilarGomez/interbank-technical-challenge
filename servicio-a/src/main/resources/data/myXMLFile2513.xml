@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Daegal"
+  city="Jeddah"
+  country="Central African Republic"
+  firstname2="Moyna"
+  lastname2="Eldrid"
+  email="Moyna.Eldrid@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>37.68</random_float>
+  <bool>false</bool>
+  <date>1984-10-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Vanessa</elt><elt>Carree</elt><elt>Marnia</elt><elt>Jessy</elt><elt>Shaylyn</elt>  
+  <Moyna>
+    <age>25</age>
+  </Moyna>
+</root>

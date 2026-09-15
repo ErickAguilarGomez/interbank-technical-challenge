@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roberta"
+  lastname="Bronk"
+  city="Yellowknife"
+  country="Kuwait"
+  firstname2="Courtnay"
+  lastname2="Mandler"
+  email="Courtnay.Mandler@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>6.616</random_float>
+  <bool>true</bool>
+  <date>1982-09-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sandie</elt><elt>Marleah</elt><elt>Nikki</elt><elt>Tressa</elt><elt>Tina</elt>  
+  <Courtnay>
+    <age>97</age>
+  </Courtnay>
+</root>

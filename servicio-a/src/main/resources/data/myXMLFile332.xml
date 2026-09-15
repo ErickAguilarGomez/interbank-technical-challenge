@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madelle"
+  lastname="Dimitris"
+  city="Kuala Lumpur"
+  country="French Southern Territories"
+  firstname2="Georgetta"
+  lastname2="Marisa"
+  email="Georgetta.Marisa@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>83.224</random_float>
+  <bool>false</bool>
+  <date>1999-08-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Valli</elt><elt>Fred</elt><elt>Shauna</elt><elt>Layla</elt><elt>Olwen</elt>  
+  <Georgetta>
+    <age>26</age>
+  </Georgetta>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ayn"
+  lastname="Weide"
+  city="Bangui"
+  country="Sudan"
+  firstname2="Ardenia"
+  lastname2="Barrus"
+  email="Ardenia.Barrus@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>2.015</random_float>
+  <bool>true</bool>
+  <date>1984-10-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kathi</elt><elt>Catharine</elt><elt>Lusa</elt><elt>Wynne</elt><elt>Jacenta</elt>  
+  <Ardenia>
+    <age>74</age>
+  </Ardenia>
+</root>

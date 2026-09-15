@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cecile"
+  lastname="Giule"
+  city="Rochester"
+  country="Kiribati"
+  firstname2="Sashenka"
+  lastname2="Trey"
+  email="Sashenka.Trey@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>48.871</random_float>
+  <bool>false</bool>
+  <date>1983-07-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Leontine</elt><elt>Anica</elt><elt>Diena</elt><elt>Cecile</elt><elt>Nerta</elt>  
+  <Sashenka>
+    <age>90</age>
+  </Sashenka>
+</root>

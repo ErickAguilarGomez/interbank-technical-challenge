@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ermengarde"
+  lastname="Serilda"
+  city="Santiago de Cuba"
+  country="Bahamas"
+  firstname2="Tiffie"
+  lastname2="Bates"
+  email="Tiffie.Bates@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>90.496</random_float>
+  <bool>true</bool>
+  <date>1982-08-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gloria</elt><elt>Lory</elt><elt>Silvana</elt><elt>Cathyleen</elt><elt>Sean</elt>  
+  <Tiffie>
+    <age>92</age>
+  </Tiffie>
+</root>

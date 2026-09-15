@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florencia"
+  lastname="Knowling"
+  city="Lviv"
+  country="Venezuela"
+  firstname2="Orsola"
+  lastname2="Hartnett"
+  email="Orsola.Hartnett@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>79.934</random_float>
+  <bool>false</bool>
+  <date>1996-03-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Malina</elt><elt>Adele</elt><elt>Tomasina</elt><elt>Cecile</elt><elt>Vita</elt>  
+  <Orsola>
+    <age>95</age>
+  </Orsola>
+</root>

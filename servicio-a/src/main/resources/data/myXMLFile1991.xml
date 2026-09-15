@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathyleen"
+  lastname="Hollingsworth"
+  city="Medellín"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Carree"
+  lastname2="Oneida"
+  email="Carree.Oneida@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>41.722</random_float>
+  <bool>false</bool>
+  <date>1982-11-09</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Angelique</elt><elt>Roxane</elt><elt>Katuscha</elt><elt>Kristina</elt><elt>Deedee</elt>  
+  <Carree>
+    <age>78</age>
+  </Carree>
+</root>

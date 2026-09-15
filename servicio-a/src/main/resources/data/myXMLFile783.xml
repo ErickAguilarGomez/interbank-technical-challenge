@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Jacqui"
+  city="Nouméa"
+  country="Hong Kong"
+  firstname2="Olwen"
+  lastname2="MacIntosh"
+  email="Olwen.MacIntosh@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>5.31</random_float>
+  <bool>true</bool>
+  <date>1991-06-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dale</elt><elt>Minda</elt><elt>Abbie</elt><elt>Leia</elt><elt>Dennie</elt>  
+  <Olwen>
+    <age>94</age>
+  </Olwen>
+</root>

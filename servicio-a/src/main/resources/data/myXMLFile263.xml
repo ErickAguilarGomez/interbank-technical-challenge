@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bill"
+  lastname="Stanwood"
+  city="Bulawayo"
+  country="Cocos (Keeling) Islands"
+  firstname2="Marcy"
+  lastname2="Edmund"
+  email="Marcy.Edmund@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>13.079</random_float>
+  <bool>false</bool>
+  <date>1998-05-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Fanchon</elt><elt>Paule</elt><elt>Valera</elt><elt>Ilse</elt><elt>Sherrie</elt>  
+  <Marcy>
+    <age>39</age>
+  </Marcy>
+</root>

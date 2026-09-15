@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcy"
+  lastname="Cristi"
+  city="Vladivostok"
+  country="New Zealand"
+  firstname2="Yvonne"
+  lastname2="Posner"
+  email="Yvonne.Posner@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>21.137</random_float>
+  <bool>false</bool>
+  <date>1987-12-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Darci</elt><elt>Linet</elt><elt>Lacie</elt><elt>Karena</elt><elt>Bertine</elt>  
+  <Yvonne>
+    <age>18</age>
+  </Yvonne>
+</root>

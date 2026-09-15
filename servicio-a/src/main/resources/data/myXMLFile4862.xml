@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mary"
+  lastname="Gert"
+  city="Hilo"
+  country="Iran, Islamic Republic Of"
+  firstname2="Elena"
+  lastname2="Euridice"
+  email="Elena.Euridice@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>73.964</random_float>
+  <bool>false</bool>
+  <date>1980-09-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tobe</elt><elt>Andree</elt><elt>Chere</elt><elt>Justinn</elt><elt>Julieta</elt>  
+  <Elena>
+    <age>19</age>
+  </Elena>
+</root>

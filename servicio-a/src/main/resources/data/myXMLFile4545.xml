@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joelly"
+  lastname="Hieronymus"
+  city="Singapore"
+  country="Poland"
+  firstname2="Adele"
+  lastname2="Gale"
+  email="Adele.Gale@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>30.948</random_float>
+  <bool>true</bool>
+  <date>1984-11-04</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mariele</elt><elt>Iseabal</elt><elt>Rori</elt><elt>Gwyneth</elt><elt>Abbie</elt>  
+  <Adele>
+    <age>20</age>
+  </Adele>
+</root>

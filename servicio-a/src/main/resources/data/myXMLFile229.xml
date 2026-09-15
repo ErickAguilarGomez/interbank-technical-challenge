@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Korrie"
+  lastname="Koziara"
+  city="South Tarawa"
+  country="Togo"
+  firstname2="Georgina"
+  lastname2="Latini"
+  email="Georgina.Latini@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>6.095</random_float>
+  <bool>true</bool>
+  <date>1997-06-14</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tatiania</elt><elt>Belinda</elt><elt>Caritta</elt><elt>Courtnay</elt><elt>Ulrike</elt>  
+  <Georgina>
+    <age>99</age>
+  </Georgina>
+</root>

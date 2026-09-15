@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elie"
+  lastname="Pitt"
+  city="Harare"
+  country="Swaziland"
+  firstname2="Kirbee"
+  lastname2="Maurine"
+  email="Kirbee.Maurine@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>93.609</random_float>
+  <bool>false</bool>
+  <date>1980-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Celene</elt><elt>Dulce</elt><elt>Ileana</elt><elt>Kathi</elt><elt>Addia</elt>  
+  <Kirbee>
+    <age>66</age>
+  </Kirbee>
+</root>

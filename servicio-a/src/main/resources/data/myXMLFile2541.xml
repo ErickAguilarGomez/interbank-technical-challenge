@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Gillan"
+  city="Newcastle"
+  country="Guinea"
+  firstname2="Fanchon"
+  lastname2="Holbrook"
+  email="Fanchon.Holbrook@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>98.711</random_float>
+  <bool>true</bool>
+  <date>1987-10-08</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Katharina</elt><elt>Danny</elt><elt>Pollyanna</elt><elt>Alleen</elt><elt>Cathyleen</elt>  
+  <Fanchon>
+    <age>36</age>
+  </Fanchon>
+</root>

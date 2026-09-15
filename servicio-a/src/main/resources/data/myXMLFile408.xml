@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andeee"
+  lastname="Lalitta"
+  city="Phuket (city)"
+  country="Serbia and Montenegro"
+  firstname2="Rivalee"
+  lastname2="Hollingsworth"
+  email="Rivalee.Hollingsworth@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>95.683</random_float>
+  <bool>false</bool>
+  <date>1992-02-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dode</elt><elt>Cristabel</elt><elt>Sophia</elt><elt>Lorie</elt><elt>Ardys</elt>  
+  <Rivalee>
+    <age>92</age>
+  </Rivalee>
+</root>

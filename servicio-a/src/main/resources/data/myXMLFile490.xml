@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teriann"
+  lastname="Chesna"
+  city="Saskatoon"
+  country="Oman"
+  firstname2="Henriette"
+  lastname2="Lamoree"
+  email="Henriette.Lamoree@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>81.76</random_float>
+  <bool>true</bool>
+  <date>1983-11-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gilda</elt><elt>Alejandra</elt><elt>Larine</elt><elt>Ardenia</elt><elt>Reeba</elt>  
+  <Henriette>
+    <age>26</age>
+  </Henriette>
+</root>

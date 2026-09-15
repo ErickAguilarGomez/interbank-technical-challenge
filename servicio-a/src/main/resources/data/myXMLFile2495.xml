@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanchon"
+  lastname="Merna"
+  city="Jacksonville"
+  country="Guatemala"
+  firstname2="Margette"
+  lastname2="Oscar"
+  email="Margette.Oscar@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>49.654</random_float>
+  <bool>true</bool>
+  <date>1986-07-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kore</elt><elt>Donetta</elt><elt>Florencia</elt><elt>Tiffie</elt><elt>Cacilie</elt>  
+  <Margette>
+    <age>33</age>
+  </Margette>
+</root>

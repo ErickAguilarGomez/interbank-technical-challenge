@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nanete"
+  lastname="Cullin"
+  city="Adamstown"
+  country="Mayotte"
+  firstname2="Genovera"
+  lastname2="Bashemeth"
+  email="Genovera.Bashemeth@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>71.397</random_float>
+  <bool>true</bool>
+  <date>1988-09-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kara-Lynn</elt><elt>Marnia</elt><elt>Jobi</elt><elt>Tonia</elt><elt>Lilith</elt>  
+  <Genovera>
+    <age>51</age>
+  </Genovera>
+</root>

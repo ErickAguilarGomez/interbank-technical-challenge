@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meriel"
+  lastname="Merriott"
+  city="Huế"
+  country="Botswana"
+  firstname2="Farrah"
+  lastname2="Killigrew"
+  email="Farrah.Killigrew@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>11.708</random_float>
+  <bool>false</bool>
+  <date>1987-07-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sindee</elt><elt>Ardeen</elt><elt>Karly</elt><elt>Katuscha</elt><elt>Elie</elt>  
+  <Farrah>
+    <age>26</age>
+  </Farrah>
+</root>

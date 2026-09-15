@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emma"
+  lastname="Halsey"
+  city="Chaguanas"
+  country="Martinique"
+  firstname2="Dorene"
+  lastname2="Stephie"
+  email="Dorene.Stephie@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>47.69</random_float>
+  <bool>false</bool>
+  <date>1988-08-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cam</elt><elt>Silvana</elt><elt>Candi</elt><elt>Sophia</elt><elt>Max</elt>  
+  <Dorene>
+    <age>76</age>
+  </Dorene>
+</root>

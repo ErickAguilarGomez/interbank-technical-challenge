@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucille"
+  lastname="Delacourt"
+  city="Hargeisa"
+  country="Vanuatu"
+  firstname2="Korrie"
+  lastname2="Kunin"
+  email="Korrie.Kunin@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>44.652</random_float>
+  <bool>false</bool>
+  <date>1994-07-11</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roslyn</elt><elt>Deedee</elt><elt>Fawne</elt><elt>Genevra</elt><elt>Tami</elt>  
+  <Korrie>
+    <age>91</age>
+  </Korrie>
+</root>

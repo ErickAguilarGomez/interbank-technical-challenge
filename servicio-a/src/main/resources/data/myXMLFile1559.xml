@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angela"
+  lastname="Merat"
+  city="Phuket (city)"
+  country="Åland Islands"
+  firstname2="Cristabel"
+  lastname2="Odell"
+  email="Cristabel.Odell@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>69.017</random_float>
+  <bool>true</bool>
+  <date>1985-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Queenie</elt><elt>Berta</elt><elt>Joelly</elt><elt>Halette</elt><elt>Lusa</elt>  
+  <Cristabel>
+    <age>43</age>
+  </Cristabel>
+</root>

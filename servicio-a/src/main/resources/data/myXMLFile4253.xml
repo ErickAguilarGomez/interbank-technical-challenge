@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Hathaway"
+  city="New Delhi"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Ira"
+  lastname2="Doig"
+  email="Ira.Doig@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>26.794</random_float>
+  <bool>false</bool>
+  <date>1984-04-22</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Silvana</elt><elt>Carlie</elt><elt>Natka</elt><elt>Tami</elt><elt>Stephanie</elt>  
+  <Ira>
+    <age>22</age>
+  </Ira>
+</root>

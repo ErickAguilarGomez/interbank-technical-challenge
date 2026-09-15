@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sam"
+  lastname="Peti"
+  city="Tirana"
+  country="Moldova, Republic of"
+  firstname2="Drucie"
+  lastname2="Lucienne"
+  email="Drucie.Lucienne@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>69.197</random_float>
+  <bool>false</bool>
+  <date>1995-10-02</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Oralee</elt><elt>Dania</elt><elt>Lory</elt><elt>Frank</elt><elt>Oralee</elt>  
+  <Drucie>
+    <age>90</age>
+  </Drucie>
+</root>

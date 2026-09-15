@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ira"
+  lastname="Candy"
+  city="Maracaibo"
+  country="Brunei Darussalam"
+  firstname2="Donetta"
+  lastname2="Gibbeon"
+  email="Donetta.Gibbeon@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>81.041</random_float>
+  <bool>true</bool>
+  <date>1983-01-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ida</elt><elt>Adriana</elt><elt>Phylis</elt><elt>Feliza</elt><elt>Ida</elt>  
+  <Donetta>
+    <age>88</age>
+  </Donetta>
+</root>

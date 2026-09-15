@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fredericka"
+  lastname="Carvey"
+  city="Cincinnati"
+  country="Senegal"
+  firstname2="Dode"
+  lastname2="Dermott"
+  email="Dode.Dermott@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>11.459</random_float>
+  <bool>false</bool>
+  <date>1981-12-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mellicent</elt><elt>Tersina</elt><elt>Alexine</elt><elt>Johna</elt><elt>Maurene</elt>  
+  <Dode>
+    <age>28</age>
+  </Dode>
+</root>

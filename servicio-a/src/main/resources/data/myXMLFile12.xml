@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Zenas"
+  city="Cusco"
+  country="Burundi"
+  firstname2="Gilda"
+  lastname2="Marsden"
+  email="Gilda.Marsden@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>96.758</random_float>
+  <bool>false</bool>
+  <date>1980-03-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Odessa</elt><elt>Raquela</elt><elt>Di</elt><elt>Codie</elt><elt>Ezmeralda</elt>  
+  <Gilda>
+    <age>24</age>
+  </Gilda>
+</root>

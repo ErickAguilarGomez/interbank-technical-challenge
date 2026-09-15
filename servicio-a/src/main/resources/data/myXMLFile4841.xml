@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celisse"
+  lastname="Kelula"
+  city="Roseau"
+  country="Virgin Islands, U.S."
+  firstname2="Stacey"
+  lastname2="Morrill"
+  email="Stacey.Morrill@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>10.915</random_float>
+  <bool>true</bool>
+  <date>1989-11-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rayna</elt><elt>Georgetta</elt><elt>Sibella</elt><elt>Dagmar</elt><elt>Hermione</elt>  
+  <Stacey>
+    <age>91</age>
+  </Stacey>
+</root>

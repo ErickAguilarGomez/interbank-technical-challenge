@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emmey"
+  lastname="Nickola"
+  city="Yaoundé"
+  country="Niger"
+  firstname2="Dale"
+  lastname2="Seumas"
+  email="Dale.Seumas@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>8.16</random_float>
+  <bool>true</bool>
+  <date>1997-06-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Merci</elt><elt>Quintina</elt><elt>Alyda</elt><elt>Raquela</elt><elt>Althea</elt>  
+  <Dale>
+    <age>91</age>
+  </Dale>
+</root>

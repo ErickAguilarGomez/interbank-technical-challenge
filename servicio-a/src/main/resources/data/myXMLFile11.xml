@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Solitta"
+  city="Guatemala City"
+  country="Portugal"
+  firstname2="Desirae"
+  lastname2="Brady"
+  email="Desirae.Brady@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>94.876</random_float>
+  <bool>false</bool>
+  <date>1986-06-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lisette</elt><elt>Dominga</elt><elt>Ofilia</elt><elt>Selia</elt><elt>Kary</elt>  
+  <Desirae>
+    <age>38</age>
+  </Desirae>
+</root>

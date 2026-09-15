@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Nunci"
+  city="Salzburg"
+  country="Belarus"
+  firstname2="Ardeen"
+  lastname2="Syd"
+  email="Ardeen.Syd@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>88.738</random_float>
+  <bool>true</bool>
+  <date>1988-06-05</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joleen</elt><elt>Chickie</elt><elt>Benita</elt><elt>Zaria</elt><elt>Jeanna</elt>  
+  <Ardeen>
+    <age>47</age>
+  </Ardeen>
+</root>

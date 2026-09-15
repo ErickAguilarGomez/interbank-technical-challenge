@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annaliese"
+  lastname="Sammons"
+  city="Wuhan"
+  country="Brunei Darussalam"
+  firstname2="Hayley"
+  lastname2="McCutcheon"
+  email="Hayley.McCutcheon@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>57.777</random_float>
+  <bool>false</bool>
+  <date>1983-10-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Emilia</elt><elt>Ann-Marie</elt><elt>Molli</elt><elt>Sharlene</elt><elt>Binny</elt>  
+  <Hayley>
+    <age>54</age>
+  </Hayley>
+</root>

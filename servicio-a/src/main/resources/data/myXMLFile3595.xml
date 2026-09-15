@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meriel"
+  lastname="Zitvaa"
+  city="Road Town"
+  country="Niue"
+  firstname2="Berta"
+  lastname2="Kaja"
+  email="Berta.Kaja@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>38.821</random_float>
+  <bool>false</bool>
+  <date>1980-06-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Barbara</elt><elt>Jaime</elt><elt>Karena</elt><elt>Teddie</elt><elt>Pearline</elt>  
+  <Berta>
+    <age>88</age>
+  </Berta>
+</root>

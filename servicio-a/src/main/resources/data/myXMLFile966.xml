@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Damaris"
+  lastname="Annabella"
+  city="Calgary"
+  country="Saint Lucia"
+  firstname2="Donetta"
+  lastname2="Fiester"
+  email="Donetta.Fiester@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>2.599</random_float>
+  <bool>true</bool>
+  <date>1982-06-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Orsola</elt><elt>Linzy</elt><elt>Daune</elt><elt>Mureil</elt><elt>Mariann</elt>  
+  <Donetta>
+    <age>84</age>
+  </Donetta>
+</root>

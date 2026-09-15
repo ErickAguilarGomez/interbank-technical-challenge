@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sidoney"
+  lastname="Prober"
+  city="Gaborone"
+  country="Belarus"
+  firstname2="Paola"
+  lastname2="Mich"
+  email="Paola.Mich@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>66.765</random_float>
+  <bool>true</bool>
+  <date>1992-09-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Melina</elt><elt>Britte</elt><elt>Carly</elt><elt>Mara</elt><elt>Priscilla</elt>  
+  <Paola>
+    <age>56</age>
+  </Paola>
+</root>

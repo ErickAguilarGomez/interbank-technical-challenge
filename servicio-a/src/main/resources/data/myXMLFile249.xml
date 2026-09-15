@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimmy"
+  lastname="Byrne"
+  city="Valdivia"
+  country="Guadeloupe"
+  firstname2="Roslyn"
+  lastname2="Elephus"
+  email="Roslyn.Elephus@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>45.758</random_float>
+  <bool>false</bool>
+  <date>1995-04-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Collen</elt><elt>Lusa</elt><elt>Courtnay</elt><elt>Tybie</elt><elt>Chloris</elt>  
+  <Roslyn>
+    <age>83</age>
+  </Roslyn>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="Philipp"
+  city="Sabha"
+  country="Guernsey"
+  firstname2="Charmaine"
+  lastname2="Daveta"
+  email="Charmaine.Daveta@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>18.712</random_float>
+  <bool>true</bool>
+  <date>1994-10-13</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dennie</elt><elt>Meriel</elt><elt>Cherrita</elt><elt>Leia</elt><elt>Rivalee</elt>  
+  <Charmaine>
+    <age>76</age>
+  </Charmaine>
+</root>

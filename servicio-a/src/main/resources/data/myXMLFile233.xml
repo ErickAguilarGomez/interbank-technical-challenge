@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caritta"
+  lastname="Christine"
+  city="Tagbilaran"
+  country="Lebanon"
+  firstname2="Valeda"
+  lastname2="Gavrila"
+  email="Valeda.Gavrila@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>37.805</random_float>
+  <bool>false</bool>
+  <date>1987-10-15</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Darlleen</elt><elt>Fidelia</elt><elt>Lulita</elt><elt>Aubrie</elt><elt>Basia</elt>  
+  <Valeda>
+    <age>40</age>
+  </Valeda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elie"
+  lastname="Bivins"
+  city="Da Nang"
+  country="Guernsey"
+  firstname2="Sharai"
+  lastname2="Sallyann"
+  email="Sharai.Sallyann@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>2.834</random_float>
+  <bool>false</bool>
+  <date>1981-03-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Georgetta</elt><elt>Angela</elt><elt>Basia</elt><elt>Heida</elt><elt>Alia</elt>  
+  <Sharai>
+    <age>27</age>
+  </Sharai>
+</root>

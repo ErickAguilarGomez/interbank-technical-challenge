@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laure"
+  lastname="Olympium"
+  city="Andorra la Vella"
+  country="Armenia"
+  firstname2="Celisse"
+  lastname2="Sparhawk"
+  email="Celisse.Sparhawk@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>49.9</random_float>
+  <bool>true</bool>
+  <date>1993-05-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Karolina</elt><elt>Wilma</elt><elt>Sadie</elt><elt>Lilith</elt><elt>Laurene</elt>  
+  <Celisse>
+    <age>21</age>
+  </Celisse>
+</root>

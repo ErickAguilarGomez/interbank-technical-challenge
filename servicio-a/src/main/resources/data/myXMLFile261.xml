@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Max"
+  lastname="Screens"
+  city="Paramaribo"
+  country="Grenada"
+  firstname2="Livvyy"
+  lastname2="Hermes"
+  email="Livvyy.Hermes@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>71.807</random_float>
+  <bool>false</bool>
+  <date>1995-08-30</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Perry</elt><elt>Feliza</elt><elt>Jean</elt><elt>Ida</elt><elt>Minne</elt>  
+  <Livvyy>
+    <age>80</age>
+  </Livvyy>
+</root>

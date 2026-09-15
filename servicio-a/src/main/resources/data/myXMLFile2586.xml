@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dennie"
+  lastname="Philipp"
+  city="Concepción"
+  country="Western Sahara"
+  firstname2="Phedra"
+  lastname2="Emerson"
+  email="Phedra.Emerson@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>25.421</random_float>
+  <bool>false</bool>
+  <date>1993-09-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gratia</elt><elt>Ashlee</elt><elt>Consuela</elt><elt>Corene</elt><elt>Charlena</elt>  
+  <Phedra>
+    <age>68</age>
+  </Phedra>
+</root>

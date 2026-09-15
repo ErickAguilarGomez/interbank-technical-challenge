@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alex"
+  lastname="Gordon"
+  city="Road Town"
+  country="Nigeria"
+  firstname2="Ellette"
+  lastname2="Konyn"
+  email="Ellette.Konyn@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>75.09</random_float>
+  <bool>true</bool>
+  <date>1991-10-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Katleen</elt><elt>Beth</elt><elt>Linzy</elt><elt>Elena</elt><elt>Ezmeralda</elt>  
+  <Ellette>
+    <age>21</age>
+  </Ellette>
+</root>

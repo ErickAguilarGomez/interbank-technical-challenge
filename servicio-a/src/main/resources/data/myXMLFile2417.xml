@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bertine"
+  lastname="Mullane"
+  city="Shanghai"
+  country="Senegal"
+  firstname2="Oralee"
+  lastname2="Carlson"
+  email="Oralee.Carlson@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>92.995</random_float>
+  <bool>false</bool>
+  <date>1998-03-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ashlee</elt><elt>Ardys</elt><elt>Sidoney</elt><elt>Gabriellia</elt><elt>Lauryn</elt>  
+  <Oralee>
+    <age>80</age>
+  </Oralee>
+</root>

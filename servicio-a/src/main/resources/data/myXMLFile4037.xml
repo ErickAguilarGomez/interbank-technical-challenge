@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oralee"
+  lastname="Palocz"
+  city="Port Vila"
+  country="Cocos (Keeling) Islands"
+  firstname2="Sidoney"
+  lastname2="Ogren"
+  email="Sidoney.Ogren@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>20.565</random_float>
+  <bool>true</bool>
+  <date>1982-04-13</date>
+  <regEx>hellooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Joelly</elt><elt>Celestyna</elt><elt>Giustina</elt><elt>Tamqrah</elt><elt>Shell</elt>  
+  <Sidoney>
+    <age>56</age>
+  </Sidoney>
+</root>

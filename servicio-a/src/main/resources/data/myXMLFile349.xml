@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melanie"
+  lastname="Roumell"
+  city="Surabaya"
+  country="Taiwan, Province of China"
+  firstname2="Estell"
+  lastname2="Nea"
+  email="Estell.Nea@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>27.559</random_float>
+  <bool>false</bool>
+  <date>1990-06-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emma</elt><elt>Frances</elt><elt>Perry</elt><elt>Isa</elt><elt>Lorenza</elt>  
+  <Estell>
+    <age>91</age>
+  </Estell>
+</root>

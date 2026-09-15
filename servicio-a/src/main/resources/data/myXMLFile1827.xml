@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorie"
+  lastname="Thunell"
+  city="Charlotte Amalie"
+  country="Cayman Islands"
+  firstname2="Marita"
+  lastname2="Screens"
+  email="Marita.Screens@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>8.849</random_float>
+  <bool>true</bool>
+  <date>1988-03-14</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Beth</elt><elt>Ellette</elt><elt>Tonia</elt><elt>Ofilia</elt><elt>Brooks</elt>  
+  <Marita>
+    <age>29</age>
+  </Marita>
+</root>

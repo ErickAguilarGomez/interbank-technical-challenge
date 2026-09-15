@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elyssa"
+  lastname="Reneta"
+  city="Bissau"
+  country="Switzerland"
+  firstname2="Shel"
+  lastname2="Genna"
+  email="Shel.Genna@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>79.155</random_float>
+  <bool>false</bool>
+  <date>1986-08-26</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tiffie</elt><elt>Tami</elt><elt>Gratia</elt><elt>Sashenka</elt><elt>Brena</elt>  
+  <Shel>
+    <age>79</age>
+  </Shel>
+</root>

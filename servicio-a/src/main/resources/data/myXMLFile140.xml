@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Shanley"
+  city="Jinan"
+  country="Latvia"
+  firstname2="Cassandra"
+  lastname2="Quent"
+  email="Cassandra.Quent@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>5.833</random_float>
+  <bool>false</bool>
+  <date>1983-05-28</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elsie</elt><elt>Anestassia</elt><elt>Katleen</elt><elt>Lenna</elt><elt>Ann-Marie</elt>  
+  <Cassandra>
+    <age>63</age>
+  </Cassandra>
+</root>

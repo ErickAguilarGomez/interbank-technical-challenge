@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ada"
+  lastname="Ethban"
+  city="Sitka"
+  country="American Samoa"
+  firstname2="Nadine"
+  lastname2="Isidore"
+  email="Nadine.Isidore@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>44.117</random_float>
+  <bool>true</bool>
+  <date>1998-03-30</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rozele</elt><elt>Gianina</elt><elt>Dulce</elt><elt>Clarice</elt><elt>Lila</elt>  
+  <Nadine>
+    <age>47</age>
+  </Nadine>
+</root>

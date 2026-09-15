@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Tacye"
+  city="Havana"
+  country="British Indian Ocean Territory"
+  firstname2="Debee"
+  lastname2="Skell"
+  email="Debee.Skell@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>75.307</random_float>
+  <bool>false</bool>
+  <date>1987-07-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sashenka</elt><elt>Bibby</elt><elt>Chandra</elt><elt>Mamie</elt><elt>Pamella</elt>  
+  <Debee>
+    <age>41</age>
+  </Debee>
+</root>

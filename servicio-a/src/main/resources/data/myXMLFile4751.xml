@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ada"
+  lastname="Goerke"
+  city="Malé"
+  country="Lao People"S Democratic Republic"
+  firstname2="Maryellen"
+  lastname2="Roumell"
+  email="Maryellen.Roumell@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>99.022</random_float>
+  <bool>true</bool>
+  <date>1984-12-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Melina</elt><elt>Dennie</elt><elt>Kary</elt><elt>Janeczka</elt><elt>Stevana</elt>  
+  <Maryellen>
+    <age>21</age>
+  </Maryellen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kalina"
+  lastname="Cottle"
+  city="Blantyre"
+  country="Isle of Man"
+  firstname2="Winny"
+  lastname2="Nadia"
+  email="Winny.Nadia@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>12.703</random_float>
+  <bool>false</bool>
+  <date>1987-07-28</date>
+  <regEx>hellooooo world</regEx>
+  <enum>online</enum>
+  <elt>Georgina</elt><elt>Flo</elt><elt>Frieda</elt><elt>Helena</elt><elt>Bobinette</elt>  
+  <Winny>
+    <age>29</age>
+  </Winny>
+</root>

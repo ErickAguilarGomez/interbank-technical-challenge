@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elie"
+  lastname="Frendel"
+  city="Harare"
+  country="Finland"
+  firstname2="Ardys"
+  lastname2="McClimans"
+  email="Ardys.McClimans@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>4.275</random_float>
+  <bool>false</bool>
+  <date>1980-03-05</date>
+  <regEx>hello to you</regEx>
+  <enum>online</enum>
+  <elt>Marleah</elt><elt>Annabela</elt><elt>Jennica</elt><elt>Rebeca</elt><elt>Willetta</elt>  
+  <Ardys>
+    <age>57</age>
+  </Ardys>
+</root>

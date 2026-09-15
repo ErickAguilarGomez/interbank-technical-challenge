@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vivia"
+  lastname="Juliet"
+  city="Banjul"
+  country="Guernsey"
+  firstname2="Gianina"
+  lastname2="Stuart"
+  email="Gianina.Stuart@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>26.071</random_float>
+  <bool>true</bool>
+  <date>1986-10-02</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rhea</elt><elt>Tatiania</elt><elt>Dulcinea</elt><elt>Verla</elt><elt>Ellette</elt>  
+  <Gianina>
+    <age>79</age>
+  </Gianina>
+</root>

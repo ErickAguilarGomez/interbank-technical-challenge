@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Penelopa"
+  lastname="Rhu"
+  city="Omdurman"
+  country="Chile"
+  firstname2="Tiffie"
+  lastname2="Ellord"
+  email="Tiffie.Ellord@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>23.489</random_float>
+  <bool>true</bool>
+  <date>1987-08-22</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Hope</elt><elt>Glynnis</elt><elt>Tera</elt><elt>Kerrin</elt><elt>Petronia</elt>  
+  <Tiffie>
+    <age>50</age>
+  </Tiffie>
+</root>

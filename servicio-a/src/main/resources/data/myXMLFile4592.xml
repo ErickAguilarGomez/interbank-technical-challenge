@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Diena"
+  lastname="LaRue"
+  city="Tijuana"
+  country="Zimbabwe"
+  firstname2="Reeba"
+  lastname2="Cimbura"
+  email="Reeba.Cimbura@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>76.132</random_float>
+  <bool>false</bool>
+  <date>1993-10-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kirstin</elt><elt>Di</elt><elt>Albertina</elt><elt>Lucy</elt><elt>Michaelina</elt>  
+  <Reeba>
+    <age>60</age>
+  </Reeba>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaja"
+  lastname="Madaih"
+  city="Stockholm"
+  country="Croatia"
+  firstname2="Catharine"
+  lastname2="Zetta"
+  email="Catharine.Zetta@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>3.275</random_float>
+  <bool>true</bool>
+  <date>1999-08-07</date>
+  <regEx>hellooo world</regEx>
+  <enum>online</enum>
+  <elt>Gratia</elt><elt>Krystle</elt><elt>Kirbee</elt><elt>Krystle</elt><elt>Ana</elt>  
+  <Catharine>
+    <age>33</age>
+  </Catharine>
+</root>

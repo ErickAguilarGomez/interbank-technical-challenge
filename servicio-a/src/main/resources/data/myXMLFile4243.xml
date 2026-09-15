@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valeda"
+  lastname="Elephus"
+  city="Amritsar"
+  country="Korea, Republic of"
+  firstname2="Tori"
+  lastname2="Magnolia"
+  email="Tori.Magnolia@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>70.598</random_float>
+  <bool>false</bool>
+  <date>1985-12-19</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dotty</elt><elt>Mara</elt><elt>Jacenta</elt><elt>Ezmeralda</elt><elt>Pierette</elt>  
+  <Tori>
+    <age>45</age>
+  </Tori>
+</root>

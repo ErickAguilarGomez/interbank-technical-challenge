@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Viviene"
+  lastname="LaRue"
+  city="Antofagasta"
+  country="Samoa"
+  firstname2="Queenie"
+  lastname2="Hermes"
+  email="Queenie.Hermes@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>94.976</random_float>
+  <bool>false</bool>
+  <date>1983-02-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Fernande</elt><elt>Jordan</elt><elt>Nessie</elt><elt>Mireielle</elt><elt>Lesly</elt>  
+  <Queenie>
+    <age>48</age>
+  </Queenie>
+</root>

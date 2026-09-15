@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Jagir"
+  city="Kawasaki"
+  country="San Marino"
+  firstname2="Annora"
+  lastname2="Adore"
+  email="Annora.Adore@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>61.9</random_float>
+  <bool>false</bool>
+  <date>1999-10-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Robinia</elt><elt>Monika</elt><elt>Arlina</elt><elt>Olwen</elt><elt>Nataline</elt>  
+  <Annora>
+    <age>47</age>
+  </Annora>
+</root>

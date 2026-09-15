@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flory"
+  lastname="Abernon"
+  city="Milan"
+  country="Virgin Islands, U.S."
+  firstname2="Marline"
+  lastname2="Dichy"
+  email="Marline.Dichy@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>100.559</random_float>
+  <bool>true</bool>
+  <date>1984-08-26</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sidoney</elt><elt>Donnie</elt><elt>Dagmar</elt><elt>Vivia</elt><elt>Fidelia</elt>  
+  <Marline>
+    <age>33</age>
+  </Marline>
+</root>

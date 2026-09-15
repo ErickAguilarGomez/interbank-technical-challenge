@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eolanda"
+  lastname="Verger"
+  city="Jayapura"
+  country="Greenland"
+  firstname2="Benita"
+  lastname2="Fleeta"
+  email="Benita.Fleeta@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>4.769</random_float>
+  <bool>true</bool>
+  <date>1980-03-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Eve</elt><elt>Alex</elt><elt>Marcelline</elt><elt>Gavrielle</elt><elt>Gloria</elt>  
+  <Benita>
+    <age>29</age>
+  </Benita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Greenwald"
+  city="Calgary"
+  country="Micronesia, Federated States of"
+  firstname2="Siana"
+  lastname2="Emerson"
+  email="Siana.Emerson@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>68.369</random_float>
+  <bool>true</bool>
+  <date>1987-09-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lita</elt><elt>Lusa</elt><elt>Luci</elt><elt>Ninnetta</elt><elt>Averyl</elt>  
+  <Siana>
+    <age>43</age>
+  </Siana>
+</root>

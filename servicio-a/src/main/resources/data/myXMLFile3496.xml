@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vita"
+  lastname="Ricki"
+  city="Nuuk"
+  country="Sao Tome and Principe"
+  firstname2="Orelia"
+  lastname2="Croix"
+  email="Orelia.Croix@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>55.801</random_float>
+  <bool>false</bool>
+  <date>1991-05-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Konstance</elt><elt>Augustine</elt><elt>Florie</elt><elt>Adriana</elt><elt>Emmey</elt>  
+  <Orelia>
+    <age>81</age>
+  </Orelia>
+</root>

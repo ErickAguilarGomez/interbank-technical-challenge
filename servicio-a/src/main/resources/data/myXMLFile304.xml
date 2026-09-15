@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jean"
+  lastname="Faria"
+  city="Hai Phong"
+  country="Antarctica"
+  firstname2="Mathilda"
+  lastname2="Bohlin"
+  email="Mathilda.Bohlin@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>83.075</random_float>
+  <bool>false</bool>
+  <date>1982-03-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jordan</elt><elt>Cindelyn</elt><elt>Tera</elt><elt>Caryl</elt><elt>Adore</elt>  
+  <Mathilda>
+    <age>46</age>
+  </Mathilda>
+</root>

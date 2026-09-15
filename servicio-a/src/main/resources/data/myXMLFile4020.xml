@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florie"
+  lastname="Carmena"
+  city="Paramaribo"
+  country="New Zealand"
+  firstname2="Sadie"
+  lastname2="Gombach"
+  email="Sadie.Gombach@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>52.424</random_float>
+  <bool>false</bool>
+  <date>1985-09-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ileana</elt><elt>Joleen</elt><elt>Ashlee</elt><elt>Donnie</elt><elt>Doro</elt>  
+  <Sadie>
+    <age>84</age>
+  </Sadie>
+</root>

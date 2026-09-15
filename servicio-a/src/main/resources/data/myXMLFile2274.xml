@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwyneth"
+  lastname="Justinn"
+  city="Whitehorse"
+  country="Maldives"
+  firstname2="Helena"
+  lastname2="Raul"
+  email="Helena.Raul@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>74.268</random_float>
+  <bool>true</bool>
+  <date>1985-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Giustina</elt><elt>Nikki</elt><elt>Chickie</elt><elt>Claresta</elt><elt>Ardenia</elt>  
+  <Helena>
+    <age>33</age>
+  </Helena>
+</root>

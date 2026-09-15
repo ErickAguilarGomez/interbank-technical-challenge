@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Destinee"
+  city="Murmansk"
+  country="Burkina Faso"
+  firstname2="Joelly"
+  lastname2="Uund"
+  email="Joelly.Uund@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>62.59</random_float>
+  <bool>false</bool>
+  <date>1995-05-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ezmeralda</elt><elt>Bettine</elt><elt>Sarette</elt><elt>Philis</elt><elt>Cordi</elt>  
+  <Joelly>
+    <age>41</age>
+  </Joelly>
+</root>

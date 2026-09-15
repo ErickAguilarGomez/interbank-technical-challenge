@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sophia"
+  lastname="Carlson"
+  city="Chişinău"
+  country="Spain"
+  firstname2="Dominga"
+  lastname2="Whittaker"
+  email="Dominga.Whittaker@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>92.818</random_float>
+  <bool>false</bool>
+  <date>1995-09-11</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Bettine</elt><elt>Kamilah</elt><elt>Latisha</elt><elt>Elka</elt><elt>Marsiella</elt>  
+  <Dominga>
+    <age>31</age>
+  </Dominga>
+</root>

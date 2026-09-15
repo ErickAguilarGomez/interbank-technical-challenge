@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Bearnard"
+  city="Washington"
+  country="Jersey"
+  firstname2="Valli"
+  lastname2="Lissi"
+  email="Valli.Lissi@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>41.858</random_float>
+  <bool>true</bool>
+  <date>1997-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Leona</elt><elt>Angelique</elt><elt>Cindelyn</elt><elt>Roseline</elt><elt>Florencia</elt>  
+  <Valli>
+    <age>88</age>
+  </Valli>
+</root>

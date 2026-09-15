@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Randene"
+  city="Srinagar"
+  country="Guernsey"
+  firstname2="Shell"
+  lastname2="Callista"
+  email="Shell.Callista@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>24.719</random_float>
+  <bool>false</bool>
+  <date>1993-08-17</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Anica</elt><elt>Gusella</elt><elt>Elora</elt><elt>Randa</elt><elt>Aurelie</elt>  
+  <Shell>
+    <age>21</age>
+  </Shell>
+</root>

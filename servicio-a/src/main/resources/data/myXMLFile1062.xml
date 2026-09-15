@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Talya"
+  lastname="Reneta"
+  city="Lucknow"
+  country="Sweden"
+  firstname2="Brandise"
+  lastname2="Stacy"
+  email="Brandise.Stacy@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>64.309</random_float>
+  <bool>true</bool>
+  <date>1991-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rayna</elt><elt>Jolyn</elt><elt>Ann-Marie</elt><elt>Miquela</elt><elt>Daune</elt>  
+  <Brandise>
+    <age>19</age>
+  </Brandise>
+</root>

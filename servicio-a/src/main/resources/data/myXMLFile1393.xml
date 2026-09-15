@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Delilah"
+  lastname="Philoo"
+  city="Algiers"
+  country="Seychelles"
+  firstname2="Viki"
+  lastname2="Burkle"
+  email="Viki.Burkle@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>83.048</random_float>
+  <bool>true</bool>
+  <date>1988-09-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gretal</elt><elt>Etta</elt><elt>Mildrid</elt><elt>Linet</elt><elt>Micheline</elt>  
+  <Viki>
+    <age>36</age>
+  </Viki>
+</root>

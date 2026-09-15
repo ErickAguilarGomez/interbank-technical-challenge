@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaine"
+  lastname="Brenn"
+  city="The Hague"
+  country="American Samoa"
+  firstname2="Iseabal"
+  lastname2="Sparhawk"
+  email="Iseabal.Sparhawk@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>82.469</random_float>
+  <bool>true</bool>
+  <date>1995-06-24</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nerta</elt><elt>Dorothy</elt><elt>Ulrike</elt><elt>Christal</elt><elt>Bernardine</elt>  
+  <Iseabal>
+    <age>44</age>
+  </Iseabal>
+</root>

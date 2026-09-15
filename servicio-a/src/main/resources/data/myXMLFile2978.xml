@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sallie"
+  lastname="Florina"
+  city="Colombo"
+  country="Bouvet Island"
+  firstname2="Sheelagh"
+  lastname2="Daveta"
+  email="Sheelagh.Daveta@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>42.318</random_float>
+  <bool>false</bool>
+  <date>1986-08-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maye</elt><elt>Vere</elt><elt>Netty</elt><elt>Cam</elt><elt>Lila</elt>  
+  <Sheelagh>
+    <age>99</age>
+  </Sheelagh>
+</root>

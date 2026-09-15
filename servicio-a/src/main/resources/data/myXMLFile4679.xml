@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myriam"
+  lastname="Ulphia"
+  city="Kuching"
+  country="Zimbabwe"
+  firstname2="Amalie"
+  lastname2="Mauer"
+  email="Amalie.Mauer@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>13.338</random_float>
+  <bool>true</bool>
+  <date>1987-03-04</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Danny</elt><elt>Lanae</elt><elt>Roxane</elt><elt>Marcelline</elt><elt>Modestia</elt>  
+  <Amalie>
+    <age>33</age>
+  </Amalie>
+</root>

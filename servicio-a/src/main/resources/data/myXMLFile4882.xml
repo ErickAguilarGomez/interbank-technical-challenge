@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobbi"
+  lastname="Kunin"
+  city="Port of Spain"
+  country="France"
+  firstname2="Wanda"
+  lastname2="Graig"
+  email="Wanda.Graig@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>22.735</random_float>
+  <bool>true</bool>
+  <date>1995-02-12</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Brianna</elt><elt>Clementine</elt><elt>Felice</elt><elt>Wanda</elt><elt>Marcelline</elt>  
+  <Wanda>
+    <age>69</age>
+  </Wanda>
+</root>

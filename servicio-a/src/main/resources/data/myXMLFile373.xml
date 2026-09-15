@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claresta"
+  lastname="Allina"
+  city="Assis"
+  country="Estonia"
+  firstname2="Elmira"
+  lastname2="Skell"
+  email="Elmira.Skell@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>47.831</random_float>
+  <bool>true</bool>
+  <date>1997-04-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kathi</elt><elt>Jennica</elt><elt>Korrie</elt><elt>Jaime</elt><elt>Rozele</elt>  
+  <Elmira>
+    <age>61</age>
+  </Elmira>
+</root>

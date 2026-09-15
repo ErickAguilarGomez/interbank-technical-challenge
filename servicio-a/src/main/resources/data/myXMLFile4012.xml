@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Diena"
+  lastname="Lytton"
+  city="Valletta"
+  country="Kenya"
+  firstname2="Marylou"
+  lastname2="Suk"
+  email="Marylou.Suk@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>21.489</random_float>
+  <bool>false</bool>
+  <date>1985-05-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Anallese</elt><elt>Corry</elt><elt>Dennie</elt><elt>Florencia</elt><elt>Felice</elt>  
+  <Marylou>
+    <age>37</age>
+  </Marylou>
+</root>

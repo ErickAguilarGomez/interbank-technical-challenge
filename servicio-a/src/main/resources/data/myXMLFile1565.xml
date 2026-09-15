@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cam"
+  lastname="Eugenia"
+  city="Boa Vista"
+  country="Nepal"
+  firstname2="Ermengarde"
+  lastname2="Newell"
+  email="Ermengarde.Newell@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>21.69</random_float>
+  <bool>true</bool>
+  <date>1993-08-24</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jinny</elt><elt>Rochette</elt><elt>Dione</elt><elt>Gabi</elt><elt>Madeleine</elt>  
+  <Ermengarde>
+    <age>20</age>
+  </Ermengarde>
+</root>

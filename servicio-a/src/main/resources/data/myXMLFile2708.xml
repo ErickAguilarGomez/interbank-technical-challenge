@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bibby"
+  lastname="Suanne"
+  city="Namangan"
+  country="Bermuda"
+  firstname2="Mellicent"
+  lastname2="Wind"
+  email="Mellicent.Wind@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>3.685</random_float>
+  <bool>false</bool>
+  <date>1999-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gretal</elt><elt>Olivette</elt><elt>Agnese</elt><elt>Elena</elt><elt>Agathe</elt>  
+  <Mellicent>
+    <age>29</age>
+  </Mellicent>
+</root>

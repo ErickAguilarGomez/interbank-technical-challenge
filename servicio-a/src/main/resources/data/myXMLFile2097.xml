@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dyann"
+  lastname="Maxi"
+  city="Rome"
+  country="Seychelles"
+  firstname2="Nikki"
+  lastname2="Marsden"
+  email="Nikki.Marsden@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>20.272</random_float>
+  <bool>false</bool>
+  <date>1997-12-22</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mureil</elt><elt>Merry</elt><elt>Lucy</elt><elt>Konstance</elt><elt>Delilah</elt>  
+  <Nikki>
+    <age>81</age>
+  </Nikki>
+</root>

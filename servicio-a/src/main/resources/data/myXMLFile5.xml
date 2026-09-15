@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elvira"
+  lastname="Grobe"
+  city="Kawasaki"
+  country="Georgia"
+  firstname2="Ulrike"
+  lastname2="An"
+  email="Ulrike.An@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>92.588</random_float>
+  <bool>true</bool>
+  <date>1984-11-04</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Raina</elt><elt>Alyssa</elt><elt>Courtnay</elt><elt>Shauna</elt><elt>Harrietta</elt>  
+  <Ulrike>
+    <age>26</age>
+  </Ulrike>
+</root>

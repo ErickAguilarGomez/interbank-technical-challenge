@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Meli"
+  city="Maceió"
+  country="Pakistan"
+  firstname2="Vita"
+  lastname2="Blisse"
+  email="Vita.Blisse@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>99.563</random_float>
+  <bool>true</bool>
+  <date>1986-01-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sabina</elt><elt>Rubie</elt><elt>Kellen</elt><elt>Emmey</elt><elt>Concettina</elt>  
+  <Vita>
+    <age>92</age>
+  </Vita>
+</root>

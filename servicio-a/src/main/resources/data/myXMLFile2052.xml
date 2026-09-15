@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alisha"
+  lastname="Hollingsworth"
+  city="Tashkent"
+  country="Taiwan, Province of China"
+  firstname2="Jany"
+  lastname2="Thad"
+  email="Jany.Thad@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>55.484</random_float>
+  <bool>false</bool>
+  <date>1994-10-31</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Cassandra</elt><elt>Jessamyn</elt><elt>Fawne</elt><elt>Gusella</elt><elt>Lindie</elt>  
+  <Jany>
+    <age>86</age>
+  </Jany>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Howlyn"
+  city="Saint-Denis"
+  country="Czech Republic"
+  firstname2="Alyssa"
+  lastname2="Rudolph"
+  email="Alyssa.Rudolph@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>64.844</random_float>
+  <bool>true</bool>
+  <date>1983-08-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Anallese</elt><elt>Jan</elt><elt>Ekaterina</elt><elt>Amii</elt><elt>Daune</elt>  
+  <Alyssa>
+    <age>41</age>
+  </Alyssa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="Goddard"
+  city="La Serena"
+  country="Virgin Islands, British"
+  firstname2="Candi"
+  lastname2="Candy"
+  email="Candi.Candy@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>96.385</random_float>
+  <bool>true</bool>
+  <date>1981-06-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marguerite</elt><elt>Fina</elt><elt>Demetris</elt><elt>Fredericka</elt><elt>Elka</elt>  
+  <Candi>
+    <age>18</age>
+  </Candi>
+</root>

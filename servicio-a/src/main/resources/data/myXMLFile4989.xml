@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Zenas"
+  city="Hagåtña"
+  country="Anguilla"
+  firstname2="Tressa"
+  lastname2="Nickola"
+  email="Tressa.Nickola@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>50.139</random_float>
+  <bool>true</bool>
+  <date>1998-11-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tarra</elt><elt>Nerta</elt><elt>Cristine</elt><elt>Delilah</elt><elt>Odessa</elt>  
+  <Tressa>
+    <age>23</age>
+  </Tressa>
+</root>

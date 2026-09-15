@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Odysseus"
+  city="Tirana"
+  country="Dominican Republic"
+  firstname2="Sharai"
+  lastname2="Ortrude"
+  email="Sharai.Ortrude@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>68.587</random_float>
+  <bool>true</bool>
+  <date>1986-09-10</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Basia</elt><elt>Teriann</elt><elt>Agathe</elt><elt>Hannis</elt><elt>Stevana</elt>  
+  <Sharai>
+    <age>75</age>
+  </Sharai>
+</root>

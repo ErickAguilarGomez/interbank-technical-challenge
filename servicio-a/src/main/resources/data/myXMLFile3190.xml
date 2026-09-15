@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kellen"
+  lastname="Valoniah"
+  city="Douala"
+  country="Romania"
+  firstname2="Shel"
+  lastname2="Wolfgram"
+  email="Shel.Wolfgram@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>36.947</random_float>
+  <bool>false</bool>
+  <date>1991-10-10</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Averyl</elt><elt>Sara-Ann</elt><elt>Monika</elt><elt>Aurelie</elt><elt>Dawn</elt>  
+  <Shel>
+    <age>55</age>
+  </Shel>
+</root>

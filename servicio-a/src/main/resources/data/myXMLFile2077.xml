@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valli"
+  lastname="Alexandr"
+  city="Sana'a"
+  country="Sweden"
+  firstname2="Korrie"
+  lastname2="Seessel"
+  email="Korrie.Seessel@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>98.941</random_float>
+  <bool>false</bool>
+  <date>1999-01-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ann-Marie</elt><elt>Juliane</elt><elt>Talya</elt><elt>Meghann</elt><elt>Myrtice</elt>  
+  <Korrie>
+    <age>20</age>
+  </Korrie>
+</root>

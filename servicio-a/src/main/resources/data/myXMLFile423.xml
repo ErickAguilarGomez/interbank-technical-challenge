@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teriann"
+  lastname="Dituri"
+  city="Livingstone"
+  country="Liberia"
+  firstname2="Molli"
+  lastname2="Goode"
+  email="Molli.Goode@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>82.542</random_float>
+  <bool>true</bool>
+  <date>1984-09-28</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Linet</elt><elt>Susette</elt><elt>Merry</elt><elt>Sharlene</elt><elt>Maurene</elt>  
+  <Molli>
+    <age>33</age>
+  </Molli>
+</root>

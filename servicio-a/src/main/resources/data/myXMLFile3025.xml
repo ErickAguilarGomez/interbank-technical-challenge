@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobbi"
+  lastname="Lymann"
+  city="Dresden"
+  country="Burundi"
+  firstname2="Eolanda"
+  lastname2="Dudley"
+  email="Eolanda.Dudley@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>35.008</random_float>
+  <bool>false</bool>
+  <date>1982-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Corina</elt><elt>Alleen</elt><elt>Livvyy</elt><elt>Sara-Ann</elt><elt>Gusty</elt>  
+  <Eolanda>
+    <age>50</age>
+  </Eolanda>
+</root>

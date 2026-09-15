@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aryn"
+  lastname="Fredi"
+  city="Manchester"
+  country="Azerbaijan"
+  firstname2="Gabriellia"
+  lastname2="Nunci"
+  email="Gabriellia.Nunci@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>15.539</random_float>
+  <bool>true</bool>
+  <date>1993-02-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rori</elt><elt>Di</elt><elt>Sandie</elt><elt>Ilse</elt><elt>Marline</elt>  
+  <Gabriellia>
+    <age>63</age>
+  </Gabriellia>
+</root>

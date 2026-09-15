@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ekaterina"
+  lastname="Oneida"
+  city="Maseru"
+  country="Guinea-Bissau"
+  firstname2="Talya"
+  lastname2="Cynar"
+  email="Talya.Cynar@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>71.951</random_float>
+  <bool>false</bool>
+  <date>1992-05-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Oona</elt><elt>Teddie</elt><elt>Alameda</elt><elt>Elora</elt><elt>Bettine</elt>  
+  <Talya>
+    <age>99</age>
+  </Talya>
+</root>

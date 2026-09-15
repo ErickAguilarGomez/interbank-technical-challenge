@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanna"
+  lastname="Primalia"
+  city="Shigatse"
+  country="Trinidad and Tobago"
+  firstname2="Vinita"
+  lastname2="Roscoe"
+  email="Vinita.Roscoe@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>23.694</random_float>
+  <bool>false</bool>
+  <date>1998-06-13</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Starla</elt><elt>Clo</elt><elt>Verla</elt><elt>Letizia</elt><elt>Lanae</elt>  
+  <Vinita>
+    <age>29</age>
+  </Vinita>
+</root>

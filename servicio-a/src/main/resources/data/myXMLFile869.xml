@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Babita"
+  lastname="Celestine"
+  city="Milan"
+  country="Turkmenistan"
+  firstname2="Nanete"
+  lastname2="Yuille"
+  email="Nanete.Yuille@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>48.755</random_float>
+  <bool>false</bool>
+  <date>1983-11-19</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dode</elt><elt>Ardenia</elt><elt>Mellicent</elt><elt>Brandise</elt><elt>Ada</elt>  
+  <Nanete>
+    <age>51</age>
+  </Nanete>
+</root>

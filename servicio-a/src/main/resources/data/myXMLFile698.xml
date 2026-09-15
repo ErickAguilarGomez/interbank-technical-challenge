@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cam"
+  lastname="Gaspard"
+  city="Peshawar"
+  country="Morocco"
+  firstname2="Sonni"
+  lastname2="Ajay"
+  email="Sonni.Ajay@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>96.619</random_float>
+  <bool>false</bool>
+  <date>1986-02-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fernande</elt><elt>Cacilie</elt><elt>Dorice</elt><elt>Zia</elt><elt>Annabela</elt>  
+  <Sonni>
+    <age>70</age>
+  </Sonni>
+</root>

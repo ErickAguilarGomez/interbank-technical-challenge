@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Julieta"
+  lastname="Casimir"
+  city="Pattaya"
+  country="Lesotho"
+  firstname2="Esmeralda"
+  lastname2="Stevy"
+  email="Esmeralda.Stevy@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>35.209</random_float>
+  <bool>false</bool>
+  <date>1985-11-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Valera</elt><elt>Sheelagh</elt><elt>Jean</elt><elt>Alyssa</elt><elt>Valera</elt>  
+  <Esmeralda>
+    <age>68</age>
+  </Esmeralda>
+</root>

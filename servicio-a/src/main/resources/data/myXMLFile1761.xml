@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Allina"
+  city="Recife"
+  country="Jordan"
+  firstname2="Ebonee"
+  lastname2="Wallis"
+  email="Ebonee.Wallis@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>3.389</random_float>
+  <bool>true</bool>
+  <date>1995-03-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Brena</elt><elt>Georgina</elt><elt>Kaia</elt><elt>Jorry</elt><elt>Antonietta</elt>  
+  <Ebonee>
+    <age>62</age>
+  </Ebonee>
+</root>

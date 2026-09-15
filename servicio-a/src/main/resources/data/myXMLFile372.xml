@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Netty"
+  lastname="Goode"
+  city="Bangui"
+  country="Zambia"
+  firstname2="Giustina"
+  lastname2="Paton"
+  email="Giustina.Paton@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>72.752</random_float>
+  <bool>false</bool>
+  <date>1999-02-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cyndie</elt><elt>Darlleen</elt><elt>Veda</elt><elt>Tarra</elt><elt>Lorne</elt>  
+  <Giustina>
+    <age>99</age>
+  </Giustina>
+</root>

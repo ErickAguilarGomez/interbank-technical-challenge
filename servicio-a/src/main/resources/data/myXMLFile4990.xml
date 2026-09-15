@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Marisa"
+  city="Malang"
+  country="United States"
+  firstname2="Iseabal"
+  lastname2="Chandler"
+  email="Iseabal.Chandler@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>80.918</random_float>
+  <bool>true</bool>
+  <date>1993-10-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kimmy</elt><elt>Paulita</elt><elt>Feliza</elt><elt>Arlena</elt><elt>Misha</elt>  
+  <Iseabal>
+    <age>72</age>
+  </Iseabal>
+</root>

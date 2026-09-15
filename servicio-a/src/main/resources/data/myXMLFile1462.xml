@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jasmina"
+  lastname="Frendel"
+  city="Cairo"
+  country="Pakistan"
+  firstname2="Lacie"
+  lastname2="Dunkin"
+  email="Lacie.Dunkin@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>23.887</random_float>
+  <bool>false</bool>
+  <date>1984-03-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Wileen</elt><elt>Jacquetta</elt><elt>Joceline</elt><elt>Pamella</elt><elt>Orsola</elt>  
+  <Lacie>
+    <age>57</age>
+  </Lacie>
+</root>

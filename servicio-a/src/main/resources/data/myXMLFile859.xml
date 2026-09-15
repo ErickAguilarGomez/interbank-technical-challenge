@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dania"
+  lastname="Reidar"
+  city="Santa Cruz de Tenerife"
+  country="Dominica"
+  firstname2="Monika"
+  lastname2="Sinegold"
+  email="Monika.Sinegold@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>5.417</random_float>
+  <bool>false</bool>
+  <date>1990-04-30</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lynde</elt><elt>Fanny</elt><elt>Norine</elt><elt>Lacie</elt><elt>Carly</elt>  
+  <Monika>
+    <age>28</age>
+  </Monika>
+</root>

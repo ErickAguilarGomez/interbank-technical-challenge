@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alex"
+  lastname="Stilwell"
+  city="Monaco"
+  country="Jersey"
+  firstname2="Trixi"
+  lastname2="Lalitta"
+  email="Trixi.Lalitta@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>98.845</random_float>
+  <bool>false</bool>
+  <date>1981-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Wilma</elt><elt>Zsa Zsa</elt><elt>Lexine</elt><elt>Nickie</elt><elt>Roz</elt>  
+  <Trixi>
+    <age>95</age>
+  </Trixi>
+</root>

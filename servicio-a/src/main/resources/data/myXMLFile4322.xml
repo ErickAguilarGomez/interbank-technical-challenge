@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathyleen"
+  lastname="Florina"
+  city="Lahore"
+  country="Equatorial Guinea"
+  firstname2="Frank"
+  lastname2="Merat"
+  email="Frank.Merat@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>52.669</random_float>
+  <bool>false</bool>
+  <date>1992-11-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Selia</elt><elt>Merry</elt><elt>Randa</elt><elt>Amalie</elt><elt>Diena</elt>  
+  <Frank>
+    <age>70</age>
+  </Frank>
+</root>

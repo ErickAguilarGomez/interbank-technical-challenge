@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karena"
+  lastname="Romelda"
+  city="Taipei"
+  country="Sweden"
+  firstname2="Margette"
+  lastname2="Shields"
+  email="Margette.Shields@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>15.642</random_float>
+  <bool>true</bool>
+  <date>1997-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Florencia</elt><elt>Gretal</elt><elt>Loree</elt><elt>Lorie</elt><elt>Rhea</elt>  
+  <Margette>
+    <age>63</age>
+  </Margette>
+</root>

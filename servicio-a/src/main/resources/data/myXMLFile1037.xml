@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Cimbura"
+  city="Yakutsk"
+  country="Guam"
+  firstname2="Briney"
+  lastname2="Aaberg"
+  email="Briney.Aaberg@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>75.646</random_float>
+  <bool>true</bool>
+  <date>1986-10-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Margette</elt><elt>Kaja</elt><elt>Libbie</elt><elt>Brooks</elt><elt>Hope</elt>  
+  <Briney>
+    <age>46</age>
+  </Briney>
+</root>

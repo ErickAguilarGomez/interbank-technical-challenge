@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Hailee"
+  city="Yaoundé"
+  country="Viet Nam"
+  firstname2="Marcy"
+  lastname2="Kazimir"
+  email="Marcy.Kazimir@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>17.719</random_float>
+  <bool>true</bool>
+  <date>1981-12-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Vivia</elt><elt>Aurore</elt><elt>Celisse</elt><elt>Xylina</elt><elt>Binny</elt>  
+  <Marcy>
+    <age>21</age>
+  </Marcy>
+</root>

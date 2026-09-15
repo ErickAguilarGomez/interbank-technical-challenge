@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="Bahr"
+  city="Dodoma"
+  country="Cote D"Ivoire"
+  firstname2="Clementine"
+  lastname2="Israeli"
+  email="Clementine.Israeli@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>1.783</random_float>
+  <bool>true</bool>
+  <date>1982-03-29</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carlie</elt><elt>Rivalee</elt><elt>Dorthy</elt><elt>Janeczka</elt><elt>Giustina</elt>  
+  <Clementine>
+    <age>75</age>
+  </Clementine>
+</root>

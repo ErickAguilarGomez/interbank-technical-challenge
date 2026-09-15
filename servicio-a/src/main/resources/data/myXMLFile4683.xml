@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jerry"
+  lastname="Lunsford"
+  city="Raleigh"
+  country="Netherlands"
+  firstname2="Roz"
+  lastname2="Holbrook"
+  email="Roz.Holbrook@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>52.298</random_float>
+  <bool>true</bool>
+  <date>1987-07-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Blinni</elt><elt>Dione</elt><elt>Iseabal</elt><elt>Karly</elt><elt>Hildegaard</elt>  
+  <Roz>
+    <age>30</age>
+  </Roz>
+</root>

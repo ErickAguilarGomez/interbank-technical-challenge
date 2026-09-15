@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Imojean"
+  lastname="Douglass"
+  city="Nairobi"
+  country="El Salvador"
+  firstname2="Lynea"
+  lastname2="Mott"
+  email="Lynea.Mott@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>6.335</random_float>
+  <bool>true</bool>
+  <date>1996-10-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Maridel</elt><elt>Isa</elt><elt>Chandra</elt><elt>Viviene</elt><elt>Leanna</elt>  
+  <Lynea>
+    <age>89</age>
+  </Lynea>
+</root>

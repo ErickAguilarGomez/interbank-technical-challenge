@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pamella"
+  lastname="Adore"
+  city="Tórshavn"
+  country="Turkmenistan"
+  firstname2="Aurore"
+  lastname2="Mandler"
+  email="Aurore.Mandler@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>81.349</random_float>
+  <bool>false</bool>
+  <date>1997-11-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Laure</elt><elt>Ulrike</elt><elt>Sara-Ann</elt><elt>Rebeca</elt><elt>Addia</elt>  
+  <Aurore>
+    <age>19</age>
+  </Aurore>
+</root>

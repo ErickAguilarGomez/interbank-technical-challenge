@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Patricia"
+  lastname="Aprile"
+  city="Kandahar"
+  country="Lao People"S Democratic Republic"
+  firstname2="Jessy"
+  lastname2="Telfer"
+  email="Jessy.Telfer@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>43.285</random_float>
+  <bool>false</bool>
+  <date>1989-06-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jsandye</elt><elt>Lila</elt><elt>Ayn</elt><elt>Aeriela</elt><elt>Annabela</elt>  
+  <Jessy>
+    <age>66</age>
+  </Jessy>
+</root>

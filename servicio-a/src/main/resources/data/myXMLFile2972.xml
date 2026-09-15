@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eadie"
+  lastname="Gaal"
+  city="Davao City"
+  country="Gibraltar"
+  firstname2="Josephine"
+  lastname2="Adrienne"
+  email="Josephine.Adrienne@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>80.38</random_float>
+  <bool>false</bool>
+  <date>1999-10-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mady</elt><elt>Juliane</elt><elt>Aigneis</elt><elt>Tybie</elt><elt>Kimberley</elt>  
+  <Josephine>
+    <age>98</age>
+  </Josephine>
+</root>

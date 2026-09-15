@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anica"
+  lastname="Palocz"
+  city="Prague"
+  country="Egypt"
+  firstname2="Jenilee"
+  lastname2="Radu"
+  email="Jenilee.Radu@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>70.13</random_float>
+  <bool>false</bool>
+  <date>1998-11-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alejandra</elt><elt>Almeta</elt><elt>Mariann</elt><elt>Bibby</elt><elt>Jinny</elt>  
+  <Jenilee>
+    <age>86</age>
+  </Jenilee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aigneis"
+  lastname="Anselmi"
+  city="Horta (Azores)"
+  country="Serbia and Montenegro"
+  firstname2="Randa"
+  lastname2="Presber"
+  email="Randa.Presber@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>7.624</random_float>
+  <bool>false</bool>
+  <date>1984-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jessamyn</elt><elt>Dotty</elt><elt>Kenna</elt><elt>Chloris</elt><elt>Agnese</elt>  
+  <Randa>
+    <age>65</age>
+  </Randa>
+</root>

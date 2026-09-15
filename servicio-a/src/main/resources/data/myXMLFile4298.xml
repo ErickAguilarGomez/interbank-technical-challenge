@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Drus"
+  city="Malacca Town"
+  country="Gibraltar"
+  firstname2="Larine"
+  lastname2="Merriott"
+  email="Larine.Merriott@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>37.423</random_float>
+  <bool>false</bool>
+  <date>1982-12-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Charissa</elt><elt>Cacilie</elt><elt>Pierette</elt><elt>Karlee</elt><elt>Vonny</elt>  
+  <Larine>
+    <age>97</age>
+  </Larine>
+</root>

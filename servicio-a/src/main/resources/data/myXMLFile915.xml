@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="MacIntosh"
+  city="Maputo"
+  country="Ghana"
+  firstname2="Sharai"
+  lastname2="Brodench"
+  email="Sharai.Brodench@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>38.406</random_float>
+  <bool>false</bool>
+  <date>1999-07-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mignon</elt><elt>Caritta</elt><elt>Lilith</elt><elt>Nataline</elt><elt>Alameda</elt>  
+  <Sharai>
+    <age>82</age>
+  </Sharai>
+</root>

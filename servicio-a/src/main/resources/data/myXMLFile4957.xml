@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mary"
+  lastname="Harday"
+  city="Multan"
+  country="Brunei Darussalam"
+  firstname2="Oona"
+  lastname2="Jary"
+  email="Oona.Jary@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>54.362</random_float>
+  <bool>false</bool>
+  <date>1994-02-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kathi</elt><elt>Trudie</elt><elt>Netty</elt><elt>Valeda</elt><elt>Cathyleen</elt>  
+  <Oona>
+    <age>22</age>
+  </Oona>
+</root>

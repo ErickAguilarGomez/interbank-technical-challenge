@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orelia"
+  lastname="Danby"
+  city="Dresden"
+  country="Cayman Islands"
+  firstname2="Cassondra"
+  lastname2="Ade"
+  email="Cassondra.Ade@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>97.914</random_float>
+  <bool>true</bool>
+  <date>1990-05-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Maurene</elt><elt>Stacey</elt><elt>Britni</elt><elt>Dulce</elt><elt>Sindee</elt>  
+  <Cassondra>
+    <age>61</age>
+  </Cassondra>
+</root>

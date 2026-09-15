@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Mauer"
+  city="Thimphu"
+  country="Iraq"
+  firstname2="Chastity"
+  lastname2="Milson"
+  email="Chastity.Milson@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>88.671</random_float>
+  <bool>true</bool>
+  <date>1982-02-24</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Fred</elt><elt>Nicoli</elt><elt>Kimmy</elt><elt>Lynnea</elt><elt>Joy</elt>  
+  <Chastity>
+    <age>35</age>
+  </Chastity>
+</root>

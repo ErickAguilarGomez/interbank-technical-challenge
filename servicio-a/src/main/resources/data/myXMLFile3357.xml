@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Camden"
+  city="Conakry"
+  country="Hungary"
+  firstname2="Devina"
+  lastname2="Simmonds"
+  email="Devina.Simmonds@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>85.66</random_float>
+  <bool>false</bool>
+  <date>1983-05-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nickie</elt><elt>Hayley</elt><elt>Noelle</elt><elt>Bibby</elt><elt>Ricky</elt>  
+  <Devina>
+    <age>54</age>
+  </Devina>
+</root>

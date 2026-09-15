@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Norine"
+  lastname="Zola"
+  city="Tabriz"
+  country="Sri Lanka"
+  firstname2="Merrie"
+  lastname2="Hashim"
+  email="Merrie.Hashim@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>38.018</random_float>
+  <bool>true</bool>
+  <date>1993-06-12</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Charissa</elt><elt>Penelopa</elt><elt>Trixi</elt><elt>Raquela</elt><elt>Chickie</elt>  
+  <Merrie>
+    <age>59</age>
+  </Merrie>
+</root>

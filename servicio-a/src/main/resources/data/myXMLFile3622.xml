@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hermione"
+  lastname="Elsinore"
+  city="Charlotte Amalie"
+  country="Chad"
+  firstname2="Pearline"
+  lastname2="Louanna"
+  email="Pearline.Louanna@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>70.679</random_float>
+  <bool>false</bool>
+  <date>1994-07-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kirstin</elt><elt>Cassondra</elt><elt>Elbertina</elt><elt>Emilia</elt><elt>Romona</elt>  
+  <Pearline>
+    <age>18</age>
+  </Pearline>
+</root>

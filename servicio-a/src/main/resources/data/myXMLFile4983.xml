@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Suzette"
+  lastname="Wadell"
+  city="Assis"
+  country="Mozambique"
+  firstname2="Wendi"
+  lastname2="Posner"
+  email="Wendi.Posner@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>68.51</random_float>
+  <bool>true</bool>
+  <date>1992-09-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mireielle</elt><elt>Ethel</elt><elt>Leia</elt><elt>Dulcinea</elt><elt>Paule</elt>  
+  <Wendi>
+    <age>86</age>
+  </Wendi>
+</root>

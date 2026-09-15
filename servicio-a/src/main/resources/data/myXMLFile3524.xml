@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="Naashom"
+  city="Yamoussoukro"
+  country="Austria"
+  firstname2="Cordi"
+  lastname2="Swigart"
+  email="Cordi.Swigart@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>20.322</random_float>
+  <bool>true</bool>
+  <date>1990-11-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Alameda</elt><elt>Justinn</elt><elt>Amii</elt><elt>Eadie</elt><elt>Nanete</elt>  
+  <Cordi>
+    <age>72</age>
+  </Cordi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christal"
+  lastname="Faust"
+  city="Copenhagen"
+  country="Belgium"
+  firstname2="Ebonee"
+  lastname2="Kermit"
+  email="Ebonee.Kermit@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>29.392</random_float>
+  <bool>false</bool>
+  <date>1986-01-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Heddie</elt><elt>Juliane</elt><elt>Hyacinthe</elt><elt>Mady</elt><elt>Tori</elt>  
+  <Ebonee>
+    <age>62</age>
+  </Ebonee>
+</root>

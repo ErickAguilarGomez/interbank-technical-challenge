@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Riordan"
+  city="Bratsk"
+  country="Liberia"
+  firstname2="Kial"
+  lastname2="Fink"
+  email="Kial.Fink@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>2.512</random_float>
+  <bool>false</bool>
+  <date>1980-11-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sophia</elt><elt>Natka</elt><elt>Marinna</elt><elt>Carree</elt><elt>Karlee</elt>  
+  <Kial>
+    <age>85</age>
+  </Kial>
+</root>

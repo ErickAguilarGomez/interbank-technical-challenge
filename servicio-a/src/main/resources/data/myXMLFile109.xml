@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jan"
+  lastname="Lalitta"
+  city="Enugu"
+  country="United States Minor Outlying Islands"
+  firstname2="Donetta"
+  lastname2="Gusella"
+  email="Donetta.Gusella@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>39.644</random_float>
+  <bool>true</bool>
+  <date>1988-07-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rosabelle</elt><elt>Caritta</elt><elt>Jere</elt><elt>Larine</elt><elt>Melodie</elt>  
+  <Donetta>
+    <age>82</age>
+  </Donetta>
+</root>

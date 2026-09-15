@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marita"
+  lastname="Gemini"
+  city="Nukuʻalofa"
+  country="Switzerland"
+  firstname2="Trixi"
+  lastname2="Tengdin"
+  email="Trixi.Tengdin@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>74.433</random_float>
+  <bool>true</bool>
+  <date>1993-06-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alleen</elt><elt>Shannah</elt><elt>Gratia</elt><elt>Dania</elt><elt>Anthia</elt>  
+  <Trixi>
+    <age>19</age>
+  </Trixi>
+</root>

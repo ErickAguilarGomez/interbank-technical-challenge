@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Alexandr"
+  city="Guangzhou"
+  country="Bahamas"
+  firstname2="Allyce"
+  lastname2="Pearse"
+  email="Allyce.Pearse@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>99.074</random_float>
+  <bool>true</bool>
+  <date>1985-04-29</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Shaylyn</elt><elt>Marsiella</elt><elt>Rebeca</elt><elt>Adelle</elt><elt>Deloria</elt>  
+  <Allyce>
+    <age>23</age>
+  </Allyce>
+</root>

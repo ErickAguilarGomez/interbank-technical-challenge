@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ethel"
+  lastname="Karna"
+  city="Chişinău"
+  country="Norway"
+  firstname2="Caressa"
+  lastname2="LaRue"
+  email="Caressa.LaRue@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>80.929</random_float>
+  <bool>false</bool>
+  <date>1981-07-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Stacey</elt><elt>Farrah</elt><elt>Tani</elt><elt>Margarette</elt><elt>Minne</elt>  
+  <Caressa>
+    <age>73</age>
+  </Caressa>
+</root>

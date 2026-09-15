@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blinni"
+  lastname="Fennessy"
+  city="Puerto Williams"
+  country="Madagascar"
+  firstname2="Kerrin"
+  lastname2="Elisha"
+  email="Kerrin.Elisha@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>100.7</random_float>
+  <bool>true</bool>
+  <date>1983-08-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Maridel</elt><elt>Shaylyn</elt><elt>Joceline</elt><elt>Janeczka</elt><elt>Sadie</elt>  
+  <Kerrin>
+    <age>25</age>
+  </Kerrin>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lily"
+  lastname="Toor"
+  city="San Diego"
+  country="Tonga"
+  firstname2="Ellette"
+  lastname2="Blase"
+  email="Ellette.Blase@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>3.736</random_float>
+  <bool>true</bool>
+  <date>1992-01-21</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gusty</elt><elt>Corina</elt><elt>Corry</elt><elt>Karina</elt><elt>Damaris</elt>  
+  <Ellette>
+    <age>89</age>
+  </Ellette>
+</root>

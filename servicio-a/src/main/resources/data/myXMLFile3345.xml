@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Odysseus"
+  city="Rio de Janeiro"
+  country="Nepal"
+  firstname2="Corry"
+  lastname2="Kendrick"
+  email="Corry.Kendrick@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>39.173</random_float>
+  <bool>false</bool>
+  <date>1985-11-04</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Judy</elt><elt>Flo</elt><elt>Elie</elt><elt>Ketti</elt><elt>Susan</elt>  
+  <Corry>
+    <age>47</age>
+  </Corry>
+</root>

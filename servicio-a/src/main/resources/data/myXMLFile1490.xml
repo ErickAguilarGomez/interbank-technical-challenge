@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Clie"
+  city="Milwaukee"
+  country="Micronesia, Federated States of"
+  firstname2="Margette"
+  lastname2="Daegal"
+  email="Margette.Daegal@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>85.045</random_float>
+  <bool>false</bool>
+  <date>1990-01-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rosaline</elt><elt>Emmey</elt><elt>Maryellen</elt><elt>Almeta</elt><elt>Emelina</elt>  
+  <Margette>
+    <age>30</age>
+  </Margette>
+</root>

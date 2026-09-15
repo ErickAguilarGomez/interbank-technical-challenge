@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sindee"
+  lastname="Evvie"
+  city="Algiers"
+  country="Liechtenstein"
+  firstname2="Romona"
+  lastname2="Dom"
+  email="Romona.Dom@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>13.877</random_float>
+  <bool>true</bool>
+  <date>1987-02-16</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ketti</elt><elt>Shandie</elt><elt>Marguerite</elt><elt>Kate</elt><elt>Bertine</elt>  
+  <Romona>
+    <age>22</age>
+  </Romona>
+</root>

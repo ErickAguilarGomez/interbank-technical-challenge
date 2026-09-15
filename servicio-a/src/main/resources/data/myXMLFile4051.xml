@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dyann"
+  lastname="Krystle"
+  city="Phoenix"
+  country="Micronesia, Federated States of"
+  firstname2="Kimberley"
+  lastname2="Hathaway"
+  email="Kimberley.Hathaway@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>7.254</random_float>
+  <bool>true</bool>
+  <date>1989-10-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kathi</elt><elt>Aili</elt><elt>Shauna</elt><elt>Corina</elt><elt>Drucie</elt>  
+  <Kimberley>
+    <age>84</age>
+  </Kimberley>
+</root>

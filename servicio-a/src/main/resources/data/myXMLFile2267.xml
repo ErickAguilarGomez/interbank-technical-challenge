@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ermengarde"
+  lastname="Drisko"
+  city="Thimphu"
+  country="Cook Islands"
+  firstname2="Susan"
+  lastname2="Raul"
+  email="Susan.Raul@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>22.318</random_float>
+  <bool>false</bool>
+  <date>1984-09-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Silvana</elt><elt>Korrie</elt><elt>Celestyna</elt><elt>Marline</elt><elt>Alyssa</elt>  
+  <Susan>
+    <age>63</age>
+  </Susan>
+</root>

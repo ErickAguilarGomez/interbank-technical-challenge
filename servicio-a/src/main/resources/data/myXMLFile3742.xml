@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mamie"
+  lastname="Regan"
+  city="Muscat"
+  country="Fiji"
+  firstname2="Janis"
+  lastname2="Schalles"
+  email="Janis.Schalles@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>82.991</random_float>
+  <bool>false</bool>
+  <date>1998-10-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Myrtice</elt><elt>Bibby</elt><elt>Sidoney</elt><elt>Gratia</elt><elt>Tiffie</elt>  
+  <Janis>
+    <age>53</age>
+  </Janis>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Antonietta"
+  lastname="Lunsford"
+  city="Helsinki"
+  country="Chile"
+  firstname2="Sissy"
+  lastname2="Ramona"
+  email="Sissy.Ramona@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>45.489</random_float>
+  <bool>true</bool>
+  <date>1998-01-12</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joelly</elt><elt>Lindie</elt><elt>Bettine</elt><elt>Mamie</elt><elt>Roz</elt>  
+  <Sissy>
+    <age>22</age>
+  </Sissy>
+</root>

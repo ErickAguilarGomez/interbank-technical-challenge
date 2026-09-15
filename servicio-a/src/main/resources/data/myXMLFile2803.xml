@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berget"
+  lastname="Junie"
+  city="Nice"
+  country="Bulgaria"
+  firstname2="Babita"
+  lastname2="Emmaline"
+  email="Babita.Emmaline@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>19.331</random_float>
+  <bool>false</bool>
+  <date>1989-06-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Emylee</elt><elt>Daphne</elt><elt>Roberta</elt><elt>Basia</elt><elt>Feliza</elt>  
+  <Babita>
+    <age>27</age>
+  </Babita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Lemuela"
+  city="Reykjavík"
+  country="Swaziland"
+  firstname2="Orelia"
+  lastname2="Ferino"
+  email="Orelia.Ferino@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>99.805</random_float>
+  <bool>true</bool>
+  <date>1981-08-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mildrid</elt><elt>Kaia</elt><elt>Sybille</elt><elt>Kelly</elt><elt>Karena</elt>  
+  <Orelia>
+    <age>83</age>
+  </Orelia>
+</root>

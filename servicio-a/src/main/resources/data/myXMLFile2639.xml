@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nanete"
+  lastname="Ailyn"
+  city="Valparaíso"
+  country="French Polynesia"
+  firstname2="Bernardine"
+  lastname2="Avi"
+  email="Bernardine.Avi@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>53.575</random_float>
+  <bool>false</bool>
+  <date>1991-03-15</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Gale</elt><elt>Lolita</elt><elt>Minne</elt><elt>Bibby</elt><elt>Sam</elt>  
+  <Bernardine>
+    <age>88</age>
+  </Bernardine>
+</root>

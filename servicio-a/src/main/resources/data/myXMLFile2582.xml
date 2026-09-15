@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zia"
+  lastname="Monk"
+  city="Darwin"
+  country="Norway"
+  firstname2="Kristan"
+  lastname2="Shields"
+  email="Kristan.Shields@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>73.181</random_float>
+  <bool>true</bool>
+  <date>1994-10-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Andeee</elt><elt>Jorry</elt><elt>Ottilie</elt><elt>Tina</elt><elt>Libbie</elt>  
+  <Kristan>
+    <age>78</age>
+  </Kristan>
+</root>

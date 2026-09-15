@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lenna"
+  lastname="Alejoa"
+  city="Riverside"
+  country="Moldova, Republic of"
+  firstname2="Sara-Ann"
+  lastname2="Rona"
+  email="Sara-Ann.Rona@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>68.025</random_float>
+  <bool>false</bool>
+  <date>1986-01-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Zaria</elt><elt>Lindie</elt><elt>Maud</elt><elt>Felice</elt><elt>Brooks</elt>  
+  <Sara-Ann>
+    <age>95</age>
+  </Sara-Ann>
+</root>

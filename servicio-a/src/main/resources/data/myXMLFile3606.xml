@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winny"
+  lastname="Clywd"
+  city="Athens"
+  country="Ghana"
+  firstname2="Inga"
+  lastname2="Ochs"
+  email="Inga.Ochs@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>29.535</random_float>
+  <bool>false</bool>
+  <date>1981-01-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nickie</elt><elt>Camile</elt><elt>Fanny</elt><elt>Oralee</elt><elt>Jordan</elt>  
+  <Inga>
+    <age>96</age>
+  </Inga>
+</root>

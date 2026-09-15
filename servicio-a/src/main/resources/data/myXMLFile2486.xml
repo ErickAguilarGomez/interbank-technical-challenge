@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Ellord"
+  city="Kuwait City"
+  country="Antarctica"
+  firstname2="Fanny"
+  lastname2="Robertson"
+  email="Fanny.Robertson@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>100.248</random_float>
+  <bool>false</bool>
+  <date>1993-04-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Odessa</elt><elt>Gusella</elt><elt>Selia</elt><elt>Lila</elt><elt>Brana</elt>  
+  <Fanny>
+    <age>77</age>
+  </Fanny>
+</root>

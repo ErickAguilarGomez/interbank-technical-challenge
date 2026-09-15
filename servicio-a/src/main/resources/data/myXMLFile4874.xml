@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pierette"
+  lastname="Loeb"
+  city="Linz"
+  country="Germany"
+  firstname2="Bernie"
+  lastname2="Pillsbury"
+  email="Bernie.Pillsbury@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>87.78</random_float>
+  <bool>false</bool>
+  <date>1997-10-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Celisse</elt><elt>Stacey</elt><elt>Janis</elt><elt>Mahalia</elt><elt>Brynna</elt>  
+  <Bernie>
+    <age>36</age>
+  </Bernie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andree"
+  lastname="Delacourt"
+  city="Paris"
+  country="Norfolk Island"
+  firstname2="Aaren"
+  lastname2="Argus"
+  email="Aaren.Argus@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>65.819</random_float>
+  <bool>false</bool>
+  <date>1992-09-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rebeca</elt><elt>Georgetta</elt><elt>Viki</elt><elt>Carolina</elt><elt>Maye</elt>  
+  <Aaren>
+    <age>42</age>
+  </Aaren>
+</root>

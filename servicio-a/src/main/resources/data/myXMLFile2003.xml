@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mellicent"
+  lastname="Carvey"
+  city="Gaza"
+  country="Saint Lucia"
+  firstname2="Leona"
+  lastname2="Brian"
+  email="Leona.Brian@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>57.402</random_float>
+  <bool>false</bool>
+  <date>1985-12-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Valeda</elt><elt>Blondelle</elt><elt>Michaelina</elt><elt>Karina</elt><elt>Debee</elt>  
+  <Leona>
+    <age>53</age>
+  </Leona>
+</root>

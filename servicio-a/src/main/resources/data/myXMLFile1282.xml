@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laurene"
+  lastname="Niles"
+  city="Vientiane"
+  country="Solomon Islands"
+  firstname2="Roberta"
+  lastname2="McNully"
+  email="Roberta.McNully@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>38.24</random_float>
+  <bool>true</bool>
+  <date>1992-02-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rozele</elt><elt>Jsandye</elt><elt>Tori</elt><elt>Shaine</elt><elt>Mahalia</elt>  
+  <Roberta>
+    <age>37</age>
+  </Roberta>
+</root>

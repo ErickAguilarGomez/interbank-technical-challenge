@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florencia"
+  lastname="Jagir"
+  city="Osaka"
+  country="Wallis and Futuna"
+  firstname2="Alisha"
+  lastname2="Kress"
+  email="Alisha.Kress@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>1.81</random_float>
+  <bool>false</bool>
+  <date>1984-06-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jordan</elt><elt>Sheelagh</elt><elt>Cacilie</elt><elt>Ivett</elt><elt>Kerrin</elt>  
+  <Alisha>
+    <age>97</age>
+  </Alisha>
+</root>

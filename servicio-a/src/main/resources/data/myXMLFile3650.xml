@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corly"
+  lastname="Silvan"
+  city="Brasília"
+  country="Gabon"
+  firstname2="Ariela"
+  lastname2="Greyson"
+  email="Ariela.Greyson@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>63.113</random_float>
+  <bool>true</bool>
+  <date>1987-07-29</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frances</elt><elt>Carol-Jean</elt><elt>Vevay</elt><elt>Barbara</elt><elt>Stacey</elt>  
+  <Ariela>
+    <age>61</age>
+  </Ariela>
+</root>

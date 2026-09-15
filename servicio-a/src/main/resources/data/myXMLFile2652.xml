@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brooks"
+  lastname="Alwin"
+  city="Gothenburg"
+  country="Djibouti"
+  firstname2="Oralee"
+  lastname2="Stav"
+  email="Oralee.Stav@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>58.018</random_float>
+  <bool>true</bool>
+  <date>1990-12-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lolita</elt><elt>Marleah</elt><elt>Dorice</elt><elt>Etta</elt><elt>Elbertina</elt>  
+  <Oralee>
+    <age>20</age>
+  </Oralee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulcinea"
+  lastname="Rogerio"
+  city="Kano"
+  country="Saint Pierre and Miquelon"
+  firstname2="Lelah"
+  lastname2="Federica"
+  email="Lelah.Federica@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>30.774</random_float>
+  <bool>true</bool>
+  <date>1981-01-05</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Eolanda</elt><elt>Annaliese</elt><elt>Netty</elt><elt>Darci</elt><elt>Dolli</elt>  
+  <Lelah>
+    <age>75</age>
+  </Lelah>
+</root>

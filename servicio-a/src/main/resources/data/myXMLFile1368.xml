@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dania"
+  lastname="Shama"
+  city="Phoenix"
+  country="France"
+  firstname2="Fina"
+  lastname2="Bouchard"
+  email="Fina.Bouchard@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>68.131</random_float>
+  <bool>false</bool>
+  <date>1988-07-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jolyn</elt><elt>Ottilie</elt><elt>Bernardine</elt><elt>Lucy</elt><elt>Gavrielle</elt>  
+  <Fina>
+    <age>39</age>
+  </Fina>
+</root>

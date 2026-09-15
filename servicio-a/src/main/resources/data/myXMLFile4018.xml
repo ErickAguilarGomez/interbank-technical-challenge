@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jaclyn"
+  lastname="Frendel"
+  city="Malabo"
+  country="Nigeria"
+  firstname2="Vonny"
+  lastname2="Zaslow"
+  email="Vonny.Zaslow@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>32.317</random_float>
+  <bool>false</bool>
+  <date>1993-03-28</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Letizia</elt><elt>Corina</elt><elt>Gratia</elt><elt>Tonia</elt><elt>Ida</elt>  
+  <Vonny>
+    <age>52</age>
+  </Vonny>
+</root>

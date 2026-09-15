@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Euridice"
+  city="Port of Spain"
+  country="United States Minor Outlying Islands"
+  firstname2="Celestyna"
+  lastname2="Joeann"
+  email="Celestyna.Joeann@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>28.741</random_float>
+  <bool>true</bool>
+  <date>1998-02-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Elora</elt><elt>Cassandra</elt><elt>Sabina</elt><elt>Ada</elt><elt>Desirae</elt>  
+  <Celestyna>
+    <age>33</age>
+  </Celestyna>
+</root>

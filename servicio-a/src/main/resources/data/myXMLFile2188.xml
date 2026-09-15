@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jolyn"
+  lastname="Turne"
+  city="Tartu"
+  country="Virgin Islands, U.S."
+  firstname2="Jeanna"
+  lastname2="Roche"
+  email="Jeanna.Roche@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>50.034</random_float>
+  <bool>false</bool>
+  <date>1985-06-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kelly</elt><elt>Claudina</elt><elt>Lanna</elt><elt>Kamilah</elt><elt>Estell</elt>  
+  <Jeanna>
+    <age>90</age>
+  </Jeanna>
+</root>

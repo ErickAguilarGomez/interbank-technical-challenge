@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charissa"
+  lastname="Gherardo"
+  city="Hanover"
+  country="New Caledonia"
+  firstname2="Cyndie"
+  lastname2="Cavan"
+  email="Cyndie.Cavan@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>15.031</random_float>
+  <bool>true</bool>
+  <date>1984-01-09</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jessamyn</elt><elt>Ada</elt><elt>Dania</elt><elt>Maisey</elt><elt>Kayla</elt>  
+  <Cyndie>
+    <age>47</age>
+  </Cyndie>
+</root>

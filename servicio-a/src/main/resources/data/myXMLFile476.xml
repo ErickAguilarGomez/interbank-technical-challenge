@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dawn"
+  lastname="Hertzfeld"
+  city="Naples"
+  country="Kazakhstan"
+  firstname2="Rori"
+  lastname2="Teddman"
+  email="Rori.Teddman@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>36.98</random_float>
+  <bool>false</bool>
+  <date>1996-12-16</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Deloria</elt><elt>Jenda</elt><elt>Dania</elt><elt>Max</elt><elt>Ana</elt>  
+  <Rori>
+    <age>50</age>
+  </Rori>
+</root>

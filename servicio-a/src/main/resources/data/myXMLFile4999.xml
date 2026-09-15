@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Lymann"
+  city="Harare"
+  country="Bulgaria"
+  firstname2="Vivia"
+  lastname2="Arne"
+  email="Vivia.Arne@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>79.075</random_float>
+  <bool>false</bool>
+  <date>1998-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dyann</elt><elt>Katuscha</elt><elt>Livvyy</elt><elt>Karolina</elt><elt>Shaylyn</elt>  
+  <Vivia>
+    <age>55</age>
+  </Vivia>
+</root>

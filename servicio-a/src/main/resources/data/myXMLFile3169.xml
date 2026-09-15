@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cissiee"
+  lastname="Meli"
+  city="Angra do Heroísmo"
+  country="Tanzania, United Republic of"
+  firstname2="Fred"
+  lastname2="Hanleigh"
+  email="Fred.Hanleigh@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>34.613</random_float>
+  <bool>false</bool>
+  <date>1987-07-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Benita</elt><elt>Ariela</elt><elt>Shel</elt><elt>Ann-Marie</elt><elt>Cathyleen</elt>  
+  <Fred>
+    <age>71</age>
+  </Fred>
+</root>

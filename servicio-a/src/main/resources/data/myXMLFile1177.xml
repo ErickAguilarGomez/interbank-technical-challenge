@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="Harday"
+  city="Rabi Island"
+  country="Syrian Arab Republic"
+  firstname2="Raquela"
+  lastname2="Bibi"
+  email="Raquela.Bibi@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>53.418</random_float>
+  <bool>false</bool>
+  <date>1984-06-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cristabel</elt><elt>Vita</elt><elt>Hannis</elt><elt>Dale</elt><elt>Heddie</elt>  
+  <Raquela>
+    <age>77</age>
+  </Raquela>
+</root>

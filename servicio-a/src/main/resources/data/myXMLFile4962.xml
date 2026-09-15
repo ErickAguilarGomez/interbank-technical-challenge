@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ira"
+  lastname="Euridice"
+  city="Sabha"
+  country="Iceland"
+  firstname2="Marsiella"
+  lastname2="McAdams"
+  email="Marsiella.McAdams@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>53.741</random_float>
+  <bool>true</bool>
+  <date>1981-09-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Addia</elt><elt>Sara-Ann</elt><elt>Britni</elt><elt>Mireielle</elt><elt>Alyssa</elt>  
+  <Marsiella>
+    <age>75</age>
+  </Marsiella>
+</root>

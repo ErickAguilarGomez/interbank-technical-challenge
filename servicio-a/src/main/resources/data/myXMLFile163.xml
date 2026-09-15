@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Viddah"
+  city="Hai Phong"
+  country="Iran, Islamic Republic Of"
+  firstname2="Bibby"
+  lastname2="Bashemeth"
+  email="Bibby.Bashemeth@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>15.717</random_float>
+  <bool>false</bool>
+  <date>1986-05-04</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Doralynne</elt><elt>Valli</elt><elt>Lanae</elt><elt>Mariele</elt><elt>Morganica</elt>  
+  <Bibby>
+    <age>26</age>
+  </Bibby>
+</root>

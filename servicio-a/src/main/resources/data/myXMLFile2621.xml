@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulcinea"
+  lastname="Brotherson"
+  city="City of Halifax"
+  country="Lesotho"
+  firstname2="Brandise"
+  lastname2="Nore"
+  email="Brandise.Nore@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>96.589</random_float>
+  <bool>false</bool>
+  <date>1988-01-03</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Keelia</elt><elt>Doro</elt><elt>Ariela</elt><elt>Renie</elt><elt>Kamilah</elt>  
+  <Brandise>
+    <age>59</age>
+  </Brandise>
+</root>

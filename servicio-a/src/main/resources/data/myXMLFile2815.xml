@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Havens"
+  city="Rio de Janeiro"
+  country="Tanzania, United Republic of"
+  firstname2="Hallie"
+  lastname2="Jaylene"
+  email="Hallie.Jaylene@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>98.9</random_float>
+  <bool>false</bool>
+  <date>1985-10-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tori</elt><elt>Willetta</elt><elt>Shannah</elt><elt>Stevana</elt><elt>Michaelina</elt>  
+  <Hallie>
+    <age>82</age>
+  </Hallie>
+</root>

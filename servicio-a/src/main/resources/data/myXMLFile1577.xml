@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gaylene"
+  lastname="Hathaway"
+  city="Adak"
+  country="Algeria"
+  firstname2="Aryn"
+  lastname2="Hailee"
+  email="Aryn.Hailee@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>38.718</random_float>
+  <bool>false</bool>
+  <date>1988-11-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Darci</elt><elt>Aryn</elt><elt>Dyann</elt><elt>Selma</elt><elt>Vita</elt>  
+  <Aryn>
+    <age>40</age>
+  </Aryn>
+</root>

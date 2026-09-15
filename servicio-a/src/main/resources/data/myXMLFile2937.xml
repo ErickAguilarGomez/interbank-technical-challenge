@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marinna"
+  lastname="Hull"
+  city="Nicosia"
+  country="Georgia"
+  firstname2="Meriel"
+  lastname2="Talia"
+  email="Meriel.Talia@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>80.327</random_float>
+  <bool>false</bool>
+  <date>1989-02-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elena</elt><elt>Louella</elt><elt>Cassondra</elt><elt>Tami</elt><elt>Kore</elt>  
+  <Meriel>
+    <age>29</age>
+  </Meriel>
+</root>

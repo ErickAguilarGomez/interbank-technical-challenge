@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donnie"
+  lastname="Ramona"
+  city="Buenos Aires"
+  country="Saint Kitts and Nevis"
+  firstname2="Emmey"
+  lastname2="Keelia"
+  email="Emmey.Keelia@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>45.072</random_float>
+  <bool>true</bool>
+  <date>1992-02-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Suzette</elt><elt>Moyna</elt><elt>Mathilda</elt><elt>Kenna</elt><elt>Misha</elt>  
+  <Emmey>
+    <age>88</age>
+  </Emmey>
+</root>

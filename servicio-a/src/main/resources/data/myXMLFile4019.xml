@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Xylina"
+  lastname="Weinreb"
+  city="Stepanakert"
+  country="China"
+  firstname2="Micheline"
+  lastname2="Denis"
+  email="Micheline.Denis@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>64.884</random_float>
+  <bool>false</bool>
+  <date>1990-03-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alia</elt><elt>Nikki</elt><elt>Ursulina</elt><elt>Annaliese</elt><elt>Olwen</elt>  
+  <Micheline>
+    <age>18</age>
+  </Micheline>
+</root>

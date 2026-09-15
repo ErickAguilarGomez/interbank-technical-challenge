@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Babita"
+  lastname="Mathilde"
+  city="Iquitos"
+  country="Norway"
+  firstname2="Binny"
+  lastname2="Neva"
+  email="Binny.Neva@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>7.166</random_float>
+  <bool>false</bool>
+  <date>1982-01-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Concettina</elt><elt>Raina</elt><elt>Lacie</elt><elt>Heddie</elt><elt>Krystle</elt>  
+  <Binny>
+    <age>31</age>
+  </Binny>
+</root>

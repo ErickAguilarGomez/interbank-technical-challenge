@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dawn"
+  lastname="Edmund"
+  city="Nukus"
+  country="Switzerland"
+  firstname2="Evita"
+  lastname2="Percy"
+  email="Evita.Percy@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>94.867</random_float>
+  <bool>true</bool>
+  <date>1993-04-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Linet</elt><elt>Shaine</elt><elt>Corry</elt><elt>Nannie</elt><elt>Stephanie</elt>  
+  <Evita>
+    <age>70</age>
+  </Evita>
+</root>

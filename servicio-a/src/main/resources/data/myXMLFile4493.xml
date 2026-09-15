@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heddie"
+  lastname="Roxanna"
+  city="Thiès"
+  country="Senegal"
+  firstname2="Emelina"
+  lastname2="Elephus"
+  email="Emelina.Elephus@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>72.998</random_float>
+  <bool>false</bool>
+  <date>1981-10-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Georgina</elt><elt>Amelia</elt><elt>Ketti</elt><elt>Clarice</elt><elt>Caritta</elt>  
+  <Emelina>
+    <age>41</age>
+  </Emelina>
+</root>

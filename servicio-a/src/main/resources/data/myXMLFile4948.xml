@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernie"
+  lastname="Ashok"
+  city="Cuiabá"
+  country="Tanzania, United Republic of"
+  firstname2="Starla"
+  lastname2="Lutero"
+  email="Starla.Lutero@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>50.536</random_float>
+  <bool>false</bool>
+  <date>1984-07-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elbertina</elt><elt>Georgetta</elt><elt>Janis</elt><elt>Linet</elt><elt>Courtnay</elt>  
+  <Starla>
+    <age>78</age>
+  </Starla>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Aurelio"
+  city="Dar es Salaam"
+  country="Congo"
+  firstname2="Lesly"
+  lastname2="Holbrook"
+  email="Lesly.Holbrook@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>98.268</random_float>
+  <bool>false</bool>
+  <date>1991-05-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Berget</elt><elt>Hermione</elt><elt>Lizzie</elt><elt>Constance</elt><elt>Dorice</elt>  
+  <Lesly>
+    <age>88</age>
+  </Lesly>
+</root>

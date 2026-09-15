@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nollie"
+  lastname="Hartnett"
+  city="Thessaloniki"
+  country="Zimbabwe"
+  firstname2="Nananne"
+  lastname2="Arne"
+  email="Nananne.Arne@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>60.368</random_float>
+  <bool>true</bool>
+  <date>1996-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Berta</elt><elt>Addia</elt><elt>Heida</elt><elt>Meghann</elt><elt>Christy</elt>  
+  <Nananne>
+    <age>40</age>
+  </Nananne>
+</root>

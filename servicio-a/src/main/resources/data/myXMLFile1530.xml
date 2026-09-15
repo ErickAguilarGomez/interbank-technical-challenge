@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Max"
+  lastname="Posner"
+  city="Zanzibar City"
+  country="Turks and Caicos Islands"
+  firstname2="Mamie"
+  lastname2="Claudine"
+  email="Mamie.Claudine@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>60.13</random_float>
+  <bool>true</bool>
+  <date>1985-07-29</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Stephanie</elt><elt>Pearline</elt><elt>Johna</elt><elt>Claudina</elt><elt>Hollie</elt>  
+  <Mamie>
+    <age>63</age>
+  </Mamie>
+</root>

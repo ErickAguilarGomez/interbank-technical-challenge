@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Priscilla"
+  lastname="Seligman"
+  city="San Fernando"
+  country="Liechtenstein"
+  firstname2="Lacie"
+  lastname2="Kussell"
+  email="Lacie.Kussell@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>76.822</random_float>
+  <bool>true</bool>
+  <date>1985-05-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Beverley</elt><elt>Hallie</elt><elt>Marjie</elt><elt>Elfreda</elt><elt>Helena</elt>  
+  <Lacie>
+    <age>71</age>
+  </Lacie>
+</root>

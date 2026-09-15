@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arabel"
+  lastname="Brieta"
+  city="Lilongwe"
+  country="Turkey"
+  firstname2="Korrie"
+  lastname2="Zenas"
+  email="Korrie.Zenas@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>15.046</random_float>
+  <bool>true</bool>
+  <date>1987-04-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Heddie</elt><elt>Neila</elt><elt>Kimmy</elt><elt>Lacie</elt><elt>Blinni</elt>  
+  <Korrie>
+    <age>39</age>
+  </Korrie>
+</root>

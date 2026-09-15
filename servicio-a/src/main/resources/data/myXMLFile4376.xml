@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosanne"
+  lastname="Mallon"
+  city="Forked River"
+  country="Northern Mariana Islands"
+  firstname2="Florencia"
+  lastname2="Edee"
+  email="Florencia.Edee@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>70.704</random_float>
+  <bool>true</bool>
+  <date>1990-04-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sallie</elt><elt>Lilith</elt><elt>Molli</elt><elt>Kelly</elt><elt>Elsie</elt>  
+  <Florencia>
+    <age>92</age>
+  </Florencia>
+</root>

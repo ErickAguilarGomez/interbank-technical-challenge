@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Bluh"
+  city="Ouagadougou"
+  country="Martinique"
+  firstname2="Odessa"
+  lastname2="Dermott"
+  email="Odessa.Dermott@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>42.067</random_float>
+  <bool>true</bool>
+  <date>1992-09-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Shannah</elt><elt>Valli</elt><elt>Lindie</elt><elt>Adele</elt><elt>Liana</elt>  
+  <Odessa>
+    <age>59</age>
+  </Odessa>
+</root>

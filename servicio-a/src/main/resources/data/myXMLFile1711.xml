@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britni"
+  lastname="Fennessy"
+  city="Bamako"
+  country="Nigeria"
+  firstname2="Madelle"
+  lastname2="Rustice"
+  email="Madelle.Rustice@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>58.526</random_float>
+  <bool>false</bool>
+  <date>1997-03-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lolita</elt><elt>Vivia</elt><elt>Nanete</elt><elt>Johna</elt><elt>Rosabelle</elt>  
+  <Madelle>
+    <age>58</age>
+  </Madelle>
+</root>

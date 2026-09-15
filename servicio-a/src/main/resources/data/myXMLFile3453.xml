@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sadie"
+  lastname="Seligman"
+  city="Shanghai"
+  country="Jersey"
+  firstname2="Andeee"
+  lastname2="Ochs"
+  email="Andeee.Ochs@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>26.656</random_float>
+  <bool>true</bool>
+  <date>1986-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Katuscha</elt><elt>Fanny</elt><elt>Dorothy</elt><elt>Nananne</elt><elt>Tersina</elt>  
+  <Andeee>
+    <age>27</age>
+  </Andeee>
+</root>

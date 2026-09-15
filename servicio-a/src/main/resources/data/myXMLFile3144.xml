@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gertrud"
+  lastname="Tippets"
+  city="Bandar Seri Begawan"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Eve"
+  lastname2="Eugenia"
+  email="Eve.Eugenia@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>90.635</random_float>
+  <bool>false</bool>
+  <date>1983-06-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jolyn</elt><elt>Rozele</elt><elt>Mallory</elt><elt>Mathilda</elt><elt>Cassondra</elt>  
+  <Eve>
+    <age>84</age>
+  </Eve>
+</root>

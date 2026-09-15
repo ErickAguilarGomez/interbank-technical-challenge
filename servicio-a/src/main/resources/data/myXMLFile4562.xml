@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristan"
+  lastname="Adrienne"
+  city="Nantes"
+  country="Northern Mariana Islands"
+  firstname2="Anallese"
+  lastname2="Capello"
+  email="Anallese.Capello@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>69.244</random_float>
+  <bool>false</bool>
+  <date>1998-07-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deedee</elt><elt>Taffy</elt><elt>Anica</elt><elt>Paola</elt><elt>Eadie</elt>  
+  <Anallese>
+    <age>23</age>
+  </Anallese>
+</root>

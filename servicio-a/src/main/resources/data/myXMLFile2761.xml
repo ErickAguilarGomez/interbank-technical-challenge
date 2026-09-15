@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Tice"
+  city="Yangon"
+  country="New Zealand"
+  firstname2="Kary"
+  lastname2="Erich"
+  email="Kary.Erich@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>26.223</random_float>
+  <bool>false</bool>
+  <date>1982-01-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Steffane</elt><elt>Lesly</elt><elt>Leia</elt><elt>Calla</elt><elt>Lanae</elt>  
+  <Kary>
+    <age>27</age>
+  </Kary>
+</root>

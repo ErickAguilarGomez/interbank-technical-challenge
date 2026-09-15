@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariele"
+  lastname="Zuzana"
+  city="Belmopan"
+  country="Qatar"
+  firstname2="Adriana"
+  lastname2="Teddman"
+  email="Adriana.Teddman@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>32.287</random_float>
+  <bool>true</bool>
+  <date>1987-05-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Larine</elt><elt>Lonnie</elt><elt>Karena</elt><elt>Moyna</elt><elt>Fredericka</elt>  
+  <Adriana>
+    <age>55</age>
+  </Adriana>
+</root>

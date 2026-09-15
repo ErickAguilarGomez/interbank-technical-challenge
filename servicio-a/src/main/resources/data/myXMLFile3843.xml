@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Prouty"
+  city="Jerusalem"
+  country="China"
+  firstname2="Linzy"
+  lastname2="Weitman"
+  email="Linzy.Weitman@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>49.544</random_float>
+  <bool>false</bool>
+  <date>1992-11-25</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kalina</elt><elt>Aryn</elt><elt>Paule</elt><elt>Edyth</elt><elt>Tori</elt>  
+  <Linzy>
+    <age>45</age>
+  </Linzy>
+</root>

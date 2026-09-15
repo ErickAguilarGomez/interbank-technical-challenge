@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kenna"
+  lastname="Llovera"
+  city="Amritsar"
+  country="Guam"
+  firstname2="Aurore"
+  lastname2="Margarete"
+  email="Aurore.Margarete@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>78.226</random_float>
+  <bool>true</bool>
+  <date>1990-06-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Layla</elt><elt>Di</elt><elt>Rivalee</elt><elt>Correy</elt><elt>Tera</elt>  
+  <Aurore>
+    <age>70</age>
+  </Aurore>
+</root>

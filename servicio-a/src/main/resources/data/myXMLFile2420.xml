@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emilia"
+  lastname="Hutchison"
+  city="Tamale"
+  country="Hong Kong"
+  firstname2="June"
+  lastname2="Kussell"
+  email="June.Kussell@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>42.848</random_float>
+  <bool>false</bool>
+  <date>1998-02-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dorothy</elt><elt>Nannie</elt><elt>Annaliese</elt><elt>Brena</elt><elt>Averyl</elt>  
+  <June>
+    <age>74</age>
+  </June>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Melony"
+  city="São José dos Campos"
+  country="Portugal"
+  firstname2="Kelly"
+  lastname2="Bigner"
+  email="Kelly.Bigner@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>37.756</random_float>
+  <bool>true</bool>
+  <date>1989-07-02</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Katuscha</elt><elt>Raina</elt><elt>Helsa</elt><elt>Ardenia</elt><elt>Shandie</elt>  
+  <Kelly>
+    <age>41</age>
+  </Kelly>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lolita"
+  lastname="Gemini"
+  city="Riyadh"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Hollie"
+  lastname2="Willie"
+  email="Hollie.Willie@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>90.385</random_float>
+  <bool>false</bool>
+  <date>1981-05-18</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Florie</elt><elt>Clarice</elt><elt>Hildegaard</elt><elt>Brianna</elt><elt>Lorenza</elt>  
+  <Hollie>
+    <age>84</age>
+  </Hollie>
+</root>

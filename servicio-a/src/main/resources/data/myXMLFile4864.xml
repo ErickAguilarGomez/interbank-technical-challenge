@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Mata"
+  city="Chittagong"
+  country="Central African Republic"
+  firstname2="Albertina"
+  lastname2="Shaddock"
+  email="Albertina.Shaddock@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>44.599</random_float>
+  <bool>true</bool>
+  <date>1985-09-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cristine</elt><elt>Ernesta</elt><elt>Ira</elt><elt>Lilith</elt><elt>Ellette</elt>  
+  <Albertina>
+    <age>18</age>
+  </Albertina>
+</root>

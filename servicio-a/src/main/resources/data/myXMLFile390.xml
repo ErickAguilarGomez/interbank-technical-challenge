@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Keily"
+  city="Saint-Pierre"
+  country="Taiwan, Province of China"
+  firstname2="Latisha"
+  lastname2="Allare"
+  email="Latisha.Allare@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>78.431</random_float>
+  <bool>false</bool>
+  <date>1985-04-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sindee</elt><elt>Camile</elt><elt>Amelia</elt><elt>Sibella</elt><elt>June</elt>  
+  <Latisha>
+    <age>38</age>
+  </Latisha>
+</root>

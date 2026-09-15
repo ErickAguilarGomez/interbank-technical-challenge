@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Kevon"
+  city="São Tomé"
+  country="United States"
+  firstname2="Brietta"
+  lastname2="Delp"
+  email="Brietta.Delp@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>19.547</random_float>
+  <bool>false</bool>
+  <date>1989-06-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Roxane</elt><elt>Deane</elt><elt>Alie</elt><elt>Karina</elt><elt>Alie</elt>  
+  <Brietta>
+    <age>71</age>
+  </Brietta>
+</root>

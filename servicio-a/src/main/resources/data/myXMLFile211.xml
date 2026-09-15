@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laurene"
+  lastname="Corrine"
+  city="Ushuaia"
+  country="Macao"
+  firstname2="Tersina"
+  lastname2="Ahab"
+  email="Tersina.Ahab@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>11.08</random_float>
+  <bool>false</bool>
+  <date>1992-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dede</elt><elt>Gratia</elt><elt>Briney</elt><elt>Sallie</elt><elt>Linzy</elt>  
+  <Tersina>
+    <age>42</age>
+  </Tersina>
+</root>

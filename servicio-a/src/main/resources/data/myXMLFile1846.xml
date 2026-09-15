@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joleen"
+  lastname="Jefferey"
+  city="Saipan"
+  country="Panama"
+  firstname2="Dacia"
+  lastname2="Ventre"
+  email="Dacia.Ventre@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>29.193</random_float>
+  <bool>false</bool>
+  <date>1997-02-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Winifred</elt><elt>Sharlene</elt><elt>Leona</elt><elt>Viviene</elt><elt>Frances</elt>  
+  <Dacia>
+    <age>79</age>
+  </Dacia>
+</root>

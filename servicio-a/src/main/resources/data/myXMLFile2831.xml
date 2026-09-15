@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Idelia"
+  city="Hargeisa"
+  country="Comoros"
+  firstname2="Vivia"
+  lastname2="Sholley"
+  email="Vivia.Sholley@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>33.091</random_float>
+  <bool>false</bool>
+  <date>1990-05-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Corry</elt><elt>Harrietta</elt><elt>Adelle</elt><elt>Starla</elt><elt>Alia</elt>  
+  <Vivia>
+    <age>50</age>
+  </Vivia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Hirsch"
+  city="Belize City"
+  country="San Marino"
+  firstname2="Gui"
+  lastname2="Rebecka"
+  email="Gui.Rebecka@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>26.043</random_float>
+  <bool>false</bool>
+  <date>1981-08-23</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kelly</elt><elt>Phylis</elt><elt>Gisela</elt><elt>Ariela</elt><elt>Kathi</elt>  
+  <Gui>
+    <age>37</age>
+  </Gui>
+</root>

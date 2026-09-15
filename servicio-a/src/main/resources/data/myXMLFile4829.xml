@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aeriela"
+  lastname="Ovid"
+  city="Abu Dhabi"
+  country="Russian Federation"
+  firstname2="Dolli"
+  lastname2="Elbertina"
+  email="Dolli.Elbertina@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>56.656</random_float>
+  <bool>true</bool>
+  <date>1991-01-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Starla</elt><elt>Gloria</elt><elt>Dorthy</elt><elt>Hallie</elt><elt>Olivette</elt>  
+  <Dolli>
+    <age>57</age>
+  </Dolli>
+</root>

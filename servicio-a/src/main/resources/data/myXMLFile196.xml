@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Dyche"
+  city="Calama"
+  country="India"
+  firstname2="Corly"
+  lastname2="Honoria"
+  email="Corly.Honoria@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>78.103</random_float>
+  <bool>true</bool>
+  <date>1999-12-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ursulina</elt><elt>Averyl</elt><elt>Gratia</elt><elt>Kristina</elt><elt>Mamie</elt>  
+  <Corly>
+    <age>25</age>
+  </Corly>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joceline"
+  lastname="Codding"
+  city="Aarhus"
+  country="Bhutan"
+  firstname2="Fidelia"
+  lastname2="Diann"
+  email="Fidelia.Diann@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>42.169</random_float>
+  <bool>true</bool>
+  <date>1992-10-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Frances</elt><elt>Amalie</elt><elt>Dianemarie</elt><elt>Petronia</elt><elt>Gianina</elt>  
+  <Fidelia>
+    <age>50</age>
+  </Fidelia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tera"
+  lastname="Jerald"
+  city="Willemstad"
+  country="Brazil"
+  firstname2="Belinda"
+  lastname2="Raychel"
+  email="Belinda.Raychel@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>25.76</random_float>
+  <bool>true</bool>
+  <date>1992-08-08</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hyacinthe</elt><elt>Daryl</elt><elt>Sam</elt><elt>Jemie</elt><elt>Frieda</elt>  
+  <Belinda>
+    <age>33</age>
+  </Belinda>
+</root>

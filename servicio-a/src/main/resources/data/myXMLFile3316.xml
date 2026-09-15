@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tarra"
+  lastname="Melony"
+  city="Cleveland"
+  country="Gambia"
+  firstname2="Linet"
+  lastname2="Kress"
+  email="Linet.Kress@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>89.955</random_float>
+  <bool>true</bool>
+  <date>1988-02-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jobi</elt><elt>Juliane</elt><elt>Kate</elt><elt>Rhea</elt><elt>Lauryn</elt>  
+  <Linet>
+    <age>25</age>
+  </Linet>
+</root>

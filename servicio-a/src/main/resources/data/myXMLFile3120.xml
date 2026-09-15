@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claresta"
+  lastname="Albertine"
+  city="Tamale"
+  country="Luxembourg"
+  firstname2="Aurore"
+  lastname2="Bohlin"
+  email="Aurore.Bohlin@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>10.334</random_float>
+  <bool>false</bool>
+  <date>1982-10-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alexine</elt><elt>Elise</elt><elt>Sue</elt><elt>Belva</elt><elt>Yetty</elt>  
+  <Aurore>
+    <age>68</age>
+  </Aurore>
+</root>

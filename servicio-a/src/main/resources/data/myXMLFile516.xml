@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulcinea"
+  lastname="Seligman"
+  city="Ponta Delgada"
+  country="Eritrea"
+  firstname2="Dennie"
+  lastname2="Egbert"
+  email="Dennie.Egbert@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>35.111</random_float>
+  <bool>false</bool>
+  <date>1992-11-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fanny</elt><elt>Kaja</elt><elt>Nikki</elt><elt>Elena</elt><elt>Dulce</elt>  
+  <Dennie>
+    <age>27</age>
+  </Dennie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lesly"
+  lastname="Ietta"
+  city="Veracruz"
+  country="Burkina Faso"
+  firstname2="Raf"
+  lastname2="Liebermann"
+  email="Raf.Liebermann@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>67.326</random_float>
+  <bool>false</bool>
+  <date>1989-12-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gusty</elt><elt>Gianina</elt><elt>Sara-Ann</elt><elt>Lonnie</elt><elt>Arlena</elt>  
+  <Raf>
+    <age>42</age>
+  </Raf>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharlene"
+  lastname="Newell"
+  city="Nukuʻalofa"
+  country="Guyana"
+  firstname2="Gusella"
+  lastname2="Idelia"
+  email="Gusella.Idelia@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>88.082</random_float>
+  <bool>false</bool>
+  <date>1985-03-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Donnie</elt><elt>Rochette</elt><elt>Daphne</elt><elt>Harmonia</elt><elt>Peri</elt>  
+  <Gusella>
+    <age>61</age>
+  </Gusella>
+</root>

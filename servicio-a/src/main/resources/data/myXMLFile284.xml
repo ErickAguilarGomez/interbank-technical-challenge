@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allyce"
+  lastname="Anastatius"
+  city="Colombo"
+  country="Saint Pierre and Miquelon"
+  firstname2="Janeczka"
+  lastname2="Armanda"
+  email="Janeczka.Armanda@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>58.383</random_float>
+  <bool>true</bool>
+  <date>1994-06-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ninnetta</elt><elt>Marinna</elt><elt>Stephanie</elt><elt>Estell</elt><elt>Joceline</elt>  
+  <Janeczka>
+    <age>87</age>
+  </Janeczka>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harrietta"
+  lastname="Mich"
+  city="Birmingham"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Genovera"
+  lastname2="Bohlin"
+  email="Genovera.Bohlin@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>59.939</random_float>
+  <bool>false</bool>
+  <date>1989-01-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nita</elt><elt>Perry</elt><elt>Jean</elt><elt>Doro</elt><elt>Letizia</elt>  
+  <Genovera>
+    <age>90</age>
+  </Genovera>
+</root>

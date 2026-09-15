@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Grier"
+  lastname="Macey"
+  city="Glasgow"
+  country="Liechtenstein"
+  firstname2="Tarra"
+  lastname2="Kress"
+  email="Tarra.Kress@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>92.907</random_float>
+  <bool>true</bool>
+  <date>1998-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Beth</elt><elt>Dulce</elt><elt>Gisela</elt><elt>Mellicent</elt><elt>Deedee</elt>  
+  <Tarra>
+    <age>44</age>
+  </Tarra>
+</root>

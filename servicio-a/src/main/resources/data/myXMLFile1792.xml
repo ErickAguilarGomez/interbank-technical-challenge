@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Asia"
+  lastname="Sikorski"
+  city="Indianapolis"
+  country="Macao"
+  firstname2="Georgina"
+  lastname2="Selway"
+  email="Georgina.Selway@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>75.183</random_float>
+  <bool>true</bool>
+  <date>1994-07-08</date>
+  <regEx>hellooooo world</regEx>
+  <enum>online</enum>
+  <elt>Katleen</elt><elt>Antonietta</elt><elt>Latisha</elt><elt>Mildrid</elt><elt>Annaliese</elt>  
+  <Georgina>
+    <age>29</age>
+  </Georgina>
+</root>

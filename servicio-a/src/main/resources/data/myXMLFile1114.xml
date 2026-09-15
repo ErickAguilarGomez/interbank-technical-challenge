@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laurene"
+  lastname="Docilla"
+  city="Hamilton"
+  country="Timor-Leste"
+  firstname2="Cam"
+  lastname2="Lauraine"
+  email="Cam.Lauraine@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>45.555</random_float>
+  <bool>false</bool>
+  <date>1996-10-16</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Maud</elt><elt>Bobbi</elt><elt>Phedra</elt><elt>Rhea</elt><elt>Blake</elt>  
+  <Cam>
+    <age>59</age>
+  </Cam>
+</root>

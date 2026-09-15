@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jean"
+  lastname="Simmonds"
+  city="Cleveland"
+  country="Palestinian Territory, Occupied"
+  firstname2="Nicoli"
+  lastname2="Tice"
+  email="Nicoli.Tice@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>4.033</random_float>
+  <bool>true</bool>
+  <date>1982-05-21</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Cacilie</elt><elt>Ana</elt><elt>Amalie</elt><elt>Nanete</elt><elt>Celisse</elt>  
+  <Nicoli>
+    <age>95</age>
+  </Nicoli>
+</root>

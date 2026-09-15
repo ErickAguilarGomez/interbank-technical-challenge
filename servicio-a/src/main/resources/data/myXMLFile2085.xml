@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brandise"
+  lastname="Angelis"
+  city="Hangzhou"
+  country="Saint Kitts and Nevis"
+  firstname2="Carol-Jean"
+  lastname2="Rona"
+  email="Carol-Jean.Rona@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>67.681</random_float>
+  <bool>true</bool>
+  <date>1999-10-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Collen</elt><elt>Merrie</elt><elt>Odessa</elt><elt>Florencia</elt><elt>Aaren</elt>  
+  <Carol-Jean>
+    <age>83</age>
+  </Carol-Jean>
+</root>

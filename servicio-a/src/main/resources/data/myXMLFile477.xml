@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Binny"
+  lastname="Silvan"
+  city="Warsaw"
+  country="Costa Rica"
+  firstname2="Aimil"
+  lastname2="Heisel"
+  email="Aimil.Heisel@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>25.926</random_float>
+  <bool>false</bool>
+  <date>1991-02-08</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nariko</elt><elt>Emylee</elt><elt>Deane</elt><elt>Myrtice</elt><elt>Georgina</elt>  
+  <Aimil>
+    <age>21</age>
+  </Aimil>
+</root>

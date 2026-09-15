@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dione"
+  lastname="Raffo"
+  city="Lhasa"
+  country="Maldives"
+  firstname2="Ottilie"
+  lastname2="Lewes"
+  email="Ottilie.Lewes@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>31.879</random_float>
+  <bool>true</bool>
+  <date>1986-03-11</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Annecorinne</elt><elt>Ebonee</elt><elt>Caritta</elt><elt>Mady</elt><elt>Camile</elt>  
+  <Ottilie>
+    <age>45</age>
+  </Ottilie>
+</root>

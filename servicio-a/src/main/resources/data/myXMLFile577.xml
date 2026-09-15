@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Giustina"
+  lastname="Gusella"
+  city="Brikama"
+  country="Nicaragua"
+  firstname2="Marjie"
+  lastname2="Felizio"
+  email="Marjie.Felizio@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>59.653</random_float>
+  <bool>true</bool>
+  <date>1984-04-11</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sharlene</elt><elt>Ann-Marie</elt><elt>Catrina</elt><elt>Felice</elt><elt>Jacenta</elt>  
+  <Marjie>
+    <age>35</age>
+  </Marjie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carly"
+  lastname="Dorine"
+  city="Port Blair"
+  country="Barbados"
+  firstname2="Elora"
+  lastname2="Ilka"
+  email="Elora.Ilka@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>95.052</random_float>
+  <bool>true</bool>
+  <date>1981-12-12</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Grier</elt><elt>Lyssa</elt><elt>Jeanna</elt><elt>Dari</elt><elt>Wanda</elt>  
+  <Elora>
+    <age>58</age>
+  </Elora>
+</root>

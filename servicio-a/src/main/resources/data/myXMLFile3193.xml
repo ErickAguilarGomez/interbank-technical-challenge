@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanna"
+  lastname="Stav"
+  city="South Tarawa"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Christy"
+  lastname2="Meli"
+  email="Christy.Meli@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>54.148</random_float>
+  <bool>false</bool>
+  <date>1999-09-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jorry</elt><elt>Ann-Marie</elt><elt>Ginnie</elt><elt>Wynne</elt><elt>Katuscha</elt>  
+  <Christy>
+    <age>45</age>
+  </Christy>
+</root>

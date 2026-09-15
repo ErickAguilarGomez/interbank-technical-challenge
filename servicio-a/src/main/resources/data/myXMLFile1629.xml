@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beverley"
+  lastname="Teryn"
+  city="Palikir"
+  country="Bolivia"
+  firstname2="Cathyleen"
+  lastname2="Saint"
+  email="Cathyleen.Saint@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>40.668</random_float>
+  <bool>true</bool>
+  <date>1992-09-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Katharina</elt><elt>Nanete</elt><elt>Sandie</elt><elt>Lanae</elt><elt>Pamella</elt>  
+  <Cathyleen>
+    <age>74</age>
+  </Cathyleen>
+</root>

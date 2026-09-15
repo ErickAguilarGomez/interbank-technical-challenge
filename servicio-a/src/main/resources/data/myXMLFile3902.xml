@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="O'Rourke"
+  city="Weno"
+  country="Moldova, Republic of"
+  firstname2="Hettie"
+  lastname2="Matthew"
+  email="Hettie.Matthew@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>20.429</random_float>
+  <bool>true</bool>
+  <date>1997-03-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brianna</elt><elt>Ricky</elt><elt>Belinda</elt><elt>Linet</elt><elt>Paulita</elt>  
+  <Hettie>
+    <age>44</age>
+  </Hettie>
+</root>

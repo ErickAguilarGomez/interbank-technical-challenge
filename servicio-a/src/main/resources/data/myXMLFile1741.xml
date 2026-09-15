@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobinette"
+  lastname="Bashemeth"
+  city="Bucharest"
+  country="Nigeria"
+  firstname2="Carly"
+  lastname2="Letsou"
+  email="Carly.Letsou@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>48.307</random_float>
+  <bool>false</bool>
+  <date>1990-12-31</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ira</elt><elt>Morganica</elt><elt>Sam</elt><elt>Agnese</elt><elt>Olwen</elt>  
+  <Carly>
+    <age>94</age>
+  </Carly>
+</root>

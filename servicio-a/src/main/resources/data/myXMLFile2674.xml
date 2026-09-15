@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chandra"
+  lastname="Ranjiv"
+  city="Johannesburg"
+  country="New Caledonia"
+  firstname2="Yetty"
+  lastname2="Posner"
+  email="Yetty.Posner@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>37.146</random_float>
+  <bool>true</bool>
+  <date>1999-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Carmencita</elt><elt>Shel</elt><elt>Jennica</elt><elt>Lindie</elt><elt>Anthia</elt>  
+  <Yetty>
+    <age>60</age>
+  </Yetty>
+</root>

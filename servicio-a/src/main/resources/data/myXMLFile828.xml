@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Hertzfeld"
+  city="Hai Phong"
+  country="French Polynesia"
+  firstname2="Meriel"
+  lastname2="Newell"
+  email="Meriel.Newell@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>74.887</random_float>
+  <bool>false</bool>
+  <date>1982-05-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dagmar</elt><elt>Corly</elt><elt>Aaren</elt><elt>Aeriela</elt><elt>Carly</elt>  
+  <Meriel>
+    <age>39</age>
+  </Meriel>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nikki"
+  lastname="Yuille"
+  city="Ho Chi Minh City"
+  country="Angola"
+  firstname2="Nadine"
+  lastname2="Firmin"
+  email="Nadine.Firmin@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>68.535</random_float>
+  <bool>false</bool>
+  <date>1992-05-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nyssa</elt><elt>Raquela</elt><elt>Bobbi</elt><elt>Ann-Marie</elt><elt>Edith</elt>  
+  <Nadine>
+    <age>79</age>
+  </Nadine>
+</root>

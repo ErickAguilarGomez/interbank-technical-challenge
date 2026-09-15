@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimberley"
+  lastname="Darian"
+  city="Prague"
+  country="Trinidad and Tobago"
+  firstname2="Sadie"
+  lastname2="Hathaway"
+  email="Sadie.Hathaway@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>91.216</random_float>
+  <bool>true</bool>
+  <date>1983-10-06</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cristine</elt><elt>Cacilie</elt><elt>Danny</elt><elt>Chere</elt><elt>Harmonia</elt>  
+  <Sadie>
+    <age>40</age>
+  </Sadie>
+</root>

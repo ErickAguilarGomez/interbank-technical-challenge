@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Annice"
+  city="Ilhéus"
+  country="Burundi"
+  firstname2="Gilda"
+  lastname2="Lamoree"
+  email="Gilda.Lamoree@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>68.064</random_float>
+  <bool>true</bool>
+  <date>1981-09-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lauryn</elt><elt>Cathie</elt><elt>Taffy</elt><elt>Sonni</elt><elt>Sissy</elt>  
+  <Gilda>
+    <age>50</age>
+  </Gilda>
+</root>

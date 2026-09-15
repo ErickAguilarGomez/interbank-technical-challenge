@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alameda"
+  lastname="Carlson"
+  city="Lobamba"
+  country="Northern Mariana Islands"
+  firstname2="Agathe"
+  lastname2="Tamar"
+  email="Agathe.Tamar@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>69.162</random_float>
+  <bool>false</bool>
+  <date>1996-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lorenza</elt><elt>Bernardine</elt><elt>Damaris</elt><elt>Starla</elt><elt>Shaylyn</elt>  
+  <Agathe>
+    <age>86</age>
+  </Agathe>
+</root>

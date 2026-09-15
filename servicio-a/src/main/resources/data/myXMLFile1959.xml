@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minda"
+  lastname="Kunin"
+  city="Mashhad"
+  country="Anguilla"
+  firstname2="Letizia"
+  lastname2="Codding"
+  email="Letizia.Codding@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>45.212</random_float>
+  <bool>false</bool>
+  <date>1994-01-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lauryn</elt><elt>Konstance</elt><elt>Deane</elt><elt>Emma</elt><elt>Valli</elt>  
+  <Letizia>
+    <age>99</age>
+  </Letizia>
+</root>

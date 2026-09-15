@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kore"
+  lastname="Willie"
+  city="Makassar"
+  country="Kyrgyzstan"
+  firstname2="Charmaine"
+  lastname2="Dorcy"
+  email="Charmaine.Dorcy@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>13.676</random_float>
+  <bool>true</bool>
+  <date>1992-05-13</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Monika</elt><elt>Ninnetta</elt><elt>Nicoli</elt><elt>Bibby</elt><elt>Letizia</elt>  
+  <Charmaine>
+    <age>46</age>
+  </Charmaine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marinna"
+  lastname="Pacorro"
+  city="Warsaw"
+  country="Maldives"
+  firstname2="Adelle"
+  lastname2="Moina"
+  email="Adelle.Moina@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>32.181</random_float>
+  <bool>true</bool>
+  <date>1985-03-05</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alia</elt><elt>Adele</elt><elt>Lisette</elt><elt>Elvira</elt><elt>Gianina</elt>  
+  <Adelle>
+    <age>28</age>
+  </Adelle>
+</root>

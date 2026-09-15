@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dania"
+  lastname="Richers"
+  city="Geelong"
+  country="Moldova, Republic of"
+  firstname2="Jean"
+  lastname2="Freddi"
+  email="Jean.Freddi@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>14.856</random_float>
+  <bool>true</bool>
+  <date>1984-09-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Max</elt><elt>Libbie</elt><elt>Dorice</elt><elt>Julieta</elt><elt>Ivett</elt>  
+  <Jean>
+    <age>19</age>
+  </Jean>
+</root>

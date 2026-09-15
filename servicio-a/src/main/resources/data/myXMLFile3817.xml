@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ada"
+  lastname="Pulsifer"
+  city="Khartoum"
+  country="Nicaragua"
+  firstname2="Siana"
+  lastname2="Briney"
+  email="Siana.Briney@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>58.174</random_float>
+  <bool>false</bool>
+  <date>1994-10-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alleen</elt><elt>Allyce</elt><elt>Marcelline</elt><elt>Gisela</elt><elt>Debee</elt>  
+  <Siana>
+    <age>67</age>
+  </Siana>
+</root>

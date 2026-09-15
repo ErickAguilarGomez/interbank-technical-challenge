@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charmaine"
+  lastname="Gaal"
+  city="Karachi"
+  country="Brazil"
+  firstname2="Katleen"
+  lastname2="Mata"
+  email="Katleen.Mata@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>58.745</random_float>
+  <bool>true</bool>
+  <date>1987-01-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Riannon</elt><elt>Allis</elt><elt>Johna</elt><elt>Sadie</elt><elt>Jaime</elt>  
+  <Katleen>
+    <age>97</age>
+  </Katleen>
+</root>

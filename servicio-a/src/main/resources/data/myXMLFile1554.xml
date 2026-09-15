@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Mathilde"
+  city="Cartagena"
+  country="AndorrA"
+  firstname2="Caressa"
+  lastname2="Tufts"
+  email="Caressa.Tufts@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>11.655</random_float>
+  <bool>true</bool>
+  <date>1987-11-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lolita</elt><elt>Sidoney</elt><elt>Heida</elt><elt>Flory</elt><elt>Fredericka</elt>  
+  <Caressa>
+    <age>29</age>
+  </Caressa>
+</root>

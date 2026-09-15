@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobbi"
+  lastname="Center"
+  city="Mendoza"
+  country="Sudan"
+  firstname2="Kimberley"
+  lastname2="Meter"
+  email="Kimberley.Meter@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>79.065</random_float>
+  <bool>true</bool>
+  <date>1997-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Keelia</elt><elt>Jan</elt><elt>Nyssa</elt><elt>Dolli</elt><elt>Rozele</elt>  
+  <Kimberley>
+    <age>90</age>
+  </Kimberley>
+</root>

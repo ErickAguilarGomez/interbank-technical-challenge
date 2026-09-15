@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winifred"
+  lastname="Celestine"
+  city="Geelong"
+  country="Greenland"
+  firstname2="Marleah"
+  lastname2="Burkle"
+  email="Marleah.Burkle@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>49.51</random_float>
+  <bool>false</bool>
+  <date>1987-07-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Esmeralda</elt><elt>Eugine</elt><elt>Demetris</elt><elt>Deloria</elt><elt>Mildrid</elt>  
+  <Marleah>
+    <age>19</age>
+  </Marleah>
+</root>

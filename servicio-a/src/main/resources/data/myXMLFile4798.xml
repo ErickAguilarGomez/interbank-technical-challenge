@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deloria"
+  lastname="Silvan"
+  city="Andorra la Vella"
+  country="Lesotho"
+  firstname2="Paule"
+  lastname2="Luhe"
+  email="Paule.Luhe@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>96.858</random_float>
+  <bool>false</bool>
+  <date>1998-06-13</date>
+  <regEx>hello to you</regEx>
+  <enum>generator</enum>
+  <elt>Tarra</elt><elt>Karena</elt><elt>Petronia</elt><elt>Heddie</elt><elt>Kore</elt>  
+  <Paule>
+    <age>21</age>
+  </Paule>
+</root>

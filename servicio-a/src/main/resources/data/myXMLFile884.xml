@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gisela"
+  lastname="Nadia"
+  city="Concepción"
+  country="Nauru"
+  firstname2="Marline"
+  lastname2="Linskey"
+  email="Marline.Linskey@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>86.027</random_float>
+  <bool>true</bool>
+  <date>1992-11-12</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Bobbi</elt><elt>Aryn</elt><elt>Rosabelle</elt><elt>Malina</elt><elt>Angelique</elt>  
+  <Marline>
+    <age>19</age>
+  </Marline>
+</root>

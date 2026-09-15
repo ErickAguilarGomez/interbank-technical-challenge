@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynde"
+  lastname="Briney"
+  city="Chişinău"
+  country="Azerbaijan"
+  firstname2="Caressa"
+  lastname2="Anestassia"
+  email="Caressa.Anestassia@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>82.171</random_float>
+  <bool>false</bool>
+  <date>1987-03-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gratia</elt><elt>Eugine</elt><elt>Carlie</elt><elt>Joelly</elt><elt>Brandise</elt>  
+  <Caressa>
+    <age>73</age>
+  </Caressa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Cassius"
+  city="Copenhagen"
+  country="Kiribati"
+  firstname2="Margalo"
+  lastname2="Yuille"
+  email="Margalo.Yuille@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>43.279</random_float>
+  <bool>false</bool>
+  <date>1986-01-26</date>
+  <regEx>hellooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ericka</elt><elt>Lilith</elt><elt>Ermengarde</elt><elt>Rozele</elt><elt>Ronna</elt>  
+  <Margalo>
+    <age>72</age>
+  </Margalo>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elvira"
+  lastname="Cristi"
+  city="Basse-Terre"
+  country="Chad"
+  firstname2="Taffy"
+  lastname2="Elisha"
+  email="Taffy.Elisha@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>41.896</random_float>
+  <bool>true</bool>
+  <date>1992-02-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Allis</elt><elt>Rozele</elt><elt>Anallese</elt><elt>Beverley</elt><elt>Darlleen</elt>  
+  <Taffy>
+    <age>64</age>
+  </Taffy>
+</root>

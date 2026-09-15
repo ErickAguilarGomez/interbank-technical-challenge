@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nessie"
+  lastname="Lindemann"
+  city="Gdańsk"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Mara"
+  lastname2="Ashely"
+  email="Mara.Ashely@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>48.116</random_float>
+  <bool>true</bool>
+  <date>1988-08-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Misha</elt><elt>Kalina</elt><elt>Beatriz</elt><elt>Ida</elt><elt>Moyna</elt>  
+  <Mara>
+    <age>74</age>
+  </Mara>
+</root>

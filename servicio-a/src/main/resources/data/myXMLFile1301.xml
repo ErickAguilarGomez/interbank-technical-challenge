@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Hepsibah"
+  city="Hobart"
+  country="Guam"
+  firstname2="Aurore"
+  lastname2="Ventre"
+  email="Aurore.Ventre@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>46.202</random_float>
+  <bool>false</bool>
+  <date>1985-07-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Cacilie</elt><elt>Vita</elt><elt>Genevra</elt><elt>Ira</elt><elt>Vere</elt>  
+  <Aurore>
+    <age>39</age>
+  </Aurore>
+</root>

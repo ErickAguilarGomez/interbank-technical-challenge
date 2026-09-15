@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tracey"
+  lastname="Salchunas"
+  city="Oslo"
+  country="Montserrat"
+  firstname2="Cindelyn"
+  lastname2="Romelda"
+  email="Cindelyn.Romelda@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>53.997</random_float>
+  <bool>true</bool>
+  <date>1985-03-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Leontine</elt><elt>Katleen</elt><elt>Clarice</elt><elt>Perry</elt><elt>Valli</elt>  
+  <Cindelyn>
+    <age>34</age>
+  </Cindelyn>
+</root>

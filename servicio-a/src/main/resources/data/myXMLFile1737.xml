@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margarette"
+  lastname="Penelopa"
+  city="Baghdad"
+  country="Fiji"
+  firstname2="Sybille"
+  lastname2="Cynar"
+  email="Sybille.Cynar@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>100.817</random_float>
+  <bool>true</bool>
+  <date>1999-08-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ardenia</elt><elt>Lily</elt><elt>Dede</elt><elt>Keelia</elt><elt>Kamilah</elt>  
+  <Sybille>
+    <age>76</age>
+  </Sybille>
+</root>

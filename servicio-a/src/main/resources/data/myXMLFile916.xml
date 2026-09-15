@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Frendel"
+  city="Bishkek"
+  country="South Africa"
+  firstname2="Gerrie"
+  lastname2="Magdalen"
+  email="Gerrie.Magdalen@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>57.804</random_float>
+  <bool>true</bool>
+  <date>1991-08-08</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Elka</elt><elt>Dale</elt><elt>Nonnah</elt><elt>Nananne</elt><elt>Arlina</elt>  
+  <Gerrie>
+    <age>77</age>
+  </Gerrie>
+</root>

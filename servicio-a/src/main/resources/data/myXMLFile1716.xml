@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susette"
+  lastname="Cutlerr"
+  city="Kuwait City"
+  country="Bhutan"
+  firstname2="Alejandra"
+  lastname2="Caitlin"
+  email="Alejandra.Caitlin@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>33.304</random_float>
+  <bool>false</bool>
+  <date>1986-11-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joeann</elt><elt>Sheree</elt><elt>Genevra</elt><elt>Vere</elt><elt>Shauna</elt>  
+  <Alejandra>
+    <age>89</age>
+  </Alejandra>
+</root>

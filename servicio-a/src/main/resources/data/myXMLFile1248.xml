@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Reinke"
+  city="Qingdao"
+  country="Svalbard and Jan Mayen"
+  firstname2="Patricia"
+  lastname2="Adrienne"
+  email="Patricia.Adrienne@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>16.701</random_float>
+  <bool>true</bool>
+  <date>1993-04-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lizzie</elt><elt>Fanchon</elt><elt>Peri</elt><elt>Ketti</elt><elt>Joceline</elt>  
+  <Patricia>
+    <age>37</age>
+  </Patricia>
+</root>

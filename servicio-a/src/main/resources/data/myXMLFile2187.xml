@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eugine"
+  lastname="Drus"
+  city="Astana"
+  country="Montserrat"
+  firstname2="Tomasina"
+  lastname2="Tatianas"
+  email="Tomasina.Tatianas@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>77.073</random_float>
+  <bool>true</bool>
+  <date>1998-05-23</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mireielle</elt><elt>Margette</elt><elt>Elsie</elt><elt>Chere</elt><elt>Bobbi</elt>  
+  <Tomasina>
+    <age>72</age>
+  </Tomasina>
+</root>

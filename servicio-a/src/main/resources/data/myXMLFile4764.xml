@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Riannon"
+  lastname="Bettine"
+  city="Kandy"
+  country="Bolivia"
+  firstname2="Robinia"
+  lastname2="An"
+  email="Robinia.An@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>25.331</random_float>
+  <bool>false</bool>
+  <date>1996-07-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Priscilla</elt><elt>Tarra</elt><elt>Kylynn</elt><elt>June</elt><elt>Ebonee</elt>  
+  <Robinia>
+    <age>34</age>
+  </Robinia>
+</root>

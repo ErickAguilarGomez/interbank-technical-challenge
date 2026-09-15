@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beatriz"
+  lastname="Clarissa"
+  city="Kunming"
+  country="Sri Lanka"
+  firstname2="Ebonee"
+  lastname2="Odell"
+  email="Ebonee.Odell@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>66.514</random_float>
+  <bool>false</bool>
+  <date>1998-12-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gerrie</elt><elt>Hermione</elt><elt>Jinny</elt><elt>Livvyy</elt><elt>Adele</elt>  
+  <Ebonee>
+    <age>21</age>
+  </Ebonee>
+</root>

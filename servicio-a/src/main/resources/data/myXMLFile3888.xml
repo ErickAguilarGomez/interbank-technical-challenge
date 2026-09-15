@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melanie"
+  lastname="Stover"
+  city="Port Louis"
+  country="Central African Republic"
+  firstname2="Lorne"
+  lastname2="Marcellus"
+  email="Lorne.Marcellus@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>24.488</random_float>
+  <bool>false</bool>
+  <date>1999-09-21</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Imojean</elt><elt>Siana</elt><elt>Darci</elt><elt>Feliza</elt><elt>Ilse</elt>  
+  <Lorne>
+    <age>90</age>
+  </Lorne>
+</root>

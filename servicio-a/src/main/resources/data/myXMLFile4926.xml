@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbi"
+  lastname="Urias"
+  city="Vienna"
+  country="Congo"
+  firstname2="Katleen"
+  lastname2="Faust"
+  email="Katleen.Faust@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>14.56</random_float>
+  <bool>false</bool>
+  <date>1985-06-19</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Stacey</elt><elt>Fanchon</elt><elt>Laurene</elt><elt>Leona</elt><elt>Teddie</elt>  
+  <Katleen>
+    <age>86</age>
+  </Katleen>
+</root>

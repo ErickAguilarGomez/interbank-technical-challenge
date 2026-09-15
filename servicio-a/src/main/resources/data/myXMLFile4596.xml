@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Aprile"
+  city="Linz"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Celene"
+  lastname2="Moina"
+  email="Celene.Moina@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>22.818</random_float>
+  <bool>true</bool>
+  <date>1985-03-13</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elbertina</elt><elt>Theodora</elt><elt>Raquela</elt><elt>Sidoney</elt><elt>Beverley</elt>  
+  <Celene>
+    <age>51</age>
+  </Celene>
+</root>

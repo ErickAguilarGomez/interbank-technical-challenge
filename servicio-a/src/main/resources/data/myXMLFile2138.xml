@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alexine"
+  lastname="Rosemary"
+  city="Bangalore"
+  country="Equatorial Guinea"
+  firstname2="Carree"
+  lastname2="Edmund"
+  email="Carree.Edmund@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>59.777</random_float>
+  <bool>true</bool>
+  <date>1988-08-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Allis</elt><elt>Riannon</elt><elt>Adele</elt><elt>Livvyy</elt><elt>Dagmar</elt>  
+  <Carree>
+    <age>52</age>
+  </Carree>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merry"
+  lastname="Oster"
+  city="Durango"
+  country="Pitcairn"
+  firstname2="Elmira"
+  lastname2="Skurnik"
+  email="Elmira.Skurnik@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>96.405</random_float>
+  <bool>false</bool>
+  <date>1990-04-03</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Cacilie</elt><elt>Vinita</elt><elt>Merry</elt><elt>Thalia</elt><elt>Ginnie</elt>  
+  <Elmira>
+    <age>97</age>
+  </Elmira>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanae"
+  lastname="Barbey"
+  city="Zagreb"
+  country="Tanzania, United Republic of"
+  firstname2="Latisha"
+  lastname2="Juliet"
+  email="Latisha.Juliet@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>90.299</random_float>
+  <bool>true</bool>
+  <date>1984-06-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Elena</elt><elt>Phylis</elt><elt>Gusty</elt><elt>Sabina</elt><elt>Corly</elt>  
+  <Latisha>
+    <age>25</age>
+  </Latisha>
+</root>

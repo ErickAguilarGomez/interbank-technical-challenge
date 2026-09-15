@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allis"
+  lastname="Colbert"
+  city="Shanghai"
+  country="Wallis and Futuna"
+  firstname2="Belinda"
+  lastname2="Aida"
+  email="Belinda.Aida@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>98.231</random_float>
+  <bool>false</bool>
+  <date>1998-11-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>June</elt><elt>Katuscha</elt><elt>Dennie</elt><elt>Sybille</elt><elt>Kaia</elt>  
+  <Belinda>
+    <age>96</age>
+  </Belinda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sissy"
+  lastname="Mayeda"
+  city="Patna"
+  country="Guinea"
+  firstname2="Sybille"
+  lastname2="Judye"
+  email="Sybille.Judye@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>5.85</random_float>
+  <bool>false</bool>
+  <date>1983-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lita</elt><elt>Sherrie</elt><elt>Ursulina</elt><elt>Sidoney</elt><elt>Rubie</elt>  
+  <Sybille>
+    <age>48</age>
+  </Sybille>
+</root>

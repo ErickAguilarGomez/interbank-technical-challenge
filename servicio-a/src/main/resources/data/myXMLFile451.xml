@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Louella"
+  lastname="Knowling"
+  city="Yekaterinburg"
+  country="Turkey"
+  firstname2="Taffy"
+  lastname2="Ioab"
+  email="Taffy.Ioab@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>33.054</random_float>
+  <bool>true</bool>
+  <date>1996-03-15</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Heddie</elt><elt>Justinn</elt><elt>Madelle</elt><elt>Rivalee</elt><elt>Annice</elt>  
+  <Taffy>
+    <age>90</age>
+  </Taffy>
+</root>

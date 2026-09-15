@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carly"
+  lastname="Talia"
+  city="Abuja"
+  country="Cambodia"
+  firstname2="Corina"
+  lastname2="Flyn"
+  email="Corina.Flyn@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>37.916</random_float>
+  <bool>true</bool>
+  <date>1990-04-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Phylis</elt><elt>Corry</elt><elt>Tonia</elt><elt>Ingrid</elt><elt>Danny</elt>  
+  <Corina>
+    <age>83</age>
+  </Corina>
+</root>

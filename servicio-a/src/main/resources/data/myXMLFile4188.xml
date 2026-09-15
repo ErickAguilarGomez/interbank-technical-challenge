@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charlena"
+  lastname="Allys"
+  city="Palembang"
+  country="Micronesia, Federated States of"
+  firstname2="Magdalena"
+  lastname2="Isidore"
+  email="Magdalena.Isidore@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>36.843</random_float>
+  <bool>false</bool>
+  <date>1984-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shannah</elt><elt>Lacie</elt><elt>Jobi</elt><elt>Elise</elt><elt>Hallie</elt>  
+  <Magdalena>
+    <age>26</age>
+  </Magdalena>
+</root>

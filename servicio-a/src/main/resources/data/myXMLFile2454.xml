@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mireielle"
+  lastname="Middleton"
+  city="Malacca Town"
+  country="Kyrgyzstan"
+  firstname2="Dennie"
+  lastname2="Percy"
+  email="Dennie.Percy@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>15.117</random_float>
+  <bool>false</bool>
+  <date>1991-12-27</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Nollie</elt><elt>Rebeca</elt><elt>Bobbi</elt><elt>Farrah</elt><elt>Aurore</elt>  
+  <Dennie>
+    <age>45</age>
+  </Dennie>
+</root>

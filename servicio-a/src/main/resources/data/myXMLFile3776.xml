@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evaleen"
+  lastname="Cyrie"
+  city="Ipoh"
+  country="Czech Republic"
+  firstname2="Gabi"
+  lastname2="Hewitt"
+  email="Gabi.Hewitt@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>65.72</random_float>
+  <bool>false</bool>
+  <date>1997-08-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Agnese</elt><elt>Estell</elt><elt>Dale</elt><elt>Tilly</elt><elt>Celene</elt>  
+  <Gabi>
+    <age>38</age>
+  </Gabi>
+</root>

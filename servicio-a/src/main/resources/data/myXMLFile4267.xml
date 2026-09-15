@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Woodberry"
+  city="Nukulaelae"
+  country="Djibouti"
+  firstname2="Imojean"
+  lastname2="Edee"
+  email="Imojean.Edee@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>74.154</random_float>
+  <bool>true</bool>
+  <date>1998-09-27</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nyssa</elt><elt>Bettine</elt><elt>Elsie</elt><elt>Raquela</elt><elt>Marinna</elt>  
+  <Imojean>
+    <age>56</age>
+  </Imojean>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Giustina"
+  lastname="Klotz"
+  city="Nouakchott"
+  country="Bosnia and Herzegovina"
+  firstname2="June"
+  lastname2="Louanna"
+  email="June.Louanna@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>41.222</random_float>
+  <bool>false</bool>
+  <date>1996-06-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lusa</elt><elt>Sherrie</elt><elt>Vere</elt><elt>Courtnay</elt><elt>Karlee</elt>  
+  <June>
+    <age>94</age>
+  </June>
+</root>

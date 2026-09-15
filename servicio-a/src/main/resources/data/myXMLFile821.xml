@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Craggie"
+  city="Nanning"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Blake"
+  lastname2="Aprile"
+  email="Blake.Aprile@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>96.428</random_float>
+  <bool>true</bool>
+  <date>1990-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jenda</elt><elt>Angelique</elt><elt>Micheline</elt><elt>Gerrie</elt><elt>Katharina</elt>  
+  <Blake>
+    <age>30</age>
+  </Blake>
+</root>

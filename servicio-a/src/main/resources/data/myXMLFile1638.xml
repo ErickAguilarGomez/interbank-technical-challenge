@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gloria"
+  lastname="Buckler"
+  city="Kaesong"
+  country="Oman"
+  firstname2="Madeleine"
+  lastname2="Hartnett"
+  email="Madeleine.Hartnett@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>41.551</random_float>
+  <bool>true</bool>
+  <date>1980-06-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ann-Marie</elt><elt>Mureil</elt><elt>Fernande</elt><elt>Shaine</elt><elt>Delilah</elt>  
+  <Madeleine>
+    <age>27</age>
+  </Madeleine>
+</root>

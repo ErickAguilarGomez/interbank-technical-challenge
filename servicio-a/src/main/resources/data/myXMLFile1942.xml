@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaja"
+  lastname="Reidar"
+  city="Stuttgart"
+  country="Burundi"
+  firstname2="Leia"
+  lastname2="Eldrid"
+  email="Leia.Eldrid@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>1.566</random_float>
+  <bool>false</bool>
+  <date>1986-04-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marika</elt><elt>Beatriz</elt><elt>Ilse</elt><elt>Belinda</elt><elt>Tabbatha</elt>  
+  <Leia>
+    <age>71</age>
+  </Leia>
+</root>

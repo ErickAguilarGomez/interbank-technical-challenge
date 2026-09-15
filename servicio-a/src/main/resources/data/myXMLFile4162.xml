@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ronna"
+  lastname="Slifka"
+  city="Denver"
+  country="Costa Rica"
+  firstname2="Regina"
+  lastname2="Jethro"
+  email="Regina.Jethro@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>1.456</random_float>
+  <bool>true</bool>
+  <date>1986-09-12</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Brynna</elt><elt>Michaelina</elt><elt>Juliane</elt><elt>Adriana</elt><elt>Joane</elt>  
+  <Regina>
+    <age>55</age>
+  </Regina>
+</root>

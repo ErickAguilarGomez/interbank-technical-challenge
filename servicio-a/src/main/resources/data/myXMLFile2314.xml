@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Rosalba"
+  city="Iquitos"
+  country="Reunion"
+  firstname2="Danny"
+  lastname2="Atcliffe"
+  email="Danny.Atcliffe@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>9.439</random_float>
+  <bool>false</bool>
+  <date>1995-02-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Susan</elt><elt>Deane</elt><elt>Paulita</elt><elt>Karena</elt><elt>Glenda</elt>  
+  <Danny>
+    <age>63</age>
+  </Danny>
+</root>

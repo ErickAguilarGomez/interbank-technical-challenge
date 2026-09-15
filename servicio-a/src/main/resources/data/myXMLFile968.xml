@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ida"
+  lastname="Talia"
+  city="Louisville"
+  country="Nigeria"
+  firstname2="Nadine"
+  lastname2="Colbert"
+  email="Nadine.Colbert@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>27.508</random_float>
+  <bool>true</bool>
+  <date>1993-01-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Elena</elt><elt>Goldie</elt><elt>Rosaline</elt><elt>Collen</elt><elt>Carolina</elt>  
+  <Nadine>
+    <age>73</age>
+  </Nadine>
+</root>

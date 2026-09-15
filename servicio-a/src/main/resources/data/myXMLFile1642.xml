@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Latisha"
+  lastname="Maisey"
+  city="Campinas"
+  country="Tajikistan"
+  firstname2="Lanna"
+  lastname2="Leler"
+  email="Lanna.Leler@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>53.811</random_float>
+  <bool>false</bool>
+  <date>1990-06-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tina</elt><elt>Leontine</elt><elt>Lexine</elt><elt>Meriel</elt><elt>Sherrie</elt>  
+  <Lanna>
+    <age>32</age>
+  </Lanna>
+</root>

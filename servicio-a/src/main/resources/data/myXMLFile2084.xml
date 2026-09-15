@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusty"
+  lastname="Hoban"
+  city="Hilo"
+  country="Netherlands"
+  firstname2="Bertine"
+  lastname2="Curren"
+  email="Bertine.Curren@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>90.281</random_float>
+  <bool>false</bool>
+  <date>1986-05-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Minda</elt><elt>Cacilie</elt><elt>Sherrie</elt><elt>Paola</elt><elt>Meriel</elt>  
+  <Bertine>
+    <age>60</age>
+  </Bertine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minda"
+  lastname="Nore"
+  city="Hagåtña"
+  country="Dominican Republic"
+  firstname2="Chandra"
+  lastname2="Vastah"
+  email="Chandra.Vastah@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>96.806</random_float>
+  <bool>false</bool>
+  <date>1990-08-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Brooks</elt><elt>Ardeen</elt><elt>Doralynne</elt><elt>Jaime</elt><elt>Aili</elt>  
+  <Chandra>
+    <age>90</age>
+  </Chandra>
+</root>

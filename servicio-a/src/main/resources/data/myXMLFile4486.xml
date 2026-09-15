@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcy"
+  lastname="Cohdwell"
+  city="Tiraspol"
+  country="Niger"
+  firstname2="Susette"
+  lastname2="Eno"
+  email="Susette.Eno@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>62.814</random_float>
+  <bool>false</bool>
+  <date>1985-02-28</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Brandise</elt><elt>Edith</elt><elt>Dawn</elt><elt>Karlee</elt><elt>Carmencita</elt>  
+  <Susette>
+    <age>70</age>
+  </Susette>
+</root>

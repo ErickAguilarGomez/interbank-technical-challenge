@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pearline"
+  lastname="Wu"
+  city="Concepción"
+  country="Guernsey"
+  firstname2="Petronia"
+  lastname2="Diogenes"
+  email="Petronia.Diogenes@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>81.514</random_float>
+  <bool>false</bool>
+  <date>1986-09-26</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Angelique</elt><elt>Silvana</elt><elt>Willetta</elt><elt>Deedee</elt><elt>Johna</elt>  
+  <Petronia>
+    <age>83</age>
+  </Petronia>
+</root>

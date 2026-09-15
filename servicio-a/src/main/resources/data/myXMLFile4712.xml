@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dagmar"
+  lastname="Calhoun"
+  city="Ludhiana"
+  country="Guatemala"
+  firstname2="Anestassia"
+  lastname2="Odysseus"
+  email="Anestassia.Odysseus@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>67.079</random_float>
+  <bool>true</bool>
+  <date>1991-08-10</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gerrie</elt><elt>Sean</elt><elt>Marsiella</elt><elt>Perry</elt><elt>Ernesta</elt>  
+  <Anestassia>
+    <age>71</age>
+  </Anestassia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Regan"
+  city="Casablanca"
+  country="Bangladesh"
+  firstname2="Mahalia"
+  lastname2="Manolo"
+  email="Mahalia.Manolo@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>38.897</random_float>
+  <bool>true</bool>
+  <date>1989-09-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Etta</elt><elt>Merry</elt><elt>Ardenia</elt><elt>Averyl</elt><elt>Jenilee</elt>  
+  <Mahalia>
+    <age>58</age>
+  </Mahalia>
+</root>

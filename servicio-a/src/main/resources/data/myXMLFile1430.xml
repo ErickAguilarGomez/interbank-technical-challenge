@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glynnis"
+  lastname="Juliet"
+  city="Cebu City"
+  country="Somalia"
+  firstname2="Blake"
+  lastname2="Wyn"
+  email="Blake.Wyn@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>39.051</random_float>
+  <bool>true</bool>
+  <date>1990-06-01</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Merci</elt><elt>Ekaterina</elt><elt>Ida</elt><elt>Gretal</elt><elt>Frances</elt>  
+  <Blake>
+    <age>40</age>
+  </Blake>
+</root>

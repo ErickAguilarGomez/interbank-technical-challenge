@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Lia"
+  city="Surat Thani"
+  country="Antarctica"
+  firstname2="Chere"
+  lastname2="Buttaro"
+  email="Chere.Buttaro@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>87.458</random_float>
+  <bool>true</bool>
+  <date>1998-04-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Desirae</elt><elt>Melisent</elt><elt>Corly</elt><elt>Eugine</elt><elt>Vevay</elt>  
+  <Chere>
+    <age>44</age>
+  </Chere>
+</root>

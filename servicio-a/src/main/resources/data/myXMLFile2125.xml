@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Junie"
+  city="Gdańsk"
+  country="Taiwan, Province of China"
+  firstname2="Sissy"
+  lastname2="Mike"
+  email="Sissy.Mike@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>72.747</random_float>
+  <bool>false</bool>
+  <date>1997-12-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Randa</elt><elt>Dorothy</elt><elt>Gilligan</elt><elt>Lucille</elt><elt>Lindie</elt>  
+  <Sissy>
+    <age>66</age>
+  </Sissy>
+</root>

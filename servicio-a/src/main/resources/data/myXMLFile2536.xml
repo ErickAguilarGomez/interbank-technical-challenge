@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oralee"
+  lastname="Johnsson"
+  city="Aberdeen"
+  country="Malaysia"
+  firstname2="Aurore"
+  lastname2="Sherfield"
+  email="Aurore.Sherfield@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>84.337</random_float>
+  <bool>false</bool>
+  <date>1983-01-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Calla</elt><elt>Kathy</elt><elt>Mellicent</elt><elt>Ronna</elt><elt>Jennica</elt>  
+  <Aurore>
+    <age>83</age>
+  </Aurore>
+</root>

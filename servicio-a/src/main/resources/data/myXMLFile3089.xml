@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Drucie"
+  lastname="Merat"
+  city="Peshawar"
+  country="United Kingdom"
+  firstname2="Debee"
+  lastname2="Tarrant"
+  email="Debee.Tarrant@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>39.069</random_float>
+  <bool>false</bool>
+  <date>1994-09-05</date>
+  <regEx>hellooo world</regEx>
+  <enum>online</enum>
+  <elt>Latisha</elt><elt>Hildegaard</elt><elt>Gusella</elt><elt>Tatiania</elt><elt>Claudina</elt>  
+  <Debee>
+    <age>95</age>
+  </Debee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arabel"
+  lastname="Bach"
+  city="Ushuaia"
+  country="United Arab Emirates"
+  firstname2="Cindelyn"
+  lastname2="Alwin"
+  email="Cindelyn.Alwin@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>64.534</random_float>
+  <bool>true</bool>
+  <date>1980-08-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nelle</elt><elt>Jeanna</elt><elt>Grier</elt><elt>Sophia</elt><elt>Jessamyn</elt>  
+  <Cindelyn>
+    <age>80</age>
+  </Cindelyn>
+</root>

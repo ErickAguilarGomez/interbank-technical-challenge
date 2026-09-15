@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyssa"
+  lastname="Lail"
+  city="Riga"
+  country="Bosnia and Herzegovina"
+  firstname2="Tani"
+  lastname2="Bartlett"
+  email="Tani.Bartlett@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>22.271</random_float>
+  <bool>false</bool>
+  <date>1985-05-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Corry</elt><elt>Nerta</elt><elt>Alexine</elt><elt>Corene</elt><elt>Katharina</elt>  
+  <Tani>
+    <age>43</age>
+  </Tani>
+</root>

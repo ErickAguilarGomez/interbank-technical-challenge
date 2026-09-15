@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Arquit"
+  city="Philadelphia"
+  country="Slovakia"
+  firstname2="Micheline"
+  lastname2="Merell"
+  email="Micheline.Merell@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>32.889</random_float>
+  <bool>false</bool>
+  <date>1984-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joelly</elt><elt>Charmaine</elt><elt>Celestyna</elt><elt>Rochette</elt><elt>Cherrita</elt>  
+  <Micheline>
+    <age>52</age>
+  </Micheline>
+</root>

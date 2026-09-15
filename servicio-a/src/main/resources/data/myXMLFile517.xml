@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evita"
+  lastname="Vorster"
+  city="Los Angeles"
+  country="Cook Islands"
+  firstname2="Gabi"
+  lastname2="Louanna"
+  email="Gabi.Louanna@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>80.745</random_float>
+  <bool>false</bool>
+  <date>1991-01-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rubie</elt><elt>Ekaterina</elt><elt>Goldie</elt><elt>Nicoli</elt><elt>Vanessa</elt>  
+  <Gabi>
+    <age>100</age>
+  </Gabi>
+</root>

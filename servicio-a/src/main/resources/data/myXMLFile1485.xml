@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hermione"
+  lastname="Serilda"
+  city="Mbabane"
+  country="Kuwait"
+  firstname2="Helena"
+  lastname2="Ailyn"
+  email="Helena.Ailyn@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>95.144</random_float>
+  <bool>false</bool>
+  <date>1993-11-09</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gwyneth</elt><elt>Carree</elt><elt>Sallie</elt><elt>Sallie</elt><elt>Chrystel</elt>  
+  <Helena>
+    <age>29</age>
+  </Helena>
+</root>

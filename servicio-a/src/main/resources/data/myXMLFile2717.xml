@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adelle"
+  lastname="Alrich"
+  city="Bucharest"
+  country="Russian Federation"
+  firstname2="Winifred"
+  lastname2="Sparhawk"
+  email="Winifred.Sparhawk@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>24.623</random_float>
+  <bool>false</bool>
+  <date>1988-05-23</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Caryl</elt><elt>Chrystel</elt><elt>Lucille</elt><elt>Celestyna</elt><elt>Keelia</elt>  
+  <Winifred>
+    <age>84</age>
+  </Winifred>
+</root>

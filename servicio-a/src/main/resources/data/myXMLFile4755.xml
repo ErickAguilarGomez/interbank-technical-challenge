@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Norine"
+  lastname="Wildermuth"
+  city="Houston"
+  country="Isle of Man"
+  firstname2="Teriann"
+  lastname2="Connelly"
+  email="Teriann.Connelly@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>75.781</random_float>
+  <bool>false</bool>
+  <date>1996-12-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Noelle</elt><elt>Camile</elt><elt>Asia</elt><elt>Harmonia</elt><elt>Nonnah</elt>  
+  <Teriann>
+    <age>82</age>
+  </Teriann>
+</root>

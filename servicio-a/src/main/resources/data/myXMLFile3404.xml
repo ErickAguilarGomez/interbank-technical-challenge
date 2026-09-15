@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Keily"
+  city="Linz"
+  country="French Guiana"
+  firstname2="Silvana"
+  lastname2="Duwalt"
+  email="Silvana.Duwalt@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>21.671</random_float>
+  <bool>true</bool>
+  <date>1998-10-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Taffy</elt><elt>Nariko</elt><elt>Fredericka</elt><elt>Maisey</elt><elt>Susan</elt>  
+  <Silvana>
+    <age>52</age>
+  </Silvana>
+</root>

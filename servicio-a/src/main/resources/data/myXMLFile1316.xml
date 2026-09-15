@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Wilona"
+  city="Edmonton"
+  country="Saint Kitts and Nevis"
+  firstname2="Margette"
+  lastname2="Ovid"
+  email="Margette.Ovid@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>85.855</random_float>
+  <bool>false</bool>
+  <date>1981-06-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Susan</elt><elt>Marline</elt><elt>Kayla</elt><elt>Atlanta</elt><elt>Celene</elt>  
+  <Margette>
+    <age>40</age>
+  </Margette>
+</root>

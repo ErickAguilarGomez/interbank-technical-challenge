@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Odessa"
+  lastname="Pernick"
+  city="Belmopan"
+  country="Reunion"
+  firstname2="Liana"
+  lastname2="Lay"
+  email="Liana.Lay@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>85.971</random_float>
+  <bool>true</bool>
+  <date>1986-06-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Melina</elt><elt>Latisha</elt><elt>Coral</elt><elt>Joelly</elt><elt>Ketti</elt>  
+  <Liana>
+    <age>39</age>
+  </Liana>
+</root>

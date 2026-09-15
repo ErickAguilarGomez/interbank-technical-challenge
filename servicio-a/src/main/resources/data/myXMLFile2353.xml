@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ada"
+  lastname="Madox"
+  city="Hargeisa"
+  country="Czech Republic"
+  firstname2="Marsiella"
+  lastname2="Cleavland"
+  email="Marsiella.Cleavland@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>60.77</random_float>
+  <bool>true</bool>
+  <date>1983-03-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elie</elt><elt>Lynnea</elt><elt>Alex</elt><elt>Marline</elt><elt>Merrie</elt>  
+  <Marsiella>
+    <age>85</age>
+  </Marsiella>
+</root>

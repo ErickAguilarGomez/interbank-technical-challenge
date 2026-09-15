@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jsandye"
+  lastname="Kravits"
+  city="Siem Reap"
+  country="Anguilla"
+  firstname2="Ofilia"
+  lastname2="Amasa"
+  email="Ofilia.Amasa@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>61.57</random_float>
+  <bool>false</bool>
+  <date>1994-06-14</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Eugine</elt><elt>Chickie</elt><elt>Larine</elt><elt>Wendi</elt><elt>Karlee</elt>  
+  <Ofilia>
+    <age>41</age>
+  </Ofilia>
+</root>

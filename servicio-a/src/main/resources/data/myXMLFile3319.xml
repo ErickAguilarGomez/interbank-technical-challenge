@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melanie"
+  lastname="Georas"
+  city="Moscow"
+  country="Mali"
+  firstname2="Lauryn"
+  lastname2="Suk"
+  email="Lauryn.Suk@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>25.133</random_float>
+  <bool>false</bool>
+  <date>1989-12-11</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Robinia</elt><elt>Rochette</elt><elt>Arlina</elt><elt>Debee</elt><elt>Ottilie</elt>  
+  <Lauryn>
+    <age>29</age>
+  </Lauryn>
+</root>

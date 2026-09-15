@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="June"
+  lastname="Kress"
+  city="Dushanbe"
+  country="Dominican Republic"
+  firstname2="Katharina"
+  lastname2="Ammann"
+  email="Katharina.Ammann@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>24.041</random_float>
+  <bool>true</bool>
+  <date>1982-10-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sophia</elt><elt>Claudina</elt><elt>Jean</elt><elt>Alleen</elt><elt>Collen</elt>  
+  <Katharina>
+    <age>87</age>
+  </Katharina>
+</root>

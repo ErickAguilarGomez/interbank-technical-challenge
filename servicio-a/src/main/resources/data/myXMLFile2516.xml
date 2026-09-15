@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dagmar"
+  lastname="Lamoree"
+  city="Antananarivo"
+  country="Tunisia"
+  firstname2="Ebonee"
+  lastname2="Nore"
+  email="Ebonee.Nore@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>60.089</random_float>
+  <bool>false</bool>
+  <date>1985-04-01</date>
+  <regEx>hellooooo world</regEx>
+  <enum>online</enum>
+  <elt>Annecorinne</elt><elt>Adele</elt><elt>Madalyn</elt><elt>Gretal</elt><elt>Leeanne</elt>  
+  <Ebonee>
+    <age>70</age>
+  </Ebonee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Gale"
+  city="Mbabane"
+  country="Antarctica"
+  firstname2="Latisha"
+  lastname2="Parette"
+  email="Latisha.Parette@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>52.784</random_float>
+  <bool>true</bool>
+  <date>1987-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ivett</elt><elt>Aubrie</elt><elt>Lanae</elt><elt>Blondelle</elt><elt>Candi</elt>  
+  <Latisha>
+    <age>68</age>
+  </Latisha>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="Garlinda"
+  city="Havana"
+  country="AndorrA"
+  firstname2="Rani"
+  lastname2="Lorain"
+  email="Rani.Lorain@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>10.185</random_float>
+  <bool>true</bool>
+  <date>1991-03-08</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nannie</elt><elt>Corene</elt><elt>Zaria</elt><elt>Karolina</elt><elt>Iseabal</elt>  
+  <Rani>
+    <age>24</age>
+  </Rani>
+</root>

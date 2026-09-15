@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ida"
+  lastname="Thad"
+  city="Ludhiana"
+  country="Belgium"
+  firstname2="Mamie"
+  lastname2="Erskine"
+  email="Mamie.Erskine@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>11.056</random_float>
+  <bool>false</bool>
+  <date>1982-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mariele</elt><elt>Paulita</elt><elt>Dode</elt><elt>Malina</elt><elt>Maye</elt>  
+  <Mamie>
+    <age>58</age>
+  </Mamie>
+</root>

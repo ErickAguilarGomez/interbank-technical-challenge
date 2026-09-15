@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aaren"
+  lastname="Revkah"
+  city="Udon Thani"
+  country="Chile"
+  firstname2="Charmaine"
+  lastname2="Sharl"
+  email="Charmaine.Sharl@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>24.995</random_float>
+  <bool>false</bool>
+  <date>1987-05-16</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lynde</elt><elt>Liana</elt><elt>Harmonia</elt><elt>Zsa Zsa</elt><elt>Augustine</elt>  
+  <Charmaine>
+    <age>21</age>
+  </Charmaine>
+</root>

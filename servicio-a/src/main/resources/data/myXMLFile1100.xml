@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Horan"
+  city="Dibrugarh"
+  country="Honduras"
+  firstname2="Amara"
+  lastname2="Turne"
+  email="Amara.Turne@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>81.46</random_float>
+  <bool>true</bool>
+  <date>1994-07-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brana</elt><elt>Katharina</elt><elt>Agnese</elt><elt>Netty</elt><elt>Carmencita</elt>  
+  <Amara>
+    <age>25</age>
+  </Amara>
+</root>

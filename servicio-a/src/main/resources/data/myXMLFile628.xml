@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bibby"
+  lastname="Dex"
+  city="Dibrugarh"
+  country="Christmas Island"
+  firstname2="Averyl"
+  lastname2="Sallyann"
+  email="Averyl.Sallyann@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>19.424</random_float>
+  <bool>false</bool>
+  <date>1988-04-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nonnah</elt><elt>Joceline</elt><elt>Britte</elt><elt>Rivalee</elt><elt>Jaime</elt>  
+  <Averyl>
+    <age>18</age>
+  </Averyl>
+</root>

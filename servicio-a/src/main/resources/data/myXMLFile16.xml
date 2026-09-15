@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Violet"
+  lastname="Atonsah"
+  city="Port Said"
+  country="Maldives"
+  firstname2="Ketti"
+  lastname2="Paine"
+  email="Ketti.Paine@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>31.785</random_float>
+  <bool>false</bool>
+  <date>1993-10-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Leona</elt><elt>Lyssa</elt><elt>Babita</elt><elt>Emylee</elt><elt>Jennica</elt>  
+  <Ketti>
+    <age>48</age>
+  </Ketti>
+</root>

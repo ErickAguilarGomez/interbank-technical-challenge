@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shandie"
+  lastname="Jethro"
+  city="Adelaide"
+  country="French Guiana"
+  firstname2="Chastity"
+  lastname2="Lowry"
+  email="Chastity.Lowry@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>26.019</random_float>
+  <bool>true</bool>
+  <date>1993-08-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mahalia</elt><elt>Inga</elt><elt>Maye</elt><elt>Caryl</elt><elt>Margalo</elt>  
+  <Chastity>
+    <age>86</age>
+  </Chastity>
+</root>

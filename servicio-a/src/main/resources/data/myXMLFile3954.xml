@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Timon"
+  city="Asmara"
+  country="Liechtenstein"
+  firstname2="Mahalia"
+  lastname2="Cressida"
+  email="Mahalia.Cressida@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>21.906</random_float>
+  <bool>false</bool>
+  <date>1992-05-24</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Frances</elt><elt>Brooks</elt><elt>Jerry</elt><elt>Paule</elt><elt>Caressa</elt>  
+  <Mahalia>
+    <age>59</age>
+  </Mahalia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nollie"
+  lastname="Allys"
+  city="Budapest"
+  country="United States"
+  firstname2="Addia"
+  lastname2="Swigart"
+  email="Addia.Swigart@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>43.699</random_float>
+  <bool>false</bool>
+  <date>1987-08-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tracey</elt><elt>Cacilie</elt><elt>Tarra</elt><elt>Sharai</elt><elt>Belinda</elt>  
+  <Addia>
+    <age>81</age>
+  </Addia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emma"
+  lastname="Markman"
+  city="Asmara"
+  country="French Guiana"
+  firstname2="Chickie"
+  lastname2="Freddi"
+  email="Chickie.Freddi@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>29.414</random_float>
+  <bool>true</bool>
+  <date>1987-12-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Eolanda</elt><elt>Tressa</elt><elt>Reeba</elt><elt>Linet</elt><elt>Anthia</elt>  
+  <Chickie>
+    <age>66</age>
+  </Chickie>
+</root>

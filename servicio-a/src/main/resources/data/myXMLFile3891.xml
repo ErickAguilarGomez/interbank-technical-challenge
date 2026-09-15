@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Charity"
+  city="São Tomé"
+  country="Uzbekistan"
+  firstname2="Carlie"
+  lastname2="Weinreb"
+  email="Carlie.Weinreb@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>38.017</random_float>
+  <bool>true</bool>
+  <date>1991-11-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elena</elt><elt>Mureil</elt><elt>Helena</elt><elt>Dorthy</elt><elt>Ermengarde</elt>  
+  <Carlie>
+    <age>31</age>
+  </Carlie>
+</root>

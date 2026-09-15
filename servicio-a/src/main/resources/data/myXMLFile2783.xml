@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Addia"
+  lastname="Adamsen"
+  city="Saipan"
+  country="Haiti"
+  firstname2="Flo"
+  lastname2="Seumas"
+  email="Flo.Seumas@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>88.878</random_float>
+  <bool>true</bool>
+  <date>1993-05-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Arlina</elt><elt>Marinna</elt><elt>Andeee</elt><elt>Melina</elt><elt>Charlena</elt>  
+  <Flo>
+    <age>48</age>
+  </Flo>
+</root>

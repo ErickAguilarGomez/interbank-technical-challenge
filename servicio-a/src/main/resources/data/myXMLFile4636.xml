@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brooks"
+  lastname="Uund"
+  city="Hamilton"
+  country="Benin"
+  firstname2="Ruthe"
+  lastname2="Grosz"
+  email="Ruthe.Grosz@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>69.786</random_float>
+  <bool>true</bool>
+  <date>1982-12-14</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deane</elt><elt>Jobi</elt><elt>Nanete</elt><elt>Georgina</elt><elt>Beverley</elt>  
+  <Ruthe>
+    <age>40</age>
+  </Ruthe>
+</root>

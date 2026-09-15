@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ekaterina"
+  lastname="Pond"
+  city="Bogotá"
+  country="Marshall Islands"
+  firstname2="Gabi"
+  lastname2="Baylor"
+  email="Gabi.Baylor@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>5.232</random_float>
+  <bool>false</bool>
+  <date>1984-03-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mallory</elt><elt>Anthia</elt><elt>Krystle</elt><elt>Lisette</elt><elt>Merle</elt>  
+  <Gabi>
+    <age>47</age>
+  </Gabi>
+</root>

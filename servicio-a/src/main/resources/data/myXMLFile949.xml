@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nadine"
+  lastname="Nance"
+  city="Antananarivo"
+  country="Angola"
+  firstname2="Ardenia"
+  lastname2="Malina"
+  email="Ardenia.Malina@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>28.066</random_float>
+  <bool>true</bool>
+  <date>1992-05-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Selma</elt><elt>Marline</elt><elt>Augustine</elt><elt>Mildrid</elt><elt>Arlina</elt>  
+  <Ardenia>
+    <age>28</age>
+  </Ardenia>
+</root>

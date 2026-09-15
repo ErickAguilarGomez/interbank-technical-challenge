@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Rheingold"
+  city="Denver"
+  country="American Samoa"
+  firstname2="Nessie"
+  lastname2="Milson"
+  email="Nessie.Milson@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>27.85</random_float>
+  <bool>false</bool>
+  <date>1992-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tamqrah</elt><elt>Heddie</elt><elt>Lyssa</elt><elt>Sandie</elt><elt>Lulita</elt>  
+  <Nessie>
+    <age>22</age>
+  </Nessie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valera"
+  lastname="Cloris"
+  city="Nukus"
+  country="Ghana"
+  firstname2="Priscilla"
+  lastname2="Voletta"
+  email="Priscilla.Voletta@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>50.877</random_float>
+  <bool>false</bool>
+  <date>1988-02-29</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Doralynne</elt><elt>Layla</elt><elt>Cacilie</elt><elt>Briney</elt><elt>Mara</elt>  
+  <Priscilla>
+    <age>95</age>
+  </Priscilla>
+</root>

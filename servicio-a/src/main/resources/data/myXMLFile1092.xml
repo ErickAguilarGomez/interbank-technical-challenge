@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dari"
+  lastname="Fulmer"
+  city="Tijuana"
+  country="Azerbaijan"
+  firstname2="Gui"
+  lastname2="Kauppi"
+  email="Gui.Kauppi@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>65.077</random_float>
+  <bool>false</bool>
+  <date>1994-07-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emelina</elt><elt>Ermengarde</elt><elt>Elie</elt><elt>Ardys</elt><elt>Kelly</elt>  
+  <Gui>
+    <age>57</age>
+  </Gui>
+</root>

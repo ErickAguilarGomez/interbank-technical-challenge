@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alia"
+  lastname="Kirstin"
+  city="Addis Ababa"
+  country="Western Sahara"
+  firstname2="Dode"
+  lastname2="Cimbura"
+  email="Dode.Cimbura@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>59.921</random_float>
+  <bool>false</bool>
+  <date>1998-03-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Meriel</elt><elt>Bettine</elt><elt>Gilligan</elt><elt>Renie</elt><elt>Kate</elt>  
+  <Dode>
+    <age>77</age>
+  </Dode>
+</root>

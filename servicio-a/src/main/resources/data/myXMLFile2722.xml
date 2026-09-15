@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgetta"
+  lastname="Ortrude"
+  city="Banda Aceh"
+  country="Poland"
+  firstname2="Nikki"
+  lastname2="Phyllis"
+  email="Nikki.Phyllis@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>73.355</random_float>
+  <bool>false</bool>
+  <date>1989-02-14</date>
+  <regEx>hello to you</regEx>
+  <enum>online</enum>
+  <elt>Raquela</elt><elt>Babita</elt><elt>Sissy</elt><elt>Clary</elt><elt>Blake</elt>  
+  <Nikki>
+    <age>68</age>
+  </Nikki>
+</root>

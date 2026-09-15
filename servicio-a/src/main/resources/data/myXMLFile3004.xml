@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Zenas"
+  city="Bangkok"
+  country="Austria"
+  firstname2="Meghann"
+  lastname2="Bivins"
+  email="Meghann.Bivins@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>96.835</random_float>
+  <bool>true</bool>
+  <date>1983-07-15</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Aigneis</elt><elt>Aimil</elt><elt>Aurelie</elt><elt>Ida</elt><elt>Valli</elt>  
+  <Meghann>
+    <age>91</age>
+  </Meghann>
+</root>

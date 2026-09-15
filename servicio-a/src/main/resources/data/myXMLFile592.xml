@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Warthman"
+  city="Mecca"
+  country="Bouvet Island"
+  firstname2="Annaliese"
+  lastname2="Baptlsta"
+  email="Annaliese.Baptlsta@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>41.11</random_float>
+  <bool>true</bool>
+  <date>1987-12-20</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gaylene</elt><elt>Drucie</elt><elt>Allis</elt><elt>Keelia</elt><elt>Lorie</elt>  
+  <Annaliese>
+    <age>56</age>
+  </Annaliese>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Borrell"
+  city="Lobamba"
+  country="AndorrA"
+  firstname2="Merle"
+  lastname2="Maxi"
+  email="Merle.Maxi@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>8.4</random_float>
+  <bool>false</bool>
+  <date>1981-07-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Halette</elt><elt>Gavrielle</elt><elt>Jaime</elt><elt>Winny</elt><elt>Evita</elt>  
+  <Merle>
+    <age>67</age>
+  </Merle>
+</root>

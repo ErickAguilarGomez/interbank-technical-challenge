@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathyleen"
+  lastname="Cullin"
+  city="Nagpur"
+  country="Jersey"
+  firstname2="Harrietta"
+  lastname2="Hollingsworth"
+  email="Harrietta.Hollingsworth@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>52.524</random_float>
+  <bool>true</bool>
+  <date>1981-02-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nanete</elt><elt>Selia</elt><elt>Madeleine</elt><elt>Mariann</elt><elt>Janey</elt>  
+  <Harrietta>
+    <age>56</age>
+  </Harrietta>
+</root>

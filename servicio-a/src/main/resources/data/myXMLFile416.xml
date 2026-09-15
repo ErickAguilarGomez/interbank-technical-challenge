@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Coral"
+  lastname="Devlen"
+  city="Hagåtña"
+  country="Somalia"
+  firstname2="Mallory"
+  lastname2="Arathorn"
+  email="Mallory.Arathorn@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>60.827</random_float>
+  <bool>true</bool>
+  <date>1980-08-12</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Concettina</elt><elt>Dorthy</elt><elt>Ricky</elt><elt>Elie</elt><elt>Glenda</elt>  
+  <Mallory>
+    <age>56</age>
+  </Mallory>
+</root>

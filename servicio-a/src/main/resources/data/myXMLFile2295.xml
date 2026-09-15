@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Zachary"
+  city="Siem Reap"
+  country="Turks and Caicos Islands"
+  firstname2="Marleah"
+  lastname2="Byrne"
+  email="Marleah.Byrne@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>27.473</random_float>
+  <bool>false</bool>
+  <date>1988-01-13</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jennica</elt><elt>Willetta</elt><elt>Lynea</elt><elt>Georgina</elt><elt>Margarette</elt>  
+  <Marleah>
+    <age>84</age>
+  </Marleah>
+</root>

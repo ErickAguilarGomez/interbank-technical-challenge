@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Pelagias"
+  city="Yaren District"
+  country="Czech Republic"
+  firstname2="Jennica"
+  lastname2="Yuille"
+  email="Jennica.Yuille@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>26.886</random_float>
+  <bool>false</bool>
+  <date>1983-10-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Beverley</elt><elt>Jackie</elt><elt>Blondelle</elt><elt>Hettie</elt><elt>Annice</elt>  
+  <Jennica>
+    <age>86</age>
+  </Jennica>
+</root>

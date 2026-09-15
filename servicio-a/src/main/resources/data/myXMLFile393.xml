@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marnia"
+  lastname="Baptlsta"
+  city="Abidjan"
+  country="Croatia"
+  firstname2="Lanae"
+  lastname2="Bethany"
+  email="Lanae.Bethany@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>85.699</random_float>
+  <bool>false</bool>
+  <date>1982-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kellen</elt><elt>Dorene</elt><elt>Florencia</elt><elt>Genovera</elt><elt>Jenilee</elt>  
+  <Lanae>
+    <age>65</age>
+  </Lanae>
+</root>

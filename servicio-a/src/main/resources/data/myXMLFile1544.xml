@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Liebermann"
+  city="Rabi Island"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Korrie"
+  lastname2="Linskey"
+  email="Korrie.Linskey@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>37.43</random_float>
+  <bool>false</bool>
+  <date>1986-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Karolina</elt><elt>Nessie</elt><elt>Gusty</elt><elt>Corly</elt><elt>Kore</elt>  
+  <Korrie>
+    <age>58</age>
+  </Korrie>
+</root>

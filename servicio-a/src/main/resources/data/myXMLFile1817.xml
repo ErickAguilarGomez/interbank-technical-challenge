@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyda"
+  lastname="Erminia"
+  city="Tampa"
+  country="Colombia"
+  firstname2="Letizia"
+  lastname2="Kesley"
+  email="Letizia.Kesley@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>34.625</random_float>
+  <bool>true</bool>
+  <date>1981-06-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kayla</elt><elt>Elise</elt><elt>Pamella</elt><elt>Anestassia</elt><elt>Jenilee</elt>  
+  <Letizia>
+    <age>54</age>
+  </Letizia>
+</root>

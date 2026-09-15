@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="Oster"
+  city="Palembang"
+  country="Paraguay"
+  firstname2="Rori"
+  lastname2="Burkle"
+  email="Rori.Burkle@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>3.774</random_float>
+  <bool>true</bool>
+  <date>1999-07-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Aili</elt><elt>Molli</elt><elt>Annaliese</elt><elt>Britte</elt><elt>Johna</elt>  
+  <Rori>
+    <age>28</age>
+  </Rori>
+</root>

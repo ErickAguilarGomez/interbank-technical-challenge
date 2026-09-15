@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Berne"
+  city="Lhasa"
+  country="Uruguay"
+  firstname2="Melina"
+  lastname2="Sundin"
+  email="Melina.Sundin@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>35.359</random_float>
+  <bool>true</bool>
+  <date>1992-03-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Delilah</elt><elt>Harrietta</elt><elt>Quintina</elt><elt>Tarra</elt><elt>Wendi</elt>  
+  <Melina>
+    <age>19</age>
+  </Melina>
+</root>

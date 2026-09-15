@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madeleine"
+  lastname="Greyson"
+  city="Graz"
+  country="Nepal"
+  firstname2="Hallie"
+  lastname2="Thunell"
+  email="Hallie.Thunell@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>45.423</random_float>
+  <bool>false</bool>
+  <date>1983-02-22</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Caritta</elt><elt>Claresta</elt><elt>Ricky</elt><elt>Dania</elt><elt>Gerianna</elt>  
+  <Hallie>
+    <age>61</age>
+  </Hallie>
+</root>

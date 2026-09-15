@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Eachern"
+  city="Hamilton"
+  country="Panama"
+  firstname2="Inga"
+  lastname2="Stanwood"
+  email="Inga.Stanwood@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>64.911</random_float>
+  <bool>false</bool>
+  <date>1996-07-19</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Joceline</elt><elt>Kore</elt><elt>Giustina</elt><elt>Gertrud</elt><elt>Janis</elt>  
+  <Inga>
+    <age>82</age>
+  </Inga>
+</root>

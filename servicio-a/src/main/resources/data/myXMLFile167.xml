@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ayn"
+  lastname="Gladstone"
+  city="Nantes"
+  country="Maldives"
+  firstname2="Dari"
+  lastname2="Arley"
+  email="Dari.Arley@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>92.179</random_float>
+  <bool>true</bool>
+  <date>1996-03-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Krystle</elt><elt>Teriann</elt><elt>Tani</elt><elt>Ricky</elt><elt>Quintina</elt>  
+  <Dari>
+    <age>97</age>
+  </Dari>
+</root>

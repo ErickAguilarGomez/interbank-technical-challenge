@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anica"
+  lastname="Burkle"
+  city="Regina"
+  country="Bahrain"
+  firstname2="Ellette"
+  lastname2="Orelee"
+  email="Ellette.Orelee@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>31.126</random_float>
+  <bool>false</bool>
+  <date>1996-09-16</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Ninnetta</elt><elt>Jorry</elt><elt>Petronia</elt><elt>Gisela</elt><elt>Vere</elt>  
+  <Ellette>
+    <age>88</age>
+  </Ellette>
+</root>

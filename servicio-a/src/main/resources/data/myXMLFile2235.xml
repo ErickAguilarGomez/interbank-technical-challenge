@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emma"
+  lastname="Fadiman"
+  city="Huế"
+  country="Namibia"
+  firstname2="Louella"
+  lastname2="Brodench"
+  email="Louella.Brodench@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>48.917</random_float>
+  <bool>true</bool>
+  <date>1991-08-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Linzy</elt><elt>Sean</elt><elt>Lanna</elt><elt>Addia</elt><elt>Tori</elt>  
+  <Louella>
+    <age>70</age>
+  </Louella>
+</root>

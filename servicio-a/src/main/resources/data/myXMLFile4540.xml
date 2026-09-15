@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wanda"
+  lastname="Dyche"
+  city="Chişinău"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Malina"
+  lastname2="Elisha"
+  email="Malina.Elisha@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>47.03</random_float>
+  <bool>false</bool>
+  <date>1997-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gabriellia</elt><elt>Letizia</elt><elt>Jany</elt><elt>Cherrita</elt><elt>Kary</elt>  
+  <Malina>
+    <age>18</age>
+  </Malina>
+</root>

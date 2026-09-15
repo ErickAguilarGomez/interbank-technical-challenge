@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Manolo"
+  city="Maseru"
+  country="Congo"
+  firstname2="Micheline"
+  lastname2="Pacorro"
+  email="Micheline.Pacorro@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>24.508</random_float>
+  <bool>false</bool>
+  <date>1986-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dianemarie</elt><elt>Beverley</elt><elt>Robbi</elt><elt>Violet</elt><elt>Rayna</elt>  
+  <Micheline>
+    <age>78</age>
+  </Micheline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulcinea"
+  lastname="Carmena"
+  city="Palikir"
+  country="Turkey"
+  firstname2="Renie"
+  lastname2="Bronk"
+  email="Renie.Bronk@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>47.68</random_float>
+  <bool>true</bool>
+  <date>1982-04-19</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jinny</elt><elt>Mariele</elt><elt>Drucie</elt><elt>Beverley</elt><elt>Sophia</elt>  
+  <Renie>
+    <age>87</age>
+  </Renie>
+</root>

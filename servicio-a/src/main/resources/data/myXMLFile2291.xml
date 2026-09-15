@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Regan"
+  city="Quezon City"
+  country="Jersey"
+  firstname2="Selia"
+  lastname2="Konyn"
+  email="Selia.Konyn@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>78.045</random_float>
+  <bool>true</bool>
+  <date>1985-10-03</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Doro</elt><elt>Catharine</elt><elt>Pamella</elt><elt>Dianemarie</elt><elt>Gusty</elt>  
+  <Selia>
+    <age>86</age>
+  </Selia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catrina"
+  lastname="Zrike"
+  city="Lilongwe"
+  country="Slovakia"
+  firstname2="Jorry"
+  lastname2="Chaing"
+  email="Jorry.Chaing@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>25.614</random_float>
+  <bool>false</bool>
+  <date>1985-10-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lulita</elt><elt>Amii</elt><elt>Candi</elt><elt>Camile</elt><elt>Celestyna</elt>  
+  <Jorry>
+    <age>39</age>
+  </Jorry>
+</root>

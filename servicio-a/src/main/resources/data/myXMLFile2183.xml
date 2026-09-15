@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bertine"
+  lastname="Socha"
+  city="Juneau"
+  country="Togo"
+  firstname2="Kathi"
+  lastname2="Bronk"
+  email="Kathi.Bronk@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>44.128</random_float>
+  <bool>true</bool>
+  <date>1996-06-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ronna</elt><elt>Dode</elt><elt>Lucy</elt><elt>Annecorinne</elt><elt>Sallie</elt>  
+  <Kathi>
+    <age>98</age>
+  </Kathi>
+</root>

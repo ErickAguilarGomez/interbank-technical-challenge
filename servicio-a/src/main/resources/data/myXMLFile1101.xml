@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tami"
+  lastname="Lasley"
+  city="Dammam"
+  country="New Zealand"
+  firstname2="Merci"
+  lastname2="Hubert"
+  email="Merci.Hubert@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>85.903</random_float>
+  <bool>true</bool>
+  <date>1984-11-30</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Maurene</elt><elt>Caressa</elt><elt>Natka</elt><elt>Doro</elt><elt>Tami</elt>  
+  <Merci>
+    <age>84</age>
+  </Merci>
+</root>

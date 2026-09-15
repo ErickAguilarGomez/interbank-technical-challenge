@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nataline"
+  lastname="Munn"
+  city="Yaoundé"
+  country="Singapore"
+  firstname2="Merrie"
+  lastname2="Aurelio"
+  email="Merrie.Aurelio@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>75.932</random_float>
+  <bool>true</bool>
+  <date>1990-02-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Viviene</elt><elt>Jorry</elt><elt>Krystle</elt><elt>Teddie</elt><elt>Betta</elt>  
+  <Merrie>
+    <age>21</age>
+  </Merrie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gabi"
+  lastname="Velick"
+  city="Copenhagen"
+  country="Saint Lucia"
+  firstname2="Veda"
+  lastname2="Jacinda"
+  email="Veda.Jacinda@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>19.172</random_float>
+  <bool>true</bool>
+  <date>1999-06-17</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Addia</elt><elt>Millie</elt><elt>Ethel</elt><elt>Jorry</elt><elt>Cordi</elt>  
+  <Veda>
+    <age>38</age>
+  </Veda>
+</root>

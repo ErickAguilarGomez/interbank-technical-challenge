@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nikki"
+  lastname="Buttaro"
+  city="Dammam"
+  country="Mauritania"
+  firstname2="Cyb"
+  lastname2="Soneson"
+  email="Cyb.Soneson@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>93.792</random_float>
+  <bool>true</bool>
+  <date>1982-01-01</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Binny</elt><elt>Elena</elt><elt>Gui</elt><elt>Kristan</elt><elt>Jemie</elt>  
+  <Cyb>
+    <age>84</age>
+  </Cyb>
+</root>

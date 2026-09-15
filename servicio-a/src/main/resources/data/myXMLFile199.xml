@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fawne"
+  lastname="Cloris"
+  city="Recife"
+  country="Egypt"
+  firstname2="Suzette"
+  lastname2="Ciro"
+  email="Suzette.Ciro@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>21.573</random_float>
+  <bool>false</bool>
+  <date>1992-10-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Arlina</elt><elt>Doralynne</elt><elt>Camile</elt><elt>Wanda</elt><elt>Melanie</elt>  
+  <Suzette>
+    <age>38</age>
+  </Suzette>
+</root>

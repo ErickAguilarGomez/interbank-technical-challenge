@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Bryna"
+  city="Raleigh"
+  country="Papua New Guinea"
+  firstname2="Teriann"
+  lastname2="Durante"
+  email="Teriann.Durante@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>22.128</random_float>
+  <bool>false</bool>
+  <date>1992-10-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Linzy</elt><elt>Corina</elt><elt>Goldie</elt><elt>Rhea</elt><elt>Rochette</elt>  
+  <Teriann>
+    <age>41</age>
+  </Teriann>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbara"
+  lastname="Clarissa"
+  city="Changchun"
+  country="Wallis and Futuna"
+  firstname2="Dotty"
+  lastname2="Emmaline"
+  email="Dotty.Emmaline@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>55.517</random_float>
+  <bool>false</bool>
+  <date>1983-10-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Robbi</elt><elt>Lynnea</elt><elt>Vivia</elt><elt>Ruthe</elt><elt>Celene</elt>  
+  <Dotty>
+    <age>65</age>
+  </Dotty>
+</root>

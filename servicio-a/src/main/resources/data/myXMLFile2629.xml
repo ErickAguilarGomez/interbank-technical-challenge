@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merci"
+  lastname="Karl"
+  city="Moroni"
+  country="Djibouti"
+  firstname2="Dyann"
+  lastname2="Burnside"
+  email="Dyann.Burnside@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>7.392</random_float>
+  <bool>true</bool>
+  <date>1997-02-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Codie</elt><elt>Asia</elt><elt>Valli</elt><elt>Allyce</elt><elt>Dari</elt>  
+  <Dyann>
+    <age>40</age>
+  </Dyann>
+</root>

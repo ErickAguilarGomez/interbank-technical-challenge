@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Aurelio"
+  city="Mumbai"
+  country="Guinea"
+  firstname2="Alie"
+  lastname2="Mayeda"
+  email="Alie.Mayeda@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>2.891</random_float>
+  <bool>false</bool>
+  <date>1999-04-22</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Josephine</elt><elt>Lynde</elt><elt>Odessa</elt><elt>Tonia</elt><elt>Roz</elt>  
+  <Alie>
+    <age>51</age>
+  </Alie>
+</root>

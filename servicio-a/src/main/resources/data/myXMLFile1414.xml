@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anestassia"
+  lastname="Ventre"
+  city="Yokohama"
+  country="Saudi Arabia"
+  firstname2="Doralynne"
+  lastname2="Fiester"
+  email="Doralynne.Fiester@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>69.74</random_float>
+  <bool>false</bool>
+  <date>1981-08-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shaylyn</elt><elt>Maryellen</elt><elt>Dominga</elt><elt>Kenna</elt><elt>Nananne</elt>  
+  <Doralynne>
+    <age>75</age>
+  </Doralynne>
+</root>

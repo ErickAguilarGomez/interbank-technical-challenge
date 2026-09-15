@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Priscilla"
+  lastname="Anyah"
+  city="Yogyakarta (city)"
+  country="Cook Islands"
+  firstname2="Robbi"
+  lastname2="Karl"
+  email="Robbi.Karl@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>50.974</random_float>
+  <bool>false</bool>
+  <date>1988-10-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cathie</elt><elt>Heddie</elt><elt>Josephine</elt><elt>Sherrie</elt><elt>Wileen</elt>  
+  <Robbi>
+    <age>61</age>
+  </Robbi>
+</root>

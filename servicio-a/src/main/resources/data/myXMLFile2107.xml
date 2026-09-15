@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorice"
+  lastname="Vorster"
+  city="Chicago"
+  country="Martinique"
+  firstname2="Gratia"
+  lastname2="McGrody"
+  email="Gratia.McGrody@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>63.308</random_float>
+  <bool>true</bool>
+  <date>1996-11-28</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Elise</elt><elt>Alie</elt><elt>Shel</elt><elt>Addia</elt><elt>Lisette</elt>  
+  <Gratia>
+    <age>44</age>
+  </Gratia>
+</root>

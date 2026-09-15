@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joelly"
+  lastname="Remmer"
+  city="Francistown"
+  country="Pitcairn"
+  firstname2="Brena"
+  lastname2="Pauly"
+  email="Brena.Pauly@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>70.003</random_float>
+  <bool>false</bool>
+  <date>1984-08-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Clementine</elt><elt>Ekaterina</elt><elt>Zia</elt><elt>Tera</elt><elt>Lacie</elt>  
+  <Brena>
+    <age>78</age>
+  </Brena>
+</root>

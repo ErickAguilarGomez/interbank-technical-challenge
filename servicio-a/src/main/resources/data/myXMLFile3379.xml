@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Imelida"
+  city="Whitehorse"
+  country="Gambia"
+  firstname2="Winifred"
+  lastname2="Norrie"
+  email="Winifred.Norrie@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>47.252</random_float>
+  <bool>true</bool>
+  <date>1995-03-14</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Beverley</elt><elt>Dagmar</elt><elt>Kassey</elt><elt>Evita</elt><elt>Maye</elt>  
+  <Winifred>
+    <age>49</age>
+  </Winifred>
+</root>

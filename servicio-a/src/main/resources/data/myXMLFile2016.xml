@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Schonfeld"
+  city="Charlotte Amalie"
+  country="Togo"
+  firstname2="Berget"
+  lastname2="Brenn"
+  email="Berget.Brenn@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>100.167</random_float>
+  <bool>false</bool>
+  <date>1996-02-01</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roslyn</elt><elt>Melodie</elt><elt>Jemie</elt><elt>Starla</elt><elt>Jaime</elt>  
+  <Berget>
+    <age>27</age>
+  </Berget>
+</root>

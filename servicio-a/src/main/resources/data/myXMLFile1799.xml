@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angela"
+  lastname="LaRue"
+  city="Phoenix"
+  country="Bolivia"
+  firstname2="Codie"
+  lastname2="Karna"
+  email="Codie.Karna@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>50.194</random_float>
+  <bool>true</bool>
+  <date>1980-09-08</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Adelle</elt><elt>Sybille</elt><elt>Dianemarie</elt><elt>Katharina</elt><elt>Ana</elt>  
+  <Codie>
+    <age>55</age>
+  </Codie>
+</root>

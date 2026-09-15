@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ottilie"
+  lastname="Septima"
+  city="Gaza"
+  country="Burkina Faso"
+  firstname2="Jaclyn"
+  lastname2="Shaddock"
+  email="Jaclyn.Shaddock@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>19.721</random_float>
+  <bool>true</bool>
+  <date>1994-09-28</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Millie</elt><elt>Tobe</elt><elt>Kimberley</elt><elt>Sidoney</elt><elt>Ashlee</elt>  
+  <Jaclyn>
+    <age>43</age>
+  </Jaclyn>
+</root>

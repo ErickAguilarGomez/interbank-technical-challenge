@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Diena"
+  lastname="Ricarda"
+  city="Mbabane"
+  country="Kenya"
+  firstname2="Joane"
+  lastname2="Paine"
+  email="Joane.Paine@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>35.037</random_float>
+  <bool>true</bool>
+  <date>1995-12-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mallory</elt><elt>Emylee</elt><elt>Florencia</elt><elt>Sharlene</elt><elt>Carlie</elt>  
+  <Joane>
+    <age>71</age>
+  </Joane>
+</root>

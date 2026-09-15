@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lauryn"
+  lastname="Konyn"
+  city="Taipei"
+  country="Netherlands Antilles"
+  firstname2="Deane"
+  lastname2="Dituri"
+  email="Deane.Dituri@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>33.782</random_float>
+  <bool>true</bool>
+  <date>1996-04-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Wanda</elt><elt>Lynnea</elt><elt>Gilligan</elt><elt>Millie</elt><elt>Lorie</elt>  
+  <Deane>
+    <age>73</age>
+  </Deane>
+</root>

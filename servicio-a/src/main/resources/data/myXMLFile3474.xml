@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Randa"
+  lastname="Bertold"
+  city="Zamboanga City"
+  country="Burkina Faso"
+  firstname2="Hallie"
+  lastname2="Cavan"
+  email="Hallie.Cavan@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>12.219</random_float>
+  <bool>false</bool>
+  <date>1997-11-17</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Ada</elt><elt>Renie</elt><elt>Vita</elt><elt>Blondelle</elt><elt>Adelle</elt>  
+  <Hallie>
+    <age>64</age>
+  </Hallie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="Lauraine"
+  city="Nicosia"
+  country="Venezuela"
+  firstname2="Blake"
+  lastname2="Flita"
+  email="Blake.Flita@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>11.568</random_float>
+  <bool>true</bool>
+  <date>1987-05-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gerrie</elt><elt>Olwen</elt><elt>Jinny</elt><elt>Gerianna</elt><elt>Mignon</elt>  
+  <Blake>
+    <age>24</age>
+  </Blake>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roslyn"
+  lastname="Argus"
+  city="Funafuti"
+  country="Austria"
+  firstname2="Alie"
+  lastname2="Nikaniki"
+  email="Alie.Nikaniki@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>86.192</random_float>
+  <bool>false</bool>
+  <date>1985-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gui</elt><elt>Jennica</elt><elt>Pollyanna</elt><elt>Amelia</elt><elt>Marsiella</elt>  
+  <Alie>
+    <age>85</age>
+  </Alie>
+</root>

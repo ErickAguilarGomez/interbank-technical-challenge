@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="MacIntosh"
+  city="Iqaluit"
+  country="Anguilla"
+  firstname2="Orsola"
+  lastname2="My"
+  email="Orsola.My@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>17.376</random_float>
+  <bool>false</bool>
+  <date>1982-09-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sherrie</elt><elt>Sam</elt><elt>Millie</elt><elt>Stacey</elt><elt>Gaylene</elt>  
+  <Orsola>
+    <age>88</age>
+  </Orsola>
+</root>

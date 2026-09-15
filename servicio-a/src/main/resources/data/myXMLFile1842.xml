@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janis"
+  lastname="Charity"
+  city="Nassau"
+  country="Pakistan"
+  firstname2="Elka"
+  lastname2="Bakerman"
+  email="Elka.Bakerman@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>79.852</random_float>
+  <bool>true</bool>
+  <date>1999-10-06</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sheelagh</elt><elt>Vonny</elt><elt>Sophia</elt><elt>Nicoli</elt><elt>Kore</elt>  
+  <Elka>
+    <age>23</age>
+  </Elka>
+</root>

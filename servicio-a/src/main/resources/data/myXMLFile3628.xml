@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Konstance"
+  lastname="Fitzsimmons"
+  city="Luanda"
+  country="Eritrea"
+  firstname2="Tera"
+  lastname2="Reidar"
+  email="Tera.Reidar@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>85.702</random_float>
+  <bool>false</bool>
+  <date>1999-12-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lanna</elt><elt>Bernardine</elt><elt>Kore</elt><elt>Ellette</elt><elt>Gabi</elt>  
+  <Tera>
+    <age>75</age>
+  </Tera>
+</root>

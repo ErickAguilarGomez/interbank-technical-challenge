@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Felice"
+  lastname="Mandler"
+  city="Tokyo"
+  country="Greece"
+  firstname2="Meghann"
+  lastname2="Taam"
+  email="Meghann.Taam@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>63.665</random_float>
+  <bool>false</bool>
+  <date>1992-12-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fanny</elt><elt>Corly</elt><elt>Nariko</elt><elt>Blondelle</elt><elt>Lyssa</elt>  
+  <Meghann>
+    <age>23</age>
+  </Meghann>
+</root>

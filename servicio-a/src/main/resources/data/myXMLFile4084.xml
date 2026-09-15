@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Viki"
+  lastname="Knowling"
+  city="Belize City"
+  country="Singapore"
+  firstname2="Constance"
+  lastname2="Hanleigh"
+  email="Constance.Hanleigh@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>32.081</random_float>
+  <bool>false</bool>
+  <date>1985-03-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Shauna</elt><elt>Isa</elt><elt>Meghann</elt><elt>Letizia</elt><elt>Elka</elt>  
+  <Constance>
+    <age>76</age>
+  </Constance>
+</root>

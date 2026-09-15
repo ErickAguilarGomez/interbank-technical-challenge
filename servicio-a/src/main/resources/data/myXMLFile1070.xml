@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nariko"
+  lastname="Francyne"
+  city="Phnom Penh"
+  country="Guadeloupe"
+  firstname2="Diena"
+  lastname2="Dowski"
+  email="Diena.Dowski@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>84.539</random_float>
+  <bool>false</bool>
+  <date>1985-07-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rosabelle</elt><elt>Inga</elt><elt>Pierette</elt><elt>Cristine</elt><elt>Isa</elt>  
+  <Diena>
+    <age>38</age>
+  </Diena>
+</root>

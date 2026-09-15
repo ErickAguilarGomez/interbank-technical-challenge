@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jessamyn"
+  lastname="Seessel"
+  city="Cuiabá"
+  country="Serbia and Montenegro"
+  firstname2="Ida"
+  lastname2="Fiester"
+  email="Ida.Fiester@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>90.202</random_float>
+  <bool>false</bool>
+  <date>1992-04-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Chandra</elt><elt>Nickie</elt><elt>Joceline</elt><elt>Melanie</elt><elt>Renie</elt>  
+  <Ida>
+    <age>46</age>
+  </Ida>
+</root>

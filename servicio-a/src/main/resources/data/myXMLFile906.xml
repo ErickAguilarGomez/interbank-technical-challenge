@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Theodora"
+  lastname="Ezar"
+  city="Havana"
+  country="Sudan"
+  firstname2="Tera"
+  lastname2="Marsden"
+  email="Tera.Marsden@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>97.66</random_float>
+  <bool>false</bool>
+  <date>1991-12-14</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gertrud</elt><elt>Randa</elt><elt>Kara-Lynn</elt><elt>Delilah</elt><elt>Mara</elt>  
+  <Tera>
+    <age>29</age>
+  </Tera>
+</root>

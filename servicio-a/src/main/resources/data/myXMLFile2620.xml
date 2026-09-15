@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Albertine"
+  city="Monaco"
+  country="Armenia"
+  firstname2="Gavrielle"
+  lastname2="Elephus"
+  email="Gavrielle.Elephus@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>3.775</random_float>
+  <bool>false</bool>
+  <date>1985-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ezmeralda</elt><elt>Damaris</elt><elt>Tierney</elt><elt>Latisha</elt><elt>Asia</elt>  
+  <Gavrielle>
+    <age>20</age>
+  </Gavrielle>
+</root>

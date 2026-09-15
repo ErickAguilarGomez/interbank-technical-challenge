@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Center"
+  city="Las Palmas de Gran Canaria"
+  country="Sweden"
+  firstname2="Lenna"
+  lastname2="Edee"
+  email="Lenna.Edee@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>9.195</random_float>
+  <bool>true</bool>
+  <date>1980-07-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Anestassia</elt><elt>Gale</elt><elt>Margalo</elt><elt>Tobe</elt><elt>Elvira</elt>  
+  <Lenna>
+    <age>65</age>
+  </Lenna>
+</root>

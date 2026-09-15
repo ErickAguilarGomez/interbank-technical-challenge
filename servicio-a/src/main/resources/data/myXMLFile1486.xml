@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flory"
+  lastname="Maisey"
+  city="Ashgabat"
+  country="Panama"
+  firstname2="Dale"
+  lastname2="Isidore"
+  email="Dale.Isidore@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>69.295</random_float>
+  <bool>false</bool>
+  <date>1982-12-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kenna</elt><elt>Aurore</elt><elt>Linet</elt><elt>Tierney</elt><elt>Benita</elt>  
+  <Dale>
+    <age>75</age>
+  </Dale>
+</root>

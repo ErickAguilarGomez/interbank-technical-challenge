@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nariko"
+  lastname="Frodi"
+  city="El Paso"
+  country="Svalbard and Jan Mayen"
+  firstname2="Meg"
+  lastname2="Bollay"
+  email="Meg.Bollay@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>46.807</random_float>
+  <bool>false</bool>
+  <date>1994-12-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Vonny</elt><elt>Dawn</elt><elt>Yolane</elt><elt>Aurelie</elt><elt>Tatiania</elt>  
+  <Meg>
+    <age>33</age>
+  </Meg>
+</root>

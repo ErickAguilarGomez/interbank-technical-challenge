@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candi"
+  lastname="Agle"
+  city="Samara"
+  country="Cameroon"
+  firstname2="Lila"
+  lastname2="Sadowski"
+  email="Lila.Sadowski@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>68.075</random_float>
+  <bool>false</bool>
+  <date>1997-02-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dulce</elt><elt>Nonnah</elt><elt>Sidoney</elt><elt>Jere</elt><elt>Queenie</elt>  
+  <Lila>
+    <age>98</age>
+  </Lila>
+</root>

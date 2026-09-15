@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doralynne"
+  lastname="Wadell"
+  city="Port Elizabeth"
+  country="French Polynesia"
+  firstname2="Katleen"
+  lastname2="Engdahl"
+  email="Katleen.Engdahl@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>11.557</random_float>
+  <bool>true</bool>
+  <date>1995-10-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Deedee</elt><elt>Sharlene</elt><elt>Annaliese</elt><elt>Keelia</elt><elt>Janenna</elt>  
+  <Katleen>
+    <age>52</age>
+  </Katleen>
+</root>

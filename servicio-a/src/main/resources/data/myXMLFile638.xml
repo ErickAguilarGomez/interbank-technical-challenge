@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hettie"
+  lastname="Carlson"
+  city="Nouakchott"
+  country="Poland"
+  firstname2="Sindee"
+  lastname2="Milson"
+  email="Sindee.Milson@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>64.887</random_float>
+  <bool>true</bool>
+  <date>1987-04-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jenilee</elt><elt>Jobi</elt><elt>Britni</elt><elt>Ida</elt><elt>Cyb</elt>  
+  <Sindee>
+    <age>100</age>
+  </Sindee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nessie"
+  lastname="Mayeda"
+  city="Ilhéus"
+  country="Bulgaria"
+  firstname2="Mariann"
+  lastname2="Sadowski"
+  email="Mariann.Sadowski@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>53.39</random_float>
+  <bool>false</bool>
+  <date>1981-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ninnetta</elt><elt>Mamie</elt><elt>Cam</elt><elt>Sallie</elt><elt>Dede</elt>  
+  <Mariann>
+    <age>100</age>
+  </Mariann>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Kristi"
+  city="Makati City"
+  country="Iran, Islamic Republic Of"
+  firstname2="Jorry"
+  lastname2="Cecile"
+  email="Jorry.Cecile@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>75.821</random_float>
+  <bool>true</bool>
+  <date>1986-02-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gavrielle</elt><elt>Shauna</elt><elt>Lynea</elt><elt>Agathe</elt><elt>Augustine</elt>  
+  <Jorry>
+    <age>98</age>
+  </Jorry>
+</root>

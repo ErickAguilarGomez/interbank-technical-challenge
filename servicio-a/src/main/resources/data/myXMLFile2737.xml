@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joceline"
+  lastname="Chandler"
+  city="Jeddah"
+  country="South Africa"
+  firstname2="Kaia"
+  lastname2="Urias"
+  email="Kaia.Urias@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>61.843</random_float>
+  <bool>false</bool>
+  <date>1992-08-15</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jordan</elt><elt>Sindee</elt><elt>Eve</elt><elt>Kara-Lynn</elt><elt>Oralee</elt>  
+  <Kaia>
+    <age>45</age>
+  </Kaia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Hirsch"
+  city="Puerto Williams"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Frances"
+  lastname2="Payson"
+  email="Frances.Payson@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>83.014</random_float>
+  <bool>false</bool>
+  <date>1991-09-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lily</elt><elt>Marleah</elt><elt>Lusa</elt><elt>Netty</elt><elt>Taffy</elt>  
+  <Frances>
+    <age>72</age>
+  </Frances>
+</root>

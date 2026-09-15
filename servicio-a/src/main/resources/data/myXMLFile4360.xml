@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margarette"
+  lastname="Morrill"
+  city="Hat Yai"
+  country="Solomon Islands"
+  firstname2="Briney"
+  lastname2="Rustice"
+  email="Briney.Rustice@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>89.475</random_float>
+  <bool>true</bool>
+  <date>1997-12-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rivalee</elt><elt>Zondra</elt><elt>Annora</elt><elt>Lory</elt><elt>Goldie</elt>  
+  <Briney>
+    <age>36</age>
+  </Briney>
+</root>

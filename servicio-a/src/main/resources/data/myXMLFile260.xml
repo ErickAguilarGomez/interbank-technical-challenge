@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Richers"
+  city="Chittagong"
+  country="Trinidad and Tobago"
+  firstname2="Basia"
+  lastname2="Ardra"
+  email="Basia.Ardra@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>31.377</random_float>
+  <bool>false</bool>
+  <date>1985-09-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ethel</elt><elt>Willetta</elt><elt>Vivia</elt><elt>Marsiella</elt><elt>Elmira</elt>  
+  <Basia>
+    <age>81</age>
+  </Basia>
+</root>

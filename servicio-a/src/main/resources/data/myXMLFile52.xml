@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Presber"
+  city="Cotonou"
+  country="Holy See (Vatican City State)"
+  firstname2="Brynna"
+  lastname2="Yerkovich"
+  email="Brynna.Yerkovich@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>20.966</random_float>
+  <bool>true</bool>
+  <date>1990-07-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ilse</elt><elt>Madelle</elt><elt>Cassandra</elt><elt>Kathi</elt><elt>Vita</elt>  
+  <Brynna>
+    <age>20</age>
+  </Brynna>
+</root>

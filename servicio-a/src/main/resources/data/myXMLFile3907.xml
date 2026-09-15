@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nerta"
+  lastname="Orpah"
+  city="Mandurah"
+  country="Bhutan"
+  firstname2="Rivalee"
+  lastname2="Hortensia"
+  email="Rivalee.Hortensia@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>94.662</random_float>
+  <bool>true</bool>
+  <date>1991-12-02</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gui</elt><elt>Winny</elt><elt>Alisha</elt><elt>Wendi</elt><elt>Drucie</elt>  
+  <Rivalee>
+    <age>83</age>
+  </Rivalee>
+</root>

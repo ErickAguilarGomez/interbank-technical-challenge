@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britte"
+  lastname="Gilmour"
+  city="Handan"
+  country="Kiribati"
+  firstname2="Tamqrah"
+  lastname2="Schwejda"
+  email="Tamqrah.Schwejda@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>16.333</random_float>
+  <bool>false</bool>
+  <date>1989-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emelina</elt><elt>Glenda</elt><elt>Rori</elt><elt>Shel</elt><elt>Jenilee</elt>  
+  <Tamqrah>
+    <age>37</age>
+  </Tamqrah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roberta"
+  lastname="Sothena"
+  city="Majuro"
+  country="Senegal"
+  firstname2="Althea"
+  lastname2="Lytton"
+  email="Althea.Lytton@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>43.813</random_float>
+  <bool>true</bool>
+  <date>1998-09-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carree</elt><elt>Jaime</elt><elt>Anallese</elt><elt>Tracey</elt><elt>Ottilie</elt>  
+  <Althea>
+    <age>86</age>
+  </Althea>
+</root>

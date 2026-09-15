@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anestassia"
+  lastname="Therine"
+  city="Blantyre"
+  country="Myanmar"
+  firstname2="Belva"
+  lastname2="Mitzi"
+  email="Belva.Mitzi@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>30.941</random_float>
+  <bool>true</bool>
+  <date>1987-02-13</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kathi</elt><elt>Jolyn</elt><elt>Antonietta</elt><elt>Dorene</elt><elt>Dode</elt>  
+  <Belva>
+    <age>51</age>
+  </Belva>
+</root>

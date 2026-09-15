@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gui"
+  lastname="Ax"
+  city="Beijing"
+  country="Turks and Caicos Islands"
+  firstname2="Jan"
+  lastname2="Solitta"
+  email="Jan.Solitta@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>28.042</random_float>
+  <bool>false</bool>
+  <date>1997-10-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Caritta</elt><elt>Constance</elt><elt>Tami</elt><elt>Daune</elt><elt>Oona</elt>  
+  <Jan>
+    <age>41</age>
+  </Jan>
+</root>

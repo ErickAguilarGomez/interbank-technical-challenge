@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Burkle"
+  city="Zagreb"
+  country="AndorrA"
+  firstname2="Patricia"
+  lastname2="Brotherson"
+  email="Patricia.Brotherson@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>85.874</random_float>
+  <bool>false</bool>
+  <date>1999-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kate</elt><elt>Jenilee</elt><elt>Marleah</elt><elt>Addia</elt><elt>Lenna</elt>  
+  <Patricia>
+    <age>53</age>
+  </Patricia>
+</root>

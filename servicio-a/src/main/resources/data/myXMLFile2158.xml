@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Bethany"
+  city="Nagpur"
+  country="Kyrgyzstan"
+  firstname2="Dianemarie"
+  lastname2="Loleta"
+  email="Dianemarie.Loleta@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>31.928</random_float>
+  <bool>false</bool>
+  <date>1995-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emilia</elt><elt>Candi</elt><elt>Eadie</elt><elt>Rani</elt><elt>Ariela</elt>  
+  <Dianemarie>
+    <age>20</age>
+  </Dianemarie>
+</root>

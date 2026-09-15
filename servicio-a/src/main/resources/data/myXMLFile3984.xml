@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Ries"
+  city="İzmir"
+  country="Djibouti"
+  firstname2="Ericka"
+  lastname2="Kesley"
+  email="Ericka.Kesley@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>86.181</random_float>
+  <bool>false</bool>
+  <date>1985-06-09</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Evita</elt><elt>Aigneis</elt><elt>Lyssa</elt><elt>Imojean</elt><elt>Orsola</elt>  
+  <Ericka>
+    <age>61</age>
+  </Ericka>
+</root>

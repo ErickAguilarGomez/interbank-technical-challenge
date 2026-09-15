@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vonny"
+  lastname="Martsen"
+  city="Chiang Mai"
+  country="Marshall Islands"
+  firstname2="Tersina"
+  lastname2="Kare"
+  email="Tersina.Kare@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>12.906</random_float>
+  <bool>false</bool>
+  <date>1983-05-14</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Janenna</elt><elt>Lorenza</elt><elt>Viki</elt><elt>Corene</elt><elt>Gilligan</elt>  
+  <Tersina>
+    <age>48</age>
+  </Tersina>
+</root>

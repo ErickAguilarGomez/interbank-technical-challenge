@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maisey"
+  lastname="Orlene"
+  city="N'Djamena"
+  country="Chile"
+  firstname2="Vonny"
+  lastname2="Nicoline"
+  email="Vonny.Nicoline@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>83.481</random_float>
+  <bool>false</bool>
+  <date>1983-12-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Karly</elt><elt>Jenilee</elt><elt>Tressa</elt><elt>Consuela</elt><elt>Hayley</elt>  
+  <Vonny>
+    <age>99</age>
+  </Vonny>
+</root>

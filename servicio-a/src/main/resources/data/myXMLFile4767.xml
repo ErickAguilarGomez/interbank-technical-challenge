@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bibby"
+  lastname="Ephrem"
+  city="Tianjin"
+  country="Suriname"
+  firstname2="Max"
+  lastname2="Kenney"
+  email="Max.Kenney@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>15.064</random_float>
+  <bool>true</bool>
+  <date>1992-03-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Chloris</elt><elt>Elena</elt><elt>Arlina</elt><elt>Cissiee</elt><elt>Isa</elt>  
+  <Max>
+    <age>41</age>
+  </Max>
+</root>

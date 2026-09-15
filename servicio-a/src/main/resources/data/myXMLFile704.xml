@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Zuzana"
+  city="Baltimore"
+  country="Iraq"
+  firstname2="Winny"
+  lastname2="Duwalt"
+  email="Winny.Duwalt@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>29.991</random_float>
+  <bool>true</bool>
+  <date>1983-06-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ketti</elt><elt>Katleen</elt><elt>Correy</elt><elt>Genovera</elt><elt>Priscilla</elt>  
+  <Winny>
+    <age>22</age>
+  </Winny>
+</root>

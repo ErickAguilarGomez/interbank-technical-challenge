@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Layla"
+  lastname="Smitt"
+  city="Winnipeg"
+  country="Hungary"
+  firstname2="Beatriz"
+  lastname2="Mauer"
+  email="Beatriz.Mauer@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>25.997</random_float>
+  <bool>true</bool>
+  <date>1990-10-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Katharina</elt><elt>Sabina</elt><elt>Almeta</elt><elt>Sophia</elt><elt>Sophia</elt>  
+  <Beatriz>
+    <age>68</age>
+  </Beatriz>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zia"
+  lastname="Olin"
+  city="Stanley"
+  country="Mali"
+  firstname2="Christian"
+  lastname2="Phi"
+  email="Christian.Phi@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>71.974</random_float>
+  <bool>true</bool>
+  <date>1995-10-31</date>
+  <regEx>hello to you</regEx>
+  <enum>online</enum>
+  <elt>Drucie</elt><elt>Tera</elt><elt>Sashenka</elt><elt>Christian</elt><elt>Mamie</elt>  
+  <Christian>
+    <age>72</age>
+  </Christian>
+</root>

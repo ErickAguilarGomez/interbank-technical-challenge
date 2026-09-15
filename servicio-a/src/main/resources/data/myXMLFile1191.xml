@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brietta"
+  lastname="Elbertina"
+  city="Manaus"
+  country="China"
+  firstname2="Elora"
+  lastname2="Erb"
+  email="Elora.Erb@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>43.667</random_float>
+  <bool>false</bool>
+  <date>1985-07-03</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lonnie</elt><elt>Feliza</elt><elt>Jillayne</elt><elt>Morganica</elt><elt>Susan</elt>  
+  <Elora>
+    <age>58</age>
+  </Elora>
+</root>

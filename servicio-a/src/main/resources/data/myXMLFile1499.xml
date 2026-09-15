@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nananne"
+  lastname="Marcellus"
+  city="Pretoria"
+  country="British Indian Ocean Territory"
+  firstname2="Mara"
+  lastname2="Eiser"
+  email="Mara.Eiser@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>45.502</random_float>
+  <bool>false</bool>
+  <date>1996-05-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Loree</elt><elt>Elka</elt><elt>Beverley</elt><elt>Jenda</elt><elt>Cecile</elt>  
+  <Mara>
+    <age>63</age>
+  </Mara>
+</root>

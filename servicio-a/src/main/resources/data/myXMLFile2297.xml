@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katharina"
+  lastname="Riordan"
+  city="Asmara"
+  country="Zimbabwe"
+  firstname2="Aigneis"
+  lastname2="Sprage"
+  email="Aigneis.Sprage@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>14.666</random_float>
+  <bool>false</bool>
+  <date>1993-03-29</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marguerite</elt><elt>Goldie</elt><elt>Joeann</elt><elt>Fanchon</elt><elt>Doralynne</elt>  
+  <Aigneis>
+    <age>60</age>
+  </Aigneis>
+</root>

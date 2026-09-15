@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dolli"
+  lastname="Yoko"
+  city="Freetown"
+  country="Bosnia and Herzegovina"
+  firstname2="Ruthe"
+  lastname2="Hailee"
+  email="Ruthe.Hailee@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>31.735</random_float>
+  <bool>false</bool>
+  <date>1995-08-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Daune</elt><elt>Ethel</elt><elt>Leontine</elt><elt>Darci</elt><elt>Donetta</elt>  
+  <Ruthe>
+    <age>99</age>
+  </Ruthe>
+</root>

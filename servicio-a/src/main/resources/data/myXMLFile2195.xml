@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catharine"
+  lastname="Hanshaw"
+  city="Mandurah"
+  country="Martinique"
+  firstname2="Dacia"
+  lastname2="Middleton"
+  email="Dacia.Middleton@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>71.567</random_float>
+  <bool>true</bool>
+  <date>1986-03-30</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nariko</elt><elt>Sarette</elt><elt>Zaria</elt><elt>Dale</elt><elt>Malina</elt>  
+  <Dacia>
+    <age>97</age>
+  </Dacia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jessamyn"
+  lastname="Saree"
+  city="Split (city)"
+  country="Yemen"
+  firstname2="Brooks"
+  lastname2="Cavan"
+  email="Brooks.Cavan@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>47.29</random_float>
+  <bool>false</bool>
+  <date>1991-08-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fidelia</elt><elt>Viki</elt><elt>Merci</elt><elt>Elka</elt><elt>Lanna</elt>  
+  <Brooks>
+    <age>35</age>
+  </Brooks>
+</root>

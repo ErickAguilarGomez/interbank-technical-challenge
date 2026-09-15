@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Rooney"
+  city="Koulikoro"
+  country="Cape Verde"
+  firstname2="Karina"
+  lastname2="Dom"
+  email="Karina.Dom@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>30.079</random_float>
+  <bool>false</bool>
+  <date>1990-05-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Stacey</elt><elt>Micheline</elt><elt>Tamqrah</elt><elt>Korrie</elt><elt>Elmira</elt>  
+  <Karina>
+    <age>92</age>
+  </Karina>
+</root>

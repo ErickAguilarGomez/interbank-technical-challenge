@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nicoli"
+  lastname="Drisko"
+  city="Tamale"
+  country="Anguilla"
+  firstname2="Donetta"
+  lastname2="Allina"
+  email="Donetta.Allina@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>29.561</random_float>
+  <bool>true</bool>
+  <date>1998-12-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Eolanda</elt><elt>Vonny</elt><elt>Ulrike</elt><elt>Rosabelle</elt><elt>Jessy</elt>  
+  <Donetta>
+    <age>70</age>
+  </Donetta>
+</root>

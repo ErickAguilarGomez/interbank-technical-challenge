@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobinette"
+  lastname="Rocray"
+  city="New Delhi"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Melina"
+  lastname2="O'Neill"
+  email="Melina.O'Neill@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>91.74</random_float>
+  <bool>true</bool>
+  <date>1984-08-02</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kate</elt><elt>Doralynne</elt><elt>Grier</elt><elt>Sean</elt><elt>Desirae</elt>  
+  <Melina>
+    <age>56</age>
+  </Melina>
+</root>

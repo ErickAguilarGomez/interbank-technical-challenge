@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roseline"
+  lastname="Stuart"
+  city="Saint-Pierre"
+  country="Portugal"
+  firstname2="Letizia"
+  lastname2="Greenwald"
+  email="Letizia.Greenwald@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>9.489</random_float>
+  <bool>true</bool>
+  <date>1983-02-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nickie</elt><elt>Nessie</elt><elt>Dione</elt><elt>Agathe</elt><elt>Cristabel</elt>  
+  <Letizia>
+    <age>25</age>
+  </Letizia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charissa"
+  lastname="Rossner"
+  city="Honiara"
+  country="Iceland"
+  firstname2="Marguerite"
+  lastname2="Redmond"
+  email="Marguerite.Redmond@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>75.55</random_float>
+  <bool>false</bool>
+  <date>1981-06-03</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lorne</elt><elt>Juliane</elt><elt>Tori</elt><elt>Kamilah</elt><elt>Barbi</elt>  
+  <Marguerite>
+    <age>61</age>
+  </Marguerite>
+</root>

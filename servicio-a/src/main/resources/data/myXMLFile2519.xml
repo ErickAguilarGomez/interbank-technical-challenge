@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Loring"
+  city="Dallas"
+  country="Lao People"S Democratic Republic"
+  firstname2="Bernardine"
+  lastname2="Rillings"
+  email="Bernardine.Rillings@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>68.169</random_float>
+  <bool>false</bool>
+  <date>1990-04-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ericka</elt><elt>Kial</elt><elt>Jerry</elt><elt>Grier</elt><elt>Amara</elt>  
+  <Bernardine>
+    <age>62</age>
+  </Bernardine>
+</root>

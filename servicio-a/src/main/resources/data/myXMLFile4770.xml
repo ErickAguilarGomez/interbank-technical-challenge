@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valli"
+  lastname="Longfellow"
+  city="Omdurman"
+  country="Gibraltar"
+  firstname2="Jinny"
+  lastname2="Ciro"
+  email="Jinny.Ciro@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>33.409</random_float>
+  <bool>false</bool>
+  <date>1986-07-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ermengarde</elt><elt>Rosabelle</elt><elt>Bee</elt><elt>Olivette</elt><elt>Zia</elt>  
+  <Jinny>
+    <age>79</age>
+  </Jinny>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kial"
+  lastname="Gibbeon"
+  city="Mecca"
+  country="Japan"
+  firstname2="Andree"
+  lastname2="Erminia"
+  email="Andree.Erminia@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>8.447</random_float>
+  <bool>true</bool>
+  <date>1995-01-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorthy</elt><elt>Talya</elt><elt>Florencia</elt><elt>Natka</elt><elt>Jorry</elt>  
+  <Andree>
+    <age>80</age>
+  </Andree>
+</root>

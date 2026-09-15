@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roseline"
+  lastname="Karylin"
+  city="Odessa"
+  country="Wallis and Futuna"
+  firstname2="Anallese"
+  lastname2="Prober"
+  email="Anallese.Prober@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>81.015</random_float>
+  <bool>true</bool>
+  <date>1984-01-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Donetta</elt><elt>Dennie</elt><elt>Britte</elt><elt>Marsiella</elt><elt>Joane</elt>  
+  <Anallese>
+    <age>78</age>
+  </Anallese>
+</root>

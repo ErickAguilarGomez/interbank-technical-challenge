@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melina"
+  lastname="Arathorn"
+  city="Anchorage"
+  country="Benin"
+  firstname2="Bibby"
+  lastname2="Pelagias"
+  email="Bibby.Pelagias@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>25.987</random_float>
+  <bool>true</bool>
+  <date>1990-11-20</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Liana</elt><elt>Janis</elt><elt>Gabi</elt><elt>Tracey</elt><elt>Wileen</elt>  
+  <Bibby>
+    <age>22</age>
+  </Bibby>
+</root>

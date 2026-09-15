@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sara-Ann"
+  lastname="Sheng"
+  city="Belgrade"
+  country="Isle of Man"
+  firstname2="Shell"
+  lastname2="Roscoe"
+  email="Shell.Roscoe@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>99.143</random_float>
+  <bool>false</bool>
+  <date>1995-07-26</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dorene</elt><elt>Dacia</elt><elt>Jerry</elt><elt>Jennica</elt><elt>Noelle</elt>  
+  <Shell>
+    <age>26</age>
+  </Shell>
+</root>

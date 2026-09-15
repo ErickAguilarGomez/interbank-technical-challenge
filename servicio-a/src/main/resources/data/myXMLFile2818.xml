@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Farrah"
+  lastname="Si"
+  city="Apia"
+  country="Romania"
+  firstname2="Tilly"
+  lastname2="Kamaria"
+  email="Tilly.Kamaria@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>11.444</random_float>
+  <bool>false</bool>
+  <date>1989-03-20</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kary</elt><elt>Lexine</elt><elt>Fernande</elt><elt>Lolita</elt><elt>Janis</elt>  
+  <Tilly>
+    <age>24</age>
+  </Tilly>
+</root>

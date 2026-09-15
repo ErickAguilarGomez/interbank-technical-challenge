@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nita"
+  lastname="Demitria"
+  city="Stuttgart"
+  country="South Africa"
+  firstname2="Sybille"
+  lastname2="Buckler"
+  email="Sybille.Buckler@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>68.326</random_float>
+  <bool>false</bool>
+  <date>1986-08-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Wanda</elt><elt>Rivalee</elt><elt>Nadine</elt><elt>Collen</elt><elt>Korrie</elt>  
+  <Sybille>
+    <age>65</age>
+  </Sybille>
+</root>

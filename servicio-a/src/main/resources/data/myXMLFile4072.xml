@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgetta"
+  lastname="Garlinda"
+  city="Abuja"
+  country="Bulgaria"
+  firstname2="Danny"
+  lastname2="Ciro"
+  email="Danny.Ciro@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>94.197</random_float>
+  <bool>false</bool>
+  <date>1981-12-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vanessa</elt><elt>Florie</elt><elt>Clementine</elt><elt>Kittie</elt><elt>Anica</elt>  
+  <Danny>
+    <age>40</age>
+  </Danny>
+</root>

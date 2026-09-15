@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blinni"
+  lastname="Raul"
+  city="Alofi"
+  country="Togo"
+  firstname2="Brooks"
+  lastname2="Pond"
+  email="Brooks.Pond@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>46.667</random_float>
+  <bool>false</bool>
+  <date>1984-04-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Norine</elt><elt>Angelique</elt><elt>Annora</elt><elt>Lyssa</elt><elt>Leia</elt>  
+  <Brooks>
+    <age>78</age>
+  </Brooks>
+</root>

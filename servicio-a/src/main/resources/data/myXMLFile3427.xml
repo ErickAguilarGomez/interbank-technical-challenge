@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dacia"
+  lastname="Cynar"
+  city="Lanzhou"
+  country="Colombia"
+  firstname2="Wilma"
+  lastname2="Seessel"
+  email="Wilma.Seessel@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>23.157</random_float>
+  <bool>true</bool>
+  <date>1993-07-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fredericka</elt><elt>Dania</elt><elt>Lila</elt><elt>Eadie</elt><elt>Jenda</elt>  
+  <Wilma>
+    <age>57</age>
+  </Wilma>
+</root>

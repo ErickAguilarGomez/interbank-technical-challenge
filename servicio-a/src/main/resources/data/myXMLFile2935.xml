@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dede"
+  lastname="Kalinda"
+  city="Gaza"
+  country="Puerto Rico"
+  firstname2="Bee"
+  lastname2="Jaylene"
+  email="Bee.Jaylene@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>54.913</random_float>
+  <bool>false</bool>
+  <date>1981-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Shell</elt><elt>Margette</elt><elt>Mara</elt><elt>Atlanta</elt><elt>Esmeralda</elt>  
+  <Bee>
+    <age>63</age>
+  </Bee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nananne"
+  lastname="Margarete"
+  city="Stuttgart"
+  country="Malta"
+  firstname2="Noelle"
+  lastname2="Sacken"
+  email="Noelle.Sacken@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>12.507</random_float>
+  <bool>true</bool>
+  <date>1992-07-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tabbatha</elt><elt>Babita</elt><elt>Sabina</elt><elt>Lizzie</elt><elt>Zaria</elt>  
+  <Noelle>
+    <age>72</age>
+  </Noelle>
+</root>

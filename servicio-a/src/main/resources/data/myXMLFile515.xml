@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donetta"
+  lastname="Blase"
+  city="Multan"
+  country="Israel"
+  firstname2="Dyann"
+  lastname2="Toffic"
+  email="Dyann.Toffic@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>45.135</random_float>
+  <bool>false</bool>
+  <date>1980-01-12</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Cherilyn</elt><elt>Kalina</elt><elt>Elvira</elt><elt>Emmey</elt><elt>Shel</elt>  
+  <Dyann>
+    <age>100</age>
+  </Dyann>
+</root>

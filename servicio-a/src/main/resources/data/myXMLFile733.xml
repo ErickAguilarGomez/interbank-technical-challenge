@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doralynne"
+  lastname="Ilka"
+  city="Ashgabat"
+  country="Monaco"
+  firstname2="Cyb"
+  lastname2="Raimondo"
+  email="Cyb.Raimondo@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>74.227</random_float>
+  <bool>true</bool>
+  <date>1988-05-28</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Valeda</elt><elt>Evaleen</elt><elt>Jackie</elt><elt>Etta</elt><elt>Basia</elt>  
+  <Cyb>
+    <age>73</age>
+  </Cyb>
+</root>

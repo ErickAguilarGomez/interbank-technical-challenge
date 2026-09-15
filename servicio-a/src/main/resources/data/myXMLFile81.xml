@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dione"
+  lastname="Tarrant"
+  city="Macapá"
+  country="Oman"
+  firstname2="Nikki"
+  lastname2="Braun"
+  email="Nikki.Braun@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>54.988</random_float>
+  <bool>false</bool>
+  <date>1997-05-28</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cherrita</elt><elt>Kara-Lynn</elt><elt>Sibella</elt><elt>Elka</elt><elt>Joeann</elt>  
+  <Nikki>
+    <age>61</age>
+  </Nikki>
+</root>

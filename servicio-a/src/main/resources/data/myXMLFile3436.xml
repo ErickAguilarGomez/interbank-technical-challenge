@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roxane"
+  lastname="Winnick"
+  city="Dammam"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Ardeen"
+  lastname2="Yoko"
+  email="Ardeen.Yoko@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>57.45</random_float>
+  <bool>false</bool>
+  <date>1996-10-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kassey</elt><elt>Selia</elt><elt>Claresta</elt><elt>Hope</elt><elt>Nataline</elt>  
+  <Ardeen>
+    <age>80</age>
+  </Ardeen>
+</root>

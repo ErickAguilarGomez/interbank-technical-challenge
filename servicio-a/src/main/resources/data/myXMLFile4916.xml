@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alameda"
+  lastname="Jarib"
+  city="Toulouse"
+  country="Uruguay"
+  firstname2="Tamqrah"
+  lastname2="Astra"
+  email="Tamqrah.Astra@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>39.482</random_float>
+  <bool>true</bool>
+  <date>1981-06-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Allis</elt><elt>Susette</elt><elt>Brena</elt><elt>Laurene</elt><elt>Belva</elt>  
+  <Tamqrah>
+    <age>100</age>
+  </Tamqrah>
+</root>

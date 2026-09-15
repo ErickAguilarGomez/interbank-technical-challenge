@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ellette"
+  lastname="Trinetta"
+  city="Vancouver"
+  country="Latvia"
+  firstname2="Ilse"
+  lastname2="Belldas"
+  email="Ilse.Belldas@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>41.623</random_float>
+  <bool>false</bool>
+  <date>1993-03-29</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Stephanie</elt><elt>Dyann</elt><elt>Frieda</elt><elt>Gilda</elt><elt>Moyna</elt>  
+  <Ilse>
+    <age>24</age>
+  </Ilse>
+</root>

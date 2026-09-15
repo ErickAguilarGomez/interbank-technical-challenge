@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Phi"
+  city="Shenzhen"
+  country="Kuwait"
+  firstname2="Ileana"
+  lastname2="Kannry"
+  email="Ileana.Kannry@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>44.135</random_float>
+  <bool>true</bool>
+  <date>1993-04-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marnia</elt><elt>Raf</elt><elt>Dione</elt><elt>Dacia</elt><elt>Cathyleen</elt>  
+  <Ileana>
+    <age>18</age>
+  </Ileana>
+</root>

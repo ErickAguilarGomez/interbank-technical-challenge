@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcy"
+  lastname="Gualtiero"
+  city="Ljubljana"
+  country="Chile"
+  firstname2="Kirbee"
+  lastname2="Mendez"
+  email="Kirbee.Mendez@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>45.102</random_float>
+  <bool>false</bool>
+  <date>1988-06-27</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sadie</elt><elt>Bee</elt><elt>Marylou</elt><elt>Zia</elt><elt>Linet</elt>  
+  <Kirbee>
+    <age>80</age>
+  </Kirbee>
+</root>

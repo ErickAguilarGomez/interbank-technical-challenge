@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linet"
+  lastname="Arquit"
+  city="Linz"
+  country="Faroe Islands"
+  firstname2="Dorice"
+  lastname2="Carey"
+  email="Dorice.Carey@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>75.894</random_float>
+  <bool>true</bool>
+  <date>1980-02-04</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorothy</elt><elt>Charmaine</elt><elt>Ottilie</elt><elt>Jaclyn</elt><elt>Wynne</elt>  
+  <Dorice>
+    <age>23</age>
+  </Dorice>
+</root>

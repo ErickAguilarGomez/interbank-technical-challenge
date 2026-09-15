@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Etom"
+  city="Port Blair"
+  country="Germany"
+  firstname2="Alex"
+  lastname2="Faria"
+  email="Alex.Faria@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>49.507</random_float>
+  <bool>true</bool>
+  <date>1999-10-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Danny</elt><elt>Katleen</elt><elt>Melanie</elt><elt>Kimmy</elt><elt>Magdalena</elt>  
+  <Alex>
+    <age>41</age>
+  </Alex>
+</root>

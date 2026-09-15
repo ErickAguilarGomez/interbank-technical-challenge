@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sallie"
+  lastname="Allare"
+  city="Angra do Heroísmo"
+  country="Christmas Island"
+  firstname2="Karly"
+  lastname2="Greenwald"
+  email="Karly.Greenwald@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>34.62</random_float>
+  <bool>false</bool>
+  <date>1986-06-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorthy</elt><elt>Blinni</elt><elt>Natka</elt><elt>Lizzie</elt><elt>Kaja</elt>  
+  <Karly>
+    <age>41</age>
+  </Karly>
+</root>

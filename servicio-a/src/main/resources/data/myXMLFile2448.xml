@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucy"
+  lastname="Hollingsworth"
+  city="Zhengzhou"
+  country="Nepal"
+  firstname2="Adore"
+  lastname2="Gherardo"
+  email="Adore.Gherardo@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>27.156</random_float>
+  <bool>false</bool>
+  <date>1985-01-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lucy</elt><elt>Cyb</elt><elt>Sandie</elt><elt>Tressa</elt><elt>Shaylyn</elt>  
+  <Adore>
+    <age>66</age>
+  </Adore>
+</root>

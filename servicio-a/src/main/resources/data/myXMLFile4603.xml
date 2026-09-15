@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobinette"
+  lastname="Chobot"
+  city="Denpasar"
+  country="Viet Nam"
+  firstname2="Courtnay"
+  lastname2="Halla"
+  email="Courtnay.Halla@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>97.497</random_float>
+  <bool>false</bool>
+  <date>1996-01-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Adele</elt><elt>Vita</elt><elt>Wendi</elt><elt>Mahalia</elt><elt>Alleen</elt>  
+  <Courtnay>
+    <age>39</age>
+  </Courtnay>
+</root>

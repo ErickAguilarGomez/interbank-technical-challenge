@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maye"
+  lastname="Cecile"
+  city="Cartagena"
+  country="Ecuador"
+  firstname2="Ninnetta"
+  lastname2="Lucienne"
+  email="Ninnetta.Lucienne@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>56.727</random_float>
+  <bool>false</bool>
+  <date>1982-01-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Joeann</elt><elt>Edee</elt><elt>Emylee</elt><elt>Zaria</elt><elt>Ingrid</elt>  
+  <Ninnetta>
+    <age>81</age>
+  </Ninnetta>
+</root>

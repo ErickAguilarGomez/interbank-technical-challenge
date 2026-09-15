@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Lalitta"
+  city="N'Djamena"
+  country="Northern Mariana Islands"
+  firstname2="Beth"
+  lastname2="Holbrook"
+  email="Beth.Holbrook@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>32.815</random_float>
+  <bool>true</bool>
+  <date>1989-10-22</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Roxane</elt><elt>Rochette</elt><elt>Linzy</elt><elt>Berget</elt><elt>Ileana</elt>  
+  <Beth>
+    <age>69</age>
+  </Beth>
+</root>

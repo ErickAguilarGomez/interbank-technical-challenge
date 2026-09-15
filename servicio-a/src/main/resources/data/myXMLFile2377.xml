@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allyce"
+  lastname="Cullin"
+  city="Dakar"
+  country="French Guiana"
+  firstname2="Micheline"
+  lastname2="Leler"
+  email="Micheline.Leler@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>33.902</random_float>
+  <bool>false</bool>
+  <date>1990-06-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tabbatha</elt><elt>Sybille</elt><elt>Arabel</elt><elt>Raina</elt><elt>Christal</elt>  
+  <Micheline>
+    <age>75</age>
+  </Micheline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Ramona"
+  city="Harbin"
+  country="Comoros"
+  firstname2="Ardys"
+  lastname2="Kannry"
+  email="Ardys.Kannry@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>62.819</random_float>
+  <bool>true</bool>
+  <date>1994-03-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Joelly</elt><elt>Marcy</elt><elt>Alyda</elt><elt>Kirbee</elt><elt>Annabela</elt>  
+  <Ardys>
+    <age>95</age>
+  </Ardys>
+</root>

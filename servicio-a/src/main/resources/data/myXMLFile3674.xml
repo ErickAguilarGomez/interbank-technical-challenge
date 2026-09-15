@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Kravits"
+  city="Durango"
+  country="Lebanon"
+  firstname2="Gratia"
+  lastname2="Nikaniki"
+  email="Gratia.Nikaniki@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>78.679</random_float>
+  <bool>false</bool>
+  <date>1990-01-19</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Alejandra</elt><elt>Gabriellia</elt><elt>Dawn</elt><elt>Nita</elt><elt>Alyda</elt>  
+  <Gratia>
+    <age>67</age>
+  </Gratia>
+</root>

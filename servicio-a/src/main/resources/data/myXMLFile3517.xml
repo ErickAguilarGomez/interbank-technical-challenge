@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Leler"
+  city="Petropavlovsk-Kamchatsky"
+  country="Viet Nam"
+  firstname2="Elvira"
+  lastname2="Amethist"
+  email="Elvira.Amethist@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>12.513</random_float>
+  <bool>true</bool>
+  <date>1982-09-28</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hildegaard</elt><elt>Jasmina</elt><elt>Chrystel</elt><elt>Karolina</elt><elt>Elmira</elt>  
+  <Elvira>
+    <age>27</age>
+  </Elvira>
+</root>

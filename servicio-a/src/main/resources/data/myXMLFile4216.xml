@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ethel"
+  lastname="Auberbach"
+  city="Thimphu"
+  country="Botswana"
+  firstname2="Ronna"
+  lastname2="Huggins"
+  email="Ronna.Huggins@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>55.014</random_float>
+  <bool>false</bool>
+  <date>1987-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Linet</elt><elt>Dacia</elt><elt>Sidoney</elt><elt>Marti</elt><elt>Andree</elt>  
+  <Ronna>
+    <age>88</age>
+  </Ronna>
+</root>

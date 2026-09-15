@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zondra"
+  lastname="Ivens"
+  city="Johor Bahru"
+  country="Taiwan, Province of China"
+  firstname2="Queenie"
+  lastname2="Persse"
+  email="Queenie.Persse@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>75.295</random_float>
+  <bool>false</bool>
+  <date>1983-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Misha</elt><elt>Christy</elt><elt>Ulrike</elt><elt>Zia</elt><elt>Renie</elt>  
+  <Queenie>
+    <age>99</age>
+  </Queenie>
+</root>

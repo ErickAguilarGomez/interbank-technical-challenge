@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nananne"
+  lastname="Ciro"
+  city="Chongjin"
+  country="Chile"
+  firstname2="Sharlene"
+  lastname2="Shanley"
+  email="Sharlene.Shanley@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>84.774</random_float>
+  <bool>false</bool>
+  <date>1998-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lanna</elt><elt>Elise</elt><elt>Dominga</elt><elt>Misha</elt><elt>Aeriela</elt>  
+  <Sharlene>
+    <age>25</age>
+  </Sharlene>
+</root>

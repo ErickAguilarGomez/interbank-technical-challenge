@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Micheline"
+  lastname="Engdahl"
+  city="Budapest"
+  country="Papua New Guinea"
+  firstname2="Merry"
+  lastname2="Ophelia"
+  email="Merry.Ophelia@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>80.586</random_float>
+  <bool>true</bool>
+  <date>1985-03-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Amii</elt><elt>Raquela</elt><elt>Cordi</elt><elt>Kittie</elt><elt>Dianemarie</elt>  
+  <Merry>
+    <age>82</age>
+  </Merry>
+</root>

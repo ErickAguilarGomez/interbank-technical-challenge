@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hildegaard"
+  lastname="Maribeth"
+  city="Nizhny Novgorod"
+  country="Sri Lanka"
+  firstname2="Quintina"
+  lastname2="Sandye"
+  email="Quintina.Sandye@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>17.41</random_float>
+  <bool>true</bool>
+  <date>1988-02-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Merle</elt><elt>Heddie</elt><elt>Elvira</elt><elt>Nariko</elt><elt>Alisha</elt>  
+  <Quintina>
+    <age>75</age>
+  </Quintina>
+</root>

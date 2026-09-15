@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jerry"
+  lastname="Hewitt"
+  city="Rockhampton"
+  country="Antarctica"
+  firstname2="Gwenneth"
+  lastname2="Adalbert"
+  email="Gwenneth.Adalbert@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>57.908</random_float>
+  <bool>false</bool>
+  <date>1996-01-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Olivette</elt><elt>Tera</elt><elt>Catharine</elt><elt>Kaia</elt><elt>Augustine</elt>  
+  <Gwenneth>
+    <age>25</age>
+  </Gwenneth>
+</root>

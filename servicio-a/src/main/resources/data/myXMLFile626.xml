@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Dearborn"
+  city="Cardiff"
+  country="Cote D"Ivoire"
+  firstname2="Gabriellia"
+  lastname2="Thema"
+  email="Gabriellia.Thema@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>63.099</random_float>
+  <bool>false</bool>
+  <date>1991-06-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kimmy</elt><elt>Oona</elt><elt>Fredericka</elt><elt>Lita</elt><elt>Mary</elt>  
+  <Gabriellia>
+    <age>61</age>
+  </Gabriellia>
+</root>

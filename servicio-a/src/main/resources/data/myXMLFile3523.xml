@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Danby"
+  city="Rosario"
+  country="New Caledonia"
+  firstname2="Ekaterina"
+  lastname2="Kermit"
+  email="Ekaterina.Kermit@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>40.672</random_float>
+  <bool>false</bool>
+  <date>1999-03-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Chickie</elt><elt>Amara</elt><elt>Joane</elt><elt>Netty</elt><elt>Angelique</elt>  
+  <Ekaterina>
+    <age>60</age>
+  </Ekaterina>
+</root>

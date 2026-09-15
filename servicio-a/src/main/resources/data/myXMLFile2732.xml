@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ingrid"
+  lastname="Cassius"
+  city="Winnipeg"
+  country="Holy See (Vatican City State)"
+  firstname2="Sue"
+  lastname2="Pacorro"
+  email="Sue.Pacorro@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>83.485</random_float>
+  <bool>true</bool>
+  <date>1987-07-04</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Teddie</elt><elt>Deloria</elt><elt>Ursulina</elt><elt>Coral</elt><elt>Jeanna</elt>  
+  <Sue>
+    <age>89</age>
+  </Sue>
+</root>

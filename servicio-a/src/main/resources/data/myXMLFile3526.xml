@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dianemarie"
+  lastname="Schalles"
+  city="Niamey"
+  country="Swaziland"
+  firstname2="Sibella"
+  lastname2="Aida"
+  email="Sibella.Aida@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>73.991</random_float>
+  <bool>true</bool>
+  <date>1986-05-20</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jennica</elt><elt>Julieta</elt><elt>Catharine</elt><elt>Zia</elt><elt>Magdalena</elt>  
+  <Sibella>
+    <age>54</age>
+  </Sibella>
+</root>

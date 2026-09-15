@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Tristram"
+  city="Tbilisi"
+  country="Palestinian Territory, Occupied"
+  firstname2="Paule"
+  lastname2="McCutcheon"
+  email="Paule.McCutcheon@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>84.869</random_float>
+  <bool>true</bool>
+  <date>1997-05-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Joy</elt><elt>Dari</elt><elt>Albertina</elt><elt>Vinita</elt><elt>Allis</elt>  
+  <Paule>
+    <age>42</age>
+  </Paule>
+</root>

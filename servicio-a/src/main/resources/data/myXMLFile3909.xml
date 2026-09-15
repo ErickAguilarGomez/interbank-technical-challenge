@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phylis"
+  lastname="Tamsky"
+  city="Ambon"
+  country="Gambia"
+  firstname2="Mariann"
+  lastname2="Ledah"
+  email="Mariann.Ledah@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>62.845</random_float>
+  <bool>true</bool>
+  <date>1993-11-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Leia</elt><elt>Gui</elt><elt>Genovera</elt><elt>Sindee</elt><elt>Cristabel</elt>  
+  <Mariann>
+    <age>35</age>
+  </Mariann>
+</root>

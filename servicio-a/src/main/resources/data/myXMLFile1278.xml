@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laure"
+  lastname="Bury"
+  city="Jinan"
+  country="Paraguay"
+  firstname2="Courtnay"
+  lastname2="Yusuk"
+  email="Courtnay.Yusuk@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>74.17</random_float>
+  <bool>true</bool>
+  <date>1986-04-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Phedra</elt><elt>Chloris</elt><elt>Krystle</elt><elt>Catharine</elt><elt>Lorie</elt>  
+  <Courtnay>
+    <age>27</age>
+  </Courtnay>
+</root>

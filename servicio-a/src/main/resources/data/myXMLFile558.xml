@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sarette"
+  lastname="Nore"
+  city="Phnom Penh"
+  country="Cuba"
+  firstname2="Petronia"
+  lastname2="Nunci"
+  email="Petronia.Nunci@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>29.613</random_float>
+  <bool>true</bool>
+  <date>1998-07-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Carol-Jean</elt><elt>Hettie</elt><elt>Edee</elt><elt>Merci</elt><elt>Gisela</elt>  
+  <Petronia>
+    <age>95</age>
+  </Petronia>
+</root>

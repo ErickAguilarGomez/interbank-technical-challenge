@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jordan"
+  lastname="Sothena"
+  city="Wonsan"
+  country="Israel"
+  firstname2="Celisse"
+  lastname2="Whittaker"
+  email="Celisse.Whittaker@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>26.487</random_float>
+  <bool>true</bool>
+  <date>1998-02-14</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Beatriz</elt><elt>Tami</elt><elt>Leona</elt><elt>Melisent</elt><elt>Britni</elt>  
+  <Celisse>
+    <age>87</age>
+  </Celisse>
+</root>

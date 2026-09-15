@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Faria"
+  city="Suva"
+  country="Iceland"
+  firstname2="Linet"
+  lastname2="Bandeen"
+  email="Linet.Bandeen@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>66.219</random_float>
+  <bool>false</bool>
+  <date>1982-01-09</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Pearline</elt><elt>Isa</elt><elt>Aili</elt><elt>Clo</elt><elt>Sharlene</elt>  
+  <Linet>
+    <age>25</age>
+  </Linet>
+</root>

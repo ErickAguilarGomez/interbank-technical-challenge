@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Faso"
+  city="Hai Phong"
+  country="Haiti"
+  firstname2="Aurelie"
+  lastname2="Torray"
+  email="Aurelie.Torray@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>45.435</random_float>
+  <bool>true</bool>
+  <date>1990-07-08</date>
+  <regEx>hello to you</regEx>
+  <enum>online</enum>
+  <elt>Lorie</elt><elt>Tina</elt><elt>Ardeen</elt><elt>Nanete</elt><elt>Jillayne</elt>  
+  <Aurelie>
+    <age>59</age>
+  </Aurelie>
+</root>

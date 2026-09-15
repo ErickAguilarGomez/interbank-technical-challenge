@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Devina"
+  lastname="Uird"
+  city="Pyongyang"
+  country="Svalbard and Jan Mayen"
+  firstname2="Fayre"
+  lastname2="Lareena"
+  email="Fayre.Lareena@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>56.167</random_float>
+  <bool>true</bool>
+  <date>1994-10-19</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Chrystel</elt><elt>Mallory</elt><elt>Mureil</elt><elt>Lorenza</elt><elt>Shaine</elt>  
+  <Fayre>
+    <age>25</age>
+  </Fayre>
+</root>

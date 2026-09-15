@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lolita"
+  lastname="Marden"
+  city="Yaren District"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Max"
+  lastname2="Poppy"
+  email="Max.Poppy@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>79.308</random_float>
+  <bool>false</bool>
+  <date>1985-12-19</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Janis</elt><elt>Sharai</elt><elt>Therine</elt><elt>Melodie</elt><elt>Danika</elt>  
+  <Max>
+    <age>57</age>
+  </Max>
+</root>

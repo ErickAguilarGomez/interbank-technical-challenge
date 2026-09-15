@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Molli"
+  lastname="Docilla"
+  city="Perm"
+  country="Norway"
+  firstname2="Abbie"
+  lastname2="Blisse"
+  email="Abbie.Blisse@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>34.242</random_float>
+  <bool>false</bool>
+  <date>1997-09-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Anthia</elt><elt>Fred</elt><elt>Roslyn</elt><elt>Catrina</elt><elt>Phylis</elt>  
+  <Abbie>
+    <age>24</age>
+  </Abbie>
+</root>

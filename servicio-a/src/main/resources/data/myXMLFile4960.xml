@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="August"
+  city="Denver"
+  country="Antigua and Barbuda"
+  firstname2="Jackie"
+  lastname2="McClimans"
+  email="Jackie.McClimans@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>90.85</random_float>
+  <bool>true</bool>
+  <date>1982-04-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Philis</elt><elt>Collen</elt><elt>Barbara</elt><elt>Shaylyn</elt><elt>Lauryn</elt>  
+  <Jackie>
+    <age>23</age>
+  </Jackie>
+</root>

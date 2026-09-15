@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwenneth"
+  lastname="Docilla"
+  city="Yaoundé"
+  country="Uzbekistan"
+  firstname2="Pamella"
+  lastname2="Henebry"
+  email="Pamella.Henebry@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>22.002</random_float>
+  <bool>true</bool>
+  <date>1989-02-07</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Audrie</elt><elt>Emmey</elt><elt>Gisela</elt><elt>Viki</elt><elt>Lusa</elt>  
+  <Pamella>
+    <age>31</age>
+  </Pamella>
+</root>

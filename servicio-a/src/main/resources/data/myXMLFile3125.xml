@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Klemperer"
+  city="Guayaquil"
+  country="Zambia"
+  firstname2="Ermengarde"
+  lastname2="Oscar"
+  email="Ermengarde.Oscar@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>46.143</random_float>
+  <bool>true</bool>
+  <date>1981-11-23</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Darlleen</elt><elt>Emma</elt><elt>Chandra</elt><elt>Perry</elt><elt>Xylina</elt>  
+  <Ermengarde>
+    <age>100</age>
+  </Ermengarde>
+</root>

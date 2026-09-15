@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melodie"
+  lastname="Shelba"
+  city="Kuwait City"
+  country="Dominican Republic"
+  firstname2="Consuela"
+  lastname2="Solitta"
+  email="Consuela.Solitta@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>66.968</random_float>
+  <bool>true</bool>
+  <date>1992-03-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Letizia</elt><elt>Sue</elt><elt>Leeanne</elt><elt>Nerta</elt><elt>Phedra</elt>  
+  <Consuela>
+    <age>24</age>
+  </Consuela>
+</root>

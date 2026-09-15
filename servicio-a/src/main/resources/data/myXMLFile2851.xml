@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dacia"
+  lastname="Hanshaw"
+  city="Rio Branco"
+  country="Cambodia"
+  firstname2="Albertina"
+  lastname2="Hanleigh"
+  email="Albertina.Hanleigh@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>40.229</random_float>
+  <bool>true</bool>
+  <date>1991-05-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Adriana</elt><elt>Cyb</elt><elt>Blondelle</elt><elt>Marcelline</elt><elt>Alexine</elt>  
+  <Albertina>
+    <age>40</age>
+  </Albertina>
+</root>

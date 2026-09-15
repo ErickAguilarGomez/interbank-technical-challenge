@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Suzette"
+  lastname="Brittani"
+  city="Hobart"
+  country="Belarus"
+  firstname2="Shaylyn"
+  lastname2="Garek"
+  email="Shaylyn.Garek@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>52.967</random_float>
+  <bool>true</bool>
+  <date>1991-05-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Joane</elt><elt>Coral</elt><elt>Livvyy</elt><elt>Fanchon</elt><elt>Annora</elt>  
+  <Shaylyn>
+    <age>48</age>
+  </Shaylyn>
+</root>

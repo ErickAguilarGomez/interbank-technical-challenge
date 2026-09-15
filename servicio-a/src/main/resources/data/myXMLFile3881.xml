@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fredericka"
+  lastname="Rogerio"
+  city="Santiago"
+  country="Seychelles"
+  firstname2="Tabbatha"
+  lastname2="Saint"
+  email="Tabbatha.Saint@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>82.47</random_float>
+  <bool>true</bool>
+  <date>1989-04-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ninnetta</elt><elt>Donnie</elt><elt>Minda</elt><elt>Philis</elt><elt>Shauna</elt>  
+  <Tabbatha>
+    <age>25</age>
+  </Tabbatha>
+</root>

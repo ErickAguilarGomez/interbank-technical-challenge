@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allyce"
+  lastname="Willie"
+  city="Dhaka"
+  country="Niue"
+  firstname2="Dulcinea"
+  lastname2="Brandice"
+  email="Dulcinea.Brandice@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>58.06</random_float>
+  <bool>true</bool>
+  <date>1991-06-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Linet</elt><elt>Lynnea</elt><elt>Andree</elt><elt>Celestyna</elt><elt>Oona</elt>  
+  <Dulcinea>
+    <age>81</age>
+  </Dulcinea>
+</root>

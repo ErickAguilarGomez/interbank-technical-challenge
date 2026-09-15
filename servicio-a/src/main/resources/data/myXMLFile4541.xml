@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Bohlin"
+  city="Riyadh"
+  country="Vanuatu"
+  firstname2="Tamqrah"
+  lastname2="Kenney"
+  email="Tamqrah.Kenney@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>85.804</random_float>
+  <bool>false</bool>
+  <date>1983-04-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Arlina</elt><elt>Mellicent</elt><elt>Deane</elt><elt>Nananne</elt><elt>Celene</elt>  
+  <Tamqrah>
+    <age>37</age>
+  </Tamqrah>
+</root>

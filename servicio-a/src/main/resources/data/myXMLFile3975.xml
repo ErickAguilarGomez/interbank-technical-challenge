@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Norine"
+  lastname="Weitman"
+  city="Libreville"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Sadie"
+  lastname2="Cressida"
+  email="Sadie.Cressida@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>20.378</random_float>
+  <bool>true</bool>
+  <date>1993-02-23</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Doro</elt><elt>Daune</elt><elt>Xylina</elt><elt>Moyna</elt><elt>Madelle</elt>  
+  <Sadie>
+    <age>39</age>
+  </Sadie>
+</root>

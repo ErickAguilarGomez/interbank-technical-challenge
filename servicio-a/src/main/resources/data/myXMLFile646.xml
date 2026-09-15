@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Helfand"
+  city="Amritsar"
+  country="Bahamas"
+  firstname2="Sara-Ann"
+  lastname2="Magnolia"
+  email="Sara-Ann.Magnolia@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>19.485</random_float>
+  <bool>true</bool>
+  <date>1989-07-22</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Libbie</elt><elt>Roslyn</elt><elt>Aurore</elt><elt>Vonny</elt><elt>Priscilla</elt>  
+  <Sara-Ann>
+    <age>39</age>
+  </Sara-Ann>
+</root>

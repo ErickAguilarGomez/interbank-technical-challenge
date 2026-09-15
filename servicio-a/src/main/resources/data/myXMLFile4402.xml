@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Rozanna"
+  city="Lyon"
+  country="Lithuania"
+  firstname2="Courtnay"
+  lastname2="Damarra"
+  email="Courtnay.Damarra@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>27.351</random_float>
+  <bool>false</bool>
+  <date>1989-04-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sharlene</elt><elt>Helena</elt><elt>Anthia</elt><elt>Aubrie</elt><elt>Chere</elt>  
+  <Courtnay>
+    <age>38</age>
+  </Courtnay>
+</root>

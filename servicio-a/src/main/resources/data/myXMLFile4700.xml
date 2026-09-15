@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sam"
+  lastname="Wildermuth"
+  city="Tucson"
+  country="Hong Kong"
+  firstname2="Kittie"
+  lastname2="Gibbeon"
+  email="Kittie.Gibbeon@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>30.295</random_float>
+  <bool>true</bool>
+  <date>1980-12-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kaia</elt><elt>Marguerite</elt><elt>Hermione</elt><elt>Layla</elt><elt>Blinni</elt>  
+  <Kittie>
+    <age>66</age>
+  </Kittie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caritta"
+  lastname="Anton"
+  city="Stanley"
+  country="United States Minor Outlying Islands"
+  firstname2="Sherrie"
+  lastname2="Dorothy"
+  email="Sherrie.Dorothy@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>100.266</random_float>
+  <bool>false</bool>
+  <date>1994-12-17</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kenna</elt><elt>Paulita</elt><elt>Steffane</elt><elt>Yolane</elt><elt>Wileen</elt>  
+  <Sherrie>
+    <age>19</age>
+  </Sherrie>
+</root>

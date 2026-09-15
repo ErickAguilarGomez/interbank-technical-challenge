@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Malina"
+  lastname="Etom"
+  city="Anchorage"
+  country="Ghana"
+  firstname2="Trixi"
+  lastname2="Gale"
+  email="Trixi.Gale@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>36.216</random_float>
+  <bool>false</bool>
+  <date>1992-03-27</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jessy</elt><elt>Orelia</elt><elt>Chickie</elt><elt>Dorothy</elt><elt>Raquela</elt>  
+  <Trixi>
+    <age>64</age>
+  </Trixi>
+</root>

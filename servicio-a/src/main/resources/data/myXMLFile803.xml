@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Sasnett"
+  city="Winnipeg"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Candy"
+  lastname2="Ax"
+  email="Candy.Ax@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>1.97</random_float>
+  <bool>false</bool>
+  <date>1994-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Pamella</elt><elt>Sidoney</elt><elt>Jsandye</elt><elt>Berget</elt><elt>Dianemarie</elt>  
+  <Candy>
+    <age>20</age>
+  </Candy>
+</root>

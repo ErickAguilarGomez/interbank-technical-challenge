@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celisse"
+  lastname="Ietta"
+  city="Accra"
+  country="Guernsey"
+  firstname2="Liana"
+  lastname2="Wyn"
+  email="Liana.Wyn@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>16.009</random_float>
+  <bool>true</bool>
+  <date>1987-06-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Darlleen</elt><elt>Gaylene</elt><elt>Lorne</elt><elt>Leia</elt><elt>Micheline</elt>  
+  <Liana>
+    <age>83</age>
+  </Liana>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deane"
+  lastname="Bach"
+  city="Sukhumi"
+  country="Palau"
+  firstname2="Chandra"
+  lastname2="Burkle"
+  email="Chandra.Burkle@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>58.656</random_float>
+  <bool>true</bool>
+  <date>1987-11-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Isa</elt><elt>Adele</elt><elt>Kamilah</elt><elt>Farrah</elt><elt>Marline</elt>  
+  <Chandra>
+    <age>78</age>
+  </Chandra>
+</root>

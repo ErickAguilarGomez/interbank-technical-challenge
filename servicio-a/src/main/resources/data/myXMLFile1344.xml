@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Darbie"
+  city="Montreal"
+  country="Malawi"
+  firstname2="Sissy"
+  lastname2="Talia"
+  email="Sissy.Talia@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>84.473</random_float>
+  <bool>true</bool>
+  <date>1987-03-04</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Marika</elt><elt>Valeda</elt><elt>Emma</elt><elt>Queenie</elt><elt>Libbie</elt>  
+  <Sissy>
+    <age>45</age>
+  </Sissy>
+</root>

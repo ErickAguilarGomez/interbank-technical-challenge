@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="O'Neill"
+  city="Kinshasa"
+  country="Mongolia"
+  firstname2="Audrie"
+  lastname2="Berard"
+  email="Audrie.Berard@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>37.61</random_float>
+  <bool>true</bool>
+  <date>1990-12-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Alisha</elt><elt>Tressa</elt><elt>Nessie</elt><elt>Bertine</elt><elt>Raina</elt>  
+  <Audrie>
+    <age>25</age>
+  </Audrie>
+</root>

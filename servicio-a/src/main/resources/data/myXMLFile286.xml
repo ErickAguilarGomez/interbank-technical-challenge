@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genevra"
+  lastname="Persse"
+  city="Koulikoro"
+  country="Antigua and Barbuda"
+  firstname2="Kimmy"
+  lastname2="Sheng"
+  email="Kimmy.Sheng@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>82.195</random_float>
+  <bool>true</bool>
+  <date>1997-05-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Margarette</elt><elt>Joelly</elt><elt>Inga</elt><elt>Robinia</elt><elt>Halette</elt>  
+  <Kimmy>
+    <age>82</age>
+  </Kimmy>
+</root>

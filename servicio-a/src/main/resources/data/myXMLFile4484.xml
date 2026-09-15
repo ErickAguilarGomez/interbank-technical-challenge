@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernardine"
+  lastname="Olympium"
+  city="Blantyre"
+  country="China"
+  firstname2="Shandie"
+  lastname2="Daegal"
+  email="Shandie.Daegal@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>65.94</random_float>
+  <bool>true</bool>
+  <date>1996-10-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Olwen</elt><elt>Lily</elt><elt>Madelle</elt><elt>Carol-Jean</elt><elt>Paule</elt>  
+  <Shandie>
+    <age>90</age>
+  </Shandie>
+</root>

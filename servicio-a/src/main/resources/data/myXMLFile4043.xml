@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lulita"
+  lastname="Maiah"
+  city="Chennai"
+  country="Micronesia, Federated States of"
+  firstname2="Julieta"
+  lastname2="Fillbert"
+  email="Julieta.Fillbert@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>70.245</random_float>
+  <bool>false</bool>
+  <date>1983-08-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Robinia</elt><elt>Anica</elt><elt>Jemie</elt><elt>Aimil</elt><elt>Celestyna</elt>  
+  <Julieta>
+    <age>92</age>
+  </Julieta>
+</root>

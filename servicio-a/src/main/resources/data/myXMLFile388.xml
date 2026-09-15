@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Philoo"
+  city="Konya"
+  country="Northern Mariana Islands"
+  firstname2="Lenna"
+  lastname2="Jotham"
+  email="Lenna.Jotham@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>23.686</random_float>
+  <bool>true</bool>
+  <date>1986-12-20</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Laure</elt><elt>Gilda</elt><elt>Betta</elt><elt>Ira</elt><elt>Tracey</elt>  
+  <Lenna>
+    <age>21</age>
+  </Lenna>
+</root>

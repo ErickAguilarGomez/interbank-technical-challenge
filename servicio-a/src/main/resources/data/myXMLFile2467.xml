@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corina"
+  lastname="Larochelle"
+  city="Kawasaki"
+  country="Congo"
+  firstname2="Dyann"
+  lastname2="Iaverne"
+  email="Dyann.Iaverne@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>13.122</random_float>
+  <bool>true</bool>
+  <date>1995-06-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gusty</elt><elt>Jinny</elt><elt>Catrina</elt><elt>Ninnetta</elt><elt>Aili</elt>  
+  <Dyann>
+    <age>72</age>
+  </Dyann>
+</root>

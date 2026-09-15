@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gilligan"
+  lastname="Kirstin"
+  city="Saipan"
+  country="Montserrat"
+  firstname2="Rosaline"
+  lastname2="Fennessy"
+  email="Rosaline.Fennessy@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>18.96</random_float>
+  <bool>true</bool>
+  <date>1989-07-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elise</elt><elt>Carree</elt><elt>Ira</elt><elt>Ann-Marie</elt><elt>Halette</elt>  
+  <Rosaline>
+    <age>85</age>
+  </Rosaline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roxane"
+  lastname="Madaih"
+  city="Nassau"
+  country="Thailand"
+  firstname2="Micheline"
+  lastname2="Noelyn"
+  email="Micheline.Noelyn@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>5.691</random_float>
+  <bool>true</bool>
+  <date>1999-07-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Laurene</elt><elt>Maryellen</elt><elt>Cathie</elt><elt>Quintina</elt><elt>Ezmeralda</elt>  
+  <Micheline>
+    <age>55</age>
+  </Micheline>
+</root>

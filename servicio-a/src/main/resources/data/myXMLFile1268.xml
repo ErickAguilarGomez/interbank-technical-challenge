@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blondelle"
+  lastname="Peg"
+  city="Djibouti (city)"
+  country="Viet Nam"
+  firstname2="Annora"
+  lastname2="Lasley"
+  email="Annora.Lasley@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>38.907</random_float>
+  <bool>false</bool>
+  <date>1988-03-04</date>
+  <regEx>hellooo world</regEx>
+  <enum>generator</enum>
+  <elt>Desirae</elt><elt>Wendi</elt><elt>Mady</elt><elt>Myrtice</elt><elt>Joeann</elt>  
+  <Annora>
+    <age>34</age>
+  </Annora>
+</root>

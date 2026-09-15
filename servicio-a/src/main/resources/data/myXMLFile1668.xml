@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gratia"
+  lastname="Newell"
+  city="Ciudad del Este"
+  country="Austria"
+  firstname2="Dennie"
+  lastname2="Love"
+  email="Dennie.Love@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>52.497</random_float>
+  <bool>true</bool>
+  <date>1999-02-13</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Frances</elt><elt>Genevra</elt><elt>Cassandra</elt><elt>Clo</elt><elt>Angela</elt>  
+  <Dennie>
+    <age>48</age>
+  </Dennie>
+</root>

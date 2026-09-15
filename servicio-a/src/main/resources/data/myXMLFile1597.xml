@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frank"
+  lastname="Justinn"
+  city="Francistown"
+  country="India"
+  firstname2="Gusty"
+  lastname2="Jena"
+  email="Gusty.Jena@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>86.208</random_float>
+  <bool>false</bool>
+  <date>1999-05-17</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Leeanne</elt><elt>Nadine</elt><elt>Grier</elt><elt>Susan</elt><elt>Raina</elt>  
+  <Gusty>
+    <age>96</age>
+  </Gusty>
+</root>

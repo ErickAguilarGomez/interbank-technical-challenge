@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rayna"
+  lastname="Anselmi"
+  city="Xining"
+  country="Cook Islands"
+  firstname2="Arabel"
+  lastname2="Angelis"
+  email="Arabel.Angelis@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>99.075</random_float>
+  <bool>false</bool>
+  <date>1981-10-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Basia</elt><elt>Elsie</elt><elt>Tori</elt><elt>Jackie</elt><elt>Roslyn</elt>  
+  <Arabel>
+    <age>53</age>
+  </Arabel>
+</root>

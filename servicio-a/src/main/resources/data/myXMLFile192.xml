@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ariela"
+  lastname="Bearnard"
+  city="Honolulu"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Meghann"
+  lastname2="Ortrude"
+  email="Meghann.Ortrude@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>68.453</random_float>
+  <bool>false</bool>
+  <date>1989-10-05</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Tomasina</elt><elt>Tybie</elt><elt>Melina</elt><elt>Lucy</elt><elt>Ada</elt>  
+  <Meghann>
+    <age>45</age>
+  </Meghann>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Hazlett"
+  city="London"
+  country="Grenada"
+  firstname2="Chere"
+  lastname2="Boycey"
+  email="Chere.Boycey@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>56.699</random_float>
+  <bool>false</bool>
+  <date>1996-06-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Belva</elt><elt>Dagmar</elt><elt>Roslyn</elt><elt>Danny</elt><elt>Silvana</elt>  
+  <Chere>
+    <age>63</age>
+  </Chere>
+</root>

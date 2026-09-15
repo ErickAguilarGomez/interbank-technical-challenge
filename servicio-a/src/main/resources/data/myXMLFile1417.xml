@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="Adore"
+  city="Valparaíso"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Jean"
+  lastname2="Dorcy"
+  email="Jean.Dorcy@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>98.111</random_float>
+  <bool>false</bool>
+  <date>1984-07-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mariann</elt><elt>Emilia</elt><elt>Morganica</elt><elt>Robbi</elt><elt>Susette</elt>  
+  <Jean>
+    <age>61</age>
+  </Jean>
+</root>

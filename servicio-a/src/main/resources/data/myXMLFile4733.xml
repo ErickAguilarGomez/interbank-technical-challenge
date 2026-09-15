@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanna"
+  lastname="Klemperer"
+  city="Durango"
+  country="Cyprus"
+  firstname2="Brandise"
+  lastname2="Glenden"
+  email="Brandise.Glenden@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>93.647</random_float>
+  <bool>true</bool>
+  <date>1987-06-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sophia</elt><elt>Misha</elt><elt>Rhea</elt><elt>Gisela</elt><elt>Tami</elt>  
+  <Brandise>
+    <age>75</age>
+  </Brandise>
+</root>

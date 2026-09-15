@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maud"
+  lastname="Karl"
+  city="Rio Branco"
+  country="Bhutan"
+  firstname2="Augustine"
+  lastname2="Hebner"
+  email="Augustine.Hebner@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>53.052</random_float>
+  <bool>false</bool>
+  <date>1990-04-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brandise</elt><elt>Sarette</elt><elt>Ricky</elt><elt>Mahalia</elt><elt>Kirstin</elt>  
+  <Augustine>
+    <age>45</age>
+  </Augustine>
+</root>

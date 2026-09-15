@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Devina"
+  lastname="August"
+  city="Bangalore"
+  country="Northern Mariana Islands"
+  firstname2="Lita"
+  lastname2="Niccolo"
+  email="Lita.Niccolo@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>11.292</random_float>
+  <bool>true</bool>
+  <date>1989-07-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gianina</elt><elt>Fred</elt><elt>Janenna</elt><elt>Shandie</elt><elt>Dorothy</elt>  
+  <Lita>
+    <age>65</age>
+  </Lita>
+</root>

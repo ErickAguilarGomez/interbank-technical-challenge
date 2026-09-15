@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nanete"
+  lastname="Moseley"
+  city="Havana"
+  country="United Kingdom"
+  firstname2="Noelle"
+  lastname2="Fredi"
+  email="Noelle.Fredi@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>61.487</random_float>
+  <bool>true</bool>
+  <date>1983-09-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Livvyy</elt><elt>Lolita</elt><elt>Rochette</elt><elt>Kassey</elt><elt>Lonnie</elt>  
+  <Noelle>
+    <age>34</age>
+  </Noelle>
+</root>

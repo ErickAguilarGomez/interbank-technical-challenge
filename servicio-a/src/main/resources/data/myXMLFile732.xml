@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="McNully"
+  city="Harare"
+  country="Sri Lanka"
+  firstname2="Gaylene"
+  lastname2="Baylor"
+  email="Gaylene.Baylor@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>49.884</random_float>
+  <bool>true</bool>
+  <date>1981-12-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Julieta</elt><elt>Kial</elt><elt>Jacenta</elt><elt>Keelia</elt><elt>Augustine</elt>  
+  <Gaylene>
+    <age>21</age>
+  </Gaylene>
+</root>

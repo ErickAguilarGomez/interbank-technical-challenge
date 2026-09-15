@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Keelia"
+  lastname="Aldric"
+  city="The Valley"
+  country="Martinique"
+  firstname2="Nonnah"
+  lastname2="Frodi"
+  email="Nonnah.Frodi@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>49.294</random_float>
+  <bool>true</bool>
+  <date>1985-11-09</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Devina</elt><elt>Lonnie</elt><elt>Nonnah</elt><elt>Delilah</elt><elt>Hayley</elt>  
+  <Nonnah>
+    <age>75</age>
+  </Nonnah>
+</root>

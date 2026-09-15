@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorne"
+  lastname="Kussell"
+  city="Saint-Pierre"
+  country="Saint Kitts and Nevis"
+  firstname2="Linet"
+  lastname2="Hachmin"
+  email="Linet.Hachmin@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>81.387</random_float>
+  <bool>true</bool>
+  <date>1986-04-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Meghann</elt><elt>Rosanne</elt><elt>Julieta</elt><elt>Sue</elt><elt>Suzette</elt>  
+  <Linet>
+    <age>94</age>
+  </Linet>
+</root>

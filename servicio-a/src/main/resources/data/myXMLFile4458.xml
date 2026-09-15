@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Latisha"
+  lastname="Kiyoshi"
+  city="Cuiabá"
+  country="Croatia"
+  firstname2="Etta"
+  lastname2="Saree"
+  email="Etta.Saree@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>45.277</random_float>
+  <bool>false</bool>
+  <date>1989-06-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Cathie</elt><elt>Cacilie</elt><elt>Elsie</elt><elt>Iseabal</elt><elt>Carolina</elt>  
+  <Etta>
+    <age>29</age>
+  </Etta>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allyce"
+  lastname="Zaslow"
+  city="Wichita"
+  country="Myanmar"
+  firstname2="Jeanna"
+  lastname2="Kenwood"
+  email="Jeanna.Kenwood@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>21.198</random_float>
+  <bool>false</bool>
+  <date>1985-08-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rosabelle</elt><elt>Kittie</elt><elt>Nollie</elt><elt>Emelina</elt><elt>Rosabelle</elt>  
+  <Jeanna>
+    <age>72</age>
+  </Jeanna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blondelle"
+  lastname="Giule"
+  city="Adamstown"
+  country="Indonesia"
+  firstname2="Darlleen"
+  lastname2="Hessler"
+  email="Darlleen.Hessler@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>7.056</random_float>
+  <bool>false</bool>
+  <date>1990-08-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Robbi</elt><elt>Catharine</elt><elt>Tina</elt><elt>Shirlee</elt><elt>Blake</elt>  
+  <Darlleen>
+    <age>24</age>
+  </Darlleen>
+</root>

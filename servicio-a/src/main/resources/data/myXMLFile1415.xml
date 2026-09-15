@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Gwenore"
+  city="Luxor"
+  country="Djibouti"
+  firstname2="Blondelle"
+  lastname2="Ochs"
+  email="Blondelle.Ochs@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>97.599</random_float>
+  <bool>false</bool>
+  <date>1989-12-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Bill</elt><elt>Justinn</elt><elt>Kore</elt><elt>Dawn</elt><elt>Fredericka</elt>  
+  <Blondelle>
+    <age>75</age>
+  </Blondelle>
+</root>

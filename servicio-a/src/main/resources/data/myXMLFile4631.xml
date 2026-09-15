@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elsie"
+  lastname="Brittani"
+  city="Hyderabad"
+  country="Colombia"
+  firstname2="Jackie"
+  lastname2="Hashim"
+  email="Jackie.Hashim@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>8.012</random_float>
+  <bool>false</bool>
+  <date>1999-12-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gilda</elt><elt>Elvira</elt><elt>Cyndie</elt><elt>Dode</elt><elt>Britni</elt>  
+  <Jackie>
+    <age>90</age>
+  </Jackie>
+</root>

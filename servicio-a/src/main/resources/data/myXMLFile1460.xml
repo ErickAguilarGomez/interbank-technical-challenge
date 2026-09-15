@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kayla"
+  lastname="Vivle"
+  city="Maputo"
+  country="Isle of Man"
+  firstname2="Inga"
+  lastname2="Sheng"
+  email="Inga.Sheng@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>52.984</random_float>
+  <bool>true</bool>
+  <date>1993-05-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Marylou</elt><elt>Emelina</elt><elt>Deane</elt><elt>Paule</elt><elt>Glynnis</elt>  
+  <Inga>
+    <age>45</age>
+  </Inga>
+</root>

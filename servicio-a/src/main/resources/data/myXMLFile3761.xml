@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ursulina"
+  lastname="Maiah"
+  city="Puebla"
+  country="Austria"
+  firstname2="Krystle"
+  lastname2="Lorenz"
+  email="Krystle.Lorenz@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>28.642</random_float>
+  <bool>false</bool>
+  <date>1994-11-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Iseabal</elt><elt>Estell</elt><elt>Demetris</elt><elt>Ezmeralda</elt><elt>Nataline</elt>  
+  <Krystle>
+    <age>43</age>
+  </Krystle>
+</root>

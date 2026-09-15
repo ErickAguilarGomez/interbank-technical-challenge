@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Tiffa"
+  city="Seattle"
+  country="Uganda"
+  firstname2="Morganica"
+  lastname2="Brieta"
+  email="Morganica.Brieta@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>48.292</random_float>
+  <bool>false</bool>
+  <date>1981-01-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Johna</elt><elt>Nanete</elt><elt>Carolina</elt><elt>Stephanie</elt><elt>Philis</elt>  
+  <Morganica>
+    <age>31</age>
+  </Morganica>
+</root>

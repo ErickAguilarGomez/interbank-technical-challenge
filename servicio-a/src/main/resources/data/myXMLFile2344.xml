@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evita"
+  lastname="Tristram"
+  city="Podgorica"
+  country="Mali"
+  firstname2="Ira"
+  lastname2="Leifeste"
+  email="Ira.Leifeste@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>16.297</random_float>
+  <bool>false</bool>
+  <date>1986-12-19</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Frieda</elt><elt>Sissy</elt><elt>Sophia</elt><elt>Starla</elt><elt>Theodora</elt>  
+  <Ira>
+    <age>86</age>
+  </Ira>
+</root>

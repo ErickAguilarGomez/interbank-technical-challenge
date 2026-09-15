@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sonni"
+  lastname="Saint"
+  city="Iquique"
+  country="Macao"
+  firstname2="Kara-Lynn"
+  lastname2="Cavan"
+  email="Kara-Lynn.Cavan@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>57.053</random_float>
+  <bool>true</bool>
+  <date>1990-01-30</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Bobbi</elt><elt>Lanae</elt><elt>Teddie</elt><elt>Mara</elt><elt>Joy</elt>  
+  <Kara-Lynn>
+    <age>83</age>
+  </Kara-Lynn>
+</root>

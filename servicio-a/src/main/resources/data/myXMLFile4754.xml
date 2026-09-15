@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Renae"
+  lastname="Abram"
+  city="Vilnius"
+  country="Turks and Caicos Islands"
+  firstname2="Penelopa"
+  lastname2="Vanni"
+  email="Penelopa.Vanni@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>68.087</random_float>
+  <bool>true</bool>
+  <date>1982-12-23</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Vivia</elt><elt>Elka</elt><elt>Bobinette</elt><elt>Rubie</elt><elt>Gwyneth</elt>  
+  <Penelopa>
+    <age>98</age>
+  </Penelopa>
+</root>

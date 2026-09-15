@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Benita"
+  lastname="Lynn"
+  city="Lubumbashi"
+  country="Barbados"
+  firstname2="Zia"
+  lastname2="Gillan"
+  email="Zia.Gillan@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>70.217</random_float>
+  <bool>false</bool>
+  <date>1990-01-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cassondra</elt><elt>Tobe</elt><elt>Rubie</elt><elt>Cristine</elt><elt>Shaylyn</elt>  
+  <Zia>
+    <age>37</age>
+  </Zia>
+</root>

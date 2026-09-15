@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wilma"
+  lastname="Hermes"
+  city="Bergen"
+  country="Lao People"S Democratic Republic"
+  firstname2="Tracey"
+  lastname2="Zina"
+  email="Tracey.Zina@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>5.712</random_float>
+  <bool>true</bool>
+  <date>1998-02-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ottilie</elt><elt>Meriel</elt><elt>Florencia</elt><elt>Antonietta</elt><elt>Susette</elt>  
+  <Tracey>
+    <age>83</age>
+  </Tracey>
+</root>

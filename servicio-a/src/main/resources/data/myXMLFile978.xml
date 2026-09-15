@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassondra"
+  lastname="Lutero"
+  city="Nashville"
+  country="Åland Islands"
+  firstname2="Krystle"
+  lastname2="Tillford"
+  email="Krystle.Tillford@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>94.766</random_float>
+  <bool>false</bool>
+  <date>1990-02-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wanda</elt><elt>Chandra</elt><elt>Corina</elt><elt>Elsie</elt><elt>Teddie</elt>  
+  <Krystle>
+    <age>58</age>
+  </Krystle>
+</root>

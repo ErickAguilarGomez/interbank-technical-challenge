@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fred"
+  lastname="Seessel"
+  city="Batticaloa"
+  country="French Polynesia"
+  firstname2="Carilyn"
+  lastname2="Fry"
+  email="Carilyn.Fry@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>70.661</random_float>
+  <bool>true</bool>
+  <date>1982-12-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Larine</elt><elt>Gaylene</elt><elt>Wileen</elt><elt>Adore</elt><elt>Maud</elt>  
+  <Carilyn>
+    <age>55</age>
+  </Carilyn>
+</root>

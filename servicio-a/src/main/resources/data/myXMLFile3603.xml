@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alisha"
+  lastname="Nelsen"
+  city="Dongguan"
+  country="Georgia"
+  firstname2="Judy"
+  lastname2="Cynar"
+  email="Judy.Cynar@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>70.718</random_float>
+  <bool>false</bool>
+  <date>1997-01-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Madeleine</elt><elt>Ulrike</elt><elt>Jaclyn</elt><elt>Dione</elt><elt>Wanda</elt>  
+  <Judy>
+    <age>57</age>
+  </Judy>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ursulina"
+  lastname="Birdella"
+  city="Perth"
+  country="New Caledonia"
+  firstname2="June"
+  lastname2="McCutcheon"
+  email="June.McCutcheon@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>69.646</random_float>
+  <bool>false</bool>
+  <date>1997-08-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Corina</elt><elt>Codie</elt><elt>Lanae</elt><elt>Nelle</elt><elt>Aubrie</elt>  
+  <June>
+    <age>29</age>
+  </June>
+</root>

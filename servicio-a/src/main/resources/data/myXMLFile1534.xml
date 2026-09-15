@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Betta"
+  lastname="Natica"
+  city="City of San Marino"
+  country="Jersey"
+  firstname2="Lorie"
+  lastname2="Elephus"
+  email="Lorie.Elephus@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>75.644</random_float>
+  <bool>false</bool>
+  <date>1996-02-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Livvyy</elt><elt>Renae</elt><elt>Bibby</elt><elt>Rozele</elt><elt>Vanessa</elt>  
+  <Lorie>
+    <age>64</age>
+  </Lorie>
+</root>

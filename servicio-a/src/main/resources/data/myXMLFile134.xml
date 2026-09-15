@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annora"
+  lastname="Publia"
+  city="Bursa"
+  country="Uruguay"
+  firstname2="Gilligan"
+  lastname2="Diann"
+  email="Gilligan.Diann@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>35.064</random_float>
+  <bool>false</bool>
+  <date>1991-08-17</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Norine</elt><elt>Felice</elt><elt>Eve</elt><elt>Ana</elt><elt>Anthia</elt>  
+  <Gilligan>
+    <age>62</age>
+  </Gilligan>
+</root>

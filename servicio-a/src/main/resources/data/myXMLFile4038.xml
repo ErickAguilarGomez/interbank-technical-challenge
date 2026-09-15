@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Asia"
+  lastname="Ulphia"
+  city="Amritsar"
+  country="Russian Federation"
+  firstname2="Ann-Marie"
+  lastname2="Dermott"
+  email="Ann-Marie.Dermott@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>46.917</random_float>
+  <bool>true</bool>
+  <date>1991-09-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Arlena</elt><elt>Gerrie</elt><elt>Clarice</elt><elt>Tomasina</elt><elt>Raquela</elt>  
+  <Ann-Marie>
+    <age>58</age>
+  </Ann-Marie>
+</root>

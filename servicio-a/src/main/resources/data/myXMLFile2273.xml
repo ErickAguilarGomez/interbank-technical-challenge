@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Papageno"
+  city="Lanzhou"
+  country="Eritrea"
+  firstname2="Averyl"
+  lastname2="Haldas"
+  email="Averyl.Haldas@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>82.703</random_float>
+  <bool>false</bool>
+  <date>1995-03-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Blondelle</elt><elt>Helsa</elt><elt>Marinna</elt><elt>June</elt><elt>Selma</elt>  
+  <Averyl>
+    <age>99</age>
+  </Averyl>
+</root>

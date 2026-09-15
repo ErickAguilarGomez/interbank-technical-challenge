@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genovera"
+  lastname="Dom"
+  city="Stuttgart"
+  country="Ukraine"
+  firstname2="Jaime"
+  lastname2="Vernier"
+  email="Jaime.Vernier@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>87.177</random_float>
+  <bool>false</bool>
+  <date>1981-01-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Pearline</elt><elt>Karly</elt><elt>Lacie</elt><elt>Korrie</elt><elt>Marcelline</elt>  
+  <Jaime>
+    <age>85</age>
+  </Jaime>
+</root>

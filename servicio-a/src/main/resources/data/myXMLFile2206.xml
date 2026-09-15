@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valli"
+  lastname="Yerkovich"
+  city="Dodoma"
+  country="Gambia"
+  firstname2="Sheree"
+  lastname2="Saunderson"
+  email="Sheree.Saunderson@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>25.421</random_float>
+  <bool>false</bool>
+  <date>1983-02-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Peri</elt><elt>Melina</elt><elt>Susette</elt><elt>Catharine</elt><elt>Kristina</elt>  
+  <Sheree>
+    <age>63</age>
+  </Sheree>
+</root>

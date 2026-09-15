@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Letizia"
+  lastname="Sabella"
+  city="Campinas"
+  country="Slovakia"
+  firstname2="Larine"
+  lastname2="Truc"
+  email="Larine.Truc@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>7.816</random_float>
+  <bool>false</bool>
+  <date>1995-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Quintina</elt><elt>Annora</elt><elt>Renie</elt><elt>Grier</elt><elt>Candi</elt>  
+  <Larine>
+    <age>57</age>
+  </Larine>
+</root>

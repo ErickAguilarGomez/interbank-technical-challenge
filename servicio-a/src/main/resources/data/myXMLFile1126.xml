@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Pernick"
+  city="Cockburn Town"
+  country="China"
+  firstname2="Ermengarde"
+  lastname2="Hourigan"
+  email="Ermengarde.Hourigan@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>88.601</random_float>
+  <bool>true</bool>
+  <date>1988-01-21</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Vanessa</elt><elt>Brena</elt><elt>Myriam</elt><elt>Britni</elt><elt>Donnie</elt>  
+  <Ermengarde>
+    <age>72</age>
+  </Ermengarde>
+</root>

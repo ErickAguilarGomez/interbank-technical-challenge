@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Juliane"
+  lastname="Tengdin"
+  city="Longyearbyen"
+  country="Brunei Darussalam"
+  firstname2="Charmaine"
+  lastname2="Devlen"
+  email="Charmaine.Devlen@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>59.128</random_float>
+  <bool>true</bool>
+  <date>1995-12-20</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sabina</elt><elt>Peri</elt><elt>Consuela</elt><elt>Sabina</elt><elt>Katuscha</elt>  
+  <Charmaine>
+    <age>64</age>
+  </Charmaine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Louella"
+  lastname="Smitt"
+  city="Lviv"
+  country="Cook Islands"
+  firstname2="Morganica"
+  lastname2="Seumas"
+  email="Morganica.Seumas@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>32.373</random_float>
+  <bool>false</bool>
+  <date>1997-01-25</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ricky</elt><elt>Alyssa</elt><elt>Yvonne</elt><elt>Ketti</elt><elt>Reeba</elt>  
+  <Morganica>
+    <age>70</age>
+  </Morganica>
+</root>

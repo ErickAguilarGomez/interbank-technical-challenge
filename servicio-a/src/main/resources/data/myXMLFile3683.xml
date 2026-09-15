@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genovera"
+  lastname="Melan"
+  city="Manama"
+  country="Myanmar"
+  firstname2="Odessa"
+  lastname2="Kaja"
+  email="Odessa.Kaja@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>5.861</random_float>
+  <bool>true</bool>
+  <date>1996-02-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sybille</elt><elt>Chastity</elt><elt>Sashenka</elt><elt>Brietta</elt><elt>Caryl</elt>  
+  <Odessa>
+    <age>55</age>
+  </Odessa>
+</root>

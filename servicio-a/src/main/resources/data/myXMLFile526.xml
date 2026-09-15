@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paule"
+  lastname="Keelia"
+  city="Jamestown"
+  country="Bulgaria"
+  firstname2="Genovera"
+  lastname2="Rossner"
+  email="Genovera.Rossner@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>85.411</random_float>
+  <bool>false</bool>
+  <date>1996-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Beatriz</elt><elt>Reeba</elt><elt>Tybie</elt><elt>Carolina</elt><elt>Claudina</elt>  
+  <Genovera>
+    <age>58</age>
+  </Genovera>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candi"
+  lastname="Berard"
+  city="Incheon"
+  country="Russian Federation"
+  firstname2="Shaine"
+  lastname2="Vorster"
+  email="Shaine.Vorster@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>91.673</random_float>
+  <bool>false</bool>
+  <date>1981-07-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kayla</elt><elt>Ann-Marie</elt><elt>Corina</elt><elt>Roz</elt><elt>Shell</elt>  
+  <Shaine>
+    <age>66</age>
+  </Shaine>
+</root>

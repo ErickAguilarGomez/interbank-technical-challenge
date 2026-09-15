@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roxane"
+  lastname="Sandye"
+  city="Shenyang"
+  country="Vanuatu"
+  firstname2="Penelopa"
+  lastname2="Dahlia"
+  email="Penelopa.Dahlia@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>74.772</random_float>
+  <bool>false</bool>
+  <date>1988-02-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carlie</elt><elt>Joelly</elt><elt>Delilah</elt><elt>Kimberley</elt><elt>Ethel</elt>  
+  <Penelopa>
+    <age>69</age>
+  </Penelopa>
+</root>

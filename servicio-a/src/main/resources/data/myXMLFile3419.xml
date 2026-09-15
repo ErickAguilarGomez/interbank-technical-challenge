@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celisse"
+  lastname="Clara"
+  city="São Paulo"
+  country="Gibraltar"
+  firstname2="Aurelie"
+  lastname2="Merriott"
+  email="Aurelie.Merriott@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>65.284</random_float>
+  <bool>false</bool>
+  <date>1992-02-15</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorene</elt><elt>Sibella</elt><elt>Ivett</elt><elt>Reeba</elt><elt>Robinia</elt>  
+  <Aurelie>
+    <age>97</age>
+  </Aurelie>
+</root>

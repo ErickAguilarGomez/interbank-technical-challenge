@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Concettina"
+  lastname="Tacye"
+  city="Nantes"
+  country="Guyana"
+  firstname2="Cathyleen"
+  lastname2="Suanne"
+  email="Cathyleen.Suanne@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>41.199</random_float>
+  <bool>false</bool>
+  <date>1996-04-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Livvyy</elt><elt>Rori</elt><elt>Ayn</elt><elt>Regina</elt><elt>Lanae</elt>  
+  <Cathyleen>
+    <age>92</age>
+  </Cathyleen>
+</root>

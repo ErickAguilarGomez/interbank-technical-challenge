@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Chapland"
+  city="Lima"
+  country="Algeria"
+  firstname2="Ronna"
+  lastname2="Douglass"
+  email="Ronna.Douglass@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>8.961</random_float>
+  <bool>false</bool>
+  <date>1986-11-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Susette</elt><elt>Dorice</elt><elt>Janeczka</elt><elt>Shirlee</elt><elt>Nananne</elt>  
+  <Ronna>
+    <age>20</age>
+  </Ronna>
+</root>

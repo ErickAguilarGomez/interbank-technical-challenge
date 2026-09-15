@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Bryna"
+  city="Manzini"
+  country="Barbados"
+  firstname2="Danika"
+  lastname2="Dorothy"
+  email="Danika.Dorothy@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>11.639</random_float>
+  <bool>true</bool>
+  <date>1993-08-10</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Zsa Zsa</elt><elt>Helsa</elt><elt>Calla</elt><elt>Britni</elt><elt>Hope</elt>  
+  <Danika>
+    <age>22</age>
+  </Danika>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sophia"
+  lastname="Jeanne"
+  city="Sarajevo"
+  country="Egypt"
+  firstname2="Glynnis"
+  lastname2="Ade"
+  email="Glynnis.Ade@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>44.221</random_float>
+  <bool>true</bool>
+  <date>1988-07-14</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Janenna</elt><elt>Donetta</elt><elt>Sherrie</elt><elt>Andeee</elt><elt>Sonni</elt>  
+  <Glynnis>
+    <age>44</age>
+  </Glynnis>
+</root>

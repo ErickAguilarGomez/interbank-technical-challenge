@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clarice"
+  lastname="Lane"
+  city="Reykjavík"
+  country="Japan"
+  firstname2="Charmaine"
+  lastname2="Pandolfi"
+  email="Charmaine.Pandolfi@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>66.933</random_float>
+  <bool>false</bool>
+  <date>1992-12-09</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Joeann</elt><elt>Kirstin</elt><elt>Ketti</elt><elt>Teriann</elt><elt>Pollyanna</elt>  
+  <Charmaine>
+    <age>66</age>
+  </Charmaine>
+</root>

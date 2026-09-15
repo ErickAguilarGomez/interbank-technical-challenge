@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pearline"
+  lastname="Barrus"
+  city="Harbin"
+  country="Turkmenistan"
+  firstname2="Robbi"
+  lastname2="Stover"
+  email="Robbi.Stover@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>67.039</random_float>
+  <bool>false</bool>
+  <date>1985-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mamie</elt><elt>Adele</elt><elt>Eadie</elt><elt>Modestia</elt><elt>Leeanne</elt>  
+  <Robbi>
+    <age>50</age>
+  </Robbi>
+</root>

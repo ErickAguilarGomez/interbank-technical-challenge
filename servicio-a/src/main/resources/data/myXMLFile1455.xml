@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rhoda"
+  lastname="Soneson"
+  city="Cape Town"
+  country="Israel"
+  firstname2="Olivette"
+  lastname2="Cutlerr"
+  email="Olivette.Cutlerr@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>4.297</random_float>
+  <bool>true</bool>
+  <date>1995-08-26</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Zsa Zsa</elt><elt>Alie</elt><elt>Penelopa</elt><elt>Marjie</elt><elt>Stacey</elt>  
+  <Olivette>
+    <age>30</age>
+  </Olivette>
+</root>

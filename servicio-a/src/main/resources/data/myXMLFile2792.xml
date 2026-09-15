@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariann"
+  lastname="Taam"
+  city="Algiers"
+  country="Niue"
+  firstname2="Leontine"
+  lastname2="Whiffen"
+  email="Leontine.Whiffen@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>2.685</random_float>
+  <bool>false</bool>
+  <date>1994-08-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ardys</elt><elt>Tami</elt><elt>Harmonia</elt><elt>Sam</elt><elt>Netty</elt>  
+  <Leontine>
+    <age>23</age>
+  </Leontine>
+</root>

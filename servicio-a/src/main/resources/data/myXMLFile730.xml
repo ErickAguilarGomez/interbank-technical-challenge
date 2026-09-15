@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Parsaye"
+  city="Invercargill"
+  country="Guernsey"
+  firstname2="Jaime"
+  lastname2="Capello"
+  email="Jaime.Capello@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>37.269</random_float>
+  <bool>false</bool>
+  <date>1990-08-30</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mary</elt><elt>Tori</elt><elt>Theodora</elt><elt>Phedra</elt><elt>Isa</elt>  
+  <Jaime>
+    <age>81</age>
+  </Jaime>
+</root>

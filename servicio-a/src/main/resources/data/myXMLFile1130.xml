@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Xylina"
+  lastname="Tremayne"
+  city="Barranquilla"
+  country="Central African Republic"
+  firstname2="Priscilla"
+  lastname2="Durware"
+  email="Priscilla.Durware@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>89.112</random_float>
+  <bool>false</bool>
+  <date>1999-05-28</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rozele</elt><elt>Gui</elt><elt>Merry</elt><elt>Cecile</elt><elt>Valli</elt>  
+  <Priscilla>
+    <age>31</age>
+  </Priscilla>
+</root>

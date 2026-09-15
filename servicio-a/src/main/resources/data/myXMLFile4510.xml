@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gabriellia"
+  lastname="An"
+  city="Belgrade"
+  country="Bolivia"
+  firstname2="Cassondra"
+  lastname2="Alisia"
+  email="Cassondra.Alisia@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>60.53</random_float>
+  <bool>true</bool>
+  <date>1989-01-12</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Fawne</elt><elt>Ivett</elt><elt>Rori</elt><elt>Nyssa</elt><elt>Devina</elt>  
+  <Cassondra>
+    <age>26</age>
+  </Cassondra>
+</root>

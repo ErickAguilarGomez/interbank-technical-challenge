@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chloris"
+  lastname="Hirsch"
+  city="Barranquilla"
+  country="Madagascar"
+  firstname2="Mathilda"
+  lastname2="Delila"
+  email="Mathilda.Delila@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>34.085</random_float>
+  <bool>true</bool>
+  <date>1980-05-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Coral</elt><elt>Demetris</elt><elt>Shel</elt><elt>Dawn</elt><elt>Meghann</elt>  
+  <Mathilda>
+    <age>32</age>
+  </Mathilda>
+</root>

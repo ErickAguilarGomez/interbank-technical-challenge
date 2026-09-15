@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Max"
+  lastname="Standing"
+  city="Louisville"
+  country="Solomon Islands"
+  firstname2="Marcelline"
+  lastname2="Herrera"
+  email="Marcelline.Herrera@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>5.141</random_float>
+  <bool>false</bool>
+  <date>1984-07-25</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tina</elt><elt>Cristine</elt><elt>Ursulina</elt><elt>Jinny</elt><elt>Alexine</elt>  
+  <Marcelline>
+    <age>46</age>
+  </Marcelline>
+</root>

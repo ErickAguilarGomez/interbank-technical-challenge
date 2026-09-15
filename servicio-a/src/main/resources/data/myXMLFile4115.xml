@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hettie"
+  lastname="Kirbee"
+  city="Mogadishu"
+  country="Burkina Faso"
+  firstname2="Julieta"
+  lastname2="Carolin"
+  email="Julieta.Carolin@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>32.777</random_float>
+  <bool>false</bool>
+  <date>1982-09-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Livvyy</elt><elt>Hope</elt><elt>Jeanna</elt><elt>Adore</elt><elt>Tomasina</elt>  
+  <Julieta>
+    <age>40</age>
+  </Julieta>
+</root>

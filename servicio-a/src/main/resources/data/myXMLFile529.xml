@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leeanne"
+  lastname="Wu"
+  city="Medan"
+  country="Cuba"
+  firstname2="Arlena"
+  lastname2="Shields"
+  email="Arlena.Shields@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>76.208</random_float>
+  <bool>false</bool>
+  <date>1992-03-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fanchon</elt><elt>Fanny</elt><elt>Lonnie</elt><elt>Merrie</elt><elt>Petronia</elt>  
+  <Arlena>
+    <age>72</age>
+  </Arlena>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Delilah"
+  lastname="Giff"
+  city="Cockburn Town"
+  country="Iceland"
+  firstname2="Stevana"
+  lastname2="Koehler"
+  email="Stevana.Koehler@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>33.409</random_float>
+  <bool>false</bool>
+  <date>1992-07-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Beth</elt><elt>Norine</elt><elt>Andeee</elt><elt>Delilah</elt><elt>Willetta</elt>  
+  <Stevana>
+    <age>48</age>
+  </Stevana>
+</root>

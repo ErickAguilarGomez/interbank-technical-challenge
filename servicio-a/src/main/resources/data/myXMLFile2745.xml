@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wendi"
+  lastname="Gibbeon"
+  city="Jeddah"
+  country="Niue"
+  firstname2="Willetta"
+  lastname2="Libna"
+  email="Willetta.Libna@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>49.854</random_float>
+  <bool>true</bool>
+  <date>1997-06-07</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mariann</elt><elt>Britni</elt><elt>Delilah</elt><elt>Stevana</elt><elt>Korrie</elt>  
+  <Willetta>
+    <age>45</age>
+  </Willetta>
+</root>

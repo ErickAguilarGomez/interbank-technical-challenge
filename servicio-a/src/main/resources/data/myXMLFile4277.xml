@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Podvin"
+  city="Muscat"
+  country="Sri Lanka"
+  firstname2="Arlina"
+  lastname2="Braun"
+  email="Arlina.Braun@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>91.134</random_float>
+  <bool>false</bool>
+  <date>1991-07-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Leeanne</elt><elt>Jobi</elt><elt>Jacenta</elt><elt>Coral</elt><elt>Jessy</elt>  
+  <Arlina>
+    <age>38</age>
+  </Arlina>
+</root>

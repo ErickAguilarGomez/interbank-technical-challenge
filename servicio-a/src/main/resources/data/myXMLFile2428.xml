@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cecile"
+  lastname="O'Rourke"
+  city="Beijing"
+  country="American Samoa"
+  firstname2="Romona"
+  lastname2="Avi"
+  email="Romona.Avi@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>56.704</random_float>
+  <bool>true</bool>
+  <date>1994-01-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Celestyna</elt><elt>Carol-Jean</elt><elt>Paule</elt><elt>Roxane</elt><elt>Cyndie</elt>  
+  <Romona>
+    <age>78</age>
+  </Romona>
+</root>

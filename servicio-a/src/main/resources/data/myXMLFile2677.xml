@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kore"
+  lastname="Lea"
+  city="George Town"
+  country="United States"
+  firstname2="Vinita"
+  lastname2="Gaal"
+  email="Vinita.Gaal@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>30.866</random_float>
+  <bool>true</bool>
+  <date>1994-10-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Paulita</elt><elt>Renie</elt><elt>Micheline</elt><elt>Debee</elt><elt>Queenie</elt>  
+  <Vinita>
+    <age>59</age>
+  </Vinita>
+</root>

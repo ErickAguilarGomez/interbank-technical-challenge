@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tracey"
+  lastname="Camden"
+  city="Wichita"
+  country="Virgin Islands, British"
+  firstname2="Tamqrah"
+  lastname2="Marlie"
+  email="Tamqrah.Marlie@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>70.707</random_float>
+  <bool>false</bool>
+  <date>1996-12-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lulita</elt><elt>Yetty</elt><elt>Emma</elt><elt>Judy</elt><elt>Kimmy</elt>  
+  <Tamqrah>
+    <age>48</age>
+  </Tamqrah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elmira"
+  lastname="Argus"
+  city="Glasgow"
+  country="Ghana"
+  firstname2="Gisela"
+  lastname2="Amethist"
+  email="Gisela.Amethist@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>71.656</random_float>
+  <bool>true</bool>
+  <date>1995-11-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Britte</elt><elt>Margarette</elt><elt>Roseline</elt><elt>Janeczka</elt><elt>Ana</elt>  
+  <Gisela>
+    <age>86</age>
+  </Gisela>
+</root>

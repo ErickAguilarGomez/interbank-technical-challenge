@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phedra"
+  lastname="Eugenia"
+  city="Punta Arenas"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Genevra"
+  lastname2="Alrich"
+  email="Genevra.Alrich@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>33.665</random_float>
+  <bool>false</bool>
+  <date>1988-07-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ardys</elt><elt>Theodora</elt><elt>Ivett</elt><elt>Alyda</elt><elt>Susan</elt>  
+  <Genevra>
+    <age>39</age>
+  </Genevra>
+</root>

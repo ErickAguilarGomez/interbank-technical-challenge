@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="Urias"
+  city="São José dos Campos"
+  country="Sweden"
+  firstname2="Kalina"
+  lastname2="Brodench"
+  email="Kalina.Brodench@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>29.399</random_float>
+  <bool>false</bool>
+  <date>1991-09-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Stevana</elt><elt>Cathyleen</elt><elt>Aryn</elt><elt>Cassandra</elt><elt>Vinita</elt>  
+  <Kalina>
+    <age>24</age>
+  </Kalina>
+</root>

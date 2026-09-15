@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claudina"
+  lastname="Gino"
+  city="Quito"
+  country="Cape Verde"
+  firstname2="Georgetta"
+  lastname2="Edee"
+  email="Georgetta.Edee@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>52.212</random_float>
+  <bool>true</bool>
+  <date>1995-04-22</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ann-Marie</elt><elt>Marita</elt><elt>Gabriellia</elt><elt>Joy</elt><elt>Patricia</elt>  
+  <Georgetta>
+    <age>80</age>
+  </Georgetta>
+</root>

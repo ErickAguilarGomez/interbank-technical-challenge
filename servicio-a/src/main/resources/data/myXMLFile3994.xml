@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zia"
+  lastname="Allare"
+  city="Taipei"
+  country="Burundi"
+  firstname2="Mureil"
+  lastname2="Rubie"
+  email="Mureil.Rubie@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>12.451</random_float>
+  <bool>false</bool>
+  <date>1984-03-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Damaris</elt><elt>Georgina</elt><elt>Ninnetta</elt><elt>Nyssa</elt><elt>Ekaterina</elt>  
+  <Mureil>
+    <age>70</age>
+  </Mureil>
+</root>

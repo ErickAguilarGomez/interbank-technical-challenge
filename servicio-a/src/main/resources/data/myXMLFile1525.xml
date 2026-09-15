@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vivia"
+  lastname="Emerson"
+  city="Aarhus"
+  country="French Polynesia"
+  firstname2="Korrie"
+  lastname2="Cherianne"
+  email="Korrie.Cherianne@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>13.822</random_float>
+  <bool>false</bool>
+  <date>1989-09-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tera</elt><elt>Berget</elt><elt>Augustine</elt><elt>Karly</elt><elt>Marguerite</elt>  
+  <Korrie>
+    <age>22</age>
+  </Korrie>
+</root>

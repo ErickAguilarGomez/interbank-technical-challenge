@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Catie"
+  city="Hangzhou"
+  country="Guinea"
+  firstname2="Pierette"
+  lastname2="Darrell"
+  email="Pierette.Darrell@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>23.966</random_float>
+  <bool>false</bool>
+  <date>1984-09-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jean</elt><elt>Jenda</elt><elt>Cathie</elt><elt>Nanete</elt><elt>Renae</elt>  
+  <Pierette>
+    <age>28</age>
+  </Pierette>
+</root>

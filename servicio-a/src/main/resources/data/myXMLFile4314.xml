@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orelia"
+  lastname="Elsinore"
+  city="Road Town"
+  country="Fiji"
+  firstname2="Elie"
+  lastname2="Viddah"
+  email="Elie.Viddah@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>58.313</random_float>
+  <bool>true</bool>
+  <date>1985-12-03</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dolli</elt><elt>Bernie</elt><elt>Edee</elt><elt>Frieda</elt><elt>Anallese</elt>  
+  <Elie>
+    <age>56</age>
+  </Elie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mireielle"
+  lastname="Winnick"
+  city="Dili"
+  country="Singapore"
+  firstname2="Dennie"
+  lastname2="Moina"
+  email="Dennie.Moina@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>85.16</random_float>
+  <bool>false</bool>
+  <date>1980-02-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ira</elt><elt>Valera</elt><elt>Christy</elt><elt>Corina</elt><elt>Nicoli</elt>  
+  <Dennie>
+    <age>30</age>
+  </Dennie>
+</root>

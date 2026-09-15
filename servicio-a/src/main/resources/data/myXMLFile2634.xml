@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emelina"
+  lastname="Minetta"
+  city="Jinan"
+  country="Timor-Leste"
+  firstname2="Chastity"
+  lastname2="August"
+  email="Chastity.August@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>74.692</random_float>
+  <bool>false</bool>
+  <date>1985-01-19</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nikki</elt><elt>Laure</elt><elt>Cissiee</elt><elt>Ada</elt><elt>Calla</elt>  
+  <Chastity>
+    <age>27</age>
+  </Chastity>
+</root>

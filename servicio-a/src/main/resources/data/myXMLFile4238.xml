@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mignon"
+  lastname="Elisha"
+  city="Labasa"
+  country="Fiji"
+  firstname2="Danny"
+  lastname2="Duwalt"
+  email="Danny.Duwalt@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>47.252</random_float>
+  <bool>false</bool>
+  <date>1987-05-26</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Raf</elt><elt>Stacey</elt><elt>Dolli</elt><elt>Bertine</elt><elt>Annabela</elt>  
+  <Danny>
+    <age>75</age>
+  </Danny>
+</root>

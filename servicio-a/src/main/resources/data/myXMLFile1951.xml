@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leanna"
+  lastname="Orelee"
+  city="El Aaiún"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Hermione"
+  lastname2="Phyllis"
+  email="Hermione.Phyllis@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>1.727</random_float>
+  <bool>true</bool>
+  <date>1990-06-19</date>
+  <regEx>helloooo world</regEx>
+  <enum>xml</enum>
+  <elt>Chloris</elt><elt>Bill</elt><elt>Merci</elt><elt>Glenda</elt><elt>Karlee</elt>  
+  <Hermione>
+    <age>29</age>
+  </Hermione>
+</root>

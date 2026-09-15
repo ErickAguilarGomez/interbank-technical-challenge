@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Fancie"
+  city="Vancouver"
+  country="Antigua and Barbuda"
+  firstname2="Madeleine"
+  lastname2="Dalli"
+  email="Madeleine.Dalli@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>26.116</random_float>
+  <bool>false</bool>
+  <date>1981-11-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gaylene</elt><elt>Roseline</elt><elt>Diena</elt><elt>Donetta</elt><elt>Meg</elt>  
+  <Madeleine>
+    <age>59</age>
+  </Madeleine>
+</root>

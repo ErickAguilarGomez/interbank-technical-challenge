@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jerry"
+  lastname="Sholley"
+  city="Belgrade"
+  country="Lebanon"
+  firstname2="Letizia"
+  lastname2="Croix"
+  email="Letizia.Croix@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>74.362</random_float>
+  <bool>true</bool>
+  <date>1991-06-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Miquela</elt><elt>Ketti</elt><elt>Phedra</elt><elt>Barbi</elt><elt>Thalia</elt>  
+  <Letizia>
+    <age>53</age>
+  </Letizia>
+</root>

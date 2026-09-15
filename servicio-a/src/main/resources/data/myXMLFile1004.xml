@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ulrike"
+  lastname="Percy"
+  city="Baghdad"
+  country="Norfolk Island"
+  firstname2="Albertina"
+  lastname2="Moseley"
+  email="Albertina.Moseley@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>30.837</random_float>
+  <bool>true</bool>
+  <date>1997-06-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Fidelia</elt><elt>Josephine</elt><elt>Dione</elt><elt>Zaria</elt><elt>Molli</elt>  
+  <Albertina>
+    <age>23</age>
+  </Albertina>
+</root>

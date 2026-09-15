@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nerta"
+  lastname="Oster"
+  city="Lobamba"
+  country="Tajikistan"
+  firstname2="Ingrid"
+  lastname2="Leffen"
+  email="Ingrid.Leffen@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>20.405</random_float>
+  <bool>false</bool>
+  <date>1993-10-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nyssa</elt><elt>Evaleen</elt><elt>Raina</elt><elt>Gratia</elt><elt>Malina</elt>  
+  <Ingrid>
+    <age>25</age>
+  </Ingrid>
+</root>

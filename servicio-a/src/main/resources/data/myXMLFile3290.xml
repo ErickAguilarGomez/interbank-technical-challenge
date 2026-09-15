@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sallie"
+  lastname="Chinua"
+  city="Kigali"
+  country="Reunion"
+  firstname2="Andeee"
+  lastname2="Firmin"
+  email="Andeee.Firmin@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>60.707</random_float>
+  <bool>false</bool>
+  <date>1983-02-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Therine</elt><elt>Rebeca</elt><elt>Nessie</elt><elt>Johna</elt><elt>Beverley</elt>  
+  <Andeee>
+    <age>43</age>
+  </Andeee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lizzie"
+  lastname="Moseley"
+  city="Jaipur"
+  country="Dominican Republic"
+  firstname2="Maye"
+  lastname2="Martguerita"
+  email="Maye.Martguerita@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>79.287</random_float>
+  <bool>true</bool>
+  <date>1997-07-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Goldie</elt><elt>Dione</elt><elt>Elbertina</elt><elt>Addia</elt><elt>Nataline</elt>  
+  <Maye>
+    <age>52</age>
+  </Maye>
+</root>

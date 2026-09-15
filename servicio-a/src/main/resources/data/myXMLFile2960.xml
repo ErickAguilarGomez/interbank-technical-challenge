@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Clara"
+  city="Kolkata"
+  country="Burkina Faso"
+  firstname2="Merry"
+  lastname2="Chinua"
+  email="Merry.Chinua@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>60.619</random_float>
+  <bool>false</bool>
+  <date>1987-12-06</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gusella</elt><elt>Gretal</elt><elt>Sara-Ann</elt><elt>Heddie</elt><elt>Celestyna</elt>  
+  <Merry>
+    <age>73</age>
+  </Merry>
+</root>

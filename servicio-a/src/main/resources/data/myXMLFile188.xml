@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Buttaro"
+  city="Bucharest"
+  country="Liechtenstein"
+  firstname2="Genevra"
+  lastname2="Adalbert"
+  email="Genevra.Adalbert@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>73.386</random_float>
+  <bool>true</bool>
+  <date>1992-01-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Addia</elt><elt>Regina</elt><elt>Melodie</elt><elt>Modestia</elt><elt>Lonnie</elt>  
+  <Genevra>
+    <age>42</age>
+  </Genevra>
+</root>

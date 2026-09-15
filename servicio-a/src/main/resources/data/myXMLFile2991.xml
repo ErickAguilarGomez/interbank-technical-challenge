@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Newell"
+  city="Ponta Delgada"
+  country="Syrian Arab Republic"
+  firstname2="Lynea"
+  lastname2="Annice"
+  email="Lynea.Annice@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>70.499</random_float>
+  <bool>false</bool>
+  <date>1997-05-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maridel</elt><elt>Dolli</elt><elt>Eugine</elt><elt>Ulrike</elt><elt>Elmira</elt>  
+  <Lynea>
+    <age>80</age>
+  </Lynea>
+</root>

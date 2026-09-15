@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vevay"
+  lastname="Audly"
+  city="San Salvador"
+  country="Turks and Caicos Islands"
+  firstname2="Lorne"
+  lastname2="Eachern"
+  email="Lorne.Eachern@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>18.917</random_float>
+  <bool>true</bool>
+  <date>1990-11-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jorry</elt><elt>Dagmar</elt><elt>Adore</elt><elt>Karena</elt><elt>Kelly</elt>  
+  <Lorne>
+    <age>25</age>
+  </Lorne>
+</root>

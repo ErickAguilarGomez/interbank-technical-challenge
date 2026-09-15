@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Waite"
+  city="Livingstone"
+  country="Turkey"
+  firstname2="Felice"
+  lastname2="Yam"
+  email="Felice.Yam@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>42.76</random_float>
+  <bool>true</bool>
+  <date>1983-09-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Katleen</elt><elt>Lory</elt><elt>Demetris</elt><elt>Bobbi</elt><elt>Verla</elt>  
+  <Felice>
+    <age>77</age>
+  </Felice>
+</root>

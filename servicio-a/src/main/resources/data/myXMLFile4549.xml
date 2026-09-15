@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Suzette"
+  lastname="Gusella"
+  city="Changchun"
+  country="Antigua and Barbuda"
+  firstname2="Mellicent"
+  lastname2="Carmena"
+  email="Mellicent.Carmena@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>2.216</random_float>
+  <bool>true</bool>
+  <date>1991-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Albertina</elt><elt>Nanete</elt><elt>Adriana</elt><elt>Ginnie</elt><elt>Dione</elt>  
+  <Mellicent>
+    <age>69</age>
+  </Mellicent>
+</root>

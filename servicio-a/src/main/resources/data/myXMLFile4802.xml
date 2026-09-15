@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joane"
+  lastname="Donoghue"
+  city="Ho Chi Minh City"
+  country="Christmas Island"
+  firstname2="Natka"
+  lastname2="Koehler"
+  email="Natka.Koehler@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>37.876</random_float>
+  <bool>false</bool>
+  <date>1997-03-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Shauna</elt><elt>Genovera</elt><elt>Caressa</elt><elt>Babita</elt><elt>Emmey</elt>  
+  <Natka>
+    <age>73</age>
+  </Natka>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christal"
+  lastname="Noam"
+  city="Cotonou"
+  country="AndorrA"
+  firstname2="Madeleine"
+  lastname2="Kaja"
+  email="Madeleine.Kaja@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>59.431</random_float>
+  <bool>false</bool>
+  <date>1989-09-16</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Stephanie</elt><elt>Ekaterina</elt><elt>Halette</elt><elt>Ann-Marie</elt><elt>Blake</elt>  
+  <Madeleine>
+    <age>64</age>
+  </Madeleine>
+</root>

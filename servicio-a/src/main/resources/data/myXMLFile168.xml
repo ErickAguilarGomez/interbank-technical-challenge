@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurore"
+  lastname="Liva"
+  city="Majuro"
+  country="French Southern Territories"
+  firstname2="Pierette"
+  lastname2="Danby"
+  email="Pierette.Danby@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>96.397</random_float>
+  <bool>true</bool>
+  <date>1989-10-14</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tierney</elt><elt>Celisse</elt><elt>Bernie</elt><elt>Madeleine</elt><elt>Eolanda</elt>  
+  <Pierette>
+    <age>79</age>
+  </Pierette>
+</root>

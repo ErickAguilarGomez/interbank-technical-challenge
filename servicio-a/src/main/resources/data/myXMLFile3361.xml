@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jeanna"
+  lastname="Nerita"
+  city="Porto-Novo"
+  country="Egypt"
+  firstname2="Etta"
+  lastname2="Heidt"
+  email="Etta.Heidt@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>53.249</random_float>
+  <bool>true</bool>
+  <date>1990-10-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ingrid</elt><elt>Melisent</elt><elt>Winny</elt><elt>Lexine</elt><elt>Margarette</elt>  
+  <Etta>
+    <age>84</age>
+  </Etta>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathie"
+  lastname="Reinke"
+  city="Prague"
+  country="British Indian Ocean Territory"
+  firstname2="Margalo"
+  lastname2="Kelula"
+  email="Margalo.Kelula@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>91.668</random_float>
+  <bool>false</bool>
+  <date>1992-11-30</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Yvonne</elt><elt>Rosabelle</elt><elt>Amalie</elt><elt>Olwen</elt><elt>Althea</elt>  
+  <Margalo>
+    <age>80</age>
+  </Margalo>
+</root>

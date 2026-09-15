@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arlina"
+  lastname="Stefa"
+  city="St. George's"
+  country="Saint Helena"
+  firstname2="Doro"
+  lastname2="Torray"
+  email="Doro.Torray@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>81.802</random_float>
+  <bool>true</bool>
+  <date>1985-01-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Courtnay</elt><elt>Ebonee</elt><elt>Malina</elt><elt>Dari</elt><elt>Mamie</elt>  
+  <Doro>
+    <age>47</age>
+  </Doro>
+</root>

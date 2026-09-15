@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Goldina"
+  city="Djibouti (city)"
+  country="Saint Lucia"
+  firstname2="Bernie"
+  lastname2="Frendel"
+  email="Bernie.Frendel@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>41.572</random_float>
+  <bool>true</bool>
+  <date>1990-07-27</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kayla</elt><elt>Cherrita</elt><elt>Susan</elt><elt>Tina</elt><elt>Suzette</elt>  
+  <Bernie>
+    <age>51</age>
+  </Bernie>
+</root>

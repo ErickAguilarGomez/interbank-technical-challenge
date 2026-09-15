@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lexine"
+  lastname="Quent"
+  city="Valparaíso"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Joy"
+  lastname2="My"
+  email="Joy.My@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>53.692</random_float>
+  <bool>true</bool>
+  <date>1994-04-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Shel</elt><elt>Jasmina</elt><elt>Raina</elt><elt>Merrie</elt><elt>Aurore</elt>  
+  <Joy>
+    <age>83</age>
+  </Joy>
+</root>

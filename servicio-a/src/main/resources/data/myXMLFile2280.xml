@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elsie"
+  lastname="Screens"
+  city="Melbourne"
+  country="Djibouti"
+  firstname2="Collen"
+  lastname2="Leary"
+  email="Collen.Leary@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>34.924</random_float>
+  <bool>false</bool>
+  <date>1981-06-18</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sharlene</elt><elt>Angelique</elt><elt>Basia</elt><elt>Elsie</elt><elt>Florie</elt>  
+  <Collen>
+    <age>48</age>
+  </Collen>
+</root>

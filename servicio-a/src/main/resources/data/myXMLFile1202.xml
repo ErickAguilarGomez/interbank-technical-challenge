@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allis"
+  lastname="Nicoline"
+  city="Batticaloa"
+  country="Ukraine"
+  firstname2="Ebonee"
+  lastname2="Leonard"
+  email="Ebonee.Leonard@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>29.718</random_float>
+  <bool>true</bool>
+  <date>1998-07-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mireielle</elt><elt>Phylis</elt><elt>Emma</elt><elt>Yolane</elt><elt>Phylis</elt>  
+  <Ebonee>
+    <age>75</age>
+  </Ebonee>
+</root>

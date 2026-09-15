@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elfreda"
+  lastname="Seumas"
+  city="Rockhampton"
+  country="Serbia and Montenegro"
+  firstname2="Aubrie"
+  lastname2="Hylan"
+  email="Aubrie.Hylan@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>23.429</random_float>
+  <bool>false</bool>
+  <date>1989-02-20</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kelly</elt><elt>Tatiania</elt><elt>Ruthe</elt><elt>Dulcinea</elt><elt>Viviene</elt>  
+  <Aubrie>
+    <age>47</age>
+  </Aubrie>
+</root>

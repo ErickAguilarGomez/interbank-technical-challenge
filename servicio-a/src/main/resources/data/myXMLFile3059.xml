@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jobi"
+  lastname="Palocz"
+  city="Pittsburgh"
+  country="Uganda"
+  firstname2="Margalo"
+  lastname2="Bobbee"
+  email="Margalo.Bobbee@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>66.033</random_float>
+  <bool>false</bool>
+  <date>1984-05-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Florencia</elt><elt>Courtnay</elt><elt>Diena</elt><elt>Fredericka</elt><elt>Wendi</elt>  
+  <Margalo>
+    <age>88</age>
+  </Margalo>
+</root>

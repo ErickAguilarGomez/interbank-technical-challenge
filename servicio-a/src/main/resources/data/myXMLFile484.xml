@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Belldas"
+  city="Changchun"
+  country="Christmas Island"
+  firstname2="Beatriz"
+  lastname2="Rhu"
+  email="Beatriz.Rhu@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>82.775</random_float>
+  <bool>true</bool>
+  <date>1994-03-19</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Queenie</elt><elt>Brooks</elt><elt>Florie</elt><elt>Louella</elt><elt>Beverley</elt>  
+  <Beatriz>
+    <age>72</age>
+  </Beatriz>
+</root>

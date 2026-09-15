@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emmey"
+  lastname="Jalbert"
+  city="El Aaiún"
+  country="Cape Verde"
+  firstname2="Rivalee"
+  lastname2="Mathilde"
+  email="Rivalee.Mathilde@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>69.383</random_float>
+  <bool>false</bool>
+  <date>1984-11-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Emelina</elt><elt>Monika</elt><elt>Max</elt><elt>Vonny</elt><elt>Collen</elt>  
+  <Rivalee>
+    <age>21</age>
+  </Rivalee>
+</root>

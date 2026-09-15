@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brandise"
+  lastname="Wenda"
+  city="Phuket (city)"
+  country="Cameroon"
+  firstname2="Merrie"
+  lastname2="Kress"
+  email="Merrie.Kress@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>66.944</random_float>
+  <bool>false</bool>
+  <date>1997-03-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fina</elt><elt>Lolita</elt><elt>Angelique</elt><elt>Marcelline</elt><elt>Fredericka</elt>  
+  <Merrie>
+    <age>80</age>
+  </Merrie>
+</root>

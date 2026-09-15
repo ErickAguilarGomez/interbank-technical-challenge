@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Morgun"
+  city="Banjul"
+  country="Portugal"
+  firstname2="Lolita"
+  lastname2="Ricki"
+  email="Lolita.Ricki@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>42.286</random_float>
+  <bool>true</bool>
+  <date>1986-07-17</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Leanna</elt><elt>Konstance</elt><elt>Tobe</elt><elt>Ardys</elt><elt>Jany</elt>  
+  <Lolita>
+    <age>40</age>
+  </Lolita>
+</root>

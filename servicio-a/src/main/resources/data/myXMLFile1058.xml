@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eve"
+  lastname="Sheng"
+  city="Cartagena"
+  country="Sweden"
+  firstname2="Gilligan"
+  lastname2="Viddah"
+  email="Gilligan.Viddah@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>26.453</random_float>
+  <bool>false</bool>
+  <date>1989-05-09</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jinny</elt><elt>Konstance</elt><elt>Odessa</elt><elt>Raquela</elt><elt>Deane</elt>  
+  <Gilligan>
+    <age>54</age>
+  </Gilligan>
+</root>

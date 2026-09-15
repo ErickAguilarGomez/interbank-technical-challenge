@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Killigrew"
+  city="Winnipeg"
+  country="Greece"
+  firstname2="Sandie"
+  lastname2="Trace"
+  email="Sandie.Trace@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>60.076</random_float>
+  <bool>true</bool>
+  <date>1996-12-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Thalia</elt><elt>Binny</elt><elt>Marcy</elt><elt>Marsiella</elt><elt>Veda</elt>  
+  <Sandie>
+    <age>21</age>
+  </Sandie>
+</root>

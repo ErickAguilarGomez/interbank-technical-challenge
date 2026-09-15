@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Sikorski"
+  city="Hiroshima"
+  country="Sierra Leone"
+  firstname2="Barbi"
+  lastname2="Charmine"
+  email="Barbi.Charmine@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>73.841</random_float>
+  <bool>false</bool>
+  <date>1997-01-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Larine</elt><elt>Jenilee</elt><elt>Anestassia</elt><elt>Steffane</elt><elt>Lorie</elt>  
+  <Barbi>
+    <age>44</age>
+  </Barbi>
+</root>

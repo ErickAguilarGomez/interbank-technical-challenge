@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Cressida"
+  city="Cape Town"
+  country="Korea, Republic of"
+  firstname2="Kate"
+  lastname2="Merat"
+  email="Kate.Merat@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>31.441</random_float>
+  <bool>false</bool>
+  <date>1987-02-03</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rivalee</elt><elt>Catrina</elt><elt>Nicoli</elt><elt>Larine</elt><elt>Maye</elt>  
+  <Kate>
+    <age>45</age>
+  </Kate>
+</root>

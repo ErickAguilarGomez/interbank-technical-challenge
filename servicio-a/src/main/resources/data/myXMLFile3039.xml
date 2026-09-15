@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Timon"
+  city="Jeddah"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Aaren"
+  lastname2="Truc"
+  email="Aaren.Truc@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>88.017</random_float>
+  <bool>false</bool>
+  <date>1986-04-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Brena</elt><elt>Rebeca</elt><elt>Jillayne</elt><elt>Alisha</elt><elt>Sherrie</elt>  
+  <Aaren>
+    <age>67</age>
+  </Aaren>
+</root>

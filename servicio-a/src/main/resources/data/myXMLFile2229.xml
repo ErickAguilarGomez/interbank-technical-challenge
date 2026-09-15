@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charmaine"
+  lastname="Hourigan"
+  city="Dar es Salaam"
+  country="Costa Rica"
+  firstname2="Anallese"
+  lastname2="Madaih"
+  email="Anallese.Madaih@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>76.832</random_float>
+  <bool>false</bool>
+  <date>1981-07-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marnia</elt><elt>Steffane</elt><elt>Cristabel</elt><elt>Sheelagh</elt><elt>Cyb</elt>  
+  <Anallese>
+    <age>81</age>
+  </Anallese>
+</root>

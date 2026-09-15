@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britte"
+  lastname="Voletta"
+  city="Calama"
+  country="Czech Republic"
+  firstname2="Viviene"
+  lastname2="Allys"
+  email="Viviene.Allys@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>34.584</random_float>
+  <bool>false</bool>
+  <date>1984-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Belinda</elt><elt>Anthia</elt><elt>Paola</elt><elt>Alexine</elt><elt>Karina</elt>  
+  <Viviene>
+    <age>31</age>
+  </Viviene>
+</root>

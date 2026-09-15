@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Quintina"
+  lastname="Baptlsta"
+  city="São José dos Campos"
+  country="Puerto Rico"
+  firstname2="Loree"
+  lastname2="Amadas"
+  email="Loree.Amadas@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>56.359</random_float>
+  <bool>false</bool>
+  <date>1997-05-11</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>June</elt><elt>Valli</elt><elt>June</elt><elt>Ilse</elt><elt>Fanny</elt>  
+  <Loree>
+    <age>57</age>
+  </Loree>
+</root>

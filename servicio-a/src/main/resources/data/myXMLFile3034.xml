@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minne"
+  lastname="Dalli"
+  city="Puerto Williams"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Marnia"
+  lastname2="Mallon"
+  email="Marnia.Mallon@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>67.246</random_float>
+  <bool>false</bool>
+  <date>1985-07-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mildrid</elt><elt>Winny</elt><elt>Deedee</elt><elt>Steffane</elt><elt>Mignon</elt>  
+  <Marnia>
+    <age>44</age>
+  </Marnia>
+</root>

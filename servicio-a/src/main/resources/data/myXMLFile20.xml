@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pamella"
+  lastname="Modie"
+  city="Chicago"
+  country="Palestinian Territory, Occupied"
+  firstname2="Gilligan"
+  lastname2="Cristi"
+  email="Gilligan.Cristi@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>66.662</random_float>
+  <bool>true</bool>
+  <date>1992-06-02</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ebonee</elt><elt>Kellen</elt><elt>Mathilda</elt><elt>Nyssa</elt><elt>Sue</elt>  
+  <Gilligan>
+    <age>67</age>
+  </Gilligan>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Zola"
+  city="Manchester"
+  country="Virgin Islands, British"
+  firstname2="Fidelia"
+  lastname2="Jethro"
+  email="Fidelia.Jethro@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>15.828</random_float>
+  <bool>true</bool>
+  <date>1993-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kelly</elt><elt>Jobi</elt><elt>Ginnie</elt><elt>Winifred</elt><elt>Florie</elt>  
+  <Fidelia>
+    <age>33</age>
+  </Fidelia>
+</root>

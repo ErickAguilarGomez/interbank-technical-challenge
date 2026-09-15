@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Peonir"
+  city="Jeddah"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Fina"
+  lastname2="Kellby"
+  email="Fina.Kellby@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>80.58</random_float>
+  <bool>true</bool>
+  <date>1987-01-02</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lorne</elt><elt>Renae</elt><elt>Harrietta</elt><elt>Cristine</elt><elt>Jasmina</elt>  
+  <Fina>
+    <age>77</age>
+  </Fina>
+</root>

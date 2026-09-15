@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Helve"
+  city="Hyderabad"
+  country="Portugal"
+  firstname2="Larine"
+  lastname2="Rheingold"
+  email="Larine.Rheingold@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>80.151</random_float>
+  <bool>false</bool>
+  <date>1994-03-08</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dyann</elt><elt>Jinny</elt><elt>Vinita</elt><elt>Jordan</elt><elt>Sue</elt>  
+  <Larine>
+    <age>58</age>
+  </Larine>
+</root>

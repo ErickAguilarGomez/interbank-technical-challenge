@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dode"
+  lastname="Berard"
+  city="Miami"
+  country="Tunisia"
+  firstname2="Roslyn"
+  lastname2="Therine"
+  email="Roslyn.Therine@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>32.016</random_float>
+  <bool>false</bool>
+  <date>1984-11-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Etta</elt><elt>Coral</elt><elt>Dotty</elt><elt>Karly</elt><elt>Renae</elt>  
+  <Roslyn>
+    <age>47</age>
+  </Roslyn>
+</root>

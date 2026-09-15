@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edee"
+  lastname="Mandler"
+  city="Nassau"
+  country="Norway"
+  firstname2="Eadie"
+  lastname2="Robertson"
+  email="Eadie.Robertson@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>14.913</random_float>
+  <bool>false</bool>
+  <date>1987-08-15</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Talya</elt><elt>Letizia</elt><elt>Meg</elt><elt>Hannis</elt><elt>Sheelagh</elt>  
+  <Eadie>
+    <age>28</age>
+  </Eadie>
+</root>

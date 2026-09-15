@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Henriette"
+  lastname="Fillbert"
+  city="Jacksonville"
+  country="Cape Verde"
+  firstname2="Cherrita"
+  lastname2="Joli"
+  email="Cherrita.Joli@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>48.594</random_float>
+  <bool>false</bool>
+  <date>1989-09-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rhoda</elt><elt>Myriam</elt><elt>Rosene</elt><elt>Selia</elt><elt>Asia</elt>  
+  <Cherrita>
+    <age>29</age>
+  </Cherrita>
+</root>

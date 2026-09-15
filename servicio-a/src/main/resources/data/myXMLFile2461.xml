@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Silvan"
+  city="Porto"
+  country="Zambia"
+  firstname2="Lelah"
+  lastname2="Greenwald"
+  email="Lelah.Greenwald@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>42.145</random_float>
+  <bool>true</bool>
+  <date>1989-08-10</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Halette</elt><elt>Elyssa</elt><elt>Riannon</elt><elt>Mellicent</elt><elt>Corene</elt>  
+  <Lelah>
+    <age>32</age>
+  </Lelah>
+</root>

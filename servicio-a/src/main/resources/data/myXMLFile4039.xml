@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Imojean"
+  lastname="Lia"
+  city="Madrid"
+  country="United States Minor Outlying Islands"
+  firstname2="Hannis"
+  lastname2="Ruvolo"
+  email="Hannis.Ruvolo@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>11.761</random_float>
+  <bool>false</bool>
+  <date>1985-02-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gusty</elt><elt>Ana</elt><elt>Stephanie</elt><elt>Amara</elt><elt>Brietta</elt>  
+  <Hannis>
+    <age>95</age>
+  </Hannis>
+</root>

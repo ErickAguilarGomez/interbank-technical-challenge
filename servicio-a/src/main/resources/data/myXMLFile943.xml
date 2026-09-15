@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Kiyoshi"
+  city="Ilhéus"
+  country="Pakistan"
+  firstname2="Perry"
+  lastname2="Roscoe"
+  email="Perry.Roscoe@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>23.854</random_float>
+  <bool>false</bool>
+  <date>1982-01-21</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frances</elt><elt>Flory</elt><elt>Nicoli</elt><elt>Meriel</elt><elt>Grier</elt>  
+  <Perry>
+    <age>85</age>
+  </Perry>
+</root>

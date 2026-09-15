@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Revkah"
+  city="Pattaya"
+  country="Morocco"
+  firstname2="Britni"
+  lastname2="Huggins"
+  email="Britni.Huggins@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>84.906</random_float>
+  <bool>true</bool>
+  <date>1994-07-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ada</elt><elt>Sheelagh</elt><elt>Renie</elt><elt>Latisha</elt><elt>Romona</elt>  
+  <Britni>
+    <age>22</age>
+  </Britni>
+</root>

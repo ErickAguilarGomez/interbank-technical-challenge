@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Netty"
+  lastname="Weinreb"
+  city="Ibiza"
+  country="Angola"
+  firstname2="Verla"
+  lastname2="Scammon"
+  email="Verla.Scammon@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>18.841</random_float>
+  <bool>false</bool>
+  <date>1985-09-26</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Riannon</elt><elt>Lolita</elt><elt>Olwen</elt><elt>Gwyneth</elt><elt>Nananne</elt>  
+  <Verla>
+    <age>29</age>
+  </Verla>
+</root>

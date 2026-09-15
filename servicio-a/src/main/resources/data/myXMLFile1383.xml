@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Nerita"
+  city="Chittagong"
+  country="Thailand"
+  firstname2="Marsiella"
+  lastname2="Gusella"
+  email="Marsiella.Gusella@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>29.56</random_float>
+  <bool>false</bool>
+  <date>1999-08-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Annecorinne</elt><elt>Aigneis</elt><elt>Betta</elt><elt>Olwen</elt><elt>Clo</elt>  
+  <Marsiella>
+    <age>93</age>
+  </Marsiella>
+</root>

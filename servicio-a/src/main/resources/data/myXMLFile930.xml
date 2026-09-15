@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Livvyy"
+  lastname="Clywd"
+  city="Tokyo"
+  country="Malawi"
+  firstname2="Sonni"
+  lastname2="Autrey"
+  email="Sonni.Autrey@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>42.34</random_float>
+  <bool>false</bool>
+  <date>1982-07-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sara-Ann</elt><elt>Reeba</elt><elt>Mildrid</elt><elt>Karena</elt><elt>Kimberley</elt>  
+  <Sonni>
+    <age>72</age>
+  </Sonni>
+</root>

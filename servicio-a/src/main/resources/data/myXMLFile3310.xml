@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phylis"
+  lastname="Flita"
+  city="Moroni"
+  country="Solomon Islands"
+  firstname2="Marsiella"
+  lastname2="Swanhildas"
+  email="Marsiella.Swanhildas@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>95.333</random_float>
+  <bool>true</bool>
+  <date>1984-09-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nadine</elt><elt>Mamie</elt><elt>Tani</elt><elt>Paola</elt><elt>Emma</elt>  
+  <Marsiella>
+    <age>44</age>
+  </Marsiella>
+</root>

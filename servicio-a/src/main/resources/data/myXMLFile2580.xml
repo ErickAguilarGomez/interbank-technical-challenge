@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Markman"
+  city="Port-au-Prince"
+  country="Iceland"
+  firstname2="Lisette"
+  lastname2="Tillford"
+  email="Lisette.Tillford@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>41.735</random_float>
+  <bool>false</bool>
+  <date>1984-06-15</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Phylis</elt><elt>Darci</elt><elt>Hettie</elt><elt>Myriam</elt><elt>Ginnie</elt>  
+  <Lisette>
+    <age>49</age>
+  </Lisette>
+</root>

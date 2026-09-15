@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Thornburg"
+  city="Enugu"
+  country="Timor-Leste"
+  firstname2="Gerrie"
+  lastname2="Deegan"
+  email="Gerrie.Deegan@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>86.665</random_float>
+  <bool>true</bool>
+  <date>1980-09-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Amara</elt><elt>Nita</elt><elt>Ariela</elt><elt>Wileen</elt><elt>Jan</elt>  
+  <Gerrie>
+    <age>47</age>
+  </Gerrie>
+</root>

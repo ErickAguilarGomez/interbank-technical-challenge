@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ottilie"
+  lastname="Bergman"
+  city="San Francisco"
+  country="United Kingdom"
+  firstname2="Elbertina"
+  lastname2="Thunell"
+  email="Elbertina.Thunell@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>95.481</random_float>
+  <bool>true</bool>
+  <date>1996-11-30</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ofilia</elt><elt>Clary</elt><elt>Briney</elt><elt>Molli</elt><elt>Brooks</elt>  
+  <Elbertina>
+    <age>91</age>
+  </Elbertina>
+</root>

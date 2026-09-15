@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Madelene"
+  city="Basra"
+  country="Ghana"
+  firstname2="Marsiella"
+  lastname2="Warthman"
+  email="Marsiella.Warthman@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>5.45</random_float>
+  <bool>true</bool>
+  <date>1995-01-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tabbatha</elt><elt>Jillayne</elt><elt>Renie</elt><elt>Chrystel</elt><elt>Candi</elt>  
+  <Marsiella>
+    <age>50</age>
+  </Marsiella>
+</root>

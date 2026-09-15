@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Queenie"
+  lastname="Gabrielli"
+  city="Yogyakarta (city)"
+  country="Saudi Arabia"
+  firstname2="Joleen"
+  lastname2="Harl"
+  email="Joleen.Harl@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>48.527</random_float>
+  <bool>true</bool>
+  <date>1998-11-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Robinia</elt><elt>Hope</elt><elt>Christal</elt><elt>Renie</elt><elt>Dyann</elt>  
+  <Joleen>
+    <age>71</age>
+  </Joleen>
+</root>

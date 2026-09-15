@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cecile"
+  lastname="Guildroy"
+  city="Providence"
+  country="Peru"
+  firstname2="Augustine"
+  lastname2="Alfons"
+  email="Augustine.Alfons@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>1.113</random_float>
+  <bool>true</bool>
+  <date>1994-08-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Clo</elt><elt>Kaja</elt><elt>Lory</elt><elt>Nessie</elt><elt>Elena</elt>  
+  <Augustine>
+    <age>20</age>
+  </Augustine>
+</root>

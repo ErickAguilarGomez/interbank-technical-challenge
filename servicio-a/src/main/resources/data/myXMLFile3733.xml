@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orsola"
+  lastname="Riva"
+  city="Tianjin"
+  country="Honduras"
+  firstname2="Lisette"
+  lastname2="Deny"
+  email="Lisette.Deny@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>56.17</random_float>
+  <bool>false</bool>
+  <date>1982-03-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dale</elt><elt>Annice</elt><elt>Ebonee</elt><elt>Basia</elt><elt>Lita</elt>  
+  <Lisette>
+    <age>51</age>
+  </Lisette>
+</root>

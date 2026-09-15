@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathyleen"
+  lastname="Fosque"
+  city="Chennai"
+  country="RWANDA"
+  firstname2="Winny"
+  lastname2="Willie"
+  email="Winny.Willie@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>81.578</random_float>
+  <bool>true</bool>
+  <date>1994-11-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Orsola</elt><elt>Joy</elt><elt>Wilma</elt><elt>Tarra</elt><elt>Tina</elt>  
+  <Winny>
+    <age>74</age>
+  </Winny>
+</root>

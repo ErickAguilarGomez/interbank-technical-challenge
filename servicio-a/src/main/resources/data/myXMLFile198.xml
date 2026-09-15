@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Siana"
+  lastname="Lymann"
+  city="Baltimore"
+  country="French Southern Territories"
+  firstname2="Gui"
+  lastname2="Giff"
+  email="Gui.Giff@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>75.158</random_float>
+  <bool>true</bool>
+  <date>1983-05-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gilda</elt><elt>Nadine</elt><elt>Renie</elt><elt>Alexine</elt><elt>Therine</elt>  
+  <Gui>
+    <age>61</age>
+  </Gui>
+</root>

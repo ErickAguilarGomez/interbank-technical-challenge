@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florencia"
+  lastname="Schenck"
+  city="Zürich"
+  country="Tanzania, United Republic of"
+  firstname2="Suzette"
+  lastname2="Joeann"
+  email="Suzette.Joeann@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>12.108</random_float>
+  <bool>true</bool>
+  <date>1995-11-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Candy</elt><elt>Ezmeralda</elt><elt>Ernesta</elt><elt>Genovera</elt><elt>Petronia</elt>  
+  <Suzette>
+    <age>74</age>
+  </Suzette>
+</root>

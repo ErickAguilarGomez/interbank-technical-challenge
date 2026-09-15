@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mureil"
+  lastname="Nerita"
+  city="Toulouse"
+  country="Samoa"
+  firstname2="Elise"
+  lastname2="Goldina"
+  email="Elise.Goldina@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>15.075</random_float>
+  <bool>true</bool>
+  <date>1983-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Letizia</elt><elt>Madelle</elt><elt>Georgina</elt><elt>Annora</elt><elt>Pierette</elt>  
+  <Elise>
+    <age>45</age>
+  </Elise>
+</root>

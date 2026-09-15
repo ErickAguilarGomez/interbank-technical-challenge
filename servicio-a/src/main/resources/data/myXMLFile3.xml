@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shel"
+  lastname="Claudine"
+  city="Kingstown"
+  country="Armenia"
+  firstname2="Tonia"
+  lastname2="Anestassia"
+  email="Tonia.Anestassia@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>62.677</random_float>
+  <bool>true</bool>
+  <date>1994-08-02</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Shel</elt><elt>Charlena</elt><elt>Romona</elt><elt>Evaleen</elt><elt>Doro</elt>  
+  <Tonia>
+    <age>96</age>
+  </Tonia>
+</root>

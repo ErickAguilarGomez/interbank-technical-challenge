@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="Durware"
+  city="Simferopol"
+  country="Cyprus"
+  firstname2="Dorice"
+  lastname2="Gilbertson"
+  email="Dorice.Gilbertson@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>18.674</random_float>
+  <bool>false</bool>
+  <date>1980-07-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Danika</elt><elt>Selia</elt><elt>Elvira</elt><elt>Melodie</elt><elt>Lulita</elt>  
+  <Dorice>
+    <age>28</age>
+  </Dorice>
+</root>

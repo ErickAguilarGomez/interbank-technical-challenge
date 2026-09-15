@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rani"
+  lastname="Thad"
+  city="Kano"
+  country="Pitcairn"
+  firstname2="Nyssa"
+  lastname2="Reinke"
+  email="Nyssa.Reinke@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>55.599</random_float>
+  <bool>true</bool>
+  <date>1997-10-06</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Albertina</elt><elt>Kirbee</elt><elt>Juliane</elt><elt>Emma</elt><elt>Zondra</elt>  
+  <Nyssa>
+    <age>32</age>
+  </Nyssa>
+</root>

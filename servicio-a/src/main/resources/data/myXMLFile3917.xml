@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Hashim"
+  city="Petropavlovsk-Kamchatsky"
+  country="Belize"
+  firstname2="Katharina"
+  lastname2="Dearborn"
+  email="Katharina.Dearborn@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>75.691</random_float>
+  <bool>true</bool>
+  <date>1999-03-17</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Karina</elt><elt>Sallie</elt><elt>Flory</elt><elt>Lucy</elt><elt>Emma</elt>  
+  <Katharina>
+    <age>61</age>
+  </Katharina>
+</root>

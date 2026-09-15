@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyssa"
+  lastname="Lowry"
+  city="Honiara"
+  country="San Marino"
+  firstname2="Xylina"
+  lastname2="Latini"
+  email="Xylina.Latini@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>65.917</random_float>
+  <bool>false</bool>
+  <date>1984-03-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ariela</elt><elt>Viki</elt><elt>Roberta</elt><elt>Hettie</elt><elt>Kellen</elt>  
+  <Xylina>
+    <age>84</age>
+  </Xylina>
+</root>

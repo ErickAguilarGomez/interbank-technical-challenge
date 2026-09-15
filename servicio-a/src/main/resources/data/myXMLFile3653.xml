@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="Nester"
+  city="Thessaloniki"
+  country="Latvia"
+  firstname2="Aeriela"
+  lastname2="Kimmie"
+  email="Aeriela.Kimmie@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>13.643</random_float>
+  <bool>false</bool>
+  <date>1998-08-29</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sharlene</elt><elt>Gusella</elt><elt>Chandra</elt><elt>Marnia</elt><elt>Christy</elt>  
+  <Aeriela>
+    <age>49</age>
+  </Aeriela>
+</root>

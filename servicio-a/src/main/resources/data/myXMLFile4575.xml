@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ebonee"
+  lastname="Ashok"
+  city="Salt Lake City"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Ayn"
+  lastname2="Marcellus"
+  email="Ayn.Marcellus@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>78.506</random_float>
+  <bool>false</bool>
+  <date>1989-08-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sara-Ann</elt><elt>Tera</elt><elt>Vevay</elt><elt>Stevana</elt><elt>Elyssa</elt>  
+  <Ayn>
+    <age>41</age>
+  </Ayn>
+</root>

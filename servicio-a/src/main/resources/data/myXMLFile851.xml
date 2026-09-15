@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dione"
+  lastname="Eldrid"
+  city="Rio de Janeiro"
+  country="Mauritania"
+  firstname2="Katharina"
+  lastname2="Breed"
+  email="Katharina.Breed@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>35.399</random_float>
+  <bool>true</bool>
+  <date>1986-12-17</date>
+  <regEx>helloooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gusella</elt><elt>Sybille</elt><elt>Isa</elt><elt>Wilma</elt><elt>Marylou</elt>  
+  <Katharina>
+    <age>30</age>
+  </Katharina>
+</root>

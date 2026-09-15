@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flo"
+  lastname="Kunin"
+  city="Monaco"
+  country="Switzerland"
+  firstname2="Kirstin"
+  lastname2="Jorgan"
+  email="Kirstin.Jorgan@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>46.024</random_float>
+  <bool>true</bool>
+  <date>1997-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Melodie</elt><elt>Therine</elt><elt>Olwen</elt><elt>Lanna</elt><elt>Ofilia</elt>  
+  <Kirstin>
+    <age>73</age>
+  </Kirstin>
+</root>

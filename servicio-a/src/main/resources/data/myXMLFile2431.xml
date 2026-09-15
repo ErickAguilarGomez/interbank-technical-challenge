@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Addia"
+  lastname="Gusella"
+  city="Port Blair"
+  country="Virgin Islands, British"
+  firstname2="Emilia"
+  lastname2="Wyn"
+  email="Emilia.Wyn@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>80.913</random_float>
+  <bool>false</bool>
+  <date>1982-03-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Blake</elt><elt>Cindelyn</elt><elt>Tracey</elt><elt>Alex</elt><elt>Natka</elt>  
+  <Emilia>
+    <age>83</age>
+  </Emilia>
+</root>

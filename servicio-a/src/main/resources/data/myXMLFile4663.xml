@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gaylene"
+  lastname="Weaks"
+  city="Skopje"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Charmaine"
+  lastname2="Astra"
+  email="Charmaine.Astra@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>32.649</random_float>
+  <bool>false</bool>
+  <date>1982-09-16</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Konstance</elt><elt>Georgina</elt><elt>Rayna</elt><elt>Leona</elt><elt>Mildrid</elt>  
+  <Charmaine>
+    <age>31</age>
+  </Charmaine>
+</root>

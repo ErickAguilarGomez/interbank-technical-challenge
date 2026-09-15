@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trixi"
+  lastname="Marsden"
+  city="Kharkiv"
+  country="Niue"
+  firstname2="Melisent"
+  lastname2="Brunell"
+  email="Melisent.Brunell@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>23.968</random_float>
+  <bool>false</bool>
+  <date>1991-11-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dawn</elt><elt>Jacenta</elt><elt>Almeta</elt><elt>Pamella</elt><elt>Mallory</elt>  
+  <Melisent>
+    <age>43</age>
+  </Melisent>
+</root>

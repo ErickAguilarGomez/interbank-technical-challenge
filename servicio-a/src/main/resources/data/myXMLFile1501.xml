@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathie"
+  lastname="Lymann"
+  city="Port Elizabeth"
+  country="Mexico"
+  firstname2="Caryl"
+  lastname2="Hourigan"
+  email="Caryl.Hourigan@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>39.09</random_float>
+  <bool>true</bool>
+  <date>1986-06-17</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Stacey</elt><elt>Iseabal</elt><elt>Kimmy</elt><elt>Kirbee</elt><elt>Valli</elt>  
+  <Caryl>
+    <age>20</age>
+  </Caryl>
+</root>

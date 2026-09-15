@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nita"
+  lastname="Persse"
+  city="Marseille"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Riannon"
+  lastname2="Merell"
+  email="Riannon.Merell@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>100.776</random_float>
+  <bool>false</bool>
+  <date>1999-08-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ernesta</elt><elt>Linet</elt><elt>Betta</elt><elt>Dotty</elt><elt>Kamilah</elt>  
+  <Riannon>
+    <age>47</age>
+  </Riannon>
+</root>

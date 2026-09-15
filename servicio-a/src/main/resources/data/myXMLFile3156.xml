@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Priscilla"
+  lastname="Ashely"
+  city="Nice"
+  country="Sweden"
+  firstname2="Grier"
+  lastname2="Sperling"
+  email="Grier.Sperling@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>34.552</random_float>
+  <bool>true</bool>
+  <date>1980-02-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Janis</elt><elt>Jessy</elt><elt>Tybie</elt><elt>Tatiania</elt><elt>Miquela</elt>  
+  <Grier>
+    <age>80</age>
+  </Grier>
+</root>

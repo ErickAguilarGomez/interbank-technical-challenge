@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Norrie"
+  city="Edinburgh"
+  country="Mauritania"
+  firstname2="Ericka"
+  lastname2="Sparhawk"
+  email="Ericka.Sparhawk@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>94.387</random_float>
+  <bool>false</bool>
+  <date>1996-11-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Taffy</elt><elt>Christian</elt><elt>Zondra</elt><elt>Sam</elt><elt>Arlena</elt>  
+  <Ericka>
+    <age>27</age>
+  </Ericka>
+</root>

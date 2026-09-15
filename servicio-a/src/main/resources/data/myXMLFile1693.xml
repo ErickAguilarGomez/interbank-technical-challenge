@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evita"
+  lastname="Sandye"
+  city="Palma"
+  country="Ghana"
+  firstname2="Zsa Zsa"
+  lastname2="Bahr"
+  email="Zsa Zsa.Bahr@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>34.348</random_float>
+  <bool>false</bool>
+  <date>1995-04-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Suzette</elt><elt>Emilia</elt><elt>Brena</elt><elt>Pearline</elt><elt>Vonny</elt>  
+  <Zsa Zsa>
+    <age>36</age>
+  </Zsa Zsa>
+</root>

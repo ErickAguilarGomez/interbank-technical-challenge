@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Suzette"
+  lastname="Greyson"
+  city="Luanda"
+  country="Maldives"
+  firstname2="Tina"
+  lastname2="Durware"
+  email="Tina.Durware@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>46.151</random_float>
+  <bool>false</bool>
+  <date>1980-08-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Myriam</elt><elt>Claudina</elt><elt>Jenda</elt><elt>Valli</elt><elt>Anthia</elt>  
+  <Tina>
+    <age>34</age>
+  </Tina>
+</root>

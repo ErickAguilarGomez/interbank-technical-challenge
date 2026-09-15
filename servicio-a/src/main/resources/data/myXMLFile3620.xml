@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dale"
+  lastname="Loring"
+  city="Fortaleza"
+  country="Peru"
+  firstname2="Kara-Lynn"
+  lastname2="Levey"
+  email="Kara-Lynn.Levey@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>19.365</random_float>
+  <bool>false</bool>
+  <date>1983-04-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Allis</elt><elt>Anallese</elt><elt>Dode</elt><elt>Krystle</elt><elt>Shauna</elt>  
+  <Kara-Lynn>
+    <age>78</age>
+  </Kara-Lynn>
+</root>

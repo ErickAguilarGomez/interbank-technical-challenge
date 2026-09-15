@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Mott"
+  city="Yangon"
+  country="British Indian Ocean Territory"
+  firstname2="Ida"
+  lastname2="Wilona"
+  email="Ida.Wilona@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>19.219</random_float>
+  <bool>false</bool>
+  <date>1980-05-04</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Oralee</elt><elt>Elfreda</elt><elt>Kate</elt><elt>Lauryn</elt><elt>Mellicent</elt>  
+  <Ida>
+    <age>65</age>
+  </Ida>
+</root>

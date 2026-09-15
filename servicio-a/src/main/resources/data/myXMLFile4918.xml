@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chandra"
+  lastname="Brenn"
+  city="Vientiane"
+  country="Sao Tome and Principe"
+  firstname2="Margalo"
+  lastname2="Mintz"
+  email="Margalo.Mintz@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>36.563</random_float>
+  <bool>false</bool>
+  <date>1997-09-05</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Charmaine</elt><elt>Estell</elt><elt>Luci</elt><elt>Althea</elt><elt>Doro</elt>  
+  <Margalo>
+    <age>57</age>
+  </Margalo>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jennica"
+  lastname="Ax"
+  city="Thessaloniki"
+  country="Georgia"
+  firstname2="Lorne"
+  lastname2="Bendick"
+  email="Lorne.Bendick@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>36.257</random_float>
+  <bool>false</bool>
+  <date>1993-05-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sarette</elt><elt>Aryn</elt><elt>Dale</elt><elt>Orsola</elt><elt>Judy</elt>  
+  <Lorne>
+    <age>49</age>
+  </Lorne>
+</root>

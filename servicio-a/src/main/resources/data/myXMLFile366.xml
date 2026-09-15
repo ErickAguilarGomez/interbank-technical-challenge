@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donnie"
+  lastname="Hailee"
+  city="Port-au-Prince"
+  country="Lesotho"
+  firstname2="Robbi"
+  lastname2="O'Carroll"
+  email="Robbi.O'Carroll@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>62.66</random_float>
+  <bool>true</bool>
+  <date>1985-08-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sandie</elt><elt>Brana</elt><elt>Lenna</elt><elt>Charissa</elt><elt>Averyl</elt>  
+  <Robbi>
+    <age>91</age>
+  </Robbi>
+</root>

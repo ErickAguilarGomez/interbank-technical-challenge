@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Riva"
+  city="Gdańsk"
+  country="Dominican Republic"
+  firstname2="Lorie"
+  lastname2="Pillsbury"
+  email="Lorie.Pillsbury@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>83.967</random_float>
+  <bool>false</bool>
+  <date>1988-11-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ofilia</elt><elt>Sashenka</elt><elt>Clary</elt><elt>Shaylyn</elt><elt>Maisey</elt>  
+  <Lorie>
+    <age>77</age>
+  </Lorie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Julieta"
+  lastname="Lattie"
+  city="Road Town"
+  country="Martinique"
+  firstname2="Jeanna"
+  lastname2="Valerio"
+  email="Jeanna.Valerio@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>53.232</random_float>
+  <bool>false</bool>
+  <date>1992-10-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Aigneis</elt><elt>Katleen</elt><elt>Reeba</elt><elt>Riannon</elt><elt>Meg</elt>  
+  <Jeanna>
+    <age>40</age>
+  </Jeanna>
+</root>

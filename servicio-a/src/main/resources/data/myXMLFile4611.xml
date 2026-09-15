@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phylis"
+  lastname="Libna"
+  city="Lagos"
+  country="Cayman Islands"
+  firstname2="Tybie"
+  lastname2="Bartlett"
+  email="Tybie.Bartlett@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>18.578</random_float>
+  <bool>true</bool>
+  <date>1990-01-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jere</elt><elt>Andeee</elt><elt>Maridel</elt><elt>Bernie</elt><elt>Kassey</elt>  
+  <Tybie>
+    <age>28</age>
+  </Tybie>
+</root>

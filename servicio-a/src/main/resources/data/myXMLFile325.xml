@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ericka"
+  lastname="Simmonds"
+  city="New Orleans"
+  country="Bouvet Island"
+  firstname2="Vita"
+  lastname2="Kunin"
+  email="Vita.Kunin@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>58.973</random_float>
+  <bool>false</bool>
+  <date>1996-02-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Raina</elt><elt>Elena</elt><elt>Cacilie</elt><elt>Phylis</elt><elt>Harmonia</elt>  
+  <Vita>
+    <age>68</age>
+  </Vita>
+</root>

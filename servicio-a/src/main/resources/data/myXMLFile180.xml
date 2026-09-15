@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anestassia"
+  lastname="Meter"
+  city="Rotterdam"
+  country="Solomon Islands"
+  firstname2="Gusella"
+  lastname2="Cavan"
+  email="Gusella.Cavan@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>56.115</random_float>
+  <bool>false</bool>
+  <date>1986-06-09</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Olwen</elt><elt>Nerta</elt><elt>Violet</elt><elt>Sean</elt><elt>Tierney</elt>  
+  <Gusella>
+    <age>35</age>
+  </Gusella>
+</root>

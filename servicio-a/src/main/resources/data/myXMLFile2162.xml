@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Lumbard"
+  city="The Hague"
+  country="Cameroon"
+  firstname2="Nariko"
+  lastname2="Zrike"
+  email="Nariko.Zrike@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>75.602</random_float>
+  <bool>false</bool>
+  <date>1982-09-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Anestassia</elt><elt>Ottilie</elt><elt>Cindelyn</elt><elt>Christy</elt><elt>Devina</elt>  
+  <Nariko>
+    <age>96</age>
+  </Nariko>
+</root>

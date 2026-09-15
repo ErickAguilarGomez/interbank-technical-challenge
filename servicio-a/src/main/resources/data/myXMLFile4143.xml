@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Vastah"
+  city="Washington"
+  country="Zambia"
+  firstname2="Sarette"
+  lastname2="Tomasina"
+  email="Sarette.Tomasina@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>99.541</random_float>
+  <bool>true</bool>
+  <date>1986-05-15</date>
+  <regEx>helloooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elyssa</elt><elt>Laure</elt><elt>Nanete</elt><elt>Kore</elt><elt>Katharina</elt>  
+  <Sarette>
+    <age>33</age>
+  </Sarette>
+</root>

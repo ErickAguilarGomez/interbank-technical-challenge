@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joleen"
+  lastname="Ardra"
+  city="Kinshasa"
+  country="Qatar"
+  firstname2="Lynde"
+  lastname2="Penelopa"
+  email="Lynde.Penelopa@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>4.128</random_float>
+  <bool>false</bool>
+  <date>1992-02-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Feliza</elt><elt>Arlina</elt><elt>Elyssa</elt><elt>Dulcinea</elt><elt>Kayla</elt>  
+  <Lynde>
+    <age>24</age>
+  </Lynde>
+</root>

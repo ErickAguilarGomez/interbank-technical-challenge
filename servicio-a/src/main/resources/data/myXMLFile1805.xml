@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alia"
+  lastname="Wu"
+  city="Lusaka"
+  country="Ireland"
+  firstname2="Millie"
+  lastname2="Gladstone"
+  email="Millie.Gladstone@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>10.717</random_float>
+  <bool>false</bool>
+  <date>1986-03-18</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nicoli</elt><elt>Daphne</elt><elt>Nita</elt><elt>Selma</elt><elt>Daune</elt>  
+  <Millie>
+    <age>62</age>
+  </Millie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zsa Zsa"
+  lastname="Regan"
+  city="Lyon"
+  country="Syrian Arab Republic"
+  firstname2="Kassey"
+  lastname2="Zola"
+  email="Kassey.Zola@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>38.933</random_float>
+  <bool>false</bool>
+  <date>1982-09-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Susette</elt><elt>Jessy</elt><elt>Linet</elt><elt>Trudie</elt><elt>Frances</elt>  
+  <Kassey>
+    <age>29</age>
+  </Kassey>
+</root>

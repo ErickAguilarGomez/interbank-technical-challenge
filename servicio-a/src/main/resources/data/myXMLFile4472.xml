@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elyssa"
+  lastname="Havens"
+  city="Belmopan"
+  country="Sao Tome and Principe"
+  firstname2="Ernesta"
+  lastname2="Kussell"
+  email="Ernesta.Kussell@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>30.858</random_float>
+  <bool>true</bool>
+  <date>1987-02-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Anallese</elt><elt>Georgetta</elt><elt>Nita</elt><elt>Margette</elt><elt>Laurene</elt>  
+  <Ernesta>
+    <age>29</age>
+  </Ernesta>
+</root>

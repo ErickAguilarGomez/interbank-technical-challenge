@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chloris"
+  lastname="Oster"
+  city="Jerusalem"
+  country="Gabon"
+  firstname2="Cassondra"
+  lastname2="Dielu"
+  email="Cassondra.Dielu@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>55.94</random_float>
+  <bool>true</bool>
+  <date>1983-02-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Daune</elt><elt>Kaia</elt><elt>Mariann</elt><elt>Audrie</elt><elt>Bettine</elt>  
+  <Cassondra>
+    <age>31</age>
+  </Cassondra>
+</root>

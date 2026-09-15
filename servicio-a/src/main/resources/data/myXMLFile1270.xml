@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adele"
+  lastname="Malanie"
+  city="Bandung"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Carolina"
+  lastname2="Anderea"
+  email="Carolina.Anderea@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>73.308</random_float>
+  <bool>true</bool>
+  <date>1980-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bibby</elt><elt>Shandie</elt><elt>Genovera</elt><elt>Marylou</elt><elt>Miquela</elt>  
+  <Carolina>
+    <age>87</age>
+  </Carolina>
+</root>

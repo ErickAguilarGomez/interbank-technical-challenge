@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Norvol"
+  city="Mendoza"
+  country="Antigua and Barbuda"
+  firstname2="Elfreda"
+  lastname2="Deny"
+  email="Elfreda.Deny@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>89.109</random_float>
+  <bool>true</bool>
+  <date>1984-03-10</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gusty</elt><elt>Feliza</elt><elt>Laurene</elt><elt>Dorene</elt><elt>Alleen</elt>  
+  <Elfreda>
+    <age>22</age>
+  </Elfreda>
+</root>

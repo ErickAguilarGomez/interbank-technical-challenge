@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="Chrystel"
+  city="Tiraspol"
+  country="Solomon Islands"
+  firstname2="Merle"
+  lastname2="Cookie"
+  email="Merle.Cookie@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>67.089</random_float>
+  <bool>true</bool>
+  <date>1997-04-30</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Elvira</elt><elt>Gianina</elt><elt>Joleen</elt><elt>Jere</elt><elt>Malina</elt>  
+  <Merle>
+    <age>70</age>
+  </Merle>
+</root>

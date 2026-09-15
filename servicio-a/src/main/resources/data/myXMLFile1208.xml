@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sherrie"
+  lastname="Whiffen"
+  city="Saint John"
+  country="Holy See (Vatican City State)"
+  firstname2="Jany"
+  lastname2="Matthew"
+  email="Jany.Matthew@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>97.318</random_float>
+  <bool>true</bool>
+  <date>1982-08-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Merle</elt><elt>Gilligan</elt><elt>Yetty</elt><elt>Bertine</elt><elt>Ariela</elt>  
+  <Jany>
+    <age>74</age>
+  </Jany>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dania"
+  lastname="Riordan"
+  city="Denpasar"
+  country="Bermuda"
+  firstname2="Linet"
+  lastname2="Erlandson"
+  email="Linet.Erlandson@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>77.525</random_float>
+  <bool>true</bool>
+  <date>1996-03-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Margalo</elt><elt>Starla</elt><elt>Carolina</elt><elt>Dacia</elt><elt>Sara-Ann</elt>  
+  <Linet>
+    <age>42</age>
+  </Linet>
+</root>

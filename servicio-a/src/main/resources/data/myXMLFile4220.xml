@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorothy"
+  lastname="Anastatius"
+  city="Damascus"
+  country="Reunion"
+  firstname2="Dari"
+  lastname2="Peti"
+  email="Dari.Peti@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>38.538</random_float>
+  <bool>true</bool>
+  <date>1987-11-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jany</elt><elt>Kirbee</elt><elt>Nollie</elt><elt>Dorene</elt><elt>Genovera</elt>  
+  <Dari>
+    <age>51</age>
+  </Dari>
+</root>

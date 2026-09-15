@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leona"
+  lastname="Olnee"
+  city="Albuquerque"
+  country="Tajikistan"
+  firstname2="Selia"
+  lastname2="Malvino"
+  email="Selia.Malvino@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>68.701</random_float>
+  <bool>true</bool>
+  <date>1996-07-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marcelline</elt><elt>Dominga</elt><elt>Vivia</elt><elt>Nita</elt><elt>Frieda</elt>  
+  <Selia>
+    <age>32</age>
+  </Selia>
+</root>

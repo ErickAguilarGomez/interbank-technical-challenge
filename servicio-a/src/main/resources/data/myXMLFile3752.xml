@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florie"
+  lastname="Dawkins"
+  city="Mérida"
+  country="Uruguay"
+  firstname2="Babita"
+  lastname2="Fry"
+  email="Babita.Fry@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>67.137</random_float>
+  <bool>false</bool>
+  <date>1999-08-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lorie</elt><elt>Luci</elt><elt>Vivia</elt><elt>Alisha</elt><elt>Mureil</elt>  
+  <Babita>
+    <age>73</age>
+  </Babita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karena"
+  lastname="Graig"
+  city="São Tomé"
+  country="Burundi"
+  firstname2="Laurene"
+  lastname2="Letsou"
+  email="Laurene.Letsou@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>32.611</random_float>
+  <bool>false</bool>
+  <date>1994-12-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Hope</elt><elt>Ekaterina</elt><elt>Merrie</elt><elt>Kathi</elt><elt>Beatriz</elt>  
+  <Laurene>
+    <age>91</age>
+  </Laurene>
+</root>

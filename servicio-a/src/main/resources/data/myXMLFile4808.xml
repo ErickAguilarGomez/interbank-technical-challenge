@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rochette"
+  lastname="Briney"
+  city="Jinan"
+  country="Venezuela"
+  firstname2="Daphne"
+  lastname2="Moina"
+  email="Daphne.Moina@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>34.157</random_float>
+  <bool>true</bool>
+  <date>1995-08-17</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rhea</elt><elt>Petronia</elt><elt>Hope</elt><elt>Sindee</elt><elt>Berta</elt>  
+  <Daphne>
+    <age>71</age>
+  </Daphne>
+</root>

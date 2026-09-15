@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lily"
+  lastname="Suk"
+  city="Port Vila"
+  country="Turkmenistan"
+  firstname2="Nariko"
+  lastname2="Salchunas"
+  email="Nariko.Salchunas@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>87.07</random_float>
+  <bool>false</bool>
+  <date>1980-11-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Verla</elt><elt>Dulce</elt><elt>Valli</elt><elt>Kalina</elt><elt>Averyl</elt>  
+  <Nariko>
+    <age>83</age>
+  </Nariko>
+</root>

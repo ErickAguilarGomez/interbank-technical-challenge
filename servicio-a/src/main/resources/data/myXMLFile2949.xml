@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jan"
+  lastname="Strephon"
+  city="Gaborone"
+  country="Åland Islands"
+  firstname2="Ira"
+  lastname2="Docilla"
+  email="Ira.Docilla@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>98.076</random_float>
+  <bool>false</bool>
+  <date>1994-09-18</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Helena</elt><elt>Tybie</elt><elt>Anallese</elt><elt>Yvonne</elt><elt>Ilse</elt>  
+  <Ira>
+    <age>40</age>
+  </Ira>
+</root>

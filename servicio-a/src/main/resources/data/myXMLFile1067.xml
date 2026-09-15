@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dianemarie"
+  lastname="Faso"
+  city="Lisbon"
+  country="Turks and Caicos Islands"
+  firstname2="Nyssa"
+  lastname2="Roarke"
+  email="Nyssa.Roarke@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>11.642</random_float>
+  <bool>false</bool>
+  <date>1981-02-22</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Flory</elt><elt>Darlleen</elt><elt>Aigneis</elt><elt>Ginnie</elt><elt>Krystle</elt>  
+  <Nyssa>
+    <age>24</age>
+  </Nyssa>
+</root>

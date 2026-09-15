@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adriana"
+  lastname="Nance"
+  city="Malang"
+  country="Romania"
+  firstname2="Cecile"
+  lastname2="Burnside"
+  email="Cecile.Burnside@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>14.017</random_float>
+  <bool>false</bool>
+  <date>1995-08-14</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Giustina</elt><elt>Brandise</elt><elt>Darci</elt><elt>Lisette</elt><elt>Nanete</elt>  
+  <Cecile>
+    <age>69</age>
+  </Cecile>
+</root>

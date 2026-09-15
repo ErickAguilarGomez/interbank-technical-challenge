@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hettie"
+  lastname="Cullin"
+  city="Yakutsk"
+  country="Uruguay"
+  firstname2="Sabina"
+  lastname2="Yerkovich"
+  email="Sabina.Yerkovich@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>1.867</random_float>
+  <bool>true</bool>
+  <date>1986-12-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ruthe</elt><elt>Debee</elt><elt>Tarra</elt><elt>Wilma</elt><elt>Misha</elt>  
+  <Sabina>
+    <age>83</age>
+  </Sabina>
+</root>

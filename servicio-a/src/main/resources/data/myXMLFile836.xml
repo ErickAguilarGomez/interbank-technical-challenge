@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="McGrody"
+  city="Tripoli"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Eadie"
+  lastname2="Laverne"
+  email="Eadie.Laverne@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>31.27</random_float>
+  <bool>false</bool>
+  <date>1987-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Bill</elt><elt>Lynea</elt><elt>Lonnie</elt><elt>Cassondra</elt><elt>Caryl</elt>  
+  <Eadie>
+    <age>70</age>
+  </Eadie>
+</root>

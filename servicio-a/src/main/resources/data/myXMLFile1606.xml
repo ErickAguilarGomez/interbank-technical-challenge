@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristina"
+  lastname="Bord"
+  city="Ciudad del Este"
+  country="Christmas Island"
+  firstname2="Cherilyn"
+  lastname2="Karl"
+  email="Cherilyn.Karl@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>90.927</random_float>
+  <bool>false</bool>
+  <date>1981-01-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shandie</elt><elt>Bettine</elt><elt>Vevay</elt><elt>Sybille</elt><elt>Ingrid</elt>  
+  <Cherilyn>
+    <age>46</age>
+  </Cherilyn>
+</root>

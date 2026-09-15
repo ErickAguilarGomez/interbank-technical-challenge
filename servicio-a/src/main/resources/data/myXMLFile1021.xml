@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Basia"
+  lastname="Odysseus"
+  city="Yaoundé"
+  country="Suriname"
+  firstname2="Hallie"
+  lastname2="Margret"
+  email="Hallie.Margret@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>47.021</random_float>
+  <bool>false</bool>
+  <date>1994-02-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kellen</elt><elt>Helena</elt><elt>Randa</elt><elt>Odessa</elt><elt>Debee</elt>  
+  <Hallie>
+    <age>66</age>
+  </Hallie>
+</root>

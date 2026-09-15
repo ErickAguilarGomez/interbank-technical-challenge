@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Noelle"
+  lastname="Arley"
+  city="Cebu City"
+  country="Georgia"
+  firstname2="Harmonia"
+  lastname2="Yusuk"
+  email="Harmonia.Yusuk@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>5.421</random_float>
+  <bool>false</bool>
+  <date>1989-03-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jenilee</elt><elt>Chandra</elt><elt>Vita</elt><elt>Lynnea</elt><elt>Rhea</elt>  
+  <Harmonia>
+    <age>51</age>
+  </Harmonia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darci"
+  lastname="Burch"
+  city="Recife"
+  country="Cayman Islands"
+  firstname2="Millie"
+  lastname2="Deegan"
+  email="Millie.Deegan@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>21.985</random_float>
+  <bool>false</bool>
+  <date>1986-06-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Vanessa</elt><elt>Ernesta</elt><elt>Rochette</elt><elt>Robinia</elt><elt>Coral</elt>  
+  <Millie>
+    <age>49</age>
+  </Millie>
+</root>

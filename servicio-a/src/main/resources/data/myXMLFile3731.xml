@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Alwin"
+  city="Tokyo"
+  country="Madagascar"
+  firstname2="Fawne"
+  lastname2="Tayib"
+  email="Fawne.Tayib@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>62.825</random_float>
+  <bool>false</bool>
+  <date>1986-05-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cassondra</elt><elt>Eadie</elt><elt>Ingrid</elt><elt>Angelique</elt><elt>Jennica</elt>  
+  <Fawne>
+    <age>48</age>
+  </Fawne>
+</root>

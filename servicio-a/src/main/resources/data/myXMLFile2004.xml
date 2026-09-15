@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ilse"
+  lastname="Florina"
+  city="Durban"
+  country="Isle of Man"
+  firstname2="Marti"
+  lastname2="Abbot"
+  email="Marti.Abbot@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>65.209</random_float>
+  <bool>false</bool>
+  <date>1985-11-19</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dyann</elt><elt>Ida</elt><elt>Mignon</elt><elt>Nonnah</elt><elt>Leanna</elt>  
+  <Marti>
+    <age>90</age>
+  </Marti>
+</root>

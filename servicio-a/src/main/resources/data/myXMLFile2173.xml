@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ileana"
+  lastname="Yoko"
+  city="Surat Thani"
+  country="Micronesia, Federated States of"
+  firstname2="Carly"
+  lastname2="Terencio"
+  email="Carly.Terencio@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>41.774</random_float>
+  <bool>false</bool>
+  <date>1999-09-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Stacey</elt><elt>Ana</elt><elt>Melina</elt><elt>Edee</elt><elt>Jaclyn</elt>  
+  <Carly>
+    <age>58</age>
+  </Carly>
+</root>

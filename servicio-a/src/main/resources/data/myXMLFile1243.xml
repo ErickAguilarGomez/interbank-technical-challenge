@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Blisse"
+  city="Medellín"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Dulcinea"
+  lastname2="Alexandr"
+  email="Dulcinea.Alexandr@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>69.966</random_float>
+  <bool>false</bool>
+  <date>1983-01-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Vinita</elt><elt>Betta</elt><elt>Gabi</elt><elt>Ellette</elt><elt>Tera</elt>  
+  <Dulcinea>
+    <age>31</age>
+  </Dulcinea>
+</root>

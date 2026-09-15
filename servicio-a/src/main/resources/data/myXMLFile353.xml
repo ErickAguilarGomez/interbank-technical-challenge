@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Talya"
+  lastname="Pitt"
+  city="Daegu"
+  country="Martinique"
+  firstname2="Teddie"
+  lastname2="Ardeha"
+  email="Teddie.Ardeha@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>60.097</random_float>
+  <bool>false</bool>
+  <date>1994-05-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Joy</elt><elt>Jillayne</elt><elt>Agathe</elt><elt>Lucy</elt><elt>Kellen</elt>  
+  <Teddie>
+    <age>65</age>
+  </Teddie>
+</root>

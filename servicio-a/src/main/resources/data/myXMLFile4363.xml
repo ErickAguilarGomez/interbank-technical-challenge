@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lizzie"
+  lastname="Leary"
+  city="Mérida"
+  country="Honduras"
+  firstname2="Charmaine"
+  lastname2="Annice"
+  email="Charmaine.Annice@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>19.993</random_float>
+  <bool>false</bool>
+  <date>1982-09-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Shannah</elt><elt>Rebeca</elt><elt>Ottilie</elt><elt>Konstance</elt><elt>Jan</elt>  
+  <Charmaine>
+    <age>37</age>
+  </Charmaine>
+</root>

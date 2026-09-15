@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margarette"
+  lastname="Natica"
+  city="Maceió"
+  country="Turks and Caicos Islands"
+  firstname2="Adelle"
+  lastname2="Riordan"
+  email="Adelle.Riordan@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>28.058</random_float>
+  <bool>true</bool>
+  <date>1992-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Berta</elt><elt>Nariko</elt><elt>Dede</elt><elt>Fred</elt><elt>Karolina</elt>  
+  <Adelle>
+    <age>56</age>
+  </Adelle>
+</root>

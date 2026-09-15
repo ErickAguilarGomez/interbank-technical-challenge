@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dawn"
+  lastname="Papageno"
+  city="Port Blair"
+  country="Nicaragua"
+  firstname2="Donetta"
+  lastname2="Amand"
+  email="Donetta.Amand@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>46.249</random_float>
+  <bool>false</bool>
+  <date>1987-01-15</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Genovera</elt><elt>Veda</elt><elt>Liana</elt><elt>Romona</elt><elt>Lita</elt>  
+  <Donetta>
+    <age>34</age>
+  </Donetta>
+</root>

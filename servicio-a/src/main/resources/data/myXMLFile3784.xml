@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jordan"
+  lastname="Maples"
+  city="Sri Jayawardenapura-Kotte"
+  country="Mali"
+  firstname2="Ayn"
+  lastname2="Middleton"
+  email="Ayn.Middleton@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>2.712</random_float>
+  <bool>true</bool>
+  <date>1980-06-19</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ninnetta</elt><elt>Karly</elt><elt>Shaine</elt><elt>Jean</elt><elt>Meg</elt>  
+  <Ayn>
+    <age>71</age>
+  </Ayn>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brena"
+  lastname="Revkah"
+  city="Bogotá"
+  country="Argentina"
+  firstname2="Fanchon"
+  lastname2="Marsden"
+  email="Fanchon.Marsden@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>69.286</random_float>
+  <bool>false</bool>
+  <date>1986-05-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sue</elt><elt>Lorenza</elt><elt>Carolina</elt><elt>Cathie</elt><elt>Christy</elt>  
+  <Fanchon>
+    <age>85</age>
+  </Fanchon>
+</root>

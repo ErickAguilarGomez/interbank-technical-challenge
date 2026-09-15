@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daphne"
+  lastname="Radu"
+  city="Guatemala City"
+  country="Kazakhstan"
+  firstname2="Feliza"
+  lastname2="Ricarda"
+  email="Feliza.Ricarda@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>24.802</random_float>
+  <bool>false</bool>
+  <date>1985-04-27</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Cordi</elt><elt>Rebeca</elt><elt>Tera</elt><elt>Veda</elt><elt>Bernie</elt>  
+  <Feliza>
+    <age>26</age>
+  </Feliza>
+</root>

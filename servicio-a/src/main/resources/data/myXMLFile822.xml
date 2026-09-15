@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darlleen"
+  lastname="Seagraves"
+  city="Raleigh"
+  country="Saint Pierre and Miquelon"
+  firstname2="Philis"
+  lastname2="Judye"
+  email="Philis.Judye@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>11.88</random_float>
+  <bool>true</bool>
+  <date>1980-02-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Neila</elt><elt>Shandie</elt><elt>Sissy</elt><elt>Susette</elt><elt>Annecorinne</elt>  
+  <Philis>
+    <age>44</age>
+  </Philis>
+</root>

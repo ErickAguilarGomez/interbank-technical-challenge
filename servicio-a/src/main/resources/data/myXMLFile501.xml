@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorene"
+  lastname="Quent"
+  city="Budapest"
+  country="Myanmar"
+  firstname2="Karena"
+  lastname2="Salvidor"
+  email="Karena.Salvidor@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>63.699</random_float>
+  <bool>true</bool>
+  <date>1999-07-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Claudina</elt><elt>Leontine</elt><elt>Giustina</elt><elt>Corene</elt><elt>Nannie</elt>  
+  <Karena>
+    <age>59</age>
+  </Karena>
+</root>

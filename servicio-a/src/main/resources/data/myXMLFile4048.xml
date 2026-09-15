@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassondra"
+  lastname="Norrie"
+  city="Montreal"
+  country="Christmas Island"
+  firstname2="Lanae"
+  lastname2="Poppy"
+  email="Lanae.Poppy@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>45.659</random_float>
+  <bool>true</bool>
+  <date>1996-07-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Pollyanna</elt><elt>Kristina</elt><elt>Janeczka</elt><elt>Valeda</elt><elt>Gale</elt>  
+  <Lanae>
+    <age>48</age>
+  </Lanae>
+</root>

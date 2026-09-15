@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Courtnay"
+  lastname="Secrest"
+  city="Lomé"
+  country="Grenada"
+  firstname2="Wanda"
+  lastname2="Melan"
+  email="Wanda.Melan@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>34.958</random_float>
+  <bool>true</bool>
+  <date>1985-02-16</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kate</elt><elt>Halette</elt><elt>Vonny</elt><elt>Barbi</elt><elt>Dania</elt>  
+  <Wanda>
+    <age>60</age>
+  </Wanda>
+</root>

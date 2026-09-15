@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elvira"
+  lastname="Urania"
+  city="Kharkiv"
+  country="Maldives"
+  firstname2="Ira"
+  lastname2="Adamsen"
+  email="Ira.Adamsen@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>82.472</random_float>
+  <bool>true</bool>
+  <date>2000-01-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Britte</elt><elt>Meg</elt><elt>Regina</elt><elt>Marcelline</elt><elt>Dorthy</elt>  
+  <Ira>
+    <age>46</age>
+  </Ira>
+</root>

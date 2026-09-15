@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leia"
+  lastname="Kiyoshi"
+  city="Semarang"
+  country="Latvia"
+  firstname2="Ileana"
+  lastname2="Ferrell"
+  email="Ileana.Ferrell@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>26.151</random_float>
+  <bool>true</bool>
+  <date>1984-05-20</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lusa</elt><elt>Tiffie</elt><elt>Kimmy</elt><elt>Gwyneth</elt><elt>Kenna</elt>  
+  <Ileana>
+    <age>53</age>
+  </Ileana>
+</root>

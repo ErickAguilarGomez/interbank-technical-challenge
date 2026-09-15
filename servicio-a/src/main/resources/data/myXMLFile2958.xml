@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lisette"
+  lastname="Alcott"
+  city="Valparaíso"
+  country="Cuba"
+  firstname2="Diena"
+  lastname2="Arquit"
+  email="Diena.Arquit@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>81.483</random_float>
+  <bool>false</bool>
+  <date>1986-03-28</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Eugine</elt><elt>Tani</elt><elt>Fawne</elt><elt>Janenna</elt><elt>Regina</elt>  
+  <Diena>
+    <age>95</age>
+  </Diena>
+</root>

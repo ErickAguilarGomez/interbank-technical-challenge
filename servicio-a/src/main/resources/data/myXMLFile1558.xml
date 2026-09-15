@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Stefa"
+  city="Port Moresby"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Farrah"
+  lastname2="Markman"
+  email="Farrah.Markman@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>82.713</random_float>
+  <bool>false</bool>
+  <date>1986-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Adore</elt><elt>Elmira</elt><elt>Charmaine</elt><elt>Dominga</elt><elt>Ariela</elt>  
+  <Farrah>
+    <age>50</age>
+  </Farrah>
+</root>

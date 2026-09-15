@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Randene"
+  city="Mexico City"
+  country="Turks and Caicos Islands"
+  firstname2="Danny"
+  lastname2="Poppy"
+  email="Danny.Poppy@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>49.811</random_float>
+  <bool>true</bool>
+  <date>1988-06-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Juliane</elt><elt>Andeee</elt><elt>Betta</elt><elt>Lulita</elt><elt>Gusella</elt>  
+  <Danny>
+    <age>25</age>
+  </Danny>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sean"
+  lastname="Dannye"
+  city="Labasa"
+  country="Guatemala"
+  firstname2="Vita"
+  lastname2="Turne"
+  email="Vita.Turne@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>66.358</random_float>
+  <bool>true</bool>
+  <date>1987-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Chickie</elt><elt>Ottilie</elt><elt>Vere</elt><elt>Annabela</elt><elt>Larine</elt>  
+  <Vita>
+    <age>99</age>
+  </Vita>
+</root>

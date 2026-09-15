@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paola"
+  lastname="Norvol"
+  city="Valdivia"
+  country="Belgium"
+  firstname2="Neila"
+  lastname2="Grimbly"
+  email="Neila.Grimbly@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>98.8</random_float>
+  <bool>true</bool>
+  <date>1984-09-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kassey</elt><elt>Nikki</elt><elt>Sophia</elt><elt>Elie</elt><elt>Codie</elt>  
+  <Neila>
+    <age>90</age>
+  </Neila>
+</root>

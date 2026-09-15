@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobbi"
+  lastname="Nisbet"
+  city="Francistown"
+  country="AndorrA"
+  firstname2="Drucie"
+  lastname2="Bebe"
+  email="Drucie.Bebe@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>91.09</random_float>
+  <bool>true</bool>
+  <date>1981-11-20</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lizzie</elt><elt>Madelle</elt><elt>Ermengarde</elt><elt>Cissiee</elt><elt>Tomasina</elt>  
+  <Drucie>
+    <age>57</age>
+  </Drucie>
+</root>

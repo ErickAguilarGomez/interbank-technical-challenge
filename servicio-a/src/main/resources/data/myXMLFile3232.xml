@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Olympium"
+  city="Tijuana"
+  country="Åland Islands"
+  firstname2="Jsandye"
+  lastname2="Chinua"
+  email="Jsandye.Chinua@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>27.514</random_float>
+  <bool>false</bool>
+  <date>1999-08-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Clary</elt><elt>Carilyn</elt><elt>Grier</elt><elt>Sarette</elt><elt>Cyb</elt>  
+  <Jsandye>
+    <age>53</age>
+  </Jsandye>
+</root>

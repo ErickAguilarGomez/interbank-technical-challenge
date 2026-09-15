@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="Seligman"
+  city="Belém"
+  country="Guyana"
+  firstname2="Dominga"
+  lastname2="Joli"
+  email="Dominga.Joli@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>90.668</random_float>
+  <bool>true</bool>
+  <date>1998-09-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marcelline</elt><elt>Mellicent</elt><elt>Kenna</elt><elt>Margette</elt><elt>Xylina</elt>  
+  <Dominga>
+    <age>97</age>
+  </Dominga>
+</root>

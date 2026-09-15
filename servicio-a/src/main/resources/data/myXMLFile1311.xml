@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fred"
+  lastname="Richers"
+  city="Las Palmas de Gran Canaria"
+  country="Sweden"
+  firstname2="Kary"
+  lastname2="Raul"
+  email="Kary.Raul@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>37.817</random_float>
+  <bool>true</bool>
+  <date>1980-11-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Betta</elt><elt>Tami</elt><elt>Mallory</elt><elt>Roseline</elt><elt>Dolli</elt>  
+  <Kary>
+    <age>76</age>
+  </Kary>
+</root>

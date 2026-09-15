@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Siana"
+  lastname="Ambrosia"
+  city="Havana"
+  country="Trinidad and Tobago"
+  firstname2="Allyce"
+  lastname2="Cleavland"
+  email="Allyce.Cleavland@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>80.347</random_float>
+  <bool>true</bool>
+  <date>1995-04-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Theodora</elt><elt>Krystle</elt><elt>Vinita</elt><elt>Jackie</elt><elt>Hettie</elt>  
+  <Allyce>
+    <age>78</age>
+  </Allyce>
+</root>

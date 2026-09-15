@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jackie"
+  lastname="McGrody"
+  city="Cork (city)"
+  country="Saint Kitts and Nevis"
+  firstname2="Babita"
+  lastname2="Alrich"
+  email="Babita.Alrich@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>72.638</random_float>
+  <bool>true</bool>
+  <date>1990-10-19</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kore</elt><elt>Jennica</elt><elt>Verla</elt><elt>Annora</elt><elt>Nananne</elt>  
+  <Babita>
+    <age>41</age>
+  </Babita>
+</root>

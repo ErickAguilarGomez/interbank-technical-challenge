@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Gombach"
+  city="Port Hedland"
+  country="Maldives"
+  firstname2="Mireielle"
+  lastname2="Cynar"
+  email="Mireielle.Cynar@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>67.746</random_float>
+  <bool>true</bool>
+  <date>1996-08-05</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Riannon</elt><elt>Abbie</elt><elt>Myriam</elt><elt>Paule</elt><elt>Elfreda</elt>  
+  <Mireielle>
+    <age>67</age>
+  </Mireielle>
+</root>

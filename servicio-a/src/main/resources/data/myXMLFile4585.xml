@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Halette"
+  lastname="Poll"
+  city="Mendoza"
+  country="Saint Kitts and Nevis"
+  firstname2="Ilse"
+  lastname2="Aloise"
+  email="Ilse.Aloise@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>77.972</random_float>
+  <bool>false</bool>
+  <date>1983-04-29</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cassondra</elt><elt>Tiffie</elt><elt>Merrie</elt><elt>Ellette</elt><elt>Cassondra</elt>  
+  <Ilse>
+    <age>60</age>
+  </Ilse>
+</root>

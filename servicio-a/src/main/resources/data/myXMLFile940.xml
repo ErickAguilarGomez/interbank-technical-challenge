@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Croix"
+  city="Chişinău"
+  country="Slovenia"
+  firstname2="Kylynn"
+  lastname2="Aurelio"
+  email="Kylynn.Aurelio@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>71.551</random_float>
+  <bool>false</bool>
+  <date>1989-07-27</date>
+  <regEx>hellooo world</regEx>
+  <enum>online</enum>
+  <elt>Mireielle</elt><elt>Deloria</elt><elt>Sidoney</elt><elt>Jinny</elt><elt>Kamilah</elt>  
+  <Kylynn>
+    <age>32</age>
+  </Kylynn>
+</root>

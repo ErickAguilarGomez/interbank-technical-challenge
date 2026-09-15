@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tobe"
+  lastname="Ball"
+  city="Porto Alegre"
+  country="Nepal"
+  firstname2="Catrina"
+  lastname2="Palocz"
+  email="Catrina.Palocz@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>90.539</random_float>
+  <bool>true</bool>
+  <date>1992-02-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Janis</elt><elt>Mignon</elt><elt>Brena</elt><elt>Tilly</elt><elt>Shel</elt>  
+  <Catrina>
+    <age>89</age>
+  </Catrina>
+</root>

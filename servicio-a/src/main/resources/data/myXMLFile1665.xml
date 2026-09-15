@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Libna"
+  city="Washington"
+  country="Turkmenistan"
+  firstname2="Yolane"
+  lastname2="Johnsson"
+  email="Yolane.Johnsson@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>36.199</random_float>
+  <bool>false</bool>
+  <date>1991-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Riannon</elt><elt>Penelopa</elt><elt>Alyda</elt><elt>Chrystel</elt><elt>Janey</elt>  
+  <Yolane>
+    <age>61</age>
+  </Yolane>
+</root>

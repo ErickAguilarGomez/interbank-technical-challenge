@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Dosia"
+  city="Budapest"
+  country="Belarus"
+  firstname2="Philis"
+  lastname2="Si"
+  email="Philis.Si@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>95.901</random_float>
+  <bool>true</bool>
+  <date>1998-11-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Janeczka</elt><elt>Briney</elt><elt>Kaia</elt><elt>Devina</elt><elt>Selma</elt>  
+  <Philis>
+    <age>36</age>
+  </Philis>
+</root>

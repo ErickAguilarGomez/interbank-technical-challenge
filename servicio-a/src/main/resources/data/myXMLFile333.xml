@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Linehan"
+  city="Whitehorse"
+  country="Mayotte"
+  firstname2="Alexine"
+  lastname2="Koziara"
+  email="Alexine.Koziara@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>90.133</random_float>
+  <bool>false</bool>
+  <date>1985-04-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ricky</elt><elt>Yolane</elt><elt>Sibella</elt><elt>Antonietta</elt><elt>Henriette</elt>  
+  <Alexine>
+    <age>43</age>
+  </Alexine>
+</root>

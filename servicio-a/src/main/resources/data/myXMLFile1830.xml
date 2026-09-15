@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mureil"
+  lastname="Nester"
+  city="Leeds"
+  country="United Kingdom"
+  firstname2="Aubrie"
+  lastname2="Regan"
+  email="Aubrie.Regan@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>66.354</random_float>
+  <bool>true</bool>
+  <date>1999-10-23</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cassondra</elt><elt>Margette</elt><elt>Coral</elt><elt>Ethel</elt><elt>Perry</elt>  
+  <Aubrie>
+    <age>61</age>
+  </Aubrie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laurene"
+  lastname="Dosia"
+  city="Apia"
+  country="Svalbard and Jan Mayen"
+  firstname2="Allyce"
+  lastname2="Leifeste"
+  email="Allyce.Leifeste@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>95.729</random_float>
+  <bool>false</bool>
+  <date>1986-08-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Adelle</elt><elt>Lonnie</elt><elt>Mireielle</elt><elt>Beth</elt><elt>Ivett</elt>  
+  <Allyce>
+    <age>33</age>
+  </Allyce>
+</root>

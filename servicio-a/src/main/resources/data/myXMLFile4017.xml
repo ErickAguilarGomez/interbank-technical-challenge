@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tressa"
+  lastname="Halla"
+  city="Apia"
+  country="Cameroon"
+  firstname2="Elfreda"
+  lastname2="Behre"
+  email="Elfreda.Behre@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>56.489</random_float>
+  <bool>true</bool>
+  <date>1992-03-30</date>
+  <regEx>hellooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jessamyn</elt><elt>Daune</elt><elt>Raina</elt><elt>Chloris</elt><elt>Sybille</elt>  
+  <Elfreda>
+    <age>70</age>
+  </Elfreda>
+</root>

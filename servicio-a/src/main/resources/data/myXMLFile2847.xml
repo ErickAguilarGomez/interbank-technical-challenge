@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alexine"
+  lastname="Atcliffe"
+  city="Incheon"
+  country="Paraguay"
+  firstname2="Tina"
+  lastname2="Bronk"
+  email="Tina.Bronk@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>89.675</random_float>
+  <bool>false</bool>
+  <date>1989-12-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Roberta</elt><elt>Janey</elt><elt>Bernardine</elt><elt>Emmey</elt><elt>Aubrie</elt>  
+  <Tina>
+    <age>56</age>
+  </Tina>
+</root>

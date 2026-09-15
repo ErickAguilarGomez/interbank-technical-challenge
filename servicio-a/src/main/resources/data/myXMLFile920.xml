@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Bollay"
+  city="Lilongwe"
+  country="Namibia"
+  firstname2="Almeta"
+  lastname2="Si"
+  email="Almeta.Si@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>12.41</random_float>
+  <bool>true</bool>
+  <date>1990-03-27</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Emmey</elt><elt>Selia</elt><elt>Sam</elt><elt>Lusa</elt><elt>Kalina</elt>  
+  <Almeta>
+    <age>91</age>
+  </Almeta>
+</root>

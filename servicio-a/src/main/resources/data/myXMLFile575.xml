@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genevra"
+  lastname="Bari"
+  city="Anchorage"
+  country="Lithuania"
+  firstname2="Iseabal"
+  lastname2="Bertold"
+  email="Iseabal.Bertold@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>86.804</random_float>
+  <bool>true</bool>
+  <date>1993-03-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carolina</elt><elt>Celene</elt><elt>Alameda</elt><elt>Nelle</elt><elt>Marcy</elt>  
+  <Iseabal>
+    <age>62</age>
+  </Iseabal>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Delilah"
+  lastname="Lareena"
+  city="Sabha"
+  country="Nigeria"
+  firstname2="Fredericka"
+  lastname2="Chinua"
+  email="Fredericka.Chinua@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>61.303</random_float>
+  <bool>true</bool>
+  <date>1989-06-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Charissa</elt><elt>Evaleen</elt><elt>Marsiella</elt><elt>Olwen</elt><elt>Arabel</elt>  
+  <Fredericka>
+    <age>45</age>
+  </Fredericka>
+</root>

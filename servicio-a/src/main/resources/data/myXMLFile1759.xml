@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shell"
+  lastname="Florina"
+  city="Jerusalem"
+  country="Greece"
+  firstname2="Karena"
+  lastname2="Atonsah"
+  email="Karena.Atonsah@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>99.419</random_float>
+  <bool>true</bool>
+  <date>1994-04-16</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emma</elt><elt>Barbara</elt><elt>Carmela</elt><elt>Vanessa</elt><elt>Ingrid</elt>  
+  <Karena>
+    <age>79</age>
+  </Karena>
+</root>

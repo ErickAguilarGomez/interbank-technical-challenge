@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brooks"
+  lastname="Leifeste"
+  city="Apia"
+  country="Myanmar"
+  firstname2="Berget"
+  lastname2="Esmaria"
+  email="Berget.Esmaria@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>74.317</random_float>
+  <bool>false</bool>
+  <date>1984-10-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kamilah</elt><elt>Tani</elt><elt>Corry</elt><elt>Bibby</elt><elt>Lynnea</elt>  
+  <Berget>
+    <age>54</age>
+  </Berget>
+</root>

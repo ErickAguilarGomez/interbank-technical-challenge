@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paulita"
+  lastname="Winnick"
+  city="Udon Thani"
+  country="Martinique"
+  firstname2="Karena"
+  lastname2="Hoban"
+  email="Karena.Hoban@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>36.413</random_float>
+  <bool>true</bool>
+  <date>1987-05-28</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ermengarde</elt><elt>Yvonne</elt><elt>Rayna</elt><elt>Fred</elt><elt>Tressa</elt>  
+  <Karena>
+    <age>22</age>
+  </Karena>
+</root>

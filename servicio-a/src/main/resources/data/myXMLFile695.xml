@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bertine"
+  lastname="Justinn"
+  city="Columbus"
+  country="Malaysia"
+  firstname2="Barbara"
+  lastname2="Erb"
+  email="Barbara.Erb@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>44.274</random_float>
+  <bool>false</bool>
+  <date>1990-08-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Inga</elt><elt>Roxane</elt><elt>Nikki</elt><elt>Thalia</elt><elt>Suzette</elt>  
+  <Barbara>
+    <age>87</age>
+  </Barbara>
+</root>

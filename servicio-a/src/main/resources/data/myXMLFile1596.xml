@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catharine"
+  lastname="Pettiford"
+  city="Bergen"
+  country="Ireland"
+  firstname2="Chastity"
+  lastname2="Wu"
+  email="Chastity.Wu@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>1.989</random_float>
+  <bool>false</bool>
+  <date>1996-07-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorice</elt><elt>Daune</elt><elt>Krystle</elt><elt>Sybille</elt><elt>Lizzie</elt>  
+  <Chastity>
+    <age>94</age>
+  </Chastity>
+</root>

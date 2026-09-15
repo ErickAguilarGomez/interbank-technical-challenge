@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Alarise"
+  city="Turin"
+  country="Czech Republic"
+  firstname2="Gerrie"
+  lastname2="Janene"
+  email="Gerrie.Janene@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>53.025</random_float>
+  <bool>true</bool>
+  <date>1989-09-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Raf</elt><elt>Riannon</elt><elt>Letizia</elt><elt>Tami</elt><elt>Doralynne</elt>  
+  <Gerrie>
+    <age>93</age>
+  </Gerrie>
+</root>

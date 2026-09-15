@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kittie"
+  lastname="Thornburg"
+  city="Naypyidaw"
+  country="Colombia"
+  firstname2="Maud"
+  lastname2="Aloise"
+  email="Maud.Aloise@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>49.511</random_float>
+  <bool>true</bool>
+  <date>1982-05-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Goldie</elt><elt>Brandise</elt><elt>Tonia</elt><elt>Marcelline</elt><elt>Lanae</elt>  
+  <Maud>
+    <age>47</age>
+  </Maud>
+</root>

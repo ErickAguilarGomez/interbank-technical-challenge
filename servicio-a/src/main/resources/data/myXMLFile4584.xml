@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Genna"
+  city="Havana"
+  country="Bermuda"
+  firstname2="Cyndie"
+  lastname2="Adore"
+  email="Cyndie.Adore@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>57.886</random_float>
+  <bool>false</bool>
+  <date>1992-07-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Briney</elt><elt>Nita</elt><elt>Dacia</elt><elt>Rebeca</elt><elt>Arlina</elt>  
+  <Cyndie>
+    <age>72</age>
+  </Cyndie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gianina"
+  lastname="Marden"
+  city="Ciudad del Este"
+  country="Israel"
+  firstname2="Lanae"
+  lastname2="Khorma"
+  email="Lanae.Khorma@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>95.554</random_float>
+  <bool>false</bool>
+  <date>1997-09-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lizzie</elt><elt>Kirstin</elt><elt>Adore</elt><elt>Lynea</elt><elt>Sheelagh</elt>  
+  <Lanae>
+    <age>19</age>
+  </Lanae>
+</root>

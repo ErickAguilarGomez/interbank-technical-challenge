@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ronna"
+  lastname="Alabaster"
+  city="Greenwich"
+  country="Lesotho"
+  firstname2="Dania"
+  lastname2="Lunsford"
+  email="Dania.Lunsford@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>93.131</random_float>
+  <bool>false</bool>
+  <date>1992-08-11</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Emylee</elt><elt>Marleah</elt><elt>Ebonee</elt><elt>Sidoney</elt><elt>Dale</elt>  
+  <Dania>
+    <age>53</age>
+  </Dania>
+</root>

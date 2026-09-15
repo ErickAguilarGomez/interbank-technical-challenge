@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Michaelina"
+  lastname="Madelene"
+  city="Lubumbashi"
+  country="Tokelau"
+  firstname2="Cathyleen"
+  lastname2="Jagir"
+  email="Cathyleen.Jagir@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>54.976</random_float>
+  <bool>false</bool>
+  <date>1990-01-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maryellen</elt><elt>Alleen</elt><elt>Rubie</elt><elt>Tybie</elt><elt>Nikki</elt>  
+  <Cathyleen>
+    <age>63</age>
+  </Cathyleen>
+</root>

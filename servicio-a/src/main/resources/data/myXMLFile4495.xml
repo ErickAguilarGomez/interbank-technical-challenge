@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Petronia"
+  lastname="Cookie"
+  city="Bandung"
+  country="Cuba"
+  firstname2="Mignon"
+  lastname2="Guthrie"
+  email="Mignon.Guthrie@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>94.499</random_float>
+  <bool>false</bool>
+  <date>1989-08-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Janey</elt><elt>Florencia</elt><elt>Sara-Ann</elt><elt>Ardys</elt><elt>Rubie</elt>  
+  <Mignon>
+    <age>30</age>
+  </Mignon>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Kalinda"
+  city="Toronto"
+  country="Faroe Islands"
+  firstname2="Gusella"
+  lastname2="Ephrem"
+  email="Gusella.Ephrem@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>40.069</random_float>
+  <bool>true</bool>
+  <date>1990-06-22</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Ada</elt><elt>Livvyy</elt><elt>Veda</elt><elt>Sarette</elt><elt>Constance</elt>  
+  <Gusella>
+    <age>66</age>
+  </Gusella>
+</root>

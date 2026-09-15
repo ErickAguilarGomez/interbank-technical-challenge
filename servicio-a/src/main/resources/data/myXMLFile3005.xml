@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christal"
+  lastname="Reneta"
+  city="Dakar"
+  country="Burundi"
+  firstname2="Nannie"
+  lastname2="Leffen"
+  email="Nannie.Leffen@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>65.445</random_float>
+  <bool>false</bool>
+  <date>1981-07-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Darci</elt><elt>Arabel</elt><elt>Melisent</elt><elt>Elora</elt><elt>Sheelagh</elt>  
+  <Nannie>
+    <age>35</age>
+  </Nannie>
+</root>

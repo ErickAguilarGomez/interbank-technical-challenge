@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanna"
+  lastname="Ovid"
+  city="Riverside"
+  country="Lesotho"
+  firstname2="Petronia"
+  lastname2="Penelopa"
+  email="Petronia.Penelopa@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>11.424</random_float>
+  <bool>false</bool>
+  <date>1986-04-19</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Teddie</elt><elt>Oona</elt><elt>Raina</elt><elt>Sherrie</elt><elt>Fred</elt>  
+  <Petronia>
+    <age>84</age>
+  </Petronia>
+</root>

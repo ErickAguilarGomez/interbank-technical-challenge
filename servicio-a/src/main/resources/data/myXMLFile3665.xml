@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teriann"
+  lastname="Deny"
+  city="Jersey City"
+  country="Angola"
+  firstname2="Elie"
+  lastname2="Cleo"
+  email="Elie.Cleo@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>15.469</random_float>
+  <bool>true</bool>
+  <date>1993-03-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sibella</elt><elt>Alameda</elt><elt>Blondelle</elt><elt>Yvonne</elt><elt>Devina</elt>  
+  <Elie>
+    <age>45</age>
+  </Elie>
+</root>

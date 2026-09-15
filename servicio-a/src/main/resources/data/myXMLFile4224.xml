@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rebeca"
+  lastname="Jary"
+  city="Okinawa"
+  country="Moldova, Republic of"
+  firstname2="Tiffie"
+  lastname2="Fontana"
+  email="Tiffie.Fontana@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>65.525</random_float>
+  <bool>true</bool>
+  <date>1983-04-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lynde</elt><elt>Sheelagh</elt><elt>Goldie</elt><elt>Dianemarie</elt><elt>Tori</elt>  
+  <Tiffie>
+    <age>64</age>
+  </Tiffie>
+</root>

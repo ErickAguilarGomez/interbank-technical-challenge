@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanchon"
+  lastname="Deegan"
+  city="Jeddah"
+  country="Ireland"
+  firstname2="Sallie"
+  lastname2="Raseda"
+  email="Sallie.Raseda@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>52.502</random_float>
+  <bool>true</bool>
+  <date>1999-09-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alisha</elt><elt>Katleen</elt><elt>Blake</elt><elt>Madelle</elt><elt>Dianemarie</elt>  
+  <Sallie>
+    <age>43</age>
+  </Sallie>
+</root>

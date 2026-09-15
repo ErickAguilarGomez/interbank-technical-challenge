@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sabina"
+  lastname="Tamsky"
+  city="Weno"
+  country="Algeria"
+  firstname2="Claresta"
+  lastname2="Jehu"
+  email="Claresta.Jehu@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>11.874</random_float>
+  <bool>false</bool>
+  <date>1990-10-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Modestia</elt><elt>Arlena</elt><elt>Agnese</elt><elt>Linet</elt><elt>Ottilie</elt>  
+  <Claresta>
+    <age>79</age>
+  </Claresta>
+</root>

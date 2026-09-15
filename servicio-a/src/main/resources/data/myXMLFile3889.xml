@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linzy"
+  lastname="Lilas"
+  city="Kuching"
+  country="Burundi"
+  firstname2="Lynde"
+  lastname2="Infield"
+  email="Lynde.Infield@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>51.244</random_float>
+  <bool>true</bool>
+  <date>1989-07-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Brianna</elt><elt>Merci</elt><elt>Anallese</elt><elt>Rosanne</elt><elt>Nonnah</elt>  
+  <Lynde>
+    <age>31</age>
+  </Lynde>
+</root>

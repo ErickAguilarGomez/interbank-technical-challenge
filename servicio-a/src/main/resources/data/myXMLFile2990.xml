@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rubie"
+  lastname="Garbe"
+  city="Simferopol"
+  country="Sweden"
+  firstname2="Charissa"
+  lastname2="Maisey"
+  email="Charissa.Maisey@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>25.808</random_float>
+  <bool>true</bool>
+  <date>1986-05-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hope</elt><elt>Atlanta</elt><elt>Stevana</elt><elt>Gusella</elt><elt>Candy</elt>  
+  <Charissa>
+    <age>20</age>
+  </Charissa>
+</root>

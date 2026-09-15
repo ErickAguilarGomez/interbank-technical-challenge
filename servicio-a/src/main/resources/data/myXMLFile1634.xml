@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Colyer"
+  city="St. George's"
+  country="Ireland"
+  firstname2="Lonnie"
+  lastname2="Glenden"
+  email="Lonnie.Glenden@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>41.987</random_float>
+  <bool>true</bool>
+  <date>1984-05-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tiffie</elt><elt>Elka</elt><elt>Kassey</elt><elt>Alyssa</elt><elt>Demetris</elt>  
+  <Lonnie>
+    <age>18</age>
+  </Lonnie>
+</root>

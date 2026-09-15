@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vere"
+  lastname="Vivle"
+  city="Cartagena"
+  country="Sri Lanka"
+  firstname2="Anthia"
+  lastname2="Edison"
+  email="Anthia.Edison@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>5.271</random_float>
+  <bool>false</bool>
+  <date>1992-05-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Annora</elt><elt>Ninnetta</elt><elt>Mariele</elt><elt>Rebeca</elt><elt>Abbie</elt>  
+  <Anthia>
+    <age>86</age>
+  </Anthia>
+</root>

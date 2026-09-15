@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheelagh"
+  lastname="Margret"
+  city="Quezon City"
+  country="British Indian Ocean Territory"
+  firstname2="Roberta"
+  lastname2="Abram"
+  email="Roberta.Abram@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>97.309</random_float>
+  <bool>true</bool>
+  <date>1998-07-06</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Anestassia</elt><elt>Ursulina</elt><elt>Elmira</elt><elt>Ingrid</elt><elt>Peri</elt>  
+  <Roberta>
+    <age>86</age>
+  </Roberta>
+</root>

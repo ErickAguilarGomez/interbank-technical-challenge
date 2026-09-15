@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dale"
+  lastname="Jaylene"
+  city="Cartagena"
+  country="Cocos (Keeling) Islands"
+  firstname2="Eadie"
+  lastname2="Garbe"
+  email="Eadie.Garbe@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>90.124</random_float>
+  <bool>false</bool>
+  <date>1992-03-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dennie</elt><elt>Gisela</elt><elt>Beth</elt><elt>Paule</elt><elt>Merci</elt>  
+  <Eadie>
+    <age>58</age>
+  </Eadie>
+</root>

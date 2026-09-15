@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nessie"
+  lastname="Ackerley"
+  city="Lanzhou"
+  country="Northern Mariana Islands"
+  firstname2="Veda"
+  lastname2="Lucienne"
+  email="Veda.Lucienne@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>48.445</random_float>
+  <bool>false</bool>
+  <date>1984-02-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Heida</elt><elt>Daune</elt><elt>Sibella</elt><elt>Shirlee</elt><elt>Anallese</elt>  
+  <Veda>
+    <age>65</age>
+  </Veda>
+</root>

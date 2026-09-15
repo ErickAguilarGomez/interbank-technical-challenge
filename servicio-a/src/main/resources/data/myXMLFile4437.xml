@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Arabel"
+  lastname="Ilka"
+  city="Praia"
+  country="Syrian Arab Republic"
+  firstname2="Ardys"
+  lastname2="Clie"
+  email="Ardys.Clie@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>66.652</random_float>
+  <bool>true</bool>
+  <date>1981-10-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Shandie</elt><elt>Corly</elt><elt>Nerta</elt><elt>Anallese</elt><elt>Sashenka</elt>  
+  <Ardys>
+    <age>43</age>
+  </Ardys>
+</root>

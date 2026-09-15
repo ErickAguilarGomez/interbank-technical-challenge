@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hermione"
+  lastname="Japeth"
+  city="Birmingham"
+  country="Svalbard and Jan Mayen"
+  firstname2="Karena"
+  lastname2="Sidonius"
+  email="Karena.Sidonius@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>2.198</random_float>
+  <bool>true</bool>
+  <date>1984-07-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kial</elt><elt>Roseline</elt><elt>Maye</elt><elt>Lory</elt><elt>Verla</elt>  
+  <Karena>
+    <age>75</age>
+  </Karena>
+</root>

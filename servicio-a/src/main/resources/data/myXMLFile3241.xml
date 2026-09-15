@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mahalia"
+  lastname="Kristi"
+  city="Yamoussoukro"
+  country="American Samoa"
+  firstname2="Tiffie"
+  lastname2="Chinua"
+  email="Tiffie.Chinua@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>80.423</random_float>
+  <bool>true</bool>
+  <date>1986-06-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Andree</elt><elt>Blondelle</elt><elt>Clo</elt><elt>Elmira</elt><elt>Lily</elt>  
+  <Tiffie>
+    <age>59</age>
+  </Tiffie>
+</root>

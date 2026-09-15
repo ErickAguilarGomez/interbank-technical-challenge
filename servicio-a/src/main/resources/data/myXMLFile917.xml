@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carol-Jean"
+  lastname="Alejoa"
+  city="Shenyang"
+  country="Northern Mariana Islands"
+  firstname2="Ekaterina"
+  lastname2="Parsaye"
+  email="Ekaterina.Parsaye@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>98.647</random_float>
+  <bool>true</bool>
+  <date>1980-11-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ezmeralda</elt><elt>Damaris</elt><elt>Jorry</elt><elt>Tani</elt><elt>June</elt>  
+  <Ekaterina>
+    <age>39</age>
+  </Ekaterina>
+</root>

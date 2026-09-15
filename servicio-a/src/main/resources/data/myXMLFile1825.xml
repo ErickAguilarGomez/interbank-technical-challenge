@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Fairweather"
+  city="Turin"
+  country="Saint Helena"
+  firstname2="Dode"
+  lastname2="Alwin"
+  email="Dode.Alwin@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>21.133</random_float>
+  <bool>false</bool>
+  <date>1980-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lynea</elt><elt>Michaelina</elt><elt>Ileana</elt><elt>Maye</elt><elt>Atlanta</elt>  
+  <Dode>
+    <age>51</age>
+  </Dode>
+</root>

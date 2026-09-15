@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phylis"
+  lastname="Moseley"
+  city="Conakry"
+  country="Guinea"
+  firstname2="Emmey"
+  lastname2="Bendick"
+  email="Emmey.Bendick@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>35.827</random_float>
+  <bool>true</bool>
+  <date>1997-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joelly</elt><elt>Dulcinea</elt><elt>Dyann</elt><elt>Desirae</elt><elt>Fidelia</elt>  
+  <Emmey>
+    <age>18</age>
+  </Emmey>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Correy"
+  lastname="Mallon"
+  city="Saint John"
+  country="Reunion"
+  firstname2="Karlee"
+  lastname2="Hurley"
+  email="Karlee.Hurley@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>48.639</random_float>
+  <bool>true</bool>
+  <date>1985-11-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>June</elt><elt>Dotty</elt><elt>Britni</elt><elt>Lorenza</elt><elt>Carly</elt>  
+  <Karlee>
+    <age>70</age>
+  </Karlee>
+</root>

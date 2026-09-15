@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="Sisile"
+  city="Medina"
+  country="Bolivia"
+  firstname2="Sabina"
+  lastname2="Autrey"
+  email="Sabina.Autrey@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>31.054</random_float>
+  <bool>true</bool>
+  <date>1992-03-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Darci</elt><elt>Moyna</elt><elt>Joelly</elt><elt>Kayla</elt><elt>Gabi</elt>  
+  <Sabina>
+    <age>59</age>
+  </Sabina>
+</root>

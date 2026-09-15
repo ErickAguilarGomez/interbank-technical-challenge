@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="Chabot"
+  city="Dushanbe"
+  country="Grenada"
+  firstname2="Claudina"
+  lastname2="O'Neill"
+  email="Claudina.O'Neill@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>49.354</random_float>
+  <bool>true</bool>
+  <date>1998-06-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kore</elt><elt>Gerianna</elt><elt>Flory</elt><elt>Violet</elt><elt>Romona</elt>  
+  <Claudina>
+    <age>32</age>
+  </Claudina>
+</root>

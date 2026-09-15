@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Noman"
+  city="Bilbao"
+  country="Viet Nam"
+  firstname2="Joceline"
+  lastname2="Marcellus"
+  email="Joceline.Marcellus@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>37.689</random_float>
+  <bool>true</bool>
+  <date>1980-06-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alie</elt><elt>Ursulina</elt><elt>Marinna</elt><elt>Edith</elt><elt>Gabi</elt>  
+  <Joceline>
+    <age>40</age>
+  </Joceline>
+</root>

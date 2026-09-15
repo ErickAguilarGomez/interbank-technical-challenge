@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christian"
+  lastname="Schalles"
+  city="Tashkent"
+  country="Austria"
+  firstname2="Tami"
+  lastname2="Goldina"
+  email="Tami.Goldina@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>77.832</random_float>
+  <bool>true</bool>
+  <date>1983-03-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Taffy</elt><elt>Paule</elt><elt>Frances</elt><elt>Tiffie</elt><elt>Paola</elt>  
+  <Tami>
+    <age>46</age>
+  </Tami>
+</root>

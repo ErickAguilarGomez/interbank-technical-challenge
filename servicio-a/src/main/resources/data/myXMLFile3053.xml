@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hollie"
+  lastname="Jacobah"
+  city="Conakry"
+  country="Gambia"
+  firstname2="Sandie"
+  lastname2="Nickola"
+  email="Sandie.Nickola@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>37.506</random_float>
+  <bool>false</bool>
+  <date>1994-09-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Glynnis</elt><elt>Marita</elt><elt>Fanchon</elt><elt>Drucie</elt><elt>Aryn</elt>  
+  <Sandie>
+    <age>29</age>
+  </Sandie>
+</root>

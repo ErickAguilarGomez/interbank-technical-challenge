@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aeriela"
+  lastname="Durware"
+  city="Toronto"
+  country="Samoa"
+  firstname2="Jorry"
+  lastname2="Juan"
+  email="Jorry.Juan@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>94.308</random_float>
+  <bool>false</bool>
+  <date>1986-05-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Randa</elt><elt>Monika</elt><elt>Gabriellia</elt><elt>Paola</elt><elt>Fanny</elt>  
+  <Jorry>
+    <age>98</age>
+  </Jorry>
+</root>

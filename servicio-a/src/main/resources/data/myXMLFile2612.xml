@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Henriette"
+  lastname="Tyson"
+  city="Tehran"
+  country="Colombia"
+  firstname2="Alameda"
+  lastname2="Alexandr"
+  email="Alameda.Alexandr@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>64.305</random_float>
+  <bool>false</bool>
+  <date>1999-08-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ana</elt><elt>Rani</elt><elt>Adriana</elt><elt>Jenilee</elt><elt>Kamilah</elt>  
+  <Alameda>
+    <age>47</age>
+  </Alameda>
+</root>

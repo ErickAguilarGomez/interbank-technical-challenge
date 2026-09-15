@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Latisha"
+  lastname="Kiersten"
+  city="San Fernando"
+  country="Indonesia"
+  firstname2="Elise"
+  lastname2="Uird"
+  email="Elise.Uird@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>96.569</random_float>
+  <bool>true</bool>
+  <date>1981-07-25</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Keelia</elt><elt>Melodie</elt><elt>Florie</elt><elt>Molli</elt><elt>Johna</elt>  
+  <Elise>
+    <age>70</age>
+  </Elise>
+</root>

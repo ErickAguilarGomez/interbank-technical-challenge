@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tami"
+  lastname="Llovera"
+  city="Johannesburg"
+  country="Singapore"
+  firstname2="Sheelagh"
+  lastname2="Rona"
+  email="Sheelagh.Rona@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>99.592</random_float>
+  <bool>false</bool>
+  <date>1986-07-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marylou</elt><elt>Melina</elt><elt>Pearline</elt><elt>Reeba</elt><elt>Judy</elt>  
+  <Sheelagh>
+    <age>78</age>
+  </Sheelagh>
+</root>

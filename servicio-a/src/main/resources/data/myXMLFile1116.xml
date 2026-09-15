@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emelina"
+  lastname="Dearborn"
+  city="St. George's"
+  country="Guam"
+  firstname2="Jemie"
+  lastname2="Cosenza"
+  email="Jemie.Cosenza@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>47.636</random_float>
+  <bool>false</bool>
+  <date>1991-03-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Cherilyn</elt><elt>Cassandra</elt><elt>Gabriellia</elt><elt>Annaliese</elt><elt>Marline</elt>  
+  <Jemie>
+    <age>22</age>
+  </Jemie>
+</root>

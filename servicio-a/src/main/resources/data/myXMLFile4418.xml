@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tabbatha"
+  lastname="Ruvolo"
+  city="Lisbon"
+  country="Vanuatu"
+  firstname2="Emylee"
+  lastname2="Georgy"
+  email="Emylee.Georgy@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>44.906</random_float>
+  <bool>false</bool>
+  <date>1988-11-18</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cyb</elt><elt>Mellicent</elt><elt>Merrie</elt><elt>Nita</elt><elt>Marita</elt>  
+  <Emylee>
+    <age>36</age>
+  </Emylee>
+</root>

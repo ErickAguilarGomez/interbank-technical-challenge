@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosene"
+  lastname="Slifka"
+  city="Kigali"
+  country="Malta"
+  firstname2="Dorthy"
+  lastname2="Pernick"
+  email="Dorthy.Pernick@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>10.912</random_float>
+  <bool>true</bool>
+  <date>1991-10-06</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Georgina</elt><elt>Dominga</elt><elt>Deane</elt><elt>Queenie</elt><elt>Ulrike</elt>  
+  <Dorthy>
+    <age>24</age>
+  </Dorthy>
+</root>

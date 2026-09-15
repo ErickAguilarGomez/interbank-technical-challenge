@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Etta"
+  lastname="Stanwood"
+  city="Managua"
+  country="Korea, Republic of"
+  firstname2="Julieta"
+  lastname2="Bibi"
+  email="Julieta.Bibi@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>62.75</random_float>
+  <bool>false</bool>
+  <date>1991-03-14</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wynne</elt><elt>Calla</elt><elt>Anestassia</elt><elt>Madeleine</elt><elt>Hermione</elt>  
+  <Julieta>
+    <age>25</age>
+  </Julieta>
+</root>

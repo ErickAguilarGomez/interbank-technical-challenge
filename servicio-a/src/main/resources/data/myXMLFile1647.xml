@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kylynn"
+  lastname="Alwin"
+  city="Manila"
+  country="United States Minor Outlying Islands"
+  firstname2="Lorie"
+  lastname2="Prober"
+  email="Lorie.Prober@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>92.254</random_float>
+  <bool>true</bool>
+  <date>1982-04-04</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Moyna</elt><elt>Valeda</elt><elt>Maurene</elt><elt>Jennica</elt><elt>Rosabelle</elt>  
+  <Lorie>
+    <age>74</age>
+  </Lorie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Willetta"
+  lastname="Tarrant"
+  city="Shijiazhuang"
+  country="Gibraltar"
+  firstname2="Delilah"
+  lastname2="Lewes"
+  email="Delilah.Lewes@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>31.313</random_float>
+  <bool>false</bool>
+  <date>1982-03-12</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Harrietta</elt><elt>Ardenia</elt><elt>Kaia</elt><elt>Alameda</elt><elt>Agathe</elt>  
+  <Delilah>
+    <age>98</age>
+  </Delilah>
+</root>

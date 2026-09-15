@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margarette"
+  lastname="Monaco"
+  city="Kharkiv"
+  country="Anguilla"
+  firstname2="Ida"
+  lastname2="Pettiford"
+  email="Ida.Pettiford@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>46.866</random_float>
+  <bool>true</bool>
+  <date>1988-11-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Peri</elt><elt>Collen</elt><elt>Fina</elt><elt>Lolita</elt><elt>Heddie</elt>  
+  <Ida>
+    <age>83</age>
+  </Ida>
+</root>

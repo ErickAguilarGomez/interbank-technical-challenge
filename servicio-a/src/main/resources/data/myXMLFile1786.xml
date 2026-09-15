@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sissy"
+  lastname="Leopold"
+  city="Cuiabá"
+  country="Madagascar"
+  firstname2="Daune"
+  lastname2="Jorgan"
+  email="Daune.Jorgan@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>93.576</random_float>
+  <bool>false</bool>
+  <date>1990-04-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rori</elt><elt>Ermengarde</elt><elt>Heddie</elt><elt>Queenie</elt><elt>Desirae</elt>  
+  <Daune>
+    <age>81</age>
+  </Daune>
+</root>

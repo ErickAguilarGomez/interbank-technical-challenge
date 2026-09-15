@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jinny"
+  lastname="Krystle"
+  city="Cusco"
+  country="Guatemala"
+  firstname2="Deedee"
+  lastname2="Jerold"
+  email="Deedee.Jerold@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>1.747</random_float>
+  <bool>true</bool>
+  <date>1998-07-17</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Eadie</elt><elt>Charmaine</elt><elt>Ketti</elt><elt>Kary</elt><elt>Lauryn</elt>  
+  <Deedee>
+    <age>75</age>
+  </Deedee>
+</root>

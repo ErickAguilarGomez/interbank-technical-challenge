@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyda"
+  lastname="Lauraine"
+  city="Cairo"
+  country="Morocco"
+  firstname2="Theodora"
+  lastname2="Thornburg"
+  email="Theodora.Thornburg@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>75.752</random_float>
+  <bool>false</bool>
+  <date>1988-02-12</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Belinda</elt><elt>Constance</elt><elt>Allis</elt><elt>Yolane</elt><elt>Dagmar</elt>  
+  <Theodora>
+    <age>94</age>
+  </Theodora>
+</root>

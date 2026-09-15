@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tybie"
+  lastname="Neva"
+  city="Boa Vista"
+  country="China"
+  firstname2="Nicoli"
+  lastname2="Swigart"
+  email="Nicoli.Swigart@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>44.714</random_float>
+  <bool>true</bool>
+  <date>1999-07-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Genovera</elt><elt>Hallie</elt><elt>Talya</elt><elt>Shaylyn</elt><elt>Demetris</elt>  
+  <Nicoli>
+    <age>54</age>
+  </Nicoli>
+</root>

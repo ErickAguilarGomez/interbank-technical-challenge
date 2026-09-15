@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Danny"
+  lastname="Anis"
+  city="Kunming"
+  country="Tuvalu"
+  firstname2="Dania"
+  lastname2="Pearse"
+  email="Dania.Pearse@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>70.992</random_float>
+  <bool>true</bool>
+  <date>1987-01-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Albertina</elt><elt>Belinda</elt><elt>Dorothy</elt><elt>Claresta</elt><elt>Berta</elt>  
+  <Dania>
+    <age>68</age>
+  </Dania>
+</root>

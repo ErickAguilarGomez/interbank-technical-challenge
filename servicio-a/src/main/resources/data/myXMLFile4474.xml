@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Tengdin"
+  city="Marseille"
+  country="Nepal"
+  firstname2="Lucille"
+  lastname2="Brady"
+  email="Lucille.Brady@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>73.134</random_float>
+  <bool>true</bool>
+  <date>1990-07-08</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Althea</elt><elt>Diena</elt><elt>Belva</elt><elt>Molli</elt><elt>Nelle</elt>  
+  <Lucille>
+    <age>89</age>
+  </Lucille>
+</root>

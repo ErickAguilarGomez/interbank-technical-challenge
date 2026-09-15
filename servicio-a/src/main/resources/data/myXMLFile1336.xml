@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Hertzfeld"
+  city="Tashkent"
+  country="Armenia"
+  firstname2="Aili"
+  lastname2="Zitvaa"
+  email="Aili.Zitvaa@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>79.568</random_float>
+  <bool>true</bool>
+  <date>1999-08-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lita</elt><elt>Karena</elt><elt>Justinn</elt><elt>Oralee</elt><elt>Kenna</elt>  
+  <Aili>
+    <age>20</age>
+  </Aili>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Koziara"
+  city="Port Hedland"
+  country="Costa Rica"
+  firstname2="Joeann"
+  lastname2="Johnsson"
+  email="Joeann.Johnsson@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>6.341</random_float>
+  <bool>true</bool>
+  <date>1996-12-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Etta</elt><elt>Dacia</elt><elt>Fayre</elt><elt>Nananne</elt><elt>Isa</elt>  
+  <Joeann>
+    <age>81</age>
+  </Joeann>
+</root>

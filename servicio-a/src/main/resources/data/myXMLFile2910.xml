@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Loree"
+  lastname="Jagir"
+  city="Anchorage"
+  country="Isle of Man"
+  firstname2="Kellen"
+  lastname2="Ciapas"
+  email="Kellen.Ciapas@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>13.331</random_float>
+  <bool>true</bool>
+  <date>1985-08-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dorene</elt><elt>Meghann</elt><elt>Rhoda</elt><elt>Willetta</elt><elt>Lynnea</elt>  
+  <Kellen>
+    <age>32</age>
+  </Kellen>
+</root>

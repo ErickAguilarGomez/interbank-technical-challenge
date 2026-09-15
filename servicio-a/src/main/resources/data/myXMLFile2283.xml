@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sidoney"
+  lastname="Alva"
+  city="Pontianak"
+  country="British Indian Ocean Territory"
+  firstname2="Arabel"
+  lastname2="Persse"
+  email="Arabel.Persse@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>88.653</random_float>
+  <bool>true</bool>
+  <date>1989-12-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Vivia</elt><elt>Jean</elt><elt>Vivia</elt><elt>Louella</elt><elt>Susan</elt>  
+  <Arabel>
+    <age>18</age>
+  </Arabel>
+</root>

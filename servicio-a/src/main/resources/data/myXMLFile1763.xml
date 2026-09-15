@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Ranjiv"
+  city="Linz"
+  country="Grenada"
+  firstname2="Cyndie"
+  lastname2="Denis"
+  email="Cyndie.Denis@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>7.972</random_float>
+  <bool>false</bool>
+  <date>1981-11-07</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ana</elt><elt>Dyann</elt><elt>Shel</elt><elt>Miquela</elt><elt>Gusella</elt>  
+  <Cyndie>
+    <age>67</age>
+  </Cyndie>
+</root>

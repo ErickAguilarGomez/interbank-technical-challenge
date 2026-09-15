@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lulita"
+  lastname="Stav"
+  city="Thessaloniki"
+  country="Taiwan, Province of China"
+  firstname2="Camile"
+  lastname2="Weinreb"
+  email="Camile.Weinreb@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>67.595</random_float>
+  <bool>true</bool>
+  <date>1986-09-01</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Leeanne</elt><elt>Orsola</elt><elt>Allyce</elt><elt>Lily</elt><elt>Eugine</elt>  
+  <Camile>
+    <age>98</age>
+  </Camile>
+</root>

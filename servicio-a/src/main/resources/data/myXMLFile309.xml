@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Arquit"
+  city="Recife"
+  country="RWANDA"
+  firstname2="Cathie"
+  lastname2="Belldas"
+  email="Cathie.Belldas@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>22.659</random_float>
+  <bool>false</bool>
+  <date>1984-09-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Danika</elt><elt>Dyann</elt><elt>Juliane</elt><elt>Neila</elt><elt>Sindee</elt>  
+  <Cathie>
+    <age>30</age>
+  </Cathie>
+</root>

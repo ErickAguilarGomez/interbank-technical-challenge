@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aili"
+  lastname="Saree"
+  city="Fukuoka"
+  country="Switzerland"
+  firstname2="Courtnay"
+  lastname2="MacIntosh"
+  email="Courtnay.MacIntosh@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>8.613</random_float>
+  <bool>true</bool>
+  <date>1990-02-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kaia</elt><elt>Tabbatha</elt><elt>Rhea</elt><elt>Calla</elt><elt>Augustine</elt>  
+  <Courtnay>
+    <age>69</age>
+  </Courtnay>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nollie"
+  lastname="Vittoria"
+  city="Valparaíso"
+  country="Malaysia"
+  firstname2="Layla"
+  lastname2="Bakerman"
+  email="Layla.Bakerman@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>60.873</random_float>
+  <bool>true</bool>
+  <date>1994-10-21</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bibby</elt><elt>Livvyy</elt><elt>Cyndie</elt><elt>Evaleen</elt><elt>Alleen</elt>  
+  <Layla>
+    <age>75</age>
+  </Layla>
+</root>

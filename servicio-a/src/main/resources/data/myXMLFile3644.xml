@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ingrid"
+  lastname="Sandye"
+  city="Shijiazhuang"
+  country="Guatemala"
+  firstname2="Consuela"
+  lastname2="Faro"
+  email="Consuela.Faro@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>4.612</random_float>
+  <bool>true</bool>
+  <date>1994-04-27</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Althea</elt><elt>Alisha</elt><elt>Halette</elt><elt>Aigneis</elt><elt>Cherilyn</elt>  
+  <Consuela>
+    <age>41</age>
+  </Consuela>
+</root>

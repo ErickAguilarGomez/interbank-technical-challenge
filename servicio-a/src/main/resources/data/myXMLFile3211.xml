@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blondelle"
+  lastname="Pascia"
+  city="Saint-Pierre"
+  country="Barbados"
+  firstname2="Adelle"
+  lastname2="Giff"
+  email="Adelle.Giff@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>88.765</random_float>
+  <bool>false</bool>
+  <date>1993-09-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Bernardine</elt><elt>Vinita</elt><elt>Antonietta</elt><elt>Tiffie</elt><elt>Moyna</elt>  
+  <Adelle>
+    <age>69</age>
+  </Adelle>
+</root>

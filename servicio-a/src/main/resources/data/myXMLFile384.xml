@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lyssa"
+  lastname="McNully"
+  city="Ashgabat"
+  country="Gibraltar"
+  firstname2="Leeanne"
+  lastname2="Thornburg"
+  email="Leeanne.Thornburg@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>16.958</random_float>
+  <bool>false</bool>
+  <date>1984-01-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tani</elt><elt>Edee</elt><elt>Cordi</elt><elt>Kathi</elt><elt>Carol-Jean</elt>  
+  <Leeanne>
+    <age>54</age>
+  </Leeanne>
+</root>

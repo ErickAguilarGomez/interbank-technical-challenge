@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leanna"
+  lastname="Morrill"
+  city="Anchorage"
+  country="Morocco"
+  firstname2="Belva"
+  lastname2="Sperling"
+  email="Belva.Sperling@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>59.875</random_float>
+  <bool>true</bool>
+  <date>1987-12-02</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Carmencita</elt><elt>Kayla</elt><elt>Madeleine</elt><elt>Arlena</elt><elt>Tamqrah</elt>  
+  <Belva>
+    <age>32</age>
+  </Belva>
+</root>

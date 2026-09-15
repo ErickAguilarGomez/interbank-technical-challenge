@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Regina"
+  lastname="Poppy"
+  city="Nouméa"
+  country="Australia"
+  firstname2="Chastity"
+  lastname2="Lenny"
+  email="Chastity.Lenny@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>59.398</random_float>
+  <bool>false</bool>
+  <date>1995-12-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Eadie</elt><elt>Shel</elt><elt>Calla</elt><elt>Agnese</elt><elt>Cissiee</elt>  
+  <Chastity>
+    <age>45</age>
+  </Chastity>
+</root>

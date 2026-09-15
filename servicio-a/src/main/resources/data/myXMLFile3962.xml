@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rubie"
+  lastname="Posner"
+  city="Serekunda"
+  country="Honduras"
+  firstname2="Sheelagh"
+  lastname2="Curren"
+  email="Sheelagh.Curren@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>39.788</random_float>
+  <bool>false</bool>
+  <date>1984-06-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Annice</elt><elt>Cacilie</elt><elt>Lilith</elt><elt>Emmey</elt><elt>Carree</elt>  
+  <Sheelagh>
+    <age>54</age>
+  </Sheelagh>
+</root>

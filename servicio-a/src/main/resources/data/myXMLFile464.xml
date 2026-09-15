@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Starla"
+  lastname="O'Rourke"
+  city="Cape Town"
+  country="Turkmenistan"
+  firstname2="Raquela"
+  lastname2="Jacinda"
+  email="Raquela.Jacinda@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>6.195</random_float>
+  <bool>false</bool>
+  <date>1984-09-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Leontine</elt><elt>Shell</elt><elt>Jorry</elt><elt>Cam</elt><elt>Hannis</elt>  
+  <Raquela>
+    <age>25</age>
+  </Raquela>
+</root>

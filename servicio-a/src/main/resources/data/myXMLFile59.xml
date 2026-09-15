@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Bevin"
+  city="Miami"
+  country="Turkmenistan"
+  firstname2="Raquela"
+  lastname2="Vittoria"
+  email="Raquela.Vittoria@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>16.424</random_float>
+  <bool>true</bool>
+  <date>1992-12-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Eve</elt><elt>Chickie</elt><elt>Britni</elt><elt>Katleen</elt><elt>Molli</elt>  
+  <Raquela>
+    <age>46</age>
+  </Raquela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jennica"
+  lastname="Milde"
+  city="Reykjavík"
+  country="Montserrat"
+  firstname2="Ariela"
+  lastname2="Imelida"
+  email="Ariela.Imelida@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>55.217</random_float>
+  <bool>false</bool>
+  <date>1994-11-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mallory</elt><elt>Ketti</elt><elt>Ethel</elt><elt>Sara-Ann</elt><elt>Marleah</elt>  
+  <Ariela>
+    <age>26</age>
+  </Ariela>
+</root>

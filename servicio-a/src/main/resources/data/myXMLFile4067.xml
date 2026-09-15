@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Reeba"
+  lastname="Edvard"
+  city="Belfast"
+  country="Romania"
+  firstname2="Jenilee"
+  lastname2="Ehrman"
+  email="Jenilee.Ehrman@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>88.521</random_float>
+  <bool>true</bool>
+  <date>1997-03-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Maud</elt><elt>Lanna</elt><elt>Aurelie</elt><elt>Dominga</elt><elt>Sean</elt>  
+  <Jenilee>
+    <age>52</age>
+  </Jenilee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanchon"
+  lastname="Kylander"
+  city="Maracaibo"
+  country="RWANDA"
+  firstname2="Keelia"
+  lastname2="Myrilla"
+  email="Keelia.Myrilla@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>39.647</random_float>
+  <bool>true</bool>
+  <date>1999-08-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hettie</elt><elt>Maud</elt><elt>Robbi</elt><elt>Beatriz</elt><elt>Linzy</elt>  
+  <Keelia>
+    <age>67</age>
+  </Keelia>
+</root>

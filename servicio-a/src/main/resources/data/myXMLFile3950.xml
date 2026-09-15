@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Schalles"
+  city="Malacca Town"
+  country="Maldives"
+  firstname2="Sibella"
+  lastname2="Zola"
+  email="Sibella.Zola@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>7.118</random_float>
+  <bool>false</bool>
+  <date>1983-09-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gavrielle</elt><elt>Madalyn</elt><elt>Olwen</elt><elt>Gerianna</elt><elt>Kaia</elt>  
+  <Sibella>
+    <age>72</age>
+  </Sibella>
+</root>

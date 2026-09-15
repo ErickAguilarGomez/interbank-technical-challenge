@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elfreda"
+  lastname="Leler"
+  city="Koror"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Blinni"
+  lastname2="Adore"
+  email="Blinni.Adore@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>95.302</random_float>
+  <bool>false</bool>
+  <date>1983-03-28</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dorothy</elt><elt>Corene</elt><elt>Alexine</elt><elt>Dode</elt><elt>Janey</elt>  
+  <Blinni>
+    <age>29</age>
+  </Blinni>
+</root>

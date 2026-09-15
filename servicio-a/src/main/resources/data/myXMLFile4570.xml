@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Madox"
+  city="Cologne"
+  country="Tajikistan"
+  firstname2="Chickie"
+  lastname2="Adlare"
+  email="Chickie.Adlare@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>35.526</random_float>
+  <bool>true</bool>
+  <date>1994-04-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Joceline</elt><elt>Hyacinthe</elt><elt>Pierette</elt><elt>Teddie</elt><elt>Sharlene</elt>  
+  <Chickie>
+    <age>46</age>
+  </Chickie>
+</root>

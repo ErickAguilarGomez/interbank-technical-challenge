@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gabi"
+  lastname="Urias"
+  city="Charlottetown"
+  country="Poland"
+  firstname2="Kristan"
+  lastname2="Argus"
+  email="Kristan.Argus@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>68.486</random_float>
+  <bool>true</bool>
+  <date>1983-08-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jackie</elt><elt>Lanae</elt><elt>Trixi</elt><elt>Dale</elt><elt>Kittie</elt>  
+  <Kristan>
+    <age>35</age>
+  </Kristan>
+</root>

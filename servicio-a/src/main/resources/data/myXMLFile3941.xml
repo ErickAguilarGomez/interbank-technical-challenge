@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donnie"
+  lastname="Daniele"
+  city="Córdoba"
+  country="Bhutan"
+  firstname2="Concettina"
+  lastname2="Ammann"
+  email="Concettina.Ammann@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>76.581</random_float>
+  <bool>true</bool>
+  <date>1981-10-01</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Frances</elt><elt>Vivia</elt><elt>Cyb</elt><elt>Evita</elt><elt>Elsie</elt>  
+  <Concettina>
+    <age>24</age>
+  </Concettina>
+</root>

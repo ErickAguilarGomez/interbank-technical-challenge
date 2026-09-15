@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caritta"
+  lastname="Merell"
+  city="Porto"
+  country="Kenya"
+  firstname2="Deirdre"
+  lastname2="Mathilde"
+  email="Deirdre.Mathilde@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>24.844</random_float>
+  <bool>false</bool>
+  <date>1985-06-03</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Celene</elt><elt>Blinni</elt><elt>Paulita</elt><elt>Candi</elt><elt>Ginnie</elt>  
+  <Deirdre>
+    <age>76</age>
+  </Deirdre>
+</root>

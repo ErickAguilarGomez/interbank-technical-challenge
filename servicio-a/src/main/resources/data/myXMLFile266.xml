@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rori"
+  lastname="Seagraves"
+  city="Cannes"
+  country="Anguilla"
+  firstname2="Myriam"
+  lastname2="Durante"
+  email="Myriam.Durante@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>65.647</random_float>
+  <bool>false</bool>
+  <date>1982-09-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sadie</elt><elt>Emelina</elt><elt>Tarra</elt><elt>Gianina</elt><elt>Audrie</elt>  
+  <Myriam>
+    <age>66</age>
+  </Myriam>
+</root>

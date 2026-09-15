@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Tristram"
+  city="Cape Town"
+  country="Djibouti"
+  firstname2="Jolyn"
+  lastname2="Millda"
+  email="Jolyn.Millda@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>33.748</random_float>
+  <bool>true</bool>
+  <date>1997-10-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cherilyn</elt><elt>Asia</elt><elt>Odessa</elt><elt>Merci</elt><elt>Cathie</elt>  
+  <Jolyn>
+    <age>45</age>
+  </Jolyn>
+</root>

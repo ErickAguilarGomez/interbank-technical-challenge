@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shannah"
+  lastname="Jacinda"
+  city="Gaza"
+  country="Gabon"
+  firstname2="Marline"
+  lastname2="Cynar"
+  email="Marline.Cynar@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>7.069</random_float>
+  <bool>true</bool>
+  <date>1997-03-02</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ekaterina</elt><elt>Tabbatha</elt><elt>Daryl</elt><elt>Brynna</elt><elt>Rosene</elt>  
+  <Marline>
+    <age>71</age>
+  </Marline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tami"
+  lastname="Viddah"
+  city="Rawalpindi"
+  country="Liberia"
+  firstname2="Willetta"
+  lastname2="Kirbee"
+  email="Willetta.Kirbee@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>84.988</random_float>
+  <bool>false</bool>
+  <date>1992-06-30</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ayn</elt><elt>Fina</elt><elt>Gabi</elt><elt>Kaja</elt><elt>Marleah</elt>  
+  <Willetta>
+    <age>63</age>
+  </Willetta>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marti"
+  lastname="Gunn"
+  city="Bilbao"
+  country="Macao"
+  firstname2="Allyce"
+  lastname2="Jarib"
+  email="Allyce.Jarib@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>88.516</random_float>
+  <bool>false</bool>
+  <date>1988-09-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dorice</elt><elt>Lindie</elt><elt>Ada</elt><elt>Aryn</elt><elt>Bee</elt>  
+  <Allyce>
+    <age>87</age>
+  </Allyce>
+</root>

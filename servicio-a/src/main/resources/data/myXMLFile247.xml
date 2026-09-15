@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Sharl"
+  city="Toulouse"
+  country="Namibia"
+  firstname2="Giustina"
+  lastname2="Bates"
+  email="Giustina.Bates@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>88.957</random_float>
+  <bool>true</bool>
+  <date>1981-06-28</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rebeca</elt><elt>Robinia</elt><elt>Clementine</elt><elt>Dorene</elt><elt>Esmeralda</elt>  
+  <Giustina>
+    <age>23</age>
+  </Giustina>
+</root>

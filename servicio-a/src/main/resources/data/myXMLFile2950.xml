@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maisey"
+  lastname="Bohlin"
+  city="Kandy"
+  country="Honduras"
+  firstname2="Aubrie"
+  lastname2="Albertine"
+  email="Aubrie.Albertine@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>69.293</random_float>
+  <bool>true</bool>
+  <date>1983-08-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hayley</elt><elt>Oona</elt><elt>Christal</elt><elt>Veda</elt><elt>Corene</elt>  
+  <Aubrie>
+    <age>65</age>
+  </Aubrie>
+</root>

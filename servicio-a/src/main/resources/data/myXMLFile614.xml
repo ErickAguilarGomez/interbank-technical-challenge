@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ashlee"
+  lastname="Sadowski"
+  city="Algiers"
+  country="Egypt"
+  firstname2="Marline"
+  lastname2="Diogenes"
+  email="Marline.Diogenes@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>65.501</random_float>
+  <bool>false</bool>
+  <date>1994-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Caryl</elt><elt>Ileana</elt><elt>Raquela</elt><elt>Kristan</elt><elt>Tori</elt>  
+  <Marline>
+    <age>65</age>
+  </Marline>
+</root>

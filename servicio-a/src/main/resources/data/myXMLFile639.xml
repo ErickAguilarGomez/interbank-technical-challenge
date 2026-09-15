@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margalo"
+  lastname="Giule"
+  city="Chiang Mai"
+  country="Ecuador"
+  firstname2="Christy"
+  lastname2="Persse"
+  email="Christy.Persse@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>72.971</random_float>
+  <bool>false</bool>
+  <date>1988-01-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Trudie</elt><elt>Ginnie</elt><elt>Meghann</elt><elt>Tori</elt><elt>Melisent</elt>  
+  <Christy>
+    <age>90</age>
+  </Christy>
+</root>

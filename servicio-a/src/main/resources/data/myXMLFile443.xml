@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="Stuart"
+  city="Charlottetown"
+  country="Tuvalu"
+  firstname2="Jany"
+  lastname2="Atcliffe"
+  email="Jany.Atcliffe@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>8.317</random_float>
+  <bool>true</bool>
+  <date>1991-11-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wynne</elt><elt>Bernardine</elt><elt>Harmonia</elt><elt>Tori</elt><elt>Elmira</elt>  
+  <Jany>
+    <age>38</age>
+  </Jany>
+</root>

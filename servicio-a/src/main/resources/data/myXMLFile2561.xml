@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catharine"
+  lastname="Vorster"
+  city="Tehran"
+  country="Sierra Leone"
+  firstname2="Lory"
+  lastname2="Alwin"
+  email="Lory.Alwin@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>90.405</random_float>
+  <bool>true</bool>
+  <date>1996-01-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Oona</elt><elt>Susette</elt><elt>Jinny</elt><elt>Olwen</elt><elt>Elsie</elt>  
+  <Lory>
+    <age>72</age>
+  </Lory>
+</root>

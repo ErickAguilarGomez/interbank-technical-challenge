@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Ramona"
+  city="Fukuoka"
+  country="San Marino"
+  firstname2="Florencia"
+  lastname2="Kendrick"
+  email="Florencia.Kendrick@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>67.094</random_float>
+  <bool>true</bool>
+  <date>1984-07-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Letizia</elt><elt>Berget</elt><elt>Lynea</elt><elt>Dari</elt><elt>Blake</elt>  
+  <Florencia>
+    <age>43</age>
+  </Florencia>
+</root>

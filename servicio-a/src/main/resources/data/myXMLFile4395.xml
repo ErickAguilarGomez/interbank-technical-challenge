@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Fry"
+  city="Maputo"
+  country="Guernsey"
+  firstname2="Nonnah"
+  lastname2="Ackerley"
+  email="Nonnah.Ackerley@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>96.196</random_float>
+  <bool>false</bool>
+  <date>1990-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jean</elt><elt>Emilia</elt><elt>Gwyneth</elt><elt>Layla</elt><elt>Clo</elt>  
+  <Nonnah>
+    <age>63</age>
+  </Nonnah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teddie"
+  lastname="Gavrila"
+  city="Nukulaelae"
+  country="Botswana"
+  firstname2="Annora"
+  lastname2="Libna"
+  email="Annora.Libna@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>13.372</random_float>
+  <bool>true</bool>
+  <date>1999-07-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Estell</elt><elt>Lanna</elt><elt>Shirlee</elt><elt>Amara</elt><elt>Brianna</elt>  
+  <Annora>
+    <age>33</age>
+  </Annora>
+</root>

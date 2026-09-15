@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Violet"
+  lastname="Alcott"
+  city="Conakry"
+  country="Estonia"
+  firstname2="Florie"
+  lastname2="Payson"
+  email="Florie.Payson@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>32.182</random_float>
+  <bool>true</bool>
+  <date>1991-09-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Andeee</elt><elt>Joceline</elt><elt>Max</elt><elt>Ruthe</elt><elt>Addia</elt>  
+  <Florie>
+    <age>88</age>
+  </Florie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Marcellus"
+  city="Iquitos"
+  country="Saint Helena"
+  firstname2="Deloria"
+  lastname2="Amasa"
+  email="Deloria.Amasa@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>63.775</random_float>
+  <bool>false</bool>
+  <date>1998-07-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cherilyn</elt><elt>Gilligan</elt><elt>Dennie</elt><elt>Danny</elt><elt>Basia</elt>  
+  <Deloria>
+    <age>49</age>
+  </Deloria>
+</root>

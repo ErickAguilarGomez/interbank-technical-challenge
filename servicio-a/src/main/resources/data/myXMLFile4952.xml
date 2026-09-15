@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbi"
+  lastname="Muriel"
+  city="Sabha"
+  country="RWANDA"
+  firstname2="Dari"
+  lastname2="Elsinore"
+  email="Dari.Elsinore@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>34.682</random_float>
+  <bool>true</bool>
+  <date>1989-02-05</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bobinette</elt><elt>Kaja</elt><elt>Caryl</elt><elt>Anallese</elt><elt>Sophia</elt>  
+  <Dari>
+    <age>56</age>
+  </Dari>
+</root>

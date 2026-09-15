@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dede"
+  lastname="Drus"
+  city="Iquitos"
+  country="United Kingdom"
+  firstname2="Ardenia"
+  lastname2="Shanley"
+  email="Ardenia.Shanley@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>94.108</random_float>
+  <bool>false</bool>
+  <date>1997-08-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emelina</elt><elt>Aigneis</elt><elt>Sandie</elt><elt>Jorry</elt><elt>Randa</elt>  
+  <Ardenia>
+    <age>96</age>
+  </Ardenia>
+</root>

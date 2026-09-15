@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nariko"
+  lastname="Hachmin"
+  city="Santiago"
+  country="Bhutan"
+  firstname2="Fawne"
+  lastname2="Tremayne"
+  email="Fawne.Tremayne@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>89.079</random_float>
+  <bool>false</bool>
+  <date>1981-03-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Philis</elt><elt>Steffane</elt><elt>Kaia</elt><elt>Merle</elt><elt>Elka</elt>  
+  <Fawne>
+    <age>54</age>
+  </Fawne>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Marsden"
+  city="Chaguanas"
+  country="Kenya"
+  firstname2="Genevra"
+  lastname2="Gale"
+  email="Genevra.Gale@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>92.032</random_float>
+  <bool>true</bool>
+  <date>1986-08-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Inga</elt><elt>Flory</elt><elt>Ericka</elt><elt>Lynnea</elt><elt>Roz</elt>  
+  <Genevra>
+    <age>86</age>
+  </Genevra>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phedra"
+  lastname="Wolfgram"
+  city="Novosibirsk"
+  country="Italy"
+  firstname2="Barbara"
+  lastname2="Jehu"
+  email="Barbara.Jehu@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>9.713</random_float>
+  <bool>true</bool>
+  <date>1986-12-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Annaliese</elt><elt>Meriel</elt><elt>Rosaline</elt><elt>Patricia</elt><elt>Britni</elt>  
+  <Barbara>
+    <age>87</age>
+  </Barbara>
+</root>

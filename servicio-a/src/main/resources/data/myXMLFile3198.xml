@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Lareena"
+  city="Makati City"
+  country="Papua New Guinea"
+  firstname2="Merle"
+  lastname2="Creamer"
+  email="Merle.Creamer@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>7.355</random_float>
+  <bool>false</bool>
+  <date>1986-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Bettine</elt><elt>Riannon</elt><elt>Rayna</elt><elt>Vita</elt><elt>Vonny</elt>  
+  <Merle>
+    <age>92</age>
+  </Merle>
+</root>

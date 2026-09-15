@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lyssa"
+  lastname="Holtz"
+  city="Santo Domingo"
+  country="Namibia"
+  firstname2="Jaclyn"
+  lastname2="Wooster"
+  email="Jaclyn.Wooster@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>62.586</random_float>
+  <bool>true</bool>
+  <date>1985-10-08</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Charmaine</elt><elt>Diena</elt><elt>Jacenta</elt><elt>Kathy</elt><elt>Vinita</elt>  
+  <Jaclyn>
+    <age>45</age>
+  </Jaclyn>
+</root>

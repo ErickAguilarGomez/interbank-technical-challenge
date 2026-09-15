@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nadine"
+  lastname="Dom"
+  city="Omdurman"
+  country="Cocos (Keeling) Islands"
+  firstname2="Modestia"
+  lastname2="Koziara"
+  email="Modestia.Koziara@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>83.649</random_float>
+  <bool>true</bool>
+  <date>1980-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gilda</elt><elt>Goldie</elt><elt>Tami</elt><elt>Trixi</elt><elt>Taffy</elt>  
+  <Modestia>
+    <age>91</age>
+  </Modestia>
+</root>

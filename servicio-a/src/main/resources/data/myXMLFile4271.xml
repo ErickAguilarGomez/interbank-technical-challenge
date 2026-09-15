@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catrina"
+  lastname="Argus"
+  city="Lisbon"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Clarice"
+  lastname2="Kristi"
+  email="Clarice.Kristi@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>67.67</random_float>
+  <bool>true</bool>
+  <date>1983-06-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Caritta</elt><elt>Millie</elt><elt>Mara</elt><elt>Paule</elt><elt>Winny</elt>  
+  <Clarice>
+    <age>90</age>
+  </Clarice>
+</root>

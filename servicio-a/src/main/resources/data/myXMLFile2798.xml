@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ricky"
+  lastname="Ortrude"
+  city="Guwahati"
+  country="Seychelles"
+  firstname2="Sonni"
+  lastname2="Marden"
+  email="Sonni.Marden@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>75.095</random_float>
+  <bool>true</bool>
+  <date>1993-07-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Arabel</elt><elt>Daphne</elt><elt>Dyann</elt><elt>Clementine</elt><elt>Deedee</elt>  
+  <Sonni>
+    <age>38</age>
+  </Sonni>
+</root>

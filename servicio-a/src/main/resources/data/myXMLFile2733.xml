@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lesly"
+  lastname="Braun"
+  city="Cairns"
+  country="Tanzania, United Republic of"
+  firstname2="Patricia"
+  lastname2="Auberbach"
+  email="Patricia.Auberbach@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>69.369</random_float>
+  <bool>false</bool>
+  <date>1998-02-20</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Joeann</elt><elt>Chere</elt><elt>Ardys</elt><elt>Marnia</elt><elt>Mellicent</elt>  
+  <Patricia>
+    <age>81</age>
+  </Patricia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kelly"
+  lastname="Rhu"
+  city="Kaesong"
+  country="Guam"
+  firstname2="Arabel"
+  lastname2="Ludewig"
+  email="Arabel.Ludewig@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>78.667</random_float>
+  <bool>false</bool>
+  <date>1990-08-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Fredericka</elt><elt>Kayla</elt><elt>Deirdre</elt><elt>Nessie</elt><elt>Tamqrah</elt>  
+  <Arabel>
+    <age>46</age>
+  </Arabel>
+</root>

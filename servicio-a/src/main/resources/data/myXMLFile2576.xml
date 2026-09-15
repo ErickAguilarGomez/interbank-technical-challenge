@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elka"
+  lastname="Palocz"
+  city="Kinshasa"
+  country="Kyrgyzstan"
+  firstname2="Carmela"
+  lastname2="Latini"
+  email="Carmela.Latini@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>9.704</random_float>
+  <bool>false</bool>
+  <date>1981-11-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Louella</elt><elt>Lynea</elt><elt>Cathie</elt><elt>Janis</elt><elt>Tomasina</elt>  
+  <Carmela>
+    <age>51</age>
+  </Carmela>
+</root>

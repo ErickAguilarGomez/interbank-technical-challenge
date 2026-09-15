@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Libbie"
+  lastname="Maisey"
+  city="Kiev"
+  country="Marshall Islands"
+  firstname2="Myrtice"
+  lastname2="Leonard"
+  email="Myrtice.Leonard@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>53.586</random_float>
+  <bool>true</bool>
+  <date>1981-02-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Consuela</elt><elt>Camile</elt><elt>Tressa</elt><elt>Selia</elt><elt>Ardenia</elt>  
+  <Myrtice>
+    <age>42</age>
+  </Myrtice>
+</root>

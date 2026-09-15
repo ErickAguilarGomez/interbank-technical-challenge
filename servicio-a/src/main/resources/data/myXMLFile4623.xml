@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Robinia"
+  lastname="Othilia"
+  city="Nicosia"
+  country="Qatar"
+  firstname2="Rebeca"
+  lastname2="Nance"
+  email="Rebeca.Nance@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>22.621</random_float>
+  <bool>true</bool>
+  <date>1982-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Courtnay</elt><elt>Nonnah</elt><elt>Oona</elt><elt>Binny</elt><elt>Maye</elt>  
+  <Rebeca>
+    <age>92</age>
+  </Rebeca>
+</root>

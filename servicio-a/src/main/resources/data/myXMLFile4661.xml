@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raf"
+  lastname="Fosque"
+  city="Veracruz"
+  country="Turks and Caicos Islands"
+  firstname2="Hermione"
+  lastname2="Aurelio"
+  email="Hermione.Aurelio@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>5.007</random_float>
+  <bool>false</bool>
+  <date>1992-06-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fidelia</elt><elt>Asia</elt><elt>Gale</elt><elt>Juliane</elt><elt>Paola</elt>  
+  <Hermione>
+    <age>60</age>
+  </Hermione>
+</root>

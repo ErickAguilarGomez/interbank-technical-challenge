@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maye"
+  lastname="Cavan"
+  city="Cali"
+  country="Belize"
+  firstname2="Maryellen"
+  lastname2="Knowling"
+  email="Maryellen.Knowling@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>14.728</random_float>
+  <bool>false</bool>
+  <date>1997-04-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tori</elt><elt>Joceline</elt><elt>Elie</elt><elt>Ofilia</elt><elt>Esmeralda</elt>  
+  <Maryellen>
+    <age>93</age>
+  </Maryellen>
+</root>

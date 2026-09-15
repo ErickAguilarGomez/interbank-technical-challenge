@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emylee"
+  lastname="Brittani"
+  city="Kandahar"
+  country="Pitcairn"
+  firstname2="Dyann"
+  lastname2="Dunkin"
+  email="Dyann.Dunkin@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>24.47</random_float>
+  <bool>true</bool>
+  <date>1981-05-11</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kittie</elt><elt>Roz</elt><elt>Chandra</elt><elt>Melodie</elt><elt>Althea</elt>  
+  <Dyann>
+    <age>76</age>
+  </Dyann>
+</root>

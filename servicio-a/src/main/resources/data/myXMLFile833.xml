@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chloris"
+  lastname="Oriana"
+  city="Nicosia"
+  country="Liberia"
+  firstname2="Lucy"
+  lastname2="Delila"
+  email="Lucy.Delila@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>58.418</random_float>
+  <bool>false</bool>
+  <date>1981-09-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nariko</elt><elt>Chastity</elt><elt>Maridel</elt><elt>Mureil</elt><elt>Rosene</elt>  
+  <Lucy>
+    <age>54</age>
+  </Lucy>
+</root>

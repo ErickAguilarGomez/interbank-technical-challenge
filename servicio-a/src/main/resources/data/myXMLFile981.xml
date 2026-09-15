@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nickie"
+  lastname="Kaete"
+  city="Perth"
+  country="Bolivia"
+  firstname2="Delilah"
+  lastname2="Zamora"
+  email="Delilah.Zamora@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>86.039</random_float>
+  <bool>false</bool>
+  <date>1980-03-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jacenta</elt><elt>Audrie</elt><elt>Sybille</elt><elt>Deirdre</elt><elt>Rhea</elt>  
+  <Delilah>
+    <age>29</age>
+  </Delilah>
+</root>

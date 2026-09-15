@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Drus"
+  city="Rio Branco"
+  country="Zimbabwe"
+  firstname2="Dulce"
+  lastname2="Burkle"
+  email="Dulce.Burkle@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>82.429</random_float>
+  <bool>false</bool>
+  <date>1986-01-19</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Peri</elt><elt>Dolli</elt><elt>Jaclyn</elt><elt>Elfreda</elt><elt>Ursulina</elt>  
+  <Dulce>
+    <age>43</age>
+  </Dulce>
+</root>

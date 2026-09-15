@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nariko"
+  lastname="Soneson"
+  city="Novosibirsk"
+  country="Sierra Leone"
+  firstname2="Cyb"
+  lastname2="Suzetta"
+  email="Cyb.Suzetta@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>13.893</random_float>
+  <bool>false</bool>
+  <date>1993-01-08</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gerianna</elt><elt>Selia</elt><elt>Cristabel</elt><elt>Winny</elt><elt>Charissa</elt>  
+  <Cyb>
+    <age>54</age>
+  </Cyb>
+</root>

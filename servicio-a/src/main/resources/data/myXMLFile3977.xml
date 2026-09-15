@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agnese"
+  lastname="Tatianas"
+  city="Incheon"
+  country="Cambodia"
+  firstname2="Claudina"
+  lastname2="Sawtelle"
+  email="Claudina.Sawtelle@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>13.952</random_float>
+  <bool>false</bool>
+  <date>1987-08-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Grier</elt><elt>Ernesta</elt><elt>Abbie</elt><elt>Britte</elt><elt>Lauryn</elt>  
+  <Claudina>
+    <age>32</age>
+  </Claudina>
+</root>

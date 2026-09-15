@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ivett"
+  lastname="Suanne"
+  city="Brikama"
+  country="Nauru"
+  firstname2="Leanna"
+  lastname2="Camden"
+  email="Leanna.Camden@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>13.924</random_float>
+  <bool>true</bool>
+  <date>1986-03-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Berta</elt><elt>Bobinette</elt><elt>Starla</elt><elt>Rori</elt><elt>Abbie</elt>  
+  <Leanna>
+    <age>49</age>
+  </Leanna>
+</root>

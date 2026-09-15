@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Douglass"
+  city="Alofi"
+  country="Bahrain"
+  firstname2="Glynnis"
+  lastname2="Stoller"
+  email="Glynnis.Stoller@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>52.677</random_float>
+  <bool>false</bool>
+  <date>1989-01-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Aeriela</elt><elt>Britni</elt><elt>Alisha</elt><elt>Sandie</elt><elt>Tonia</elt>  
+  <Glynnis>
+    <age>19</age>
+  </Glynnis>
+</root>

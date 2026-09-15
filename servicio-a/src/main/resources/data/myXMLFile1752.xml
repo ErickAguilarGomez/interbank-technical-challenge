@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Andrel"
+  city="Zamboanga City"
+  country="Benin"
+  firstname2="Steffane"
+  lastname2="Monk"
+  email="Steffane.Monk@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>60.489</random_float>
+  <bool>true</bool>
+  <date>1992-07-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elena</elt><elt>Lanae</elt><elt>Lanae</elt><elt>Kore</elt><elt>Tarra</elt>  
+  <Steffane>
+    <age>62</age>
+  </Steffane>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sue"
+  lastname="Isacco"
+  city="Hamburg"
+  country="South Africa"
+  firstname2="Lita"
+  lastname2="Grosz"
+  email="Lita.Grosz@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>39.917</random_float>
+  <bool>false</bool>
+  <date>1993-08-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Stephanie</elt><elt>Starla</elt><elt>Etta</elt><elt>Minne</elt><elt>Marcelline</elt>  
+  <Lita>
+    <age>93</age>
+  </Lita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Morrill"
+  city="Calgary"
+  country="Germany"
+  firstname2="Wileen"
+  lastname2="Maryanne"
+  email="Wileen.Maryanne@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>19.342</random_float>
+  <bool>false</bool>
+  <date>1995-05-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>June</elt><elt>Agathe</elt><elt>Shandie</elt><elt>Camile</elt><elt>Bee</elt>  
+  <Wileen>
+    <age>83</age>
+  </Wileen>
+</root>

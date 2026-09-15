@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ericka"
+  lastname="Ahab"
+  city="Cotonou"
+  country="Northern Mariana Islands"
+  firstname2="Dennie"
+  lastname2="Paton"
+  email="Dennie.Paton@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>66.121</random_float>
+  <bool>false</bool>
+  <date>1991-01-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gaylene</elt><elt>Wilma</elt><elt>Amelia</elt><elt>Frank</elt><elt>Ketti</elt>  
+  <Dennie>
+    <age>76</age>
+  </Dennie>
+</root>

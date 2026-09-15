@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frieda"
+  lastname="Wildermuth"
+  city="Adamstown"
+  country="Greenland"
+  firstname2="Atlanta"
+  lastname2="Darrell"
+  email="Atlanta.Darrell@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>50.721</random_float>
+  <bool>true</bool>
+  <date>1998-11-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sharai</elt><elt>Lorie</elt><elt>Gale</elt><elt>Annice</elt><elt>Lynea</elt>  
+  <Atlanta>
+    <age>80</age>
+  </Atlanta>
+</root>

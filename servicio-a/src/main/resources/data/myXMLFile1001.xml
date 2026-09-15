@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merle"
+  lastname="Magnolia"
+  city="Andorra la Vella"
+  country="Greece"
+  firstname2="Bibby"
+  lastname2="Seagraves"
+  email="Bibby.Seagraves@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>10.265</random_float>
+  <bool>false</bool>
+  <date>1997-04-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Blondelle</elt><elt>Ursulina</elt><elt>Sara-Ann</elt><elt>Glynnis</elt><elt>Goldie</elt>  
+  <Bibby>
+    <age>27</age>
+  </Bibby>
+</root>

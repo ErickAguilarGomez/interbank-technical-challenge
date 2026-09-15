@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Velick"
+  city="Rio Branco"
+  country="Taiwan, Province of China"
+  firstname2="Teriann"
+  lastname2="Ferrell"
+  email="Teriann.Ferrell@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>99.237</random_float>
+  <bool>false</bool>
+  <date>1986-05-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sallie</elt><elt>Annora</elt><elt>Lily</elt><elt>Ana</elt><elt>Daryl</elt>  
+  <Teriann>
+    <age>54</age>
+  </Teriann>
+</root>

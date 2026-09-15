@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raf"
+  lastname="Anis"
+  city="Rabat"
+  country="France"
+  firstname2="Gerianna"
+  lastname2="Myrilla"
+  email="Gerianna.Myrilla@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>1.395</random_float>
+  <bool>true</bool>
+  <date>1997-04-18</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hildegaard</elt><elt>Millie</elt><elt>Lila</elt><elt>Lesly</elt><elt>Sharlene</elt>  
+  <Gerianna>
+    <age>42</age>
+  </Gerianna>
+</root>

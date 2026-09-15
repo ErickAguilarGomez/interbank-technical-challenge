@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Basia"
+  lastname="Killigrew"
+  city="Tokyo"
+  country="Lithuania"
+  firstname2="Viviene"
+  lastname2="Corabella"
+  email="Viviene.Corabella@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>46.02</random_float>
+  <bool>false</bool>
+  <date>1988-01-10</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Charlena</elt><elt>Neila</elt><elt>Pollyanna</elt><elt>Rori</elt><elt>Carlie</elt>  
+  <Viviene>
+    <age>57</age>
+  </Viviene>
+</root>

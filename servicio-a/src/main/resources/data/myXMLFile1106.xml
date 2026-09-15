@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="August"
+  city="Chaguanas"
+  country="Guernsey"
+  firstname2="Camile"
+  lastname2="Agle"
+  email="Camile.Agle@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>63.712</random_float>
+  <bool>true</bool>
+  <date>1988-04-05</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ruthe</elt><elt>Sarette</elt><elt>Vinita</elt><elt>Morganica</elt><elt>Hope</elt>  
+  <Camile>
+    <age>26</age>
+  </Camile>
+</root>

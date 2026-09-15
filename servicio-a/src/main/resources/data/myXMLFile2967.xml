@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gloria"
+  lastname="Sancho"
+  city="Luxembourg (city)"
+  country="Zambia"
+  firstname2="Cyndie"
+  lastname2="Carolin"
+  email="Cyndie.Carolin@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>53.832</random_float>
+  <bool>false</bool>
+  <date>1998-04-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Belinda</elt><elt>Trixi</elt><elt>Dianemarie</elt><elt>Gabi</elt><elt>Aurelie</elt>  
+  <Cyndie>
+    <age>60</age>
+  </Cyndie>
+</root>

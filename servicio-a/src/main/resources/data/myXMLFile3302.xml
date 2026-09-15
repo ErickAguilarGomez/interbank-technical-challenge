@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Binny"
+  lastname="Marcellus"
+  city="Fukuoka"
+  country="Macao"
+  firstname2="Lorie"
+  lastname2="Germann"
+  email="Lorie.Germann@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>39.314</random_float>
+  <bool>false</bool>
+  <date>1989-11-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kassey</elt><elt>Lynde</elt><elt>Karina</elt><elt>Fred</elt><elt>Sheree</elt>  
+  <Lorie>
+    <age>78</age>
+  </Lorie>
+</root>

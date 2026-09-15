@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tarra"
+  lastname="Natalia"
+  city="Montreal"
+  country="Ghana"
+  firstname2="Vivia"
+  lastname2="Sperling"
+  email="Vivia.Sperling@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>90.956</random_float>
+  <bool>false</bool>
+  <date>1994-10-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Raquela</elt><elt>Dede</elt><elt>Lila</elt><elt>Gabi</elt><elt>Xylina</elt>  
+  <Vivia>
+    <age>60</age>
+  </Vivia>
+</root>

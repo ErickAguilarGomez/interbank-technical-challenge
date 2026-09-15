@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mamie"
+  lastname="Martsen"
+  city="Forked River"
+  country="Åland Islands"
+  firstname2="Amelia"
+  lastname2="Milson"
+  email="Amelia.Milson@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>26.258</random_float>
+  <bool>false</bool>
+  <date>1983-02-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Micheline</elt><elt>Raf</elt><elt>Misha</elt><elt>Alex</elt><elt>Tierney</elt>  
+  <Amelia>
+    <age>63</age>
+  </Amelia>
+</root>

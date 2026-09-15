@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Rossner"
+  city="Hargeisa"
+  country="Maldives"
+  firstname2="Benita"
+  lastname2="Arquit"
+  email="Benita.Arquit@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>99.533</random_float>
+  <bool>true</bool>
+  <date>1994-06-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nollie</elt><elt>Flory</elt><elt>Lexine</elt><elt>Kristina</elt><elt>Paule</elt>  
+  <Benita>
+    <age>24</age>
+  </Benita>
+</root>

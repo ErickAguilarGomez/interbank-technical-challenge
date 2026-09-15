@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margarette"
+  lastname="Brady"
+  city="San Fernando"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Elise"
+  lastname2="Kaja"
+  email="Elise.Kaja@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>68.313</random_float>
+  <bool>true</bool>
+  <date>1984-09-20</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Angela</elt><elt>Philis</elt><elt>Lindie</elt><elt>Eve</elt><elt>Claresta</elt>  
+  <Elise>
+    <age>30</age>
+  </Elise>
+</root>

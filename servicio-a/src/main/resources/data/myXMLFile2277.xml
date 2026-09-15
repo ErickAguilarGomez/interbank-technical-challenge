@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frieda"
+  lastname="Karna"
+  city="Hanga Roa"
+  country="Nigeria"
+  firstname2="Romona"
+  lastname2="Madaih"
+  email="Romona.Madaih@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>94.897</random_float>
+  <bool>true</bool>
+  <date>1981-10-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Laurene</elt><elt>Carmela</elt><elt>Vinita</elt><elt>Lanna</elt><elt>Oralee</elt>  
+  <Romona>
+    <age>75</age>
+  </Romona>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sabina"
+  lastname="Deny"
+  city="Kota Bharu"
+  country="Vanuatu"
+  firstname2="Paule"
+  lastname2="Hunfredo"
+  email="Paule.Hunfredo@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>26.909</random_float>
+  <bool>false</bool>
+  <date>1983-08-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gerrie</elt><elt>Rosene</elt><elt>Roslyn</elt><elt>Goldie</elt><elt>Madelle</elt>  
+  <Paule>
+    <age>88</age>
+  </Paule>
+</root>

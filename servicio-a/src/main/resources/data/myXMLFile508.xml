@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Phi"
+  city="Hanoi"
+  country="Uzbekistan"
+  firstname2="Hollie"
+  lastname2="Vale"
+  email="Hollie.Vale@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>52.001</random_float>
+  <bool>false</bool>
+  <date>1990-10-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mellicent</elt><elt>Minne</elt><elt>Elie</elt><elt>Dagmar</elt><elt>Mureil</elt>  
+  <Hollie>
+    <age>72</age>
+  </Hollie>
+</root>

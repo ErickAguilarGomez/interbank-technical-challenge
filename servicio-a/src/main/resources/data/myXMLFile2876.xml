@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Courtnay"
+  lastname="Papageno"
+  city="Dallas"
+  country="Philippines"
+  firstname2="Reeba"
+  lastname2="Pitt"
+  email="Reeba.Pitt@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>81.072</random_float>
+  <bool>false</bool>
+  <date>1992-02-01</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Maryellen</elt><elt>Elvira</elt><elt>Lynnea</elt><elt>Gabi</elt><elt>Yetty</elt>  
+  <Reeba>
+    <age>77</age>
+  </Reeba>
+</root>

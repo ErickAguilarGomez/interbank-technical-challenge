@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Munn"
+  city="Nassau"
+  country="Nepal"
+  firstname2="Veda"
+  lastname2="Halla"
+  email="Veda.Halla@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>89.041</random_float>
+  <bool>false</bool>
+  <date>1991-07-28</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Charmaine</elt><elt>Jany</elt><elt>Alejandra</elt><elt>Stevana</elt><elt>Sherrie</elt>  
+  <Veda>
+    <age>46</age>
+  </Veda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lexine"
+  lastname="Laverne"
+  city="Simferopol"
+  country="Cuba"
+  firstname2="Ardeen"
+  lastname2="Bearnard"
+  email="Ardeen.Bearnard@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>18.777</random_float>
+  <bool>true</bool>
+  <date>1991-05-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lindie</elt><elt>Mariele</elt><elt>Marjie</elt><elt>Karina</elt><elt>Phedra</elt>  
+  <Ardeen>
+    <age>65</age>
+  </Ardeen>
+</root>

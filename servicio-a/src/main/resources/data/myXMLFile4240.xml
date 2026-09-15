@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Almeta"
+  lastname="Seligman"
+  city="Busan"
+  country="Finland"
+  firstname2="Mamie"
+  lastname2="Magnolia"
+  email="Mamie.Magnolia@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>80.919</random_float>
+  <bool>false</bool>
+  <date>1990-08-07</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Fawne</elt><elt>Amii</elt><elt>Tersina</elt><elt>Larine</elt><elt>Aurore</elt>  
+  <Mamie>
+    <age>87</age>
+  </Mamie>
+</root>

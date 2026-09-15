@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Jenness"
+  city="Funafuti"
+  country="Philippines"
+  firstname2="Sheree"
+  lastname2="Cleavland"
+  email="Sheree.Cleavland@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>79.403</random_float>
+  <bool>true</bool>
+  <date>1993-05-29</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jany</elt><elt>Wynne</elt><elt>Jinny</elt><elt>Modestia</elt><elt>Natka</elt>  
+  <Sheree>
+    <age>43</age>
+  </Sheree>
+</root>

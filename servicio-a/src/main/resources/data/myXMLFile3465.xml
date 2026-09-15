@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Benita"
+  lastname="Dorine"
+  city="Bandar Seri Begawan"
+  country="Saint Pierre and Miquelon"
+  firstname2="Elora"
+  lastname2="Kenwood"
+  email="Elora.Kenwood@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>93.454</random_float>
+  <bool>true</bool>
+  <date>1994-05-23</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Karlee</elt><elt>Beverley</elt><elt>Blondelle</elt><elt>Maisey</elt><elt>Ezmeralda</elt>  
+  <Elora>
+    <age>66</age>
+  </Elora>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Romona"
+  lastname="Schalles"
+  city="Hangzhou"
+  country="Tajikistan"
+  firstname2="Lulita"
+  lastname2="Cressida"
+  email="Lulita.Cressida@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>60.327</random_float>
+  <bool>false</bool>
+  <date>1987-03-17</date>
+  <regEx>helloo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kayla</elt><elt>Lauryn</elt><elt>Bernie</elt><elt>Vinita</elt><elt>Odessa</elt>  
+  <Lulita>
+    <age>67</age>
+  </Lulita>
+</root>

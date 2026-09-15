@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beatriz"
+  lastname="Malvino"
+  city="El Aaiún"
+  country="Kazakhstan"
+  firstname2="Myriam"
+  lastname2="Barney"
+  email="Myriam.Barney@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>10.175</random_float>
+  <bool>false</bool>
+  <date>1991-04-09</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Di</elt><elt>Elora</elt><elt>Thalia</elt><elt>Brynna</elt><elt>Zia</elt>  
+  <Myriam>
+    <age>56</age>
+  </Myriam>
+</root>

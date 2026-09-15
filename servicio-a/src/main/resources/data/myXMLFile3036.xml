@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Livvyy"
+  lastname="Bach"
+  city="Enugu"
+  country="Greece"
+  firstname2="Jackie"
+  lastname2="Schroth"
+  email="Jackie.Schroth@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>85.928</random_float>
+  <bool>true</bool>
+  <date>1992-08-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Anica</elt><elt>Barbi</elt><elt>Edith</elt><elt>Trudie</elt><elt>Edyth</elt>  
+  <Jackie>
+    <age>22</age>
+  </Jackie>
+</root>

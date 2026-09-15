@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="O'Rourke"
+  city="Beirut"
+  country="Isle of Man"
+  firstname2="Mahalia"
+  lastname2="Hedve"
+  email="Mahalia.Hedve@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>27.551</random_float>
+  <bool>false</bool>
+  <date>1996-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gloria</elt><elt>Ethel</elt><elt>Hayley</elt><elt>Micheline</elt><elt>Rhea</elt>  
+  <Mahalia>
+    <age>63</age>
+  </Mahalia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rozele"
+  lastname="Creamer"
+  city="Makati City"
+  country="Saint Lucia"
+  firstname2="Debee"
+  lastname2="Salvidor"
+  email="Debee.Salvidor@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>54.593</random_float>
+  <bool>true</bool>
+  <date>1981-12-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ayn</elt><elt>Fanchon</elt><elt>Gabi</elt><elt>Viviene</elt><elt>Ernesta</elt>  
+  <Debee>
+    <age>78</age>
+  </Debee>
+</root>

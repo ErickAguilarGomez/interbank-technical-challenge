@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardeen"
+  lastname="Nisbet"
+  city="Manzini"
+  country="Cayman Islands"
+  firstname2="Moyna"
+  lastname2="Penelopa"
+  email="Moyna.Penelopa@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>91.159</random_float>
+  <bool>false</bool>
+  <date>1981-11-10</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elie</elt><elt>Zaria</elt><elt>Evita</elt><elt>Dorothy</elt><elt>Fanny</elt>  
+  <Moyna>
+    <age>35</age>
+  </Moyna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cacilie"
+  lastname="Ochs"
+  city="Sydney"
+  country="Cuba"
+  firstname2="Ashlee"
+  lastname2="Taima"
+  email="Ashlee.Taima@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>91.415</random_float>
+  <bool>true</bool>
+  <date>1994-02-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Veda</elt><elt>Eolanda</elt><elt>Jasmina</elt><elt>Susan</elt><elt>Elena</elt>  
+  <Ashlee>
+    <age>80</age>
+  </Ashlee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Devina"
+  lastname="Eno"
+  city="Valencia"
+  country="Ecuador"
+  firstname2="Phylis"
+  lastname2="Frendel"
+  email="Phylis.Frendel@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>56.545</random_float>
+  <bool>false</bool>
+  <date>1987-07-15</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vonny</elt><elt>Leontine</elt><elt>Modestia</elt><elt>Lila</elt><elt>Kimberley</elt>  
+  <Phylis>
+    <age>54</age>
+  </Phylis>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bill"
+  lastname="Darrell"
+  city="Surat"
+  country="Comoros"
+  firstname2="Kara-Lynn"
+  lastname2="Read"
+  email="Kara-Lynn.Read@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>29.038</random_float>
+  <bool>true</bool>
+  <date>1997-03-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Albertina</elt><elt>Cacilie</elt><elt>Clarice</elt><elt>Sybille</elt><elt>Rochette</elt>  
+  <Kara-Lynn>
+    <age>92</age>
+  </Kara-Lynn>
+</root>

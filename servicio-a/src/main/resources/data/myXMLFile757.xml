@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angelique"
+  lastname="Gibbeon"
+  city="Labasa"
+  country="Lesotho"
+  firstname2="Janenna"
+  lastname2="Guildroy"
+  email="Janenna.Guildroy@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>87.052</random_float>
+  <bool>true</bool>
+  <date>1990-08-14</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Odessa</elt><elt>Vanessa</elt><elt>Lynnea</elt><elt>Flory</elt><elt>Latisha</elt>  
+  <Janenna>
+    <age>46</age>
+  </Janenna>
+</root>

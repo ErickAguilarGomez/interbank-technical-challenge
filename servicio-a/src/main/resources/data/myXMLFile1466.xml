@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Misha"
+  lastname="Pitt"
+  city="Bujumbura"
+  country="Uganda"
+  firstname2="Annecorinne"
+  lastname2="Delacourt"
+  email="Annecorinne.Delacourt@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>86.421</random_float>
+  <bool>true</bool>
+  <date>1980-08-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Frieda</elt><elt>Candy</elt><elt>Christian</elt><elt>Priscilla</elt><elt>Fanny</elt>  
+  <Annecorinne>
+    <age>19</age>
+  </Annecorinne>
+</root>

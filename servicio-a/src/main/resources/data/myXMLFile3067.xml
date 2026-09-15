@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ethel"
+  lastname="Edmund"
+  city="Bridgetown"
+  country="Hong Kong"
+  firstname2="Marinna"
+  lastname2="Gualtiero"
+  email="Marinna.Gualtiero@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>10.619</random_float>
+  <bool>false</bool>
+  <date>1989-08-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bobinette</elt><elt>Dulcinea</elt><elt>Valeda</elt><elt>Kalina</elt><elt>Augustine</elt>  
+  <Marinna>
+    <age>83</age>
+  </Marinna>
+</root>

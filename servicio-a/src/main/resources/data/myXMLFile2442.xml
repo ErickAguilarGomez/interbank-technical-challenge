@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Noman"
+  city="Sri Jayawardenapura-Kotte"
+  country="Grenada"
+  firstname2="Nita"
+  lastname2="Mallon"
+  email="Nita.Mallon@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>96.375</random_float>
+  <bool>true</bool>
+  <date>1993-12-13</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emilia</elt><elt>Elka</elt><elt>Caritta</elt><elt>Kittie</elt><elt>Jessy</elt>  
+  <Nita>
+    <age>98</age>
+  </Nita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Calla"
+  lastname="Fairweather"
+  city="Canberra"
+  country="United Arab Emirates"
+  firstname2="Tatiania"
+  lastname2="Levey"
+  email="Tatiania.Levey@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>86.731</random_float>
+  <bool>true</bool>
+  <date>1991-02-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marjie</elt><elt>Trudie</elt><elt>Kristina</elt><elt>Jasmina</elt><elt>Mariann</elt>  
+  <Tatiania>
+    <age>88</age>
+  </Tatiania>
+</root>

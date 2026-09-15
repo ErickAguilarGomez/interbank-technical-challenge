@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Stacy"
+  city="Assis"
+  country="Timor-Leste"
+  firstname2="Farrah"
+  lastname2="Gunn"
+  email="Farrah.Gunn@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>58.927</random_float>
+  <bool>false</bool>
+  <date>1999-06-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Pierette</elt><elt>Daphne</elt><elt>Jeanna</elt><elt>Clary</elt><elt>Gisela</elt>  
+  <Farrah>
+    <age>36</age>
+  </Farrah>
+</root>

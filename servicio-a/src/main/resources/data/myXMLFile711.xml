@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elbertina"
+  lastname="Colyer"
+  city="Monterrey"
+  country="Iran, Islamic Republic Of"
+  firstname2="Marjie"
+  lastname2="Danby"
+  email="Marjie.Danby@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>80.284</random_float>
+  <bool>true</bool>
+  <date>1984-05-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kelly</elt><elt>Barbara</elt><elt>Alie</elt><elt>Maryellen</elt><elt>Dorice</elt>  
+  <Marjie>
+    <age>67</age>
+  </Marjie>
+</root>

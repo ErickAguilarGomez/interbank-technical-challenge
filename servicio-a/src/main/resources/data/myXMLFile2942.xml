@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Odessa"
+  lastname="Emmaline"
+  city="Yaren District"
+  country="Georgia"
+  firstname2="Corene"
+  lastname2="Imelida"
+  email="Corene.Imelida@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>57.047</random_float>
+  <bool>false</bool>
+  <date>1990-12-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mariann</elt><elt>Phedra</elt><elt>Amara</elt><elt>Janenna</elt><elt>Aigneis</elt>  
+  <Corene>
+    <age>70</age>
+  </Corene>
+</root>

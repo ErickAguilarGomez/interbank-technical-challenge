@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anestassia"
+  lastname="Goth"
+  city="Turin"
+  country="Cameroon"
+  firstname2="Annecorinne"
+  lastname2="Lipson"
+  email="Annecorinne.Lipson@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>18.079</random_float>
+  <bool>false</bool>
+  <date>1990-06-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lulita</elt><elt>Maisey</elt><elt>Gwyneth</elt><elt>Larine</elt><elt>Basia</elt>  
+  <Annecorinne>
+    <age>64</age>
+  </Annecorinne>
+</root>

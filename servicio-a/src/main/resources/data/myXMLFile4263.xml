@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kara-Lynn"
+  lastname="Boehike"
+  city="Luxembourg (city)"
+  country="Cayman Islands"
+  firstname2="Sherrie"
+  lastname2="Albertine"
+  email="Sherrie.Albertine@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>23.94</random_float>
+  <bool>true</bool>
+  <date>1982-04-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Celene</elt><elt>Elvira</elt><elt>Tonia</elt><elt>Andree</elt><elt>Etta</elt>  
+  <Sherrie>
+    <age>50</age>
+  </Sherrie>
+</root>

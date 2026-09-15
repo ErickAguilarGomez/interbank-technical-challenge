@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emylee"
+  lastname="Aprile"
+  city="Zamboanga City"
+  country="Guinea"
+  firstname2="Elise"
+  lastname2="Chandler"
+  email="Elise.Chandler@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>83.616</random_float>
+  <bool>true</bool>
+  <date>1991-11-04</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Phedra</elt><elt>Dominga</elt><elt>Fidelia</elt><elt>Gerrie</elt><elt>Alisha</elt>  
+  <Elise>
+    <age>37</age>
+  </Elise>
+</root>

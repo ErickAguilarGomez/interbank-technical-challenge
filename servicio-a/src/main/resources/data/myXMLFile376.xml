@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Randene"
+  city="Vatican City"
+  country="Italy"
+  firstname2="Tracey"
+  lastname2="Valerio"
+  email="Tracey.Valerio@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>38.712</random_float>
+  <bool>true</bool>
+  <date>1984-03-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Emma</elt><elt>Glenda</elt><elt>Dorice</elt><elt>Benita</elt><elt>Shaylyn</elt>  
+  <Tracey>
+    <age>22</age>
+  </Tracey>
+</root>

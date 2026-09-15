@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Larine"
+  lastname="Fairweather"
+  city="Agartala"
+  country="United Kingdom"
+  firstname2="Olivette"
+  lastname2="Morgun"
+  email="Olivette.Morgun@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>55.957</random_float>
+  <bool>true</bool>
+  <date>1985-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dacia</elt><elt>Gerianna</elt><elt>Roxane</elt><elt>Joleen</elt><elt>Nicoli</elt>  
+  <Olivette>
+    <age>99</age>
+  </Olivette>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathi"
+  lastname="Carvey"
+  city="Dunedin"
+  country="Lao People"S Democratic Republic"
+  firstname2="Arabel"
+  lastname2="Jotham"
+  email="Arabel.Jotham@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>9.249</random_float>
+  <bool>false</bool>
+  <date>1990-12-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cherrita</elt><elt>Tersina</elt><elt>Fina</elt><elt>Lily</elt><elt>Jemie</elt>  
+  <Arabel>
+    <age>25</age>
+  </Arabel>
+</root>

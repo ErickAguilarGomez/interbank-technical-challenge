@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marnia"
+  lastname="Flyn"
+  city="Ürümqi"
+  country="United States"
+  firstname2="Lesly"
+  lastname2="Si"
+  email="Lesly.Si@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>19.338</random_float>
+  <bool>true</bool>
+  <date>1980-12-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Melanie</elt><elt>Evaleen</elt><elt>Alleen</elt><elt>Marnia</elt><elt>Zia</elt>  
+  <Lesly>
+    <age>61</age>
+  </Lesly>
+</root>

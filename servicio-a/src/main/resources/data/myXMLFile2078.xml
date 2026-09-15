@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kylynn"
+  lastname="Bevin"
+  city="Buenos Aires"
+  country="Haiti"
+  firstname2="Isa"
+  lastname2="Jacobah"
+  email="Isa.Jacobah@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>47.965</random_float>
+  <bool>true</bool>
+  <date>1980-10-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Andree</elt><elt>Tomasina</elt><elt>Joelly</elt><elt>Cacilie</elt><elt>Ingrid</elt>  
+  <Isa>
+    <age>87</age>
+  </Isa>
+</root>

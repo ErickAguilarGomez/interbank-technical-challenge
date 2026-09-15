@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rivalee"
+  lastname="Ivens"
+  city="Adana"
+  country="Antigua and Barbuda"
+  firstname2="Blinni"
+  lastname2="Geffner"
+  email="Blinni.Geffner@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>95.971</random_float>
+  <bool>false</bool>
+  <date>1988-07-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Celisse</elt><elt>Viki</elt><elt>Marcelline</elt><elt>Janis</elt><elt>Layla</elt>  
+  <Blinni>
+    <age>75</age>
+  </Blinni>
+</root>

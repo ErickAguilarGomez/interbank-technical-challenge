@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tami"
+  lastname="Waldron"
+  city="Yakutsk"
+  country="Slovenia"
+  firstname2="Lucille"
+  lastname2="Reneta"
+  email="Lucille.Reneta@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>50.264</random_float>
+  <bool>true</bool>
+  <date>1997-05-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Adore</elt><elt>Larine</elt><elt>Marleah</elt><elt>Fina</elt><elt>Ariela</elt>  
+  <Lucille>
+    <age>51</age>
+  </Lucille>
+</root>

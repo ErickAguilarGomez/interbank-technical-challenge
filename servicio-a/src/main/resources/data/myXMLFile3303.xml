@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Miquela"
+  lastname="Gregrory"
+  city="Luanda"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Jacenta"
+  lastname2="Faso"
+  email="Jacenta.Faso@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>28.951</random_float>
+  <bool>false</bool>
+  <date>1999-10-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Odessa</elt><elt>Cathyleen</elt><elt>Ulrike</elt><elt>Felice</elt><elt>Anthia</elt>  
+  <Jacenta>
+    <age>83</age>
+  </Jacenta>
+</root>

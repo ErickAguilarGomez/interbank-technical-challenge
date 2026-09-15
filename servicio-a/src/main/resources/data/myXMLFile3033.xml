@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mamie"
+  lastname="Madaih"
+  city="Gaziantep"
+  country="Gabon"
+  firstname2="Daune"
+  lastname2="Hollingsworth"
+  email="Daune.Hollingsworth@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>5.238</random_float>
+  <bool>true</bool>
+  <date>1995-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gilligan</elt><elt>Bernardine</elt><elt>Benita</elt><elt>Elka</elt><elt>Lorne</elt>  
+  <Daune>
+    <age>42</age>
+  </Daune>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tilly"
+  lastname="Ammann"
+  city="Valparaíso"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Sherrie"
+  lastname2="Wenda"
+  email="Sherrie.Wenda@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>28.783</random_float>
+  <bool>true</bool>
+  <date>1986-03-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Devina</elt><elt>Wynne</elt><elt>Marcy</elt><elt>Berta</elt><elt>Fidelia</elt>  
+  <Sherrie>
+    <age>26</age>
+  </Sherrie>
+</root>

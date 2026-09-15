@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Hourigan"
+  city="Macau"
+  country="Cape Verde"
+  firstname2="Nariko"
+  lastname2="Darbie"
+  email="Nariko.Darbie@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>13.685</random_float>
+  <bool>false</bool>
+  <date>1990-04-02</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frances</elt><elt>Cherilyn</elt><elt>Adelle</elt><elt>Genovera</elt><elt>Sam</elt>  
+  <Nariko>
+    <age>36</age>
+  </Nariko>
+</root>

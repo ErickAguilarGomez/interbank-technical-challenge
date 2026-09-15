@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariann"
+  lastname="Lutero"
+  city="Tucson"
+  country="Finland"
+  firstname2="Gabi"
+  lastname2="Bandeen"
+  email="Gabi.Bandeen@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>87.985</random_float>
+  <bool>false</bool>
+  <date>1984-05-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Emilia</elt><elt>Yolane</elt><elt>Margarette</elt><elt>Sheelagh</elt><elt>Cassondra</elt>  
+  <Gabi>
+    <age>25</age>
+  </Gabi>
+</root>

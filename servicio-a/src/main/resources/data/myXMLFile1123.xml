@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alex"
+  lastname="Jarib"
+  city="Tiraspol"
+  country="Isle of Man"
+  firstname2="Leeanne"
+  lastname2="Wallis"
+  email="Leeanne.Wallis@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>90.094</random_float>
+  <bool>true</bool>
+  <date>1984-05-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Janis</elt><elt>Cristine</elt><elt>Gusty</elt><elt>Kenna</elt><elt>Ilse</elt>  
+  <Leeanne>
+    <age>40</age>
+  </Leeanne>
+</root>

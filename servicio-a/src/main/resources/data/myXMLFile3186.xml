@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agnese"
+  lastname="Rustice"
+  city="Manila"
+  country="Suriname"
+  firstname2="Jessamyn"
+  lastname2="Holtz"
+  email="Jessamyn.Holtz@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>56.223</random_float>
+  <bool>true</bool>
+  <date>1998-03-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Layla</elt><elt>Gilligan</elt><elt>Celene</elt><elt>Raquela</elt><elt>Melanie</elt>  
+  <Jessamyn>
+    <age>75</age>
+  </Jessamyn>
+</root>

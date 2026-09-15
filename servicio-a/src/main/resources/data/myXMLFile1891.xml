@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beatriz"
+  lastname="Leonard"
+  city="Tskhinvali"
+  country="Burkina Faso"
+  firstname2="Delilah"
+  lastname2="Mallon"
+  email="Delilah.Mallon@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>83.722</random_float>
+  <bool>false</bool>
+  <date>1989-09-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tiffie</elt><elt>Maurene</elt><elt>Agathe</elt><elt>Teddie</elt><elt>Lynnea</elt>  
+  <Delilah>
+    <age>87</age>
+  </Delilah>
+</root>

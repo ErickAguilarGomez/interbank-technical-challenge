@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Anestassia"
+  city="Córdoba"
+  country="Slovenia"
+  firstname2="Chrystel"
+  lastname2="Center"
+  email="Chrystel.Center@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>9.624</random_float>
+  <bool>false</bool>
+  <date>1987-01-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Melina</elt><elt>Margalo</elt><elt>Mady</elt><elt>Teddie</elt><elt>Nannie</elt>  
+  <Chrystel>
+    <age>27</age>
+  </Chrystel>
+</root>

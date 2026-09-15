@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jeanna"
+  lastname="Lia"
+  city="Managua"
+  country="Bouvet Island"
+  firstname2="Henriette"
+  lastname2="Maxi"
+  email="Henriette.Maxi@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>92.382</random_float>
+  <bool>false</bool>
+  <date>1985-01-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Theodora</elt><elt>Carol-Jean</elt><elt>Constance</elt><elt>Shaine</elt><elt>Meghann</elt>  
+  <Henriette>
+    <age>20</age>
+  </Henriette>
+</root>

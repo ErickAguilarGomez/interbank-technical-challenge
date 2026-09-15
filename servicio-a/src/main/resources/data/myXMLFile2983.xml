@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mathilda"
+  lastname="Sigfrid"
+  city="Naypyidaw"
+  country="Virgin Islands, U.S."
+  firstname2="Karina"
+  lastname2="Chrystel"
+  email="Karina.Chrystel@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>36.061</random_float>
+  <bool>false</bool>
+  <date>1994-11-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dale</elt><elt>Gaylene</elt><elt>Delilah</elt><elt>Ruthe</elt><elt>Riannon</elt>  
+  <Karina>
+    <age>53</age>
+  </Karina>
+</root>

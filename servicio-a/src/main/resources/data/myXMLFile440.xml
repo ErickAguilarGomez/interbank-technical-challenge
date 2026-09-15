@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sashenka"
+  lastname="Tannie"
+  city="Linz"
+  country="Iran, Islamic Republic Of"
+  firstname2="Debee"
+  lastname2="Fancie"
+  email="Debee.Fancie@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>10.009</random_float>
+  <bool>true</bool>
+  <date>1986-10-18</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Odessa</elt><elt>Aeriela</elt><elt>Orelia</elt><elt>Selia</elt><elt>Kimmy</elt>  
+  <Debee>
+    <age>37</age>
+  </Debee>
+</root>

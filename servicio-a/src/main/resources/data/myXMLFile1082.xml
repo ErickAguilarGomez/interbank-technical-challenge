@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rayna"
+  lastname="Lorenz"
+  city="Manzini"
+  country="Comoros"
+  firstname2="Daryl"
+  lastname2="Liva"
+  email="Daryl.Liva@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>99.657</random_float>
+  <bool>false</bool>
+  <date>1983-04-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Queenie</elt><elt>Pearline</elt><elt>Molli</elt><elt>Gretal</elt><elt>Stacey</elt>  
+  <Daryl>
+    <age>59</age>
+  </Daryl>
+</root>

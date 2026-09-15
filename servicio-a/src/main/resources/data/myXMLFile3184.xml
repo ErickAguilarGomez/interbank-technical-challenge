@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sara-Ann"
+  lastname="Ledah"
+  city="Porto Velho"
+  country="Venezuela"
+  firstname2="Donnie"
+  lastname2="Jerald"
+  email="Donnie.Jerald@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>13.107</random_float>
+  <bool>true</bool>
+  <date>1995-11-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sybille</elt><elt>Mariele</elt><elt>Anestassia</elt><elt>Jillayne</elt><elt>Eugine</elt>  
+  <Donnie>
+    <age>61</age>
+  </Donnie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lolita"
+  lastname="Barrus"
+  city="Kathmandu"
+  country="Jamaica"
+  firstname2="Betta"
+  lastname2="Duwalt"
+  email="Betta.Duwalt@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>75.331</random_float>
+  <bool>true</bool>
+  <date>1985-11-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nonnah</elt><elt>Nikki</elt><elt>Misha</elt><elt>Xylina</elt><elt>Sue</elt>  
+  <Betta>
+    <age>51</age>
+  </Betta>
+</root>

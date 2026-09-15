@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carol-Jean"
+  lastname="Desai"
+  city="Huế"
+  country="Saint Kitts and Nevis"
+  firstname2="Silvana"
+  lastname2="Scammon"
+  email="Silvana.Scammon@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>42.714</random_float>
+  <bool>true</bool>
+  <date>1989-09-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Amalie</elt><elt>Dione</elt><elt>Codie</elt><elt>Jemie</elt><elt>Gertrud</elt>  
+  <Silvana>
+    <age>18</age>
+  </Silvana>
+</root>

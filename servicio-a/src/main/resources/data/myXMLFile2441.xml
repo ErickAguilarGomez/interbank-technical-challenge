@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zaria"
+  lastname="Moseley"
+  city="Nouakchott"
+  country="Tokelau"
+  firstname2="Briney"
+  lastname2="Gillan"
+  email="Briney.Gillan@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>79.583</random_float>
+  <bool>true</bool>
+  <date>1980-11-18</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gianina</elt><elt>Bee</elt><elt>Ginnie</elt><elt>Bobbi</elt><elt>Bettine</elt>  
+  <Briney>
+    <age>98</age>
+  </Briney>
+</root>

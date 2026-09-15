@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="Herrera"
+  city="Montevideo"
+  country="South Africa"
+  firstname2="Brana"
+  lastname2="Paton"
+  email="Brana.Paton@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>99.31</random_float>
+  <bool>true</bool>
+  <date>1996-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Bettine</elt><elt>Lila</elt><elt>Fayre</elt><elt>Rani</elt><elt>Florie</elt>  
+  <Brana>
+    <age>87</age>
+  </Brana>
+</root>

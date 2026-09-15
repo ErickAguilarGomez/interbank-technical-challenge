@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharlene"
+  lastname="Lilybelle"
+  city="Petropavlovsk-Kamchatsky"
+  country="New Zealand"
+  firstname2="Anthia"
+  lastname2="Elvyn"
+  email="Anthia.Elvyn@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>85.788</random_float>
+  <bool>false</bool>
+  <date>1995-10-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Josephine</elt><elt>Aurelie</elt><elt>Queenie</elt><elt>Pierette</elt><elt>Annora</elt>  
+  <Anthia>
+    <age>18</age>
+  </Anthia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Kendrick"
+  city="Panama City"
+  country="South Africa"
+  firstname2="Tybie"
+  lastname2="Arvo"
+  email="Tybie.Arvo@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>12.597</random_float>
+  <bool>false</bool>
+  <date>1995-02-17</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ericka</elt><elt>Lorenza</elt><elt>Mamie</elt><elt>Micheline</elt><elt>Frank</elt>  
+  <Tybie>
+    <age>69</age>
+  </Tybie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Lilas"
+  city="Lviv"
+  country="AndorrA"
+  firstname2="Celisse"
+  lastname2="Vanni"
+  email="Celisse.Vanni@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>23.886</random_float>
+  <bool>false</bool>
+  <date>1981-04-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gisela</elt><elt>Tina</elt><elt>Rosaline</elt><elt>Roslyn</elt><elt>Molli</elt>  
+  <Celisse>
+    <age>25</age>
+  </Celisse>
+</root>

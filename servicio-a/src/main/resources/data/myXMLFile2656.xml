@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fredericka"
+  lastname="Timon"
+  city="Nizhny Novgorod"
+  country="Germany"
+  firstname2="Sonni"
+  lastname2="Colbert"
+  email="Sonni.Colbert@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>36.614</random_float>
+  <bool>true</bool>
+  <date>1987-01-22</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Natka</elt><elt>Karlee</elt><elt>Amalie</elt><elt>Juliane</elt><elt>Wanda</elt>  
+  <Sonni>
+    <age>62</age>
+  </Sonni>
+</root>

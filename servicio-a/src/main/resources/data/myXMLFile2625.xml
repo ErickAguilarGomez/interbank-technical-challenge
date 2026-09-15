@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cecile"
+  lastname="Clarissa"
+  city="Iloilo City"
+  country="Iran, Islamic Republic Of"
+  firstname2="Loree"
+  lastname2="Natica"
+  email="Loree.Natica@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>85.221</random_float>
+  <bool>false</bool>
+  <date>1992-04-27</date>
+  <regEx>hellooo world</regEx>
+  <enum>generator</enum>
+  <elt>Janeczka</elt><elt>Sallie</elt><elt>Daune</elt><elt>Charmaine</elt><elt>Elora</elt>  
+  <Loree>
+    <age>73</age>
+  </Loree>
+</root>

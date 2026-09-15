@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yetty"
+  lastname="Bashemeth"
+  city="Cleveland"
+  country="Chad"
+  firstname2="Kittie"
+  lastname2="Mullane"
+  email="Kittie.Mullane@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>16.096</random_float>
+  <bool>false</bool>
+  <date>1985-08-28</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Myrtice</elt><elt>Alleen</elt><elt>Farrah</elt><elt>Sheree</elt><elt>Margarette</elt>  
+  <Kittie>
+    <age>98</age>
+  </Kittie>
+</root>

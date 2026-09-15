@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jemie"
+  lastname="Santoro"
+  city="Cleveland"
+  country="Honduras"
+  firstname2="Maridel"
+  lastname2="Ferrell"
+  email="Maridel.Ferrell@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>79</random_float>
+  <bool>true</bool>
+  <date>1994-05-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kirbee</elt><elt>Melisent</elt><elt>Lelah</elt><elt>Mellicent</elt><elt>Valera</elt>  
+  <Maridel>
+    <age>92</age>
+  </Maridel>
+</root>

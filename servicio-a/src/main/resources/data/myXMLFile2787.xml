@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Azeria"
+  city="Rochester"
+  country="Chad"
+  firstname2="Sheelagh"
+  lastname2="Merriott"
+  email="Sheelagh.Merriott@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>81.485</random_float>
+  <bool>true</bool>
+  <date>1999-01-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gwenneth</elt><elt>Debee</elt><elt>Antonietta</elt><elt>Alisha</elt><elt>Agnese</elt>  
+  <Sheelagh>
+    <age>32</age>
+  </Sheelagh>
+</root>

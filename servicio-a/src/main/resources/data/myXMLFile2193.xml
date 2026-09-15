@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Fiann"
+  city="Bergen"
+  country="Sri Lanka"
+  firstname2="Babita"
+  lastname2="Jobi"
+  email="Babita.Jobi@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>88.839</random_float>
+  <bool>false</bool>
+  <date>1994-12-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Caritta</elt><elt>Roslyn</elt><elt>Hollie</elt><elt>Blake</elt><elt>Kary</elt>  
+  <Babita>
+    <age>70</age>
+  </Babita>
+</root>

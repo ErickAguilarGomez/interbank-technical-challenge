@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wendi"
+  lastname="Raseda"
+  city="New Delhi"
+  country="Madagascar"
+  firstname2="Mallory"
+  lastname2="Vharat"
+  email="Mallory.Vharat@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>72.473</random_float>
+  <bool>true</bool>
+  <date>1994-07-27</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ninnetta</elt><elt>Rochette</elt><elt>Jackie</elt><elt>Ernesta</elt><elt>Hettie</elt>  
+  <Mallory>
+    <age>89</age>
+  </Mallory>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darlleen"
+  lastname="Cimbura"
+  city="Rockhampton"
+  country="Papua New Guinea"
+  firstname2="Edee"
+  lastname2="Winthorpe"
+  email="Edee.Winthorpe@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>43.313</random_float>
+  <bool>false</bool>
+  <date>1990-10-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ginnie</elt><elt>Tori</elt><elt>Silvana</elt><elt>Chastity</elt><elt>Lyssa</elt>  
+  <Edee>
+    <age>22</age>
+  </Edee>
+</root>

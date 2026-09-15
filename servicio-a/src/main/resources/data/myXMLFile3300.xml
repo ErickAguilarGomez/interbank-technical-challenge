@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eadie"
+  lastname="Roxanna"
+  city="Nukuʻalofa"
+  country="Qatar"
+  firstname2="Theodora"
+  lastname2="Giule"
+  email="Theodora.Giule@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>39.967</random_float>
+  <bool>true</bool>
+  <date>1984-11-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorice</elt><elt>Roslyn</elt><elt>Veda</elt><elt>Rosabelle</elt><elt>Natka</elt>  
+  <Theodora>
+    <age>22</age>
+  </Theodora>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maurene"
+  lastname="Shirberg"
+  city="Cardiff"
+  country="Vanuatu"
+  firstname2="Louella"
+  lastname2="Zuzana"
+  email="Louella.Zuzana@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>53.381</random_float>
+  <bool>true</bool>
+  <date>1981-02-16</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Olwen</elt><elt>Rozele</elt><elt>Reeba</elt><elt>Kimmy</elt><elt>Leanna</elt>  
+  <Louella>
+    <age>73</age>
+  </Louella>
+</root>

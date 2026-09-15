@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Weitman"
+  city="Buffalo"
+  country="Iceland"
+  firstname2="Oona"
+  lastname2="Erb"
+  email="Oona.Erb@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>86.249</random_float>
+  <bool>true</bool>
+  <date>1984-11-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Max</elt><elt>Corene</elt><elt>Mahalia</elt><elt>Nerta</elt><elt>Riannon</elt>  
+  <Oona>
+    <age>75</age>
+  </Oona>
+</root>

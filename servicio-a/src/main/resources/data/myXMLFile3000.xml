@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyssa"
+  lastname="Lareena"
+  city="Osaka"
+  country="Reunion"
+  firstname2="Korrie"
+  lastname2="Codding"
+  email="Korrie.Codding@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>55.074</random_float>
+  <bool>true</bool>
+  <date>1982-01-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lizzie</elt><elt>Agnese</elt><elt>Cassandra</elt><elt>Meriel</elt><elt>Clary</elt>  
+  <Korrie>
+    <age>52</age>
+  </Korrie>
+</root>

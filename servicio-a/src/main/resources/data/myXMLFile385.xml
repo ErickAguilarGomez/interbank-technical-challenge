@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vinita"
+  lastname="Vary"
+  city="Almaty"
+  country="Cambodia"
+  firstname2="Averyl"
+  lastname2="Philipp"
+  email="Averyl.Philipp@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>86.325</random_float>
+  <bool>false</bool>
+  <date>1988-05-02</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rivalee</elt><elt>Kerrin</elt><elt>Christy</elt><elt>Clo</elt><elt>Elie</elt>  
+  <Averyl>
+    <age>33</age>
+  </Averyl>
+</root>

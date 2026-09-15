@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Bivins"
+  city="Belfast"
+  country="Somalia"
+  firstname2="Sissy"
+  lastname2="Tamar"
+  email="Sissy.Tamar@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>28.841</random_float>
+  <bool>true</bool>
+  <date>1983-11-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rori</elt><elt>Lynnea</elt><elt>Hollie</elt><elt>Kristina</elt><elt>Cindelyn</elt>  
+  <Sissy>
+    <age>23</age>
+  </Sissy>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charlena"
+  lastname="Sinegold"
+  city="Medan"
+  country="Kyrgyzstan"
+  firstname2="Raquela"
+  lastname2="Morehouse"
+  email="Raquela.Morehouse@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>42.131</random_float>
+  <bool>true</bool>
+  <date>1986-08-15</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nataline</elt><elt>Alameda</elt><elt>Gilda</elt><elt>Tierney</elt><elt>Dotty</elt>  
+  <Raquela>
+    <age>87</age>
+  </Raquela>
+</root>

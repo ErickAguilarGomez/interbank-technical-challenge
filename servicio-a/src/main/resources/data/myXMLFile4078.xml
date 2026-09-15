@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minda"
+  lastname="Ursulette"
+  city="Lomé"
+  country="Togo"
+  firstname2="Letizia"
+  lastname2="Wesle"
+  email="Letizia.Wesle@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>12.712</random_float>
+  <bool>false</bool>
+  <date>1984-01-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Glynnis</elt><elt>Norine</elt><elt>Sam</elt><elt>Chrystel</elt><elt>Veda</elt>  
+  <Letizia>
+    <age>29</age>
+  </Letizia>
+</root>

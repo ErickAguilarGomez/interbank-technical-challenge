@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jinny"
+  lastname="Yam"
+  city="Moscow"
+  country="Bosnia and Herzegovina"
+  firstname2="Nita"
+  lastname2="Jary"
+  email="Nita.Jary@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>35.435</random_float>
+  <bool>false</bool>
+  <date>1998-02-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nelle</elt><elt>Dulcinea</elt><elt>Carol-Jean</elt><elt>Margette</elt><elt>Marinna</elt>  
+  <Nita>
+    <age>94</age>
+  </Nita>
+</root>

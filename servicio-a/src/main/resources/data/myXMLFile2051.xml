@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janenna"
+  lastname="Hilbert"
+  city="Port Elizabeth"
+  country="Tokelau"
+  firstname2="Lexine"
+  lastname2="Lymann"
+  email="Lexine.Lymann@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>26.656</random_float>
+  <bool>true</bool>
+  <date>1990-02-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Winifred</elt><elt>Rochette</elt><elt>Philis</elt><elt>Nerta</elt><elt>Emylee</elt>  
+  <Lexine>
+    <age>41</age>
+  </Lexine>
+</root>

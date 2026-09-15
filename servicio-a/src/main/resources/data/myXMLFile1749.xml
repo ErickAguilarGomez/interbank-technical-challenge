@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Medrek"
+  city="Hai Phong"
+  country="Tokelau"
+  firstname2="Genevra"
+  lastname2="Pelagias"
+  email="Genevra.Pelagias@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>64.638</random_float>
+  <bool>true</bool>
+  <date>1986-05-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ardeen</elt><elt>Elbertina</elt><elt>Gabi</elt><elt>Arlina</elt><elt>Luci</elt>  
+  <Genevra>
+    <age>95</age>
+  </Genevra>
+</root>

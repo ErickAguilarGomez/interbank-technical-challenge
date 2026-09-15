@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margette"
+  lastname="Graig"
+  city="Wellington"
+  country="Ethiopia"
+  firstname2="Cathie"
+  lastname2="Delila"
+  email="Cathie.Delila@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>62.877</random_float>
+  <bool>true</bool>
+  <date>1998-07-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Antonietta</elt><elt>Diena</elt><elt>Evaleen</elt><elt>Maye</elt><elt>Clementine</elt>  
+  <Cathie>
+    <age>23</age>
+  </Cathie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobbi"
+  lastname="Santoro"
+  city="Havana"
+  country="China"
+  firstname2="Reeba"
+  lastname2="Adamsen"
+  email="Reeba.Adamsen@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>70.337</random_float>
+  <bool>true</bool>
+  <date>1982-09-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roxane</elt><elt>Aurelie</elt><elt>Ernesta</elt><elt>Lizzie</elt><elt>Ada</elt>  
+  <Reeba>
+    <age>47</age>
+  </Reeba>
+</root>

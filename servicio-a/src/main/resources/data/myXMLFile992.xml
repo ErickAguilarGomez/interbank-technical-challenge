@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurelie"
+  lastname="Kenney"
+  city="Quezon City"
+  country="Paraguay"
+  firstname2="Nessie"
+  lastname2="Briney"
+  email="Nessie.Briney@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>32.788</random_float>
+  <bool>true</bool>
+  <date>1982-07-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Renie</elt><elt>Kristina</elt><elt>Berget</elt><elt>Marsiella</elt><elt>Alleen</elt>  
+  <Nessie>
+    <age>69</age>
+  </Nessie>
+</root>

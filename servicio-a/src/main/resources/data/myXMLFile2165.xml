@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carolina"
+  lastname="Ferrell"
+  city="Alexandria"
+  country="Madagascar"
+  firstname2="Johna"
+  lastname2="Middleton"
+  email="Johna.Middleton@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>78.111</random_float>
+  <bool>true</bool>
+  <date>1989-08-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Althea</elt><elt>Monika</elt><elt>Pierette</elt><elt>Philis</elt><elt>Catrina</elt>  
+  <Johna>
+    <age>43</age>
+  </Johna>
+</root>

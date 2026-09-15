@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Greenwald"
+  city="Valletta"
+  country="Antigua and Barbuda"
+  firstname2="Danika"
+  lastname2="Buffum"
+  email="Danika.Buffum@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>59.307</random_float>
+  <bool>false</bool>
+  <date>1989-10-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Veda</elt><elt>Shandie</elt><elt>Adore</elt><elt>Lorne</elt><elt>Tera</elt>  
+  <Danika>
+    <age>79</age>
+  </Danika>
+</root>

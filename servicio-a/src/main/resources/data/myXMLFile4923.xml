@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Tomasina"
+  city="Port-au-Prince"
+  country="Mauritania"
+  firstname2="Tracey"
+  lastname2="Reneta"
+  email="Tracey.Reneta@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>20.895</random_float>
+  <bool>false</bool>
+  <date>1985-05-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Margarette</elt><elt>Tilly</elt><elt>Bettine</elt><elt>Marline</elt><elt>Fanny</elt>  
+  <Tracey>
+    <age>36</age>
+  </Tracey>
+</root>

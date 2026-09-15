@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorene"
+  lastname="Fry"
+  city="İzmir"
+  country="Nauru"
+  firstname2="Aeriela"
+  lastname2="Kaete"
+  email="Aeriela.Kaete@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>46.422</random_float>
+  <bool>true</bool>
+  <date>1985-01-14</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Vinita</elt><elt>Desirae</elt><elt>Elise</elt><elt>Nadine</elt><elt>Aryn</elt>  
+  <Aeriela>
+    <age>34</age>
+  </Aeriela>
+</root>

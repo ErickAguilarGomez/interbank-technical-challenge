@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donetta"
+  lastname="Burnside"
+  city="Malmö"
+  country="Australia"
+  firstname2="Starla"
+  lastname2="Larochelle"
+  email="Starla.Larochelle@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>19.085</random_float>
+  <bool>false</bool>
+  <date>1996-12-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Farrah</elt><elt>Dorothy</elt><elt>Clementine</elt><elt>Averyl</elt><elt>Jessamyn</elt>  
+  <Starla>
+    <age>69</age>
+  </Starla>
+</root>

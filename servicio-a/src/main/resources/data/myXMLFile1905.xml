@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristan"
+  lastname="Pond"
+  city="Nanning"
+  country="Brazil"
+  firstname2="Julieta"
+  lastname2="Tybald"
+  email="Julieta.Tybald@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>76.764</random_float>
+  <bool>true</bool>
+  <date>1985-01-28</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Amelia</elt><elt>Sibella</elt><elt>Dode</elt><elt>Hettie</elt><elt>Madalyn</elt>  
+  <Julieta>
+    <age>90</age>
+  </Julieta>
+</root>

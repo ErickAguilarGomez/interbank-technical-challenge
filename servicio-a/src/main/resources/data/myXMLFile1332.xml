@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Sacken"
+  city="Charlotte"
+  country="Norway"
+  firstname2="Beatriz"
+  lastname2="Nikaniki"
+  email="Beatriz.Nikaniki@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>12.864</random_float>
+  <bool>true</bool>
+  <date>1988-07-09</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gloria</elt><elt>Phedra</elt><elt>Fred</elt><elt>Gianina</elt><elt>Cyb</elt>  
+  <Beatriz>
+    <age>18</age>
+  </Beatriz>
+</root>

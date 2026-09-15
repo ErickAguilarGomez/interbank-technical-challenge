@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Betta"
+  lastname="Hourigan"
+  city="Guatemala City"
+  country="Madagascar"
+  firstname2="Leanna"
+  lastname2="Phaidra"
+  email="Leanna.Phaidra@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>87.262</random_float>
+  <bool>true</bool>
+  <date>1993-11-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Atlanta</elt><elt>Randa</elt><elt>Pollyanna</elt><elt>Lizzie</elt><elt>Fernande</elt>  
+  <Leanna>
+    <age>76</age>
+  </Leanna>
+</root>

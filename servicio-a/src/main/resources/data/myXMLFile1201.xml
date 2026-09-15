@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flo"
+  lastname="Kare"
+  city="Wichita"
+  country="Peru"
+  firstname2="Dulcinea"
+  lastname2="Palocz"
+  email="Dulcinea.Palocz@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>96.434</random_float>
+  <bool>true</bool>
+  <date>1985-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Belva</elt><elt>Micheline</elt><elt>Xylina</elt><elt>Adele</elt><elt>Jordan</elt>  
+  <Dulcinea>
+    <age>91</age>
+  </Dulcinea>
+</root>

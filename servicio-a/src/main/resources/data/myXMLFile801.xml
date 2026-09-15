@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Penelopa"
+  lastname="Madelene"
+  city="Kaliningrad"
+  country="Austria"
+  firstname2="Latisha"
+  lastname2="Ammann"
+  email="Latisha.Ammann@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>23.832</random_float>
+  <bool>true</bool>
+  <date>1984-11-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lizzie</elt><elt>Nerta</elt><elt>Bernie</elt><elt>Chrystel</elt><elt>Merry</elt>  
+  <Latisha>
+    <age>72</age>
+  </Latisha>
+</root>

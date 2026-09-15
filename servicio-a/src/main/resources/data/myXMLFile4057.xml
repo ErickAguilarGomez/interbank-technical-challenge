@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Briney"
+  lastname="Allare"
+  city="Incheon"
+  country="Macao"
+  firstname2="Daryl"
+  lastname2="Kylander"
+  email="Daryl.Kylander@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>4.143</random_float>
+  <bool>false</bool>
+  <date>1986-01-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Melina</elt><elt>Lauryn</elt><elt>Fina</elt><elt>Kirstin</elt><elt>Oralee</elt>  
+  <Daryl>
+    <age>30</age>
+  </Daryl>
+</root>

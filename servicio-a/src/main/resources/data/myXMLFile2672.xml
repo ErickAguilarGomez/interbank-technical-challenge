@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emylee"
+  lastname="Cloris"
+  city="La Paz"
+  country="Nicaragua"
+  firstname2="Carlie"
+  lastname2="Dorcy"
+  email="Carlie.Dorcy@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>31.062</random_float>
+  <bool>false</bool>
+  <date>1985-02-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Amalie</elt><elt>Albertina</elt><elt>Verla</elt><elt>Nickie</elt><elt>Molli</elt>  
+  <Carlie>
+    <age>37</age>
+  </Carlie>
+</root>

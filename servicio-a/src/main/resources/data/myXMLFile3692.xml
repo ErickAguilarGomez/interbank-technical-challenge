@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Diena"
+  lastname="Marsden"
+  city="Nairobi"
+  country="Turkey"
+  firstname2="Roxane"
+  lastname2="Raimondo"
+  email="Roxane.Raimondo@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>87.371</random_float>
+  <bool>true</bool>
+  <date>1996-10-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Taffy</elt><elt>Suzette</elt><elt>Ashlee</elt><elt>Dennie</elt><elt>Jolyn</elt>  
+  <Roxane>
+    <age>54</age>
+  </Roxane>
+</root>

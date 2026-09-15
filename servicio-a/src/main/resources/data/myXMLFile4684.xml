@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Briney"
+  lastname="Bethany"
+  city="Abu Dhabi"
+  country="Costa Rica"
+  firstname2="Gaylene"
+  lastname2="Granoff"
+  email="Gaylene.Granoff@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>55.279</random_float>
+  <bool>false</bool>
+  <date>1981-07-30</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lorne</elt><elt>Calla</elt><elt>Valli</elt><elt>Marcy</elt><elt>Berget</elt>  
+  <Gaylene>
+    <age>47</age>
+  </Gaylene>
+</root>

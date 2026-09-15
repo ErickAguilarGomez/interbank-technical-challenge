@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carly"
+  lastname="Old"
+  city="Ouagadougou"
+  country="Virgin Islands, British"
+  firstname2="Raquela"
+  lastname2="Forrer"
+  email="Raquela.Forrer@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>74.558</random_float>
+  <bool>true</bool>
+  <date>1989-11-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Anthia</elt><elt>Paule</elt><elt>Valli</elt><elt>Kamilah</elt><elt>Correy</elt>  
+  <Raquela>
+    <age>88</age>
+  </Raquela>
+</root>

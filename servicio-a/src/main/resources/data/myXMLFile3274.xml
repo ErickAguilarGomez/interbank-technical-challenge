@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurore"
+  lastname="Nicoline"
+  city="El Aaiún"
+  country="Lebanon"
+  firstname2="Mildrid"
+  lastname2="Morehouse"
+  email="Mildrid.Morehouse@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>97.914</random_float>
+  <bool>false</bool>
+  <date>1998-07-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Stacey</elt><elt>Lily</elt><elt>Margarette</elt><elt>Tressa</elt><elt>Nickie</elt>  
+  <Mildrid>
+    <age>33</age>
+  </Mildrid>
+</root>

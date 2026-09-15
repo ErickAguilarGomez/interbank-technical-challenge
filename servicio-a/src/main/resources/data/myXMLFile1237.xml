@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nickie"
+  lastname="Bandeen"
+  city="Hanga Roa"
+  country="Cambodia"
+  firstname2="Fernande"
+  lastname2="Rozanna"
+  email="Fernande.Rozanna@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>99.35</random_float>
+  <bool>true</bool>
+  <date>1985-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lusa</elt><elt>Lexine</elt><elt>Dulce</elt><elt>Gui</elt><elt>Ericka</elt>  
+  <Fernande>
+    <age>50</age>
+  </Fernande>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Estell"
+  lastname="Lynn"
+  city="Bangkok"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Sandie"
+  lastname2="Afton"
+  email="Sandie.Afton@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>53.964</random_float>
+  <bool>false</bool>
+  <date>1997-05-14</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sabina</elt><elt>Zondra</elt><elt>Cassandra</elt><elt>Flo</elt><elt>Queenie</elt>  
+  <Sandie>
+    <age>43</age>
+  </Sandie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elfreda"
+  lastname="Estella"
+  city="St. George's"
+  country="Kyrgyzstan"
+  firstname2="Candy"
+  lastname2="Angelis"
+  email="Candy.Angelis@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>97.239</random_float>
+  <bool>true</bool>
+  <date>1990-02-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Winny</elt><elt>Malina</elt><elt>Cristabel</elt><elt>Natka</elt><elt>Odessa</elt>  
+  <Candy>
+    <age>26</age>
+  </Candy>
+</root>

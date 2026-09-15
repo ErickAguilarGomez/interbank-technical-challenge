@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Regina"
+  lastname="Aloise"
+  city="Suva"
+  country="Saint Kitts and Nevis"
+  firstname2="Liana"
+  lastname2="Vharat"
+  email="Liana.Vharat@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>86.874</random_float>
+  <bool>true</bool>
+  <date>1991-07-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Selma</elt><elt>Zsa Zsa</elt><elt>Arlena</elt><elt>Genovera</elt><elt>Melisent</elt>  
+  <Liana>
+    <age>25</age>
+  </Liana>
+</root>

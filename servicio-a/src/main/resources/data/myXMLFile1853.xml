@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shel"
+  lastname="Chapland"
+  city="Washington"
+  country="Egypt"
+  firstname2="Dari"
+  lastname2="Hewitt"
+  email="Dari.Hewitt@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>55.817</random_float>
+  <bool>true</bool>
+  <date>1999-05-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Johna</elt><elt>Karolina</elt><elt>Pearline</elt><elt>Binny</elt><elt>Myrtice</elt>  
+  <Dari>
+    <age>81</age>
+  </Dari>
+</root>

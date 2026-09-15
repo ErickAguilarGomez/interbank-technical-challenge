@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rani"
+  lastname="Terrence"
+  city="Montevideo"
+  country="Georgia"
+  firstname2="Marcy"
+  lastname2="Socha"
+  email="Marcy.Socha@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>1.214</random_float>
+  <bool>false</bool>
+  <date>1982-02-05</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Mildrid</elt><elt>Bobinette</elt><elt>Fernande</elt><elt>Jorry</elt><elt>Gisela</elt>  
+  <Marcy>
+    <age>32</age>
+  </Marcy>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nikki"
+  lastname="Sadowski"
+  city="Serekunda"
+  country="Western Sahara"
+  firstname2="Grier"
+  lastname2="Teryn"
+  email="Grier.Teryn@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>75.931</random_float>
+  <bool>true</bool>
+  <date>1999-12-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ermengarde</elt><elt>Christal</elt><elt>Marcy</elt><elt>Caritta</elt><elt>Sara-Ann</elt>  
+  <Grier>
+    <age>69</age>
+  </Grier>
+</root>

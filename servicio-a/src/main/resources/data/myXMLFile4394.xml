@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elbertina"
+  lastname="Callista"
+  city="Riverside"
+  country="French Southern Territories"
+  firstname2="Mallory"
+  lastname2="Alejoa"
+  email="Mallory.Alejoa@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>4.323</random_float>
+  <bool>false</bool>
+  <date>1995-07-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Catrina</elt><elt>Aili</elt><elt>Fernande</elt><elt>Mahalia</elt><elt>Sharai</elt>  
+  <Mallory>
+    <age>35</age>
+  </Mallory>
+</root>

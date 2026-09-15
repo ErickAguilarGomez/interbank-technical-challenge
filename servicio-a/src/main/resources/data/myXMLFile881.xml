@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shel"
+  lastname="Rosalba"
+  city="Leeds"
+  country="Saint Helena"
+  firstname2="Corene"
+  lastname2="Seessel"
+  email="Corene.Seessel@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>100.603</random_float>
+  <bool>true</bool>
+  <date>1989-09-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ellette</elt><elt>Jerry</elt><elt>Cyb</elt><elt>Zsa Zsa</elt><elt>Juliane</elt>  
+  <Corene>
+    <age>47</age>
+  </Corene>
+</root>

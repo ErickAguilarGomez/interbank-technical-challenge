@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stevana"
+  lastname="Brieta"
+  city="Dodoma"
+  country="Lesotho"
+  firstname2="Vita"
+  lastname2="Mayeda"
+  email="Vita.Mayeda@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>5.234</random_float>
+  <bool>true</bool>
+  <date>1985-10-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Basia</elt><elt>Carol-Jean</elt><elt>Ninnetta</elt><elt>Norine</elt><elt>Olwen</elt>  
+  <Vita>
+    <age>22</age>
+  </Vita>
+</root>

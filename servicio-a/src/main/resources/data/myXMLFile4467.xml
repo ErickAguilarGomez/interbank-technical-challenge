@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgetta"
+  lastname="Ackerley"
+  city="Lyon"
+  country="Viet Nam"
+  firstname2="Dorene"
+  lastname2="Judye"
+  email="Dorene.Judye@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>54.463</random_float>
+  <bool>false</bool>
+  <date>1990-05-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Taffy</elt><elt>Amelia</elt><elt>Bettine</elt><elt>Deedee</elt><elt>Dennie</elt>  
+  <Dorene>
+    <age>41</age>
+  </Dorene>
+</root>

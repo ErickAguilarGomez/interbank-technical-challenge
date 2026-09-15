@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roseline"
+  lastname="Yuille"
+  city="Ljubljana"
+  country="Belgium"
+  firstname2="Rani"
+  lastname2="Glenden"
+  email="Rani.Glenden@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>50.039</random_float>
+  <bool>true</bool>
+  <date>1996-11-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Annora</elt><elt>Jessy</elt><elt>Lily</elt><elt>Christal</elt><elt>Agathe</elt>  
+  <Rani>
+    <age>56</age>
+  </Rani>
+</root>

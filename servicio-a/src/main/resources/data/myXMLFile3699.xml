@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Ambrosia"
+  city="Taipei"
+  country="Virgin Islands, British"
+  firstname2="Wileen"
+  lastname2="Soneson"
+  email="Wileen.Soneson@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>34.375</random_float>
+  <bool>true</bool>
+  <date>1991-08-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Silvana</elt><elt>Tilly</elt><elt>Marika</elt><elt>Zaria</elt><elt>Adriana</elt>  
+  <Wileen>
+    <age>24</age>
+  </Wileen>
+</root>

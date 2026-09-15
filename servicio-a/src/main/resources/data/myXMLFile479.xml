@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maridel"
+  lastname="Barney"
+  city="Strasbourg"
+  country="Saint Lucia"
+  firstname2="Sonni"
+  lastname2="Cavan"
+  email="Sonni.Cavan@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>19.431</random_float>
+  <bool>false</bool>
+  <date>1993-05-03</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Blake</elt><elt>Jordan</elt><elt>Ann-Marie</elt><elt>Chloris</elt><elt>Cam</elt>  
+  <Sonni>
+    <age>85</age>
+  </Sonni>
+</root>

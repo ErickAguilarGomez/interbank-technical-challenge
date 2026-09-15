@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jordan"
+  lastname="Fleeta"
+  city="Newcastle"
+  country="Spain"
+  firstname2="Damaris"
+  lastname2="Mata"
+  email="Damaris.Mata@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>78.323</random_float>
+  <bool>true</bool>
+  <date>1985-08-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rochette</elt><elt>Ronna</elt><elt>Theodora</elt><elt>Beth</elt><elt>Viviene</elt>  
+  <Damaris>
+    <age>79</age>
+  </Damaris>
+</root>

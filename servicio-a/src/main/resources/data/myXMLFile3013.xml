@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kate"
+  lastname="Roscoe"
+  city="Ottawa"
+  country="Malta"
+  firstname2="Sidoney"
+  lastname2="Dawkins"
+  email="Sidoney.Dawkins@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>34.194</random_float>
+  <bool>false</bool>
+  <date>1984-02-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Atlanta</elt><elt>Madeleine</elt><elt>Susan</elt><elt>Elmira</elt><elt>Thalia</elt>  
+  <Sidoney>
+    <age>35</age>
+  </Sidoney>
+</root>

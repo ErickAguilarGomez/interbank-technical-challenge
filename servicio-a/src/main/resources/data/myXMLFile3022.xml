@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fred"
+  lastname="Brian"
+  city="Papeete"
+  country="Austria"
+  firstname2="Gisela"
+  lastname2="Dosia"
+  email="Gisela.Dosia@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>18.35</random_float>
+  <bool>true</bool>
+  <date>1985-12-20</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Charlena</elt><elt>Dorene</elt><elt>Mignon</elt><elt>Kaia</elt><elt>Alia</elt>  
+  <Gisela>
+    <age>83</age>
+  </Gisela>
+</root>

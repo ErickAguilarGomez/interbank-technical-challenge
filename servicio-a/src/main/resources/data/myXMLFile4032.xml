@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Atlanta"
+  lastname="Haerr"
+  city="Antananarivo"
+  country="Mozambique"
+  firstname2="Estell"
+  lastname2="Helve"
+  email="Estell.Helve@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>42.745</random_float>
+  <bool>true</bool>
+  <date>1988-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mireielle</elt><elt>Goldie</elt><elt>Rubie</elt><elt>Cristine</elt><elt>Chandra</elt>  
+  <Estell>
+    <age>40</age>
+  </Estell>
+</root>

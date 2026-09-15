@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janeczka"
+  lastname="Ilka"
+  city="Novosibirsk"
+  country="Tokelau"
+  firstname2="Lilith"
+  lastname2="Vacuva"
+  email="Lilith.Vacuva@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>29.137</random_float>
+  <bool>true</bool>
+  <date>1999-02-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Christal</elt><elt>Brianna</elt><elt>Mildrid</elt><elt>Ezmeralda</elt><elt>Sashenka</elt>  
+  <Lilith>
+    <age>30</age>
+  </Lilith>
+</root>

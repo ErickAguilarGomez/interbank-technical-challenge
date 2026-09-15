@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Paton"
+  city="Nouméa"
+  country="Afghanistan"
+  firstname2="Elora"
+  lastname2="Bandeen"
+  email="Elora.Bandeen@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>8.238</random_float>
+  <bool>false</bool>
+  <date>1985-10-04</date>
+  <regEx>helloooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lonnie</elt><elt>Karena</elt><elt>Gloria</elt><elt>Eolanda</elt><elt>Cathie</elt>  
+  <Elora>
+    <age>85</age>
+  </Elora>
+</root>

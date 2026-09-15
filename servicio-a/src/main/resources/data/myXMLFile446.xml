@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aaren"
+  lastname="Westphal"
+  city="Chiang Mai"
+  country="Papua New Guinea"
+  firstname2="Rhoda"
+  lastname2="Roumell"
+  email="Rhoda.Roumell@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>19.826</random_float>
+  <bool>false</bool>
+  <date>1983-06-08</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Chickie</elt><elt>Agnese</elt><elt>Doralynne</elt><elt>Margalo</elt><elt>Mariann</elt>  
+  <Rhoda>
+    <age>75</age>
+  </Rhoda>
+</root>

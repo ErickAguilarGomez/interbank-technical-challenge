@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Collen"
+  lastname="Freddi"
+  city="Las Vegas"
+  country="Saint Lucia"
+  firstname2="Josephine"
+  lastname2="Hashim"
+  email="Josephine.Hashim@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>86.575</random_float>
+  <bool>true</bool>
+  <date>1983-05-24</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Celene</elt><elt>Chere</elt><elt>Annaliese</elt><elt>Lorenza</elt><elt>Charlena</elt>  
+  <Josephine>
+    <age>97</age>
+  </Josephine>
+</root>

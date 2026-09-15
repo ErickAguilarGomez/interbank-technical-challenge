@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="Ferino"
+  city="Seoul"
+  country="Comoros"
+  firstname2="Viki"
+  lastname2="Gaspard"
+  email="Viki.Gaspard@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>19.126</random_float>
+  <bool>true</bool>
+  <date>1988-12-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dorothy</elt><elt>Nananne</elt><elt>Jsandye</elt><elt>Fawne</elt><elt>Helsa</elt>  
+  <Viki>
+    <age>25</age>
+  </Viki>
+</root>

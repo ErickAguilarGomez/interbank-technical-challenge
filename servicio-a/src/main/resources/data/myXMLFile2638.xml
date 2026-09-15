@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Kress"
+  city="Las Palmas de Gran Canaria"
+  country="Egypt"
+  firstname2="Barbara"
+  lastname2="Celestine"
+  email="Barbara.Celestine@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>37.675</random_float>
+  <bool>true</bool>
+  <date>1999-02-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ardys</elt><elt>Hermione</elt><elt>Antonietta</elt><elt>Eadie</elt><elt>Zia</elt>  
+  <Barbara>
+    <age>53</age>
+  </Barbara>
+</root>

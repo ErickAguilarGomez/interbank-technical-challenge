@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nanete"
+  lastname="Sophronia"
+  city="Rome"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Vivia"
+  lastname2="Melony"
+  email="Vivia.Melony@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>24.882</random_float>
+  <bool>false</bool>
+  <date>1982-03-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alex</elt><elt>Aeriela</elt><elt>Leia</elt><elt>Morganica</elt><elt>Aeriela</elt>  
+  <Vivia>
+    <age>78</age>
+  </Vivia>
+</root>

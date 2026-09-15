@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcelline"
+  lastname="Blase"
+  city="Willemstad"
+  country="Reunion"
+  firstname2="Marjie"
+  lastname2="Screens"
+  email="Marjie.Screens@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>72.286</random_float>
+  <bool>true</bool>
+  <date>1985-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cacilie</elt><elt>Damaris</elt><elt>Susette</elt><elt>Bernardine</elt><elt>Leanna</elt>  
+  <Marjie>
+    <age>80</age>
+  </Marjie>
+</root>

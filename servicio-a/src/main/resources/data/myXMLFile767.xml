@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Julieta"
+  lastname="Anton"
+  city="Saint-Denis"
+  country="Kazakhstan"
+  firstname2="Silvana"
+  lastname2="Alexandr"
+  email="Silvana.Alexandr@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>75.022</random_float>
+  <bool>true</bool>
+  <date>1989-02-05</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Regina</elt><elt>Ottilie</elt><elt>Pamella</elt><elt>Dale</elt><elt>Chastity</elt>  
+  <Silvana>
+    <age>63</age>
+  </Silvana>
+</root>

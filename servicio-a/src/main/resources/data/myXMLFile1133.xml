@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heddie"
+  lastname="Cohdwell"
+  city="Macapá"
+  country="Afghanistan"
+  firstname2="Albertina"
+  lastname2="Pernick"
+  email="Albertina.Pernick@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>82.661</random_float>
+  <bool>false</bool>
+  <date>1982-11-14</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sue</elt><elt>Tori</elt><elt>Ricky</elt><elt>Tamqrah</elt><elt>Cam</elt>  
+  <Albertina>
+    <age>63</age>
+  </Albertina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zia"
+  lastname="Chesna"
+  city="Bissau"
+  country="Angola"
+  firstname2="Andeee"
+  lastname2="Hashim"
+  email="Andeee.Hashim@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>35.22</random_float>
+  <bool>false</bool>
+  <date>1980-12-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Viviene</elt><elt>Mignon</elt><elt>Laure</elt><elt>Leontine</elt><elt>Florencia</elt>  
+  <Andeee>
+    <age>29</age>
+  </Andeee>
+</root>

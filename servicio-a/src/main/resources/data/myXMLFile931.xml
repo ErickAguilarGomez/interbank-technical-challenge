@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laurene"
+  lastname="Engdahl"
+  city="Horta (Azores)"
+  country="Norfolk Island"
+  firstname2="Kristina"
+  lastname2="Lipson"
+  email="Kristina.Lipson@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>35.337</random_float>
+  <bool>false</bool>
+  <date>1989-02-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wileen</elt><elt>Gertrud</elt><elt>Dulcinea</elt><elt>Romona</elt><elt>Lisette</elt>  
+  <Kristina>
+    <age>61</age>
+  </Kristina>
+</root>

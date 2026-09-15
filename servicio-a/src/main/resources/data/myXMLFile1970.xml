@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andree"
+  lastname="Cassius"
+  city="Vitória"
+  country="Western Sahara"
+  firstname2="Mireielle"
+  lastname2="Moseley"
+  email="Mireielle.Moseley@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>2.834</random_float>
+  <bool>true</bool>
+  <date>1990-06-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nyssa</elt><elt>Bobbi</elt><elt>Mara</elt><elt>Vinita</elt><elt>Annaliese</elt>  
+  <Mireielle>
+    <age>62</age>
+  </Mireielle>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Misha"
+  lastname="Claudine"
+  city="Port Elizabeth"
+  country="Ecuador"
+  firstname2="Wileen"
+  lastname2="Bigner"
+  email="Wileen.Bigner@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>19.987</random_float>
+  <bool>true</bool>
+  <date>1994-08-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tami</elt><elt>Genovera</elt><elt>Wendi</elt><elt>Ethel</elt><elt>Charmaine</elt>  
+  <Wileen>
+    <age>43</age>
+  </Wileen>
+</root>

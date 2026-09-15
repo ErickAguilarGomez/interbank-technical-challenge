@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Yoko"
+  city="Anadyr (town)"
+  country="Bangladesh"
+  firstname2="Basia"
+  lastname2="Halla"
+  email="Basia.Halla@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>38.935</random_float>
+  <bool>false</bool>
+  <date>1992-12-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Brena</elt><elt>Elvira</elt><elt>Clary</elt><elt>Eugine</elt><elt>Elvira</elt>  
+  <Basia>
+    <age>51</age>
+  </Basia>
+</root>

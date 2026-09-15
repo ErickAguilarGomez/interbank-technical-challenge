@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerianna"
+  lastname="Neils"
+  city="Kinshasa"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Katharina"
+  lastname2="Millda"
+  email="Katharina.Millda@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>65.03</random_float>
+  <bool>true</bool>
+  <date>1982-10-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nananne</elt><elt>Adelle</elt><elt>Juliane</elt><elt>Steffane</elt><elt>Imojean</elt>  
+  <Katharina>
+    <age>47</age>
+  </Katharina>
+</root>

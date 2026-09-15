@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dyann"
+  lastname="Zuzana"
+  city="Timbuktu"
+  country="Nigeria"
+  firstname2="Corina"
+  lastname2="Morrill"
+  email="Corina.Morrill@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>32.972</random_float>
+  <bool>true</bool>
+  <date>1984-09-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tracey</elt><elt>Constance</elt><elt>Josephine</elt><elt>Libbie</elt><elt>Jaime</elt>  
+  <Corina>
+    <age>49</age>
+  </Corina>
+</root>

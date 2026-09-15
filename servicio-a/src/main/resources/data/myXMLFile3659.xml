@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chandra"
+  lastname="Audly"
+  city="Yaoundé"
+  country="Switzerland"
+  firstname2="Gwyneth"
+  lastname2="Aprile"
+  email="Gwyneth.Aprile@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>3.26</random_float>
+  <bool>true</bool>
+  <date>1986-12-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Collen</elt><elt>Myrtice</elt><elt>Tamqrah</elt><elt>Aeriela</elt><elt>Darlleen</elt>  
+  <Gwyneth>
+    <age>68</age>
+  </Gwyneth>
+</root>

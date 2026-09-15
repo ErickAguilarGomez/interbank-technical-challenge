@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mamie"
+  lastname="O'Carroll"
+  city="Winnipeg"
+  country="Grenada"
+  firstname2="Bibby"
+  lastname2="Tristram"
+  email="Bibby.Tristram@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>47.912</random_float>
+  <bool>true</bool>
+  <date>1994-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cyb</elt><elt>Fayre</elt><elt>Joelly</elt><elt>Queenie</elt><elt>Binny</elt>  
+  <Bibby>
+    <age>98</age>
+  </Bibby>
+</root>

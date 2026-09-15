@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgina"
+  lastname="Lymann"
+  city="Skopje"
+  country="Dominica"
+  firstname2="Yetty"
+  lastname2="Randene"
+  email="Yetty.Randene@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>22.518</random_float>
+  <bool>false</bool>
+  <date>1990-03-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kial</elt><elt>Dode</elt><elt>Addia</elt><elt>Olivette</elt><elt>Katuscha</elt>  
+  <Yetty>
+    <age>84</age>
+  </Yetty>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alisha"
+  lastname="Hertzfeld"
+  city="Winnipeg"
+  country="Turkey"
+  firstname2="Tersina"
+  lastname2="Adore"
+  email="Tersina.Adore@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>82.573</random_float>
+  <bool>true</bool>
+  <date>1989-02-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Stacey</elt><elt>Abbie</elt><elt>Gwenneth</elt><elt>Concettina</elt><elt>Jorry</elt>  
+  <Tersina>
+    <age>26</age>
+  </Tersina>
+</root>

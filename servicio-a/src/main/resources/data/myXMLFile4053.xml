@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ketti"
+  lastname="Couture"
+  city="Dongguan"
+  country="Canada"
+  firstname2="Tabbatha"
+  lastname2="Brodench"
+  email="Tabbatha.Brodench@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>28.901</random_float>
+  <bool>false</bool>
+  <date>1986-06-07</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ana</elt><elt>Drucie</elt><elt>Dennie</elt><elt>Maye</elt><elt>Isa</elt>  
+  <Tabbatha>
+    <age>85</age>
+  </Tabbatha>
+</root>

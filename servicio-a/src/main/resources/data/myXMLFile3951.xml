@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcy"
+  lastname="Honoria"
+  city="Udon Thani"
+  country="Suriname"
+  firstname2="Mariann"
+  lastname2="Winnick"
+  email="Mariann.Winnick@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>80.554</random_float>
+  <bool>true</bool>
+  <date>1995-02-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tani</elt><elt>Willetta</elt><elt>Dianemarie</elt><elt>Tobe</elt><elt>Lila</elt>  
+  <Mariann>
+    <age>67</age>
+  </Mariann>
+</root>

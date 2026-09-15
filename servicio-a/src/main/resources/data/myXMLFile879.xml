@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gaylene"
+  lastname="Breed"
+  city="Kaohsiung"
+  country="Bouvet Island"
+  firstname2="Lusa"
+  lastname2="Gale"
+  email="Lusa.Gale@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>8.818</random_float>
+  <bool>true</bool>
+  <date>1997-05-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deirdre</elt><elt>Sandie</elt><elt>Emylee</elt><elt>Jaime</elt><elt>Laurene</elt>  
+  <Lusa>
+    <age>86</age>
+  </Lusa>
+</root>

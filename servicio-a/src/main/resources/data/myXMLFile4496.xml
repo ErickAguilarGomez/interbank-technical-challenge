@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donnie"
+  lastname="Giff"
+  city="Oranjestad"
+  country="Saint Lucia"
+  firstname2="Sidoney"
+  lastname2="Delacourt"
+  email="Sidoney.Delacourt@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>96.345</random_float>
+  <bool>true</bool>
+  <date>1991-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Amalie</elt><elt>Allis</elt><elt>Clementine</elt><elt>Albertina</elt><elt>Ardys</elt>  
+  <Sidoney>
+    <age>72</age>
+  </Sidoney>
+</root>

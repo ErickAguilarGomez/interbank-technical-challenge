@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Feliza"
+  lastname="Gunn"
+  city="Saint John"
+  country="Iran, Islamic Republic Of"
+  firstname2="Rozele"
+  lastname2="My"
+  email="Rozele.My@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>89.642</random_float>
+  <bool>true</bool>
+  <date>1981-02-28</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Penelopa</elt><elt>Valera</elt><elt>Janeczka</elt><elt>Edyth</elt><elt>Frances</elt>  
+  <Rozele>
+    <age>37</age>
+  </Rozele>
+</root>

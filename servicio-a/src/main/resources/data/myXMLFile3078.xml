@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hyacinthe"
+  lastname="Buffum"
+  city="Tamale"
+  country="Gabon"
+  firstname2="Carmencita"
+  lastname2="Schenck"
+  email="Carmencita.Schenck@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>63.77</random_float>
+  <bool>true</bool>
+  <date>1992-02-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Genovera</elt><elt>Lynde</elt><elt>Andeee</elt><elt>Noelle</elt><elt>Florie</elt>  
+  <Carmencita>
+    <age>42</age>
+  </Carmencita>
+</root>

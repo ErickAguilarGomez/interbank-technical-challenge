@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elena"
+  lastname="Tremayne"
+  city="Curitiba"
+  country="Swaziland"
+  firstname2="Carilyn"
+  lastname2="Wilkinson"
+  email="Carilyn.Wilkinson@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>80.81</random_float>
+  <bool>true</bool>
+  <date>1993-03-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aryn</elt><elt>Ilse</elt><elt>Brana</elt><elt>Liana</elt><elt>Diena</elt>  
+  <Carilyn>
+    <age>57</age>
+  </Carilyn>
+</root>

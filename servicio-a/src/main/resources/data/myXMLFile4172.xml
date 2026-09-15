@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Starla"
+  lastname="Klotz"
+  city="Bridgetown"
+  country="Belarus"
+  firstname2="Kylynn"
+  lastname2="Ortrude"
+  email="Kylynn.Ortrude@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>44.656</random_float>
+  <bool>false</bool>
+  <date>1998-04-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dulce</elt><elt>Aigneis</elt><elt>Kara-Lynn</elt><elt>Valli</elt><elt>Josephine</elt>  
+  <Kylynn>
+    <age>52</age>
+  </Kylynn>
+</root>

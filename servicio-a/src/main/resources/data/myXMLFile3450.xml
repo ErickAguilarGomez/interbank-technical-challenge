@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Shanley"
+  city="Reykjavík"
+  country="Western Sahara"
+  firstname2="Ruthe"
+  lastname2="Faust"
+  email="Ruthe.Faust@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>57.607</random_float>
+  <bool>true</bool>
+  <date>1990-05-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Susette</elt><elt>Oralee</elt><elt>Sara-Ann</elt><elt>Selia</elt><elt>Deloria</elt>  
+  <Ruthe>
+    <age>18</age>
+  </Ruthe>
+</root>

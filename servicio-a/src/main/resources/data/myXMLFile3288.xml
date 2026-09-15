@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Courtnay"
+  lastname="Sheng"
+  city="Tokyo"
+  country="Iceland"
+  firstname2="Rebeca"
+  lastname2="Geffner"
+  email="Rebeca.Geffner@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>99.178</random_float>
+  <bool>true</bool>
+  <date>1982-02-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Karlee</elt><elt>Elka</elt><elt>Korrie</elt><elt>Melina</elt><elt>Heddie</elt>  
+  <Rebeca>
+    <age>81</age>
+  </Rebeca>
+</root>

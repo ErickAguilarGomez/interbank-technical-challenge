@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Arley"
+  city="Guadalajara"
+  country="Iraq"
+  firstname2="Hermione"
+  lastname2="McClimans"
+  email="Hermione.McClimans@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>76.092</random_float>
+  <bool>true</bool>
+  <date>1981-08-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wilma</elt><elt>Vanessa</elt><elt>Raina</elt><elt>Ellette</elt><elt>Berget</elt>  
+  <Hermione>
+    <age>84</age>
+  </Hermione>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Fiester"
+  city="Podgorica"
+  country="Guinea-Bissau"
+  firstname2="Nessie"
+  lastname2="Cecile"
+  email="Nessie.Cecile@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>48.834</random_float>
+  <bool>true</bool>
+  <date>1981-12-02</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Belva</elt><elt>Constance</elt><elt>Verla</elt><elt>Marnia</elt><elt>Ericka</elt>  
+  <Nessie>
+    <age>35</age>
+  </Nessie>
+</root>

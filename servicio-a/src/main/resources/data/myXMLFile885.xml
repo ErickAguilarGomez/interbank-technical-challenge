@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wendi"
+  lastname="Kylander"
+  city="Vienna"
+  country="French Guiana"
+  firstname2="Konstance"
+  lastname2="Francene"
+  email="Konstance.Francene@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>87.296</random_float>
+  <bool>true</bool>
+  <date>1990-12-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Corene</elt><elt>Winny</elt><elt>Dorothy</elt><elt>Donnie</elt><elt>Raf</elt>  
+  <Konstance>
+    <age>96</age>
+  </Konstance>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassondra"
+  lastname="Johanna"
+  city="Lagos"
+  country="United States Minor Outlying Islands"
+  firstname2="Joane"
+  lastname2="Revkah"
+  email="Joane.Revkah@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>43.528</random_float>
+  <bool>true</bool>
+  <date>1987-03-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Annecorinne</elt><elt>Chandra</elt><elt>Tatiania</elt><elt>Mildrid</elt><elt>Lucille</elt>  
+  <Joane>
+    <age>59</age>
+  </Joane>
+</root>

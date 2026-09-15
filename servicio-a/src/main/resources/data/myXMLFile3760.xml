@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charlena"
+  lastname="Francene"
+  city="Malang"
+  country="Ecuador"
+  firstname2="Anallese"
+  lastname2="Burkle"
+  email="Anallese.Burkle@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>84.377</random_float>
+  <bool>false</bool>
+  <date>1991-03-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Feliza</elt><elt>Ronna</elt><elt>Adore</elt><elt>Florencia</elt><elt>Adele</elt>  
+  <Anallese>
+    <age>62</age>
+  </Anallese>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Love"
+  city="Skopje"
+  country="Cape Verde"
+  firstname2="Lilith"
+  lastname2="Serilda"
+  email="Lilith.Serilda@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>60.086</random_float>
+  <bool>false</bool>
+  <date>1986-09-14</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kore</elt><elt>Blake</elt><elt>Nikki</elt><elt>Orelia</elt><elt>Ana</elt>  
+  <Lilith>
+    <age>95</age>
+  </Lilith>
+</root>

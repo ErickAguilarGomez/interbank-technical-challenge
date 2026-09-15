@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emma"
+  lastname="Westphal"
+  city="Quezon City"
+  country="United States"
+  firstname2="Cam"
+  lastname2="Nelsen"
+  email="Cam.Nelsen@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>40.5</random_float>
+  <bool>false</bool>
+  <date>1986-07-05</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kirbee</elt><elt>Mellicent</elt><elt>Clo</elt><elt>Aryn</elt><elt>Dede</elt>  
+  <Cam>
+    <age>77</age>
+  </Cam>
+</root>

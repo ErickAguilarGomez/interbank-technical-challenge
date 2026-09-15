@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nicoli"
+  lastname="Braun"
+  city="Jinan"
+  country="Syrian Arab Republic"
+  firstname2="Molli"
+  lastname2="Malina"
+  email="Molli.Malina@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>80.588</random_float>
+  <bool>false</bool>
+  <date>1981-12-03</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Valeda</elt><elt>Carlie</elt><elt>Lucille</elt><elt>Lulita</elt><elt>Catrina</elt>  
+  <Molli>
+    <age>72</age>
+  </Molli>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gui"
+  lastname="Anastatius"
+  city="Invercargill"
+  country="Angola"
+  firstname2="Concettina"
+  lastname2="Fiann"
+  email="Concettina.Fiann@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>1.202</random_float>
+  <bool>false</bool>
+  <date>1987-11-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Camile</elt><elt>Leanna</elt><elt>Lexine</elt><elt>Nerta</elt><elt>Arlina</elt>  
+  <Concettina>
+    <age>31</age>
+  </Concettina>
+</root>

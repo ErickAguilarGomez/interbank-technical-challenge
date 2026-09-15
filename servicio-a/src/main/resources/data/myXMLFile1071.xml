@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marguerite"
+  lastname="Colbert"
+  city="Douala"
+  country="Oman"
+  firstname2="Sissy"
+  lastname2="Saunderson"
+  email="Sissy.Saunderson@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>35.652</random_float>
+  <bool>true</bool>
+  <date>1998-10-19</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Veda</elt><elt>Maurene</elt><elt>Sadie</elt><elt>Rhoda</elt><elt>Cathyleen</elt>  
+  <Sissy>
+    <age>99</age>
+  </Sissy>
+</root>

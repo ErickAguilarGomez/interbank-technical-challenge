@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margette"
+  lastname="Brodench"
+  city="Port Vila"
+  country="Dominica"
+  firstname2="Queenie"
+  lastname2="Keelia"
+  email="Queenie.Keelia@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>68.405</random_float>
+  <bool>false</bool>
+  <date>1985-11-14</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lizzie</elt><elt>Brana</elt><elt>Brooks</elt><elt>Arlena</elt><elt>Deloria</elt>  
+  <Queenie>
+    <age>34</age>
+  </Queenie>
+</root>

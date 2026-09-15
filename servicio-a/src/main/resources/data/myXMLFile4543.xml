@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frieda"
+  lastname="Wyn"
+  city="Damascus"
+  country="Antarctica"
+  firstname2="Kaia"
+  lastname2="Germann"
+  email="Kaia.Germann@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>48.303</random_float>
+  <bool>true</bool>
+  <date>1993-10-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Aubrie</elt><elt>Cassandra</elt><elt>Trudie</elt><elt>Catrina</elt><elt>Olivette</elt>  
+  <Kaia>
+    <age>97</age>
+  </Kaia>
+</root>

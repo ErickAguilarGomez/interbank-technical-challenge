@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Weitman"
+  city="Mbabane"
+  country="Djibouti"
+  firstname2="Wendi"
+  lastname2="Couture"
+  email="Wendi.Couture@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>2.821</random_float>
+  <bool>true</bool>
+  <date>1980-01-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Willetta</elt><elt>Sindee</elt><elt>Vivia</elt><elt>Melina</elt><elt>Averyl</elt>  
+  <Wendi>
+    <age>72</age>
+  </Wendi>
+</root>

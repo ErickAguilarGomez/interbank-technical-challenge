@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madeleine"
+  lastname="Pandolfi"
+  city="Chongjin"
+  country="Ukraine"
+  firstname2="Raquela"
+  lastname2="Emanuel"
+  email="Raquela.Emanuel@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>90.035</random_float>
+  <bool>true</bool>
+  <date>1986-03-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jillayne</elt><elt>Adriana</elt><elt>Gavrielle</elt><elt>Lorie</elt><elt>Lily</elt>  
+  <Raquela>
+    <age>88</age>
+  </Raquela>
+</root>

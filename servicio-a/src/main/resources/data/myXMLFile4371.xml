@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Fairweather"
+  city="Lusaka"
+  country="Mauritania"
+  firstname2="Kassey"
+  lastname2="Kermit"
+  email="Kassey.Kermit@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>27.474</random_float>
+  <bool>false</bool>
+  <date>1999-07-27</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Amara</elt><elt>Linzy</elt><elt>Fanchon</elt><elt>Drucie</elt><elt>Giustina</elt>  
+  <Kassey>
+    <age>56</age>
+  </Kassey>
+</root>

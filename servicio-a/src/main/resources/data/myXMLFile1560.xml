@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ariela"
+  lastname="Marsden"
+  city="Porto Alegre"
+  country="Bosnia and Herzegovina"
+  firstname2="Dagmar"
+  lastname2="Jacinda"
+  email="Dagmar.Jacinda@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>100.687</random_float>
+  <bool>true</bool>
+  <date>1990-10-27</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elise</elt><elt>Sindee</elt><elt>Eugine</elt><elt>Betta</elt><elt>Wynne</elt>  
+  <Dagmar>
+    <age>33</age>
+  </Dagmar>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Vacuva"
+  city="Jayapura"
+  country="Belize"
+  firstname2="Rebeca"
+  lastname2="Baudin"
+  email="Rebeca.Baudin@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>21.05</random_float>
+  <bool>false</bool>
+  <date>1989-03-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mara</elt><elt>Louella</elt><elt>Jolyn</elt><elt>Tiffie</elt><elt>Hayley</elt>  
+  <Rebeca>
+    <age>50</age>
+  </Rebeca>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berta"
+  lastname="Ulphia"
+  city="Suez"
+  country="French Guiana"
+  firstname2="Harmonia"
+  lastname2="Westphal"
+  email="Harmonia.Westphal@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>75.479</random_float>
+  <bool>false</bool>
+  <date>1993-12-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Wileen</elt><elt>Hyacinthe</elt><elt>Joleen</elt><elt>Renae</elt><elt>Gianina</elt>  
+  <Harmonia>
+    <age>32</age>
+  </Harmonia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sindee"
+  lastname="Damarra"
+  city="Whitehorse"
+  country="Zambia"
+  firstname2="Marnia"
+  lastname2="Torray"
+  email="Marnia.Torray@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>55.995</random_float>
+  <bool>true</bool>
+  <date>1983-07-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sidoney</elt><elt>Cherilyn</elt><elt>Damaris</elt><elt>Lisette</elt><elt>Gratia</elt>  
+  <Marnia>
+    <age>57</age>
+  </Marnia>
+</root>

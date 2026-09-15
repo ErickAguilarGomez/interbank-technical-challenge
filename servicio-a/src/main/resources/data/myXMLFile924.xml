@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melina"
+  lastname="Atcliffe"
+  city="Turin"
+  country="Burkina Faso"
+  firstname2="Feliza"
+  lastname2="Brackely"
+  email="Feliza.Brackely@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>57.972</random_float>
+  <bool>true</bool>
+  <date>1991-09-15</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ruthe</elt><elt>Genevra</elt><elt>Penelopa</elt><elt>Tera</elt><elt>Jennica</elt>  
+  <Feliza>
+    <age>67</age>
+  </Feliza>
+</root>

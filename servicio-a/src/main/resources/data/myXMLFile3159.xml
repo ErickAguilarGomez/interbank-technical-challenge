@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Basia"
+  lastname="Grimbly"
+  city="Koulikoro"
+  country="Comoros"
+  firstname2="Jasmina"
+  lastname2="Chrystel"
+  email="Jasmina.Chrystel@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>66.281</random_float>
+  <bool>true</bool>
+  <date>1996-07-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elfreda</elt><elt>Aigneis</elt><elt>Aimil</elt><elt>Aryn</elt><elt>Kirbee</elt>  
+  <Jasmina>
+    <age>87</age>
+  </Jasmina>
+</root>

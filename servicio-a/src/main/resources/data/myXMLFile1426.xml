@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Estell"
+  lastname="Astra"
+  city="Kota Bharu"
+  country="Christmas Island"
+  firstname2="Morganica"
+  lastname2="Alrich"
+  email="Morganica.Alrich@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>39.088</random_float>
+  <bool>false</bool>
+  <date>1982-01-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Chere</elt><elt>Silvana</elt><elt>Tilly</elt><elt>Corly</elt><elt>Chloris</elt>  
+  <Morganica>
+    <age>81</age>
+  </Morganica>
+</root>

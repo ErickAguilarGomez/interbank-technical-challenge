@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hayley"
+  lastname="Fillbert"
+  city="Tijuana"
+  country="Seychelles"
+  firstname2="Nelle"
+  lastname2="Dudley"
+  email="Nelle.Dudley@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>68.027</random_float>
+  <bool>false</bool>
+  <date>1983-02-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Giustina</elt><elt>Lynnea</elt><elt>Kary</elt><elt>Nessie</elt><elt>Vinita</elt>  
+  <Nelle>
+    <age>84</age>
+  </Nelle>
+</root>

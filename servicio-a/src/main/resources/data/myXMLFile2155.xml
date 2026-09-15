@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Seessel"
+  city="Kuching"
+  country="Egypt"
+  firstname2="Jsandye"
+  lastname2="Romelda"
+  email="Jsandye.Romelda@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>70.059</random_float>
+  <bool>true</bool>
+  <date>1991-02-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rivalee</elt><elt>Gale</elt><elt>Molli</elt><elt>Chloris</elt><elt>Alex</elt>  
+  <Jsandye>
+    <age>70</age>
+  </Jsandye>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Salvidor"
+  city="Zanzibar City"
+  country="Iceland"
+  firstname2="Gabriellia"
+  lastname2="Nahum"
+  email="Gabriellia.Nahum@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>66.68</random_float>
+  <bool>true</bool>
+  <date>1990-10-04</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Allyce</elt><elt>Steffane</elt><elt>Edyth</elt><elt>Jacquetta</elt><elt>Betta</elt>  
+  <Gabriellia>
+    <age>45</age>
+  </Gabriellia>
+</root>

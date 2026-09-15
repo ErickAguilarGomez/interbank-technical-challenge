@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jsandye"
+  lastname="Malvino"
+  city="Rio de Janeiro"
+  country="Monaco"
+  firstname2="Tracey"
+  lastname2="Sammons"
+  email="Tracey.Sammons@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>81.268</random_float>
+  <bool>false</bool>
+  <date>1997-03-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Vivia</elt><elt>Kristan</elt><elt>Nikki</elt><elt>Genovera</elt><elt>Ardenia</elt>  
+  <Tracey>
+    <age>77</age>
+  </Tracey>
+</root>

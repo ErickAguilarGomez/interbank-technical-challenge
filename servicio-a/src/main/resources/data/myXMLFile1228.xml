@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ekaterina"
+  lastname="Kiersten"
+  city="Bogotá"
+  country="Spain"
+  firstname2="Anestassia"
+  lastname2="Hamil"
+  email="Anestassia.Hamil@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>43.05</random_float>
+  <bool>true</bool>
+  <date>1986-12-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Shirlee</elt><elt>Siana</elt><elt>Tarra</elt><elt>Ada</elt><elt>Trudie</elt>  
+  <Anestassia>
+    <age>41</age>
+  </Anestassia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristan"
+  lastname="Gusella"
+  city="Barcelona"
+  country="Dominican Republic"
+  firstname2="Agathe"
+  lastname2="Seessel"
+  email="Agathe.Seessel@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>60.485</random_float>
+  <bool>false</bool>
+  <date>1998-02-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dulce</elt><elt>Deirdre</elt><elt>Linet</elt><elt>Sabina</elt><elt>Juliane</elt>  
+  <Agathe>
+    <age>76</age>
+  </Agathe>
+</root>

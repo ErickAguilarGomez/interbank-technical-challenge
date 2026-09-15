@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marita"
+  lastname="Trace"
+  city="Seoul"
+  country="Solomon Islands"
+  firstname2="Fernande"
+  lastname2="Stav"
+  email="Fernande.Stav@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>67.892</random_float>
+  <bool>true</bool>
+  <date>1995-02-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Maisey</elt><elt>Julieta</elt><elt>Renae</elt><elt>Janeczka</elt><elt>Mariele</elt>  
+  <Fernande>
+    <age>49</age>
+  </Fernande>
+</root>

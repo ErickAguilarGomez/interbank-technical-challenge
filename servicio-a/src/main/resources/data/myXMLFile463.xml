@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="O'Rourke"
+  city="Cleveland"
+  country="Belarus"
+  firstname2="Dulcinea"
+  lastname2="Vharat"
+  email="Dulcinea.Vharat@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>25.729</random_float>
+  <bool>true</bool>
+  <date>1988-04-18</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elie</elt><elt>Leona</elt><elt>Veda</elt><elt>Aubrie</elt><elt>Vevay</elt>  
+  <Dulcinea>
+    <age>19</age>
+  </Dulcinea>
+</root>

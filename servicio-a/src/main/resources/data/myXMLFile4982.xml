@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristina"
+  lastname="Ashely"
+  city="Incheon"
+  country="Namibia"
+  firstname2="Yetty"
+  lastname2="Thema"
+  email="Yetty.Thema@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>3.022</random_float>
+  <bool>true</bool>
+  <date>1989-03-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Susette</elt><elt>Catharine</elt><elt>Vivia</elt><elt>Genovera</elt><elt>Roseline</elt>  
+  <Yetty>
+    <age>44</age>
+  </Yetty>
+</root>

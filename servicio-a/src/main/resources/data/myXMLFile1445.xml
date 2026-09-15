@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathy"
+  lastname="Herrera"
+  city="Magadan"
+  country="Saint Lucia"
+  firstname2="Chrystel"
+  lastname2="Kevon"
+  email="Chrystel.Kevon@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>1.386</random_float>
+  <bool>true</bool>
+  <date>1986-08-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Shel</elt><elt>Kamilah</elt><elt>Viki</elt><elt>Wilma</elt><elt>Amalie</elt>  
+  <Chrystel>
+    <age>73</age>
+  </Chrystel>
+</root>

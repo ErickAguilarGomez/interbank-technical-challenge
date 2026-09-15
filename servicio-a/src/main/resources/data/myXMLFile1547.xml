@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="Ferrell"
+  city="Horta (Azores)"
+  country="Burkina Faso"
+  firstname2="Tera"
+  lastname2="Hylan"
+  email="Tera.Hylan@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>33.037</random_float>
+  <bool>true</bool>
+  <date>1983-02-12</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Claudina</elt><elt>Tiffie</elt><elt>Oona</elt><elt>Nollie</elt><elt>Nerta</elt>  
+  <Tera>
+    <age>41</age>
+  </Tera>
+</root>

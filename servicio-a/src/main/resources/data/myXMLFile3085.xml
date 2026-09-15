@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Narton"
+  city="Barranquilla"
+  country="Chile"
+  firstname2="Leanna"
+  lastname2="Faust"
+  email="Leanna.Faust@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>23.603</random_float>
+  <bool>true</bool>
+  <date>1982-09-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Catharine</elt><elt>Jan</elt><elt>Raf</elt><elt>Evaleen</elt><elt>Sissy</elt>  
+  <Leanna>
+    <age>20</age>
+  </Leanna>
+</root>

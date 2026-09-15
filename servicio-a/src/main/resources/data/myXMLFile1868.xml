@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimmy"
+  lastname="Phyllis"
+  city="Hangzhou"
+  country="Poland"
+  firstname2="Valeda"
+  lastname2="Georas"
+  email="Valeda.Georas@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>14.068</random_float>
+  <bool>false</bool>
+  <date>1999-07-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Estell</elt><elt>Louella</elt><elt>Arabel</elt><elt>Wendi</elt><elt>Gratia</elt>  
+  <Valeda>
+    <age>46</age>
+  </Valeda>
+</root>

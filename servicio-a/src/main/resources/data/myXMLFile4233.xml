@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gilligan"
+  lastname="Stefa"
+  city="Zapopan"
+  country="Equatorial Guinea"
+  firstname2="Daune"
+  lastname2="Nance"
+  email="Daune.Nance@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>81.275</random_float>
+  <bool>false</bool>
+  <date>1980-12-16</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Lusa</elt><elt>Cissiee</elt><elt>Allis</elt><elt>Carlie</elt><elt>Romona</elt>  
+  <Daune>
+    <age>78</age>
+  </Daune>
+</root>

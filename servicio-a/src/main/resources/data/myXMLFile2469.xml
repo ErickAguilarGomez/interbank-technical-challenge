@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flo"
+  lastname="Wenoa"
+  city="Belgrade"
+  country="United States Minor Outlying Islands"
+  firstname2="Kial"
+  lastname2="Bertold"
+  email="Kial.Bertold@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>32.476</random_float>
+  <bool>false</bool>
+  <date>1999-12-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Darlleen</elt><elt>Yetty</elt><elt>Margette</elt><elt>Lila</elt><elt>Ileana</elt>  
+  <Kial>
+    <age>19</age>
+  </Kial>
+</root>

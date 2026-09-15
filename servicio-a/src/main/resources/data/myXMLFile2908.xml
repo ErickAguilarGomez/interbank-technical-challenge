@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacquetta"
+  lastname="Corrine"
+  city="Hobart"
+  country="Malaysia"
+  firstname2="Adelle"
+  lastname2="Goldina"
+  email="Adelle.Goldina@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>81.898</random_float>
+  <bool>false</bool>
+  <date>1984-06-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Damaris</elt><elt>Kristan</elt><elt>Kore</elt><elt>Ottilie</elt><elt>Babita</elt>  
+  <Adelle>
+    <age>99</age>
+  </Adelle>
+</root>

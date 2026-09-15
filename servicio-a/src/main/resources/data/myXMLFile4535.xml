@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jobi"
+  lastname="Phi"
+  city="Berlin"
+  country="Lesotho"
+  firstname2="Phylis"
+  lastname2="Tjon"
+  email="Phylis.Tjon@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>15.55</random_float>
+  <bool>true</bool>
+  <date>1993-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Coral</elt><elt>Bernardine</elt><elt>Tatiania</elt><elt>Binny</elt><elt>Laurene</elt>  
+  <Phylis>
+    <age>96</age>
+  </Phylis>
+</root>

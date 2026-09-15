@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusty"
+  lastname="Sadowski"
+  city="Sri Jayawardenapura-Kotte"
+  country="Gabon"
+  firstname2="Robbi"
+  lastname2="Sparhawk"
+  email="Robbi.Sparhawk@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>57.026</random_float>
+  <bool>false</bool>
+  <date>1982-02-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mignon</elt><elt>Anica</elt><elt>Estell</elt><elt>Marline</elt><elt>Emilia</elt>  
+  <Robbi>
+    <age>44</age>
+  </Robbi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathie"
+  lastname="Elisha"
+  city="Assis"
+  country="Paraguay"
+  firstname2="Bobbi"
+  lastname2="Lemuela"
+  email="Bobbi.Lemuela@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>38.995</random_float>
+  <bool>false</bool>
+  <date>1997-11-19</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Britte</elt><elt>Frank</elt><elt>Nadine</elt><elt>Marylou</elt><elt>Robinia</elt>  
+  <Bobbi>
+    <age>34</age>
+  </Bobbi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corene"
+  lastname="Sancho"
+  city="São Tomé"
+  country="Liberia"
+  firstname2="Esmeralda"
+  lastname2="Mata"
+  email="Esmeralda.Mata@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>21.789</random_float>
+  <bool>false</bool>
+  <date>1995-01-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lucille</elt><elt>Tabbatha</elt><elt>Desirae</elt><elt>Bobinette</elt><elt>Adriana</elt>  
+  <Esmeralda>
+    <age>81</age>
+  </Esmeralda>
+</root>

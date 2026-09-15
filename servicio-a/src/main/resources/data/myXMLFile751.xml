@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Lemuela"
+  city="Dunedin"
+  country="Ukraine"
+  firstname2="Agathe"
+  lastname2="Rolf"
+  email="Agathe.Rolf@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>5.746</random_float>
+  <bool>true</bool>
+  <date>1996-11-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Benita</elt><elt>Tabbatha</elt><elt>Ayn</elt><elt>Leia</elt><elt>Chere</elt>  
+  <Agathe>
+    <age>74</age>
+  </Agathe>
+</root>

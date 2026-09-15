@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Darbie"
+  city="Mendoza"
+  country="Malaysia"
+  firstname2="Konstance"
+  lastname2="Callista"
+  email="Konstance.Callista@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>6.111</random_float>
+  <bool>true</bool>
+  <date>1995-09-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lizzie</elt><elt>Zia</elt><elt>Ronna</elt><elt>Cam</elt><elt>Zsa Zsa</elt>  
+  <Konstance>
+    <age>82</age>
+  </Konstance>
+</root>

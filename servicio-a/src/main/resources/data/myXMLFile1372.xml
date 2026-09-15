@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="Aldric"
+  city="Tórshavn"
+  country="Viet Nam"
+  firstname2="Lindie"
+  lastname2="Beniamino"
+  email="Lindie.Beniamino@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>65.163</random_float>
+  <bool>false</bool>
+  <date>1989-08-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Clarice</elt><elt>Cissiee</elt><elt>Mignon</elt><elt>Joy</elt><elt>Hollie</elt>  
+  <Lindie>
+    <age>47</age>
+  </Lindie>
+</root>

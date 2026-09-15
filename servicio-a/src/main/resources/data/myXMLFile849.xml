@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Siana"
+  lastname="Ephrem"
+  city="Baghdad"
+  country="Grenada"
+  firstname2="Danika"
+  lastname2="Brodench"
+  email="Danika.Brodench@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>23.675</random_float>
+  <bool>false</bool>
+  <date>1980-02-10</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Janis</elt><elt>Celisse</elt><elt>Jany</elt><elt>Raina</elt><elt>Nollie</elt>  
+  <Danika>
+    <age>77</age>
+  </Danika>
+</root>

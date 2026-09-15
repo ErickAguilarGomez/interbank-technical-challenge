@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hettie"
+  lastname="McNully"
+  city="São Tomé"
+  country="Nauru"
+  firstname2="Tera"
+  lastname2="Milson"
+  email="Tera.Milson@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>77.393</random_float>
+  <bool>false</bool>
+  <date>1982-01-18</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Evita</elt><elt>Jolyn</elt><elt>Renae</elt><elt>Louella</elt><elt>Barbi</elt>  
+  <Tera>
+    <age>46</age>
+  </Tera>
+</root>

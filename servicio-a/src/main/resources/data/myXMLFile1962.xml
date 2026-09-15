@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmencita"
+  lastname="Cath"
+  city="St. John's"
+  country="Guernsey"
+  firstname2="Melanie"
+  lastname2="Muriel"
+  email="Melanie.Muriel@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>6.428</random_float>
+  <bool>true</bool>
+  <date>1987-11-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Helsa</elt><elt>Doro</elt><elt>Odessa</elt><elt>Cristabel</elt><elt>Stevana</elt>  
+  <Melanie>
+    <age>40</age>
+  </Melanie>
+</root>

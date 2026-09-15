@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shell"
+  lastname="Secrest"
+  city="Rosario"
+  country="Gibraltar"
+  firstname2="Yvonne"
+  lastname2="Salchunas"
+  email="Yvonne.Salchunas@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>49.57</random_float>
+  <bool>false</bool>
+  <date>1998-08-28</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Luci</elt><elt>Ayn</elt><elt>Atlanta</elt><elt>Elfreda</elt><elt>Gloria</elt>  
+  <Yvonne>
+    <age>57</age>
+  </Yvonne>
+</root>

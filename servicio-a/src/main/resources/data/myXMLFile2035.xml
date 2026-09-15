@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aryn"
+  lastname="Xerxes"
+  city="Townsville"
+  country="Guyana"
+  firstname2="Edee"
+  lastname2="Morehouse"
+  email="Edee.Morehouse@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>45.71</random_float>
+  <bool>true</bool>
+  <date>1995-05-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorothy</elt><elt>Jean</elt><elt>Doralynne</elt><elt>Leia</elt><elt>Danika</elt>  
+  <Edee>
+    <age>37</age>
+  </Edee>
+</root>

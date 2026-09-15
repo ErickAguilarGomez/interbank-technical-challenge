@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Petronia"
+  lastname="Shanley"
+  city="Kuala Lumpur"
+  country="Lesotho"
+  firstname2="Raquela"
+  lastname2="Noam"
+  email="Raquela.Noam@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>85.87</random_float>
+  <bool>false</bool>
+  <date>1980-07-31</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Ruthe</elt><elt>Tatiania</elt><elt>Florie</elt><elt>Annaliese</elt><elt>Brynna</elt>  
+  <Raquela>
+    <age>98</age>
+  </Raquela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Giustina"
+  lastname="Clie"
+  city="The Hague"
+  country="Virgin Islands, British"
+  firstname2="Courtnay"
+  lastname2="Ardra"
+  email="Courtnay.Ardra@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>94.304</random_float>
+  <bool>true</bool>
+  <date>1996-11-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lizzie</elt><elt>Loree</elt><elt>Dagmar</elt><elt>Camile</elt><elt>Dianemarie</elt>  
+  <Courtnay>
+    <age>67</age>
+  </Courtnay>
+</root>

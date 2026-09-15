@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Belanger"
+  city="Bangalore"
+  country="French Polynesia"
+  firstname2="Pearline"
+  lastname2="Bluh"
+  email="Pearline.Bluh@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>13.229</random_float>
+  <bool>true</bool>
+  <date>1988-06-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Trixi</elt><elt>Linet</elt><elt>Asia</elt><elt>Dawn</elt><elt>Sharai</elt>  
+  <Pearline>
+    <age>30</age>
+  </Pearline>
+</root>

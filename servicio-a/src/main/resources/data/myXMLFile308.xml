@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berget"
+  lastname="Izaak"
+  city="Nuuk"
+  country="Lithuania"
+  firstname2="Randa"
+  lastname2="Torray"
+  email="Randa.Torray@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>64.795</random_float>
+  <bool>true</bool>
+  <date>1991-10-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jordan</elt><elt>Dianemarie</elt><elt>Carol-Jean</elt><elt>Trixi</elt><elt>Fernande</elt>  
+  <Randa>
+    <age>75</age>
+  </Randa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Frendel"
+  city="Nantes"
+  country="Holy See (Vatican City State)"
+  firstname2="Sharlene"
+  lastname2="Hutchison"
+  email="Sharlene.Hutchison@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>28.482</random_float>
+  <bool>false</bool>
+  <date>1990-04-25</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Collen</elt><elt>Tabbatha</elt><elt>Malina</elt><elt>Ann-Marie</elt><elt>Darlleen</elt>  
+  <Sharlene>
+    <age>62</age>
+  </Sharlene>
+</root>

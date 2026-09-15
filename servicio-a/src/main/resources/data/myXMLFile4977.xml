@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lauryn"
+  lastname="Shields"
+  city="Dakar"
+  country="Cape Verde"
+  firstname2="Roxane"
+  lastname2="Sabella"
+  email="Roxane.Sabella@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>27.005</random_float>
+  <bool>true</bool>
+  <date>1987-10-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Susette</elt><elt>Lauryn</elt><elt>Alameda</elt><elt>Luci</elt><elt>Alejandra</elt>  
+  <Roxane>
+    <age>58</age>
+  </Roxane>
+</root>

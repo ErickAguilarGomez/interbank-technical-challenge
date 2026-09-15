@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mureil"
+  lastname="Jobi"
+  city="Puerto Williams"
+  country="Saint Pierre and Miquelon"
+  firstname2="Hannis"
+  lastname2="Henrie"
+  email="Hannis.Henrie@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>45.024</random_float>
+  <bool>false</bool>
+  <date>1985-08-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Meghann</elt><elt>Tomasina</elt><elt>Constance</elt><elt>Janey</elt><elt>Norine</elt>  
+  <Hannis>
+    <age>25</age>
+  </Hannis>
+</root>

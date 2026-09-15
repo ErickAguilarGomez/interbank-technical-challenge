@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cissiee"
+  lastname="Milde"
+  city="Munich"
+  country="French Guiana"
+  firstname2="Jorry"
+  lastname2="Havens"
+  email="Jorry.Havens@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>94.09</random_float>
+  <bool>false</bool>
+  <date>1997-08-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ricky</elt><elt>Carmencita</elt><elt>Cyndie</elt><elt>Joeann</elt><elt>Claresta</elt>  
+  <Jorry>
+    <age>68</age>
+  </Jorry>
+</root>

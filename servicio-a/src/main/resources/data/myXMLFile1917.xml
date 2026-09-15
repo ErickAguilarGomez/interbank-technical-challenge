@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jennica"
+  lastname="Sundin"
+  city="St. John's"
+  country="Tuvalu"
+  firstname2="Maud"
+  lastname2="Sammons"
+  email="Maud.Sammons@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>97.913</random_float>
+  <bool>true</bool>
+  <date>1982-06-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Coral</elt><elt>Lilith</elt><elt>Sibella</elt><elt>Aili</elt><elt>Christy</elt>  
+  <Maud>
+    <age>81</age>
+  </Maud>
+</root>

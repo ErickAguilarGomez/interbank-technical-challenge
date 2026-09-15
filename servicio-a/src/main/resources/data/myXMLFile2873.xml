@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Loree"
+  lastname="Kelula"
+  city="El Paso"
+  country="Cameroon"
+  firstname2="Quintina"
+  lastname2="Jenness"
+  email="Quintina.Jenness@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>57.352</random_float>
+  <bool>false</bool>
+  <date>1990-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Babita</elt><elt>Roxane</elt><elt>Orsola</elt><elt>Marcy</elt><elt>Corly</elt>  
+  <Quintina>
+    <age>27</age>
+  </Quintina>
+</root>

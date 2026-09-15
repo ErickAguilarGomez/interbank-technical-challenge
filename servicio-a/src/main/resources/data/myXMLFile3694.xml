@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vinita"
+  lastname="Kauppi"
+  city="Valencia"
+  country="Latvia"
+  firstname2="Concettina"
+  lastname2="Dex"
+  email="Concettina.Dex@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>72.601</random_float>
+  <bool>false</bool>
+  <date>1983-07-21</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gabi</elt><elt>Trudie</elt><elt>Heida</elt><elt>Brena</elt><elt>Glynnis</elt>  
+  <Concettina>
+    <age>51</age>
+  </Concettina>
+</root>

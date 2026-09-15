@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catharine"
+  lastname="Saunderson"
+  city="Ulan Bator"
+  country="French Southern Territories"
+  firstname2="Lynea"
+  lastname2="Gemini"
+  email="Lynea.Gemini@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>13.493</random_float>
+  <bool>false</bool>
+  <date>1993-02-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Alejandra</elt><elt>Emmey</elt><elt>Maridel</elt><elt>Sidoney</elt><elt>Pollyanna</elt>  
+  <Lynea>
+    <age>61</age>
+  </Lynea>
+</root>

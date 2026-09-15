@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Concettina"
+  lastname="Santoro"
+  city="Kinshasa"
+  country="Saint Helena"
+  firstname2="Lita"
+  lastname2="Concha"
+  email="Lita.Concha@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>21.518</random_float>
+  <bool>false</bool>
+  <date>1997-03-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ernesta</elt><elt>Viviene</elt><elt>Briney</elt><elt>Maridel</elt><elt>Lynde</elt>  
+  <Lita>
+    <age>58</age>
+  </Lita>
+</root>

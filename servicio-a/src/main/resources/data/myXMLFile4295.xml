@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Collen"
+  lastname="Firmin"
+  city="Jayapura"
+  country="Panama"
+  firstname2="Fawne"
+  lastname2="Hewitt"
+  email="Fawne.Hewitt@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>44.236</random_float>
+  <bool>false</bool>
+  <date>1989-02-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Danika</elt><elt>Sarette</elt><elt>Dolli</elt><elt>Celestyna</elt><elt>Shel</elt>  
+  <Fawne>
+    <age>89</age>
+  </Fawne>
+</root>

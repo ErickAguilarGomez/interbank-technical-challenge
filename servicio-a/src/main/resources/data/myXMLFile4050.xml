@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Winthorpe"
+  city="St. John's"
+  country="Guatemala"
+  firstname2="Ellette"
+  lastname2="Doig"
+  email="Ellette.Doig@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>19.19</random_float>
+  <bool>true</bool>
+  <date>1981-05-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Concettina</elt><elt>Cyb</elt><elt>Phylis</elt><elt>Ann-Marie</elt><elt>Roseline</elt>  
+  <Ellette>
+    <age>22</age>
+  </Ellette>
+</root>

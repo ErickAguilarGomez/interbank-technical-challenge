@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gabriellia"
+  lastname="Terrence"
+  city="Luanda"
+  country="Pitcairn"
+  firstname2="Marguerite"
+  lastname2="Stuart"
+  email="Marguerite.Stuart@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>45.649</random_float>
+  <bool>false</bool>
+  <date>1992-01-05</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Thalia</elt><elt>Minda</elt><elt>Cacilie</elt><elt>Glenda</elt><elt>Anallese</elt>  
+  <Marguerite>
+    <age>43</age>
+  </Marguerite>
+</root>

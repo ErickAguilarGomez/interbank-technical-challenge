@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annora"
+  lastname="Stilwell"
+  city="Medan"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Leontine"
+  lastname2="Sophronia"
+  email="Leontine.Sophronia@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>23.934</random_float>
+  <bool>false</bool>
+  <date>1994-09-10</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Belinda</elt><elt>Donetta</elt><elt>Dode</elt><elt>Meg</elt><elt>Eadie</elt>  
+  <Leontine>
+    <age>41</age>
+  </Leontine>
+</root>

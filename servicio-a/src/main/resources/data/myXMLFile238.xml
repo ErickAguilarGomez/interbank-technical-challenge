@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nariko"
+  lastname="Allys"
+  city="Malang"
+  country="Haiti"
+  firstname2="Stevana"
+  lastname2="Franza"
+  email="Stevana.Franza@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>6.914</random_float>
+  <bool>true</bool>
+  <date>1990-06-23</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorene</elt><elt>Pamella</elt><elt>Jean</elt><elt>Jacquetta</elt><elt>Amalie</elt>  
+  <Stevana>
+    <age>64</age>
+  </Stevana>
+</root>

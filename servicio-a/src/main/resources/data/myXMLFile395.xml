@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myriam"
+  lastname="Afton"
+  city="Bandung"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Sharlene"
+  lastname2="Skell"
+  email="Sharlene.Skell@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>30.788</random_float>
+  <bool>false</bool>
+  <date>1998-08-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deane</elt><elt>Gabi</elt><elt>Nita</elt><elt>Ronna</elt><elt>Riannon</elt>  
+  <Sharlene>
+    <age>78</age>
+  </Sharlene>
+</root>

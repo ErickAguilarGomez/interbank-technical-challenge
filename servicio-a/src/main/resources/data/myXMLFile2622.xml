@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tiffie"
+  lastname="Odell"
+  city="Kolkata"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Vere"
+  lastname2="Rona"
+  email="Vere.Rona@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>10.724</random_float>
+  <bool>true</bool>
+  <date>1998-05-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gwyneth</elt><elt>Nollie</elt><elt>Bernardine</elt><elt>Kathy</elt><elt>Merci</elt>  
+  <Vere>
+    <age>24</age>
+  </Vere>
+</root>

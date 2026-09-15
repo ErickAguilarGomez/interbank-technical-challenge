@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Fadiman"
+  city="Lhasa"
+  country="Palau"
+  firstname2="Roseline"
+  lastname2="Abbot"
+  email="Roseline.Abbot@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>78.458</random_float>
+  <bool>true</bool>
+  <date>1993-11-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Frieda</elt><elt>Ira</elt><elt>Gwenneth</elt><elt>Gui</elt><elt>Chloris</elt>  
+  <Roseline>
+    <age>97</age>
+  </Roseline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mignon"
+  lastname="Selway"
+  city="Palembang"
+  country="Colombia"
+  firstname2="Marylou"
+  lastname2="Eugenia"
+  email="Marylou.Eugenia@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>13.736</random_float>
+  <bool>false</bool>
+  <date>1994-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Clarice</elt><elt>Philis</elt><elt>Korrie</elt><elt>Kaia</elt><elt>Vere</elt>  
+  <Marylou>
+    <age>97</age>
+  </Marylou>
+</root>

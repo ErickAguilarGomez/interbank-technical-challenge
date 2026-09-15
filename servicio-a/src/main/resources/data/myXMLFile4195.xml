@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Micheline"
+  lastname="Brady"
+  city="Quetzaltenango"
+  country="Sao Tome and Principe"
+  firstname2="Marinna"
+  lastname2="Teryn"
+  email="Marinna.Teryn@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>43.281</random_float>
+  <bool>true</bool>
+  <date>1984-04-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kial</elt><elt>Hettie</elt><elt>Ekaterina</elt><elt>Chandra</elt><elt>Jerry</elt>  
+  <Marinna>
+    <age>52</age>
+  </Marinna>
+</root>

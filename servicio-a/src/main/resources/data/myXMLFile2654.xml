@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorie"
+  lastname="Amasa"
+  city="Agartala"
+  country="Moldova, Republic of"
+  firstname2="Shell"
+  lastname2="Ambrosia"
+  email="Shell.Ambrosia@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>51.686</random_float>
+  <bool>true</bool>
+  <date>1994-12-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sheelagh</elt><elt>Dione</elt><elt>Robbi</elt><elt>Bernie</elt><elt>Daune</elt>  
+  <Shell>
+    <age>34</age>
+  </Shell>
+</root>

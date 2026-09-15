@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mathilda"
+  lastname="Blase"
+  city="Shijiazhuang"
+  country="Guatemala"
+  firstname2="Blinni"
+  lastname2="Jaylene"
+  email="Blinni.Jaylene@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>93.201</random_float>
+  <bool>true</bool>
+  <date>1994-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Flo</elt><elt>Antonietta</elt><elt>Gabriellia</elt><elt>Miquela</elt><elt>Ninnetta</elt>  
+  <Blinni>
+    <age>60</age>
+  </Blinni>
+</root>

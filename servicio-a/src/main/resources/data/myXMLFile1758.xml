@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cacilie"
+  lastname="Corilla"
+  city="Enugu"
+  country="British Indian Ocean Territory"
+  firstname2="Tabbatha"
+  lastname2="Dulciana"
+  email="Tabbatha.Dulciana@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>97.192</random_float>
+  <bool>false</bool>
+  <date>1995-04-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Bee</elt><elt>Maryellen</elt><elt>Caritta</elt><elt>Emylee</elt><elt>Ardenia</elt>  
+  <Tabbatha>
+    <age>69</age>
+  </Tabbatha>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucy"
+  lastname="Auberbach"
+  city="Porto"
+  country="Mozambique"
+  firstname2="Veda"
+  lastname2="Eno"
+  email="Veda.Eno@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>99.242</random_float>
+  <bool>false</bool>
+  <date>1998-11-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elka</elt><elt>Daune</elt><elt>Dorice</elt><elt>Emylee</elt><elt>Kirbee</elt>  
+  <Veda>
+    <age>27</age>
+  </Veda>
+</root>

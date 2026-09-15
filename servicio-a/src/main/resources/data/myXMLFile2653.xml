@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Farrah"
+  lastname="Kesley"
+  city="Ulan Bator"
+  country="Kuwait"
+  firstname2="Alameda"
+  lastname2="Meli"
+  email="Alameda.Meli@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>51.97</random_float>
+  <bool>true</bool>
+  <date>1998-02-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lynde</elt><elt>Adelle</elt><elt>Harmonia</elt><elt>Brooks</elt><elt>Merry</elt>  
+  <Alameda>
+    <age>29</age>
+  </Alameda>
+</root>

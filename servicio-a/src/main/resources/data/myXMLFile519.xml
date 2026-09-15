@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annora"
+  lastname="Vins"
+  city="Antwerp"
+  country="Comoros"
+  firstname2="Kristina"
+  lastname2="Engdahl"
+  email="Kristina.Engdahl@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>48.521</random_float>
+  <bool>false</bool>
+  <date>1997-06-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Valeda</elt><elt>Deirdre</elt><elt>Frances</elt><elt>Lesly</elt><elt>Odessa</elt>  
+  <Kristina>
+    <age>60</age>
+  </Kristina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Mendez"
+  city="Malabo"
+  country="Japan"
+  firstname2="Gratia"
+  lastname2="Stover"
+  email="Gratia.Stover@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>2.628</random_float>
+  <bool>false</bool>
+  <date>1998-04-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Albertina</elt><elt>Ayn</elt><elt>Brena</elt><elt>Goldie</elt><elt>Marinna</elt>  
+  <Gratia>
+    <age>19</age>
+  </Gratia>
+</root>

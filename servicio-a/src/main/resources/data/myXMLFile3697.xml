@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Louella"
+  lastname="Georas"
+  city="São Tomé"
+  country="Uganda"
+  firstname2="Gusty"
+  lastname2="Goode"
+  email="Gusty.Goode@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>65.894</random_float>
+  <bool>false</bool>
+  <date>1996-02-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Marcelline</elt><elt>Maurene</elt><elt>Georgina</elt><elt>Modestia</elt><elt>Charmaine</elt>  
+  <Gusty>
+    <age>45</age>
+  </Gusty>
+</root>

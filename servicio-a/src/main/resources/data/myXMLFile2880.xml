@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elsie"
+  lastname="Raychel"
+  city="Iloilo City"
+  country="Maldives"
+  firstname2="Karly"
+  lastname2="Melan"
+  email="Karly.Melan@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>20.712</random_float>
+  <bool>true</bool>
+  <date>1995-02-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Melisent</elt><elt>Miquela</elt><elt>Maisey</elt><elt>Nannie</elt><elt>Angelique</elt>  
+  <Karly>
+    <age>43</age>
+  </Karly>
+</root>

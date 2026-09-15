@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selma"
+  lastname="Koziara"
+  city="Hamilton"
+  country="Senegal"
+  firstname2="Imojean"
+  lastname2="Edmund"
+  email="Imojean.Edmund@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>45.18</random_float>
+  <bool>false</bool>
+  <date>1982-04-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mignon</elt><elt>Alyssa</elt><elt>Edyth</elt><elt>Ida</elt><elt>Ricky</elt>  
+  <Imojean>
+    <age>38</age>
+  </Imojean>
+</root>

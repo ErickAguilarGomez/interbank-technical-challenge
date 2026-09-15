@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="Harned"
+  city="Serekunda"
+  country="Trinidad and Tobago"
+  firstname2="Carmela"
+  lastname2="Amand"
+  email="Carmela.Amand@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>61.718</random_float>
+  <bool>true</bool>
+  <date>1981-08-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sybille</elt><elt>Bertine</elt><elt>Ira</elt><elt>Gretal</elt><elt>Deirdre</elt>  
+  <Carmela>
+    <age>82</age>
+  </Carmela>
+</root>

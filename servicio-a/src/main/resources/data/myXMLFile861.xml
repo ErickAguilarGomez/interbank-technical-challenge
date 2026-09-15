@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nananne"
+  lastname="Colyer"
+  city="N'Djamena"
+  country="Czech Republic"
+  firstname2="Lesly"
+  lastname2="Wenda"
+  email="Lesly.Wenda@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>23.601</random_float>
+  <bool>true</bool>
+  <date>1982-06-01</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Damaris</elt><elt>Addia</elt><elt>Joleen</elt><elt>Dorothy</elt><elt>Averyl</elt>  
+  <Lesly>
+    <age>21</age>
+  </Lesly>
+</root>

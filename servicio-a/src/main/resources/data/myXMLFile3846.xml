@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jinny"
+  lastname="McGrody"
+  city="Helsinki"
+  country="Albania"
+  firstname2="Rivalee"
+  lastname2="Dunkin"
+  email="Rivalee.Dunkin@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>81.039</random_float>
+  <bool>false</bool>
+  <date>1981-06-22</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jemie</elt><elt>Thalia</elt><elt>Willetta</elt><elt>Berta</elt><elt>Elena</elt>  
+  <Rivalee>
+    <age>30</age>
+  </Rivalee>
+</root>

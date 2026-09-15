@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Presber"
+  city="Adamstown"
+  country="Tajikistan"
+  firstname2="Jolyn"
+  lastname2="Nerita"
+  email="Jolyn.Nerita@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>40.552</random_float>
+  <bool>false</bool>
+  <date>1981-09-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Fredericka</elt><elt>Joelly</elt><elt>Henriette</elt><elt>Lenna</elt><elt>Consuela</elt>  
+  <Jolyn>
+    <age>67</age>
+  </Jolyn>
+</root>

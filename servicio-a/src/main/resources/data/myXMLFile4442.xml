@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Gamaliel"
+  city="Ilhéus"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Carmencita"
+  lastname2="Lattie"
+  email="Carmencita.Lattie@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>28.412</random_float>
+  <bool>false</bool>
+  <date>1986-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jordan</elt><elt>Odessa</elt><elt>Florie</elt><elt>Moyna</elt><elt>Kara-Lynn</elt>  
+  <Carmencita>
+    <age>75</age>
+  </Carmencita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vivia"
+  lastname="Lasley"
+  city="Christchurch"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Mallory"
+  lastname2="Martsen"
+  email="Mallory.Martsen@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>67.844</random_float>
+  <bool>false</bool>
+  <date>1993-08-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sue</elt><elt>Audrie</elt><elt>Nikki</elt><elt>Madeleine</elt><elt>Yvonne</elt>  
+  <Mallory>
+    <age>78</age>
+  </Mallory>
+</root>

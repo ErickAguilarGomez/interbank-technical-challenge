@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaine"
+  lastname="Earlie"
+  city="Port Elizabeth"
+  country="Burkina Faso"
+  firstname2="Shirlee"
+  lastname2="Taima"
+  email="Shirlee.Taima@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>75.977</random_float>
+  <bool>true</bool>
+  <date>1996-10-26</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Annora</elt><elt>Alyda</elt><elt>Elka</elt><elt>Drucie</elt><elt>Abbie</elt>  
+  <Shirlee>
+    <age>43</age>
+  </Shirlee>
+</root>

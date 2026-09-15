@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Tatianas"
+  city="Málaga"
+  country="Congo"
+  firstname2="Zsa Zsa"
+  lastname2="Yerkovich"
+  email="Zsa Zsa.Yerkovich@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>23.255</random_float>
+  <bool>false</bool>
+  <date>1996-11-22</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gabriellia</elt><elt>Madalyn</elt><elt>Raquela</elt><elt>Carlie</elt><elt>Tami</elt>  
+  <Zsa Zsa>
+    <age>85</age>
+  </Zsa Zsa>
+</root>

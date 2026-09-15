@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jean"
+  lastname="Fulmer"
+  city="Algiers"
+  country="Liechtenstein"
+  firstname2="Adriana"
+  lastname2="Thar"
+  email="Adriana.Thar@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>23.557</random_float>
+  <bool>true</bool>
+  <date>1999-07-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sandie</elt><elt>Deane</elt><elt>Rivalee</elt><elt>Courtnay</elt><elt>Tracey</elt>  
+  <Adriana>
+    <age>98</age>
+  </Adriana>
+</root>

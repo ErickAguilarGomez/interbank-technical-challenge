@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nanete"
+  lastname="Daegal"
+  city="London"
+  country="AndorrA"
+  firstname2="Sabina"
+  lastname2="Killigrew"
+  email="Sabina.Killigrew@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>56.165</random_float>
+  <bool>false</bool>
+  <date>1990-05-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Xylina</elt><elt>Carlie</elt><elt>Oona</elt><elt>Gloria</elt><elt>Doralynne</elt>  
+  <Sabina>
+    <age>51</age>
+  </Sabina>
+</root>

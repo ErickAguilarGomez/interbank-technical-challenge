@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Basia"
+  lastname="Goode"
+  city="Hobart"
+  country="China"
+  firstname2="Dorene"
+  lastname2="Fulmer"
+  email="Dorene.Fulmer@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>32.836</random_float>
+  <bool>true</bool>
+  <date>1998-09-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brena</elt><elt>Grier</elt><elt>Ilse</elt><elt>Kristan</elt><elt>Elfreda</elt>  
+  <Dorene>
+    <age>99</age>
+  </Dorene>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ruthe"
+  lastname="Schroth"
+  city="Munich"
+  country="Belgium"
+  firstname2="Cherrita"
+  lastname2="Margret"
+  email="Cherrita.Margret@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>32.036</random_float>
+  <bool>false</bool>
+  <date>1983-06-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Maridel</elt><elt>Marjie</elt><elt>Pamella</elt><elt>Hallie</elt><elt>Amii</elt>  
+  <Cherrita>
+    <age>76</age>
+  </Cherrita>
+</root>

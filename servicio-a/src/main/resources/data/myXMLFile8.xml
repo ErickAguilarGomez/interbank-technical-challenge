@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Crudden"
+  city="Oranjestad"
+  country="Marshall Islands"
+  firstname2="Sissy"
+  lastname2="Berne"
+  email="Sissy.Berne@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>62.253</random_float>
+  <bool>true</bool>
+  <date>1984-04-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Heida</elt><elt>Dale</elt><elt>Allyce</elt><elt>Corina</elt><elt>Cassondra</elt>  
+  <Sissy>
+    <age>39</age>
+  </Sissy>
+</root>

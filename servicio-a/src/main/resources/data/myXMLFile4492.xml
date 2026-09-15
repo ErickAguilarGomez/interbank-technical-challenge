@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Willetta"
+  lastname="Berl"
+  city="Toulouse"
+  country="Lebanon"
+  firstname2="Elvira"
+  lastname2="Peg"
+  email="Elvira.Peg@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>61.425</random_float>
+  <bool>false</bool>
+  <date>1990-10-11</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sara-Ann</elt><elt>Alejandra</elt><elt>Sam</elt><elt>Ariela</elt><elt>Winny</elt>  
+  <Elvira>
+    <age>86</age>
+  </Elvira>
+</root>

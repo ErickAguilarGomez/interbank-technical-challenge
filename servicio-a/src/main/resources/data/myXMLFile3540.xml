@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyssa"
+  lastname="Kaja"
+  city="Munich"
+  country="Solomon Islands"
+  firstname2="Katharina"
+  lastname2="Junie"
+  email="Katharina.Junie@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>47.147</random_float>
+  <bool>true</bool>
+  <date>1982-06-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ardenia</elt><elt>Kary</elt><elt>Renie</elt><elt>Gavrielle</elt><elt>Nelle</elt>  
+  <Katharina>
+    <age>63</age>
+  </Katharina>
+</root>

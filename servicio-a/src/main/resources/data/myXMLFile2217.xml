@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joceline"
+  lastname="Dahlia"
+  city="Regina"
+  country="Uruguay"
+  firstname2="Collen"
+  lastname2="Buttaro"
+  email="Collen.Buttaro@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>1.268</random_float>
+  <bool>true</bool>
+  <date>1982-10-09</date>
+  <regEx>hello world</regEx>
+  <enum>xml</enum>
+  <elt>Caryl</elt><elt>Kial</elt><elt>Siana</elt><elt>Bernie</elt><elt>Cherilyn</elt>  
+  <Collen>
+    <age>36</age>
+  </Collen>
+</root>

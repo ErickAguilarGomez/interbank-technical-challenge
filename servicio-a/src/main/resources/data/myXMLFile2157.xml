@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Ricki"
+  city="Melekeok"
+  country="Pakistan"
+  firstname2="Doralynne"
+  lastname2="Morgun"
+  email="Doralynne.Morgun@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>51.358</random_float>
+  <bool>true</bool>
+  <date>1987-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cyb</elt><elt>Merci</elt><elt>Stephanie</elt><elt>Goldie</elt><elt>Hayley</elt>  
+  <Doralynne>
+    <age>43</age>
+  </Doralynne>
+</root>

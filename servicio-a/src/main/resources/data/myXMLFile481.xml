@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Coral"
+  lastname="Romelda"
+  city="Wellington"
+  country="Norway"
+  firstname2="Claresta"
+  lastname2="Vharat"
+  email="Claresta.Vharat@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>7.889</random_float>
+  <bool>true</bool>
+  <date>1994-01-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Melisent</elt><elt>Annora</elt><elt>Aeriela</elt><elt>Violet</elt><elt>Ardenia</elt>  
+  <Claresta>
+    <age>64</age>
+  </Claresta>
+</root>

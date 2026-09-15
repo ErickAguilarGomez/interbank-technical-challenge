@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Vittoria"
+  city="Quezon City"
+  country="Grenada"
+  firstname2="Renae"
+  lastname2="Chabot"
+  email="Renae.Chabot@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>7.061</random_float>
+  <bool>false</bool>
+  <date>1994-03-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Anestassia</elt><elt>Margalo</elt><elt>Annaliese</elt><elt>Carly</elt><elt>Rori</elt>  
+  <Renae>
+    <age>43</age>
+  </Renae>
+</root>

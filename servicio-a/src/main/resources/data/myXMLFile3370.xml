@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sara-Ann"
+  lastname="Hull"
+  city="Buffalo"
+  country="Uzbekistan"
+  firstname2="Libbie"
+  lastname2="Izaak"
+  email="Libbie.Izaak@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>98.393</random_float>
+  <bool>true</bool>
+  <date>1983-01-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Berget</elt><elt>Marcy</elt><elt>Margalo</elt><elt>Kelly</elt><elt>Karlee</elt>  
+  <Libbie>
+    <age>76</age>
+  </Libbie>
+</root>

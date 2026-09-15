@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Ahab"
+  city="San José"
+  country="Trinidad and Tobago"
+  firstname2="Adriana"
+  lastname2="Magnolia"
+  email="Adriana.Magnolia@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>13.857</random_float>
+  <bool>false</bool>
+  <date>1999-07-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Daphne</elt><elt>Fina</elt><elt>Estell</elt><elt>Lusa</elt><elt>Violet</elt>  
+  <Adriana>
+    <age>55</age>
+  </Adriana>
+</root>

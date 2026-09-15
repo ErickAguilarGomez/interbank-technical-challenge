@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Ailyn"
+  city="Naples"
+  country="Cameroon"
+  firstname2="Tonia"
+  lastname2="Bakerman"
+  email="Tonia.Bakerman@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>49.414</random_float>
+  <bool>true</bool>
+  <date>1995-08-06</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Maridel</elt><elt>Ayn</elt><elt>Justinn</elt><elt>Winny</elt><elt>Claudina</elt>  
+  <Tonia>
+    <age>100</age>
+  </Tonia>
+</root>

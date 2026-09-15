@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ana"
+  lastname="Meli"
+  city="Maracaibo"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Aubrie"
+  lastname2="Dorcy"
+  email="Aubrie.Dorcy@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>6.039</random_float>
+  <bool>false</bool>
+  <date>1986-05-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cacilie</elt><elt>Vanessa</elt><elt>Cristine</elt><elt>Nicoli</elt><elt>Ileana</elt>  
+  <Aubrie>
+    <age>76</age>
+  </Aubrie>
+</root>

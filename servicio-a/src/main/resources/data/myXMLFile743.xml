@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Rolf"
+  city="Valdivia"
+  country="American Samoa"
+  firstname2="Brandise"
+  lastname2="Juan"
+  email="Brandise.Juan@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>30.933</random_float>
+  <bool>false</bool>
+  <date>1985-12-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Korrie</elt><elt>Elfreda</elt><elt>Trixi</elt><elt>Dagmar</elt><elt>Fawne</elt>  
+  <Brandise>
+    <age>20</age>
+  </Brandise>
+</root>

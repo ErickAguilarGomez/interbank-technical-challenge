@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Jehu"
+  city="Kaohsiung"
+  country="Solomon Islands"
+  firstname2="Ada"
+  lastname2="Francene"
+  email="Ada.Francene@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>21.419</random_float>
+  <bool>true</bool>
+  <date>1999-04-13</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Caressa</elt><elt>Kathi</elt><elt>Merci</elt><elt>Kara-Lynn</elt><elt>Alyssa</elt>  
+  <Ada>
+    <age>73</age>
+  </Ada>
+</root>

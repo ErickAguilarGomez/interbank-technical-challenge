@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alyssa"
+  lastname="Hertzfeld"
+  city="Hagåtña"
+  country="Maldives"
+  firstname2="Arlena"
+  lastname2="Leifeste"
+  email="Arlena.Leifeste@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>5.279</random_float>
+  <bool>false</bool>
+  <date>1987-03-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shirlee</elt><elt>Deane</elt><elt>Edyth</elt><elt>Lily</elt><elt>Florencia</elt>  
+  <Arlena>
+    <age>27</age>
+  </Arlena>
+</root>

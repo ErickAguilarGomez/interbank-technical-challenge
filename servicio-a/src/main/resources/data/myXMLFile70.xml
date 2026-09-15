@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Johna"
+  lastname="Pattin"
+  city="Charlottetown"
+  country="Philippines"
+  firstname2="Moyna"
+  lastname2="Rudolph"
+  email="Moyna.Rudolph@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>1.611</random_float>
+  <bool>true</bool>
+  <date>1999-10-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Goldie</elt><elt>Ingrid</elt><elt>Marti</elt><elt>Rani</elt><elt>Correy</elt>  
+  <Moyna>
+    <age>27</age>
+  </Moyna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zia"
+  lastname="Corrine"
+  city="Chaguanas"
+  country="Senegal"
+  firstname2="Mignon"
+  lastname2="Merna"
+  email="Mignon.Merna@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>72.114</random_float>
+  <bool>false</bool>
+  <date>1997-05-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Bernie</elt><elt>Lolita</elt><elt>Sharai</elt><elt>Harmonia</elt><elt>Emilia</elt>  
+  <Mignon>
+    <age>94</age>
+  </Mignon>
+</root>

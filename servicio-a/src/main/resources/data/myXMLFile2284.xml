@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roxane"
+  lastname="Mullane"
+  city="Maputo"
+  country="RWANDA"
+  firstname2="Dagmar"
+  lastname2="Obed"
+  email="Dagmar.Obed@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>14.608</random_float>
+  <bool>false</bool>
+  <date>1983-11-29</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tatiania</elt><elt>Lita</elt><elt>Willetta</elt><elt>Lesly</elt><elt>Felice</elt>  
+  <Dagmar>
+    <age>83</age>
+  </Dagmar>
+</root>

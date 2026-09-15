@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Truc"
+  city="Forked River"
+  country="Saint Pierre and Miquelon"
+  firstname2="Kalina"
+  lastname2="Billye"
+  email="Kalina.Billye@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>63.335</random_float>
+  <bool>true</bool>
+  <date>1982-10-16</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gratia</elt><elt>Mahalia</elt><elt>Annaliese</elt><elt>Audrie</elt><elt>Gilligan</elt>  
+  <Kalina>
+    <age>75</age>
+  </Kalina>
+</root>

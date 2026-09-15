@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nita"
+  lastname="Loeb"
+  city="Libreville"
+  country="Iran, Islamic Republic Of"
+  firstname2="Codie"
+  lastname2="Reinke"
+  email="Codie.Reinke@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>84.462</random_float>
+  <bool>false</bool>
+  <date>1995-08-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Briney</elt><elt>Shirlee</elt><elt>Renie</elt><elt>Paule</elt><elt>Sadie</elt>  
+  <Codie>
+    <age>98</age>
+  </Codie>
+</root>

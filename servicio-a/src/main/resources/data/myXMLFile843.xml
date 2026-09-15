@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Luhe"
+  city="Fukuoka"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Alameda"
+  lastname2="Marlie"
+  email="Alameda.Marlie@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>96.59</random_float>
+  <bool>true</bool>
+  <date>1985-04-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ariela</elt><elt>Imojean</elt><elt>Bobbi</elt><elt>Elbertina</elt><elt>Sharai</elt>  
+  <Alameda>
+    <age>78</age>
+  </Alameda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="August"
+  city="Funafuti"
+  country="Palestinian Territory, Occupied"
+  firstname2="Daryl"
+  lastname2="Felecia"
+  email="Daryl.Felecia@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>71.267</random_float>
+  <bool>false</bool>
+  <date>1987-09-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Camile</elt><elt>Georgetta</elt><elt>Raf</elt><elt>Lindie</elt><elt>Lily</elt>  
+  <Daryl>
+    <age>68</age>
+  </Daryl>
+</root>

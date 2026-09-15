@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Isa"
+  lastname="Emanuel"
+  city="Toronto"
+  country="Syrian Arab Republic"
+  firstname2="Carree"
+  lastname2="Belanger"
+  email="Carree.Belanger@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>18.305</random_float>
+  <bool>false</bool>
+  <date>1982-05-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nikki</elt><elt>Bill</elt><elt>Basia</elt><elt>Sophia</elt><elt>Flo</elt>  
+  <Carree>
+    <age>26</age>
+  </Carree>
+</root>

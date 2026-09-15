@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Hutchison"
+  city="Kanpur"
+  country="Mozambique"
+  firstname2="Ermengarde"
+  lastname2="Simmonds"
+  email="Ermengarde.Simmonds@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>65.012</random_float>
+  <bool>true</bool>
+  <date>1981-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tybie</elt><elt>Wendi</elt><elt>Elvira</elt><elt>Lanna</elt><elt>Emilia</elt>  
+  <Ermengarde>
+    <age>83</age>
+  </Ermengarde>
+</root>

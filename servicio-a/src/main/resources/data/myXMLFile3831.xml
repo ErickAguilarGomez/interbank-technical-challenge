@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Antonietta"
+  lastname="Vernier"
+  city="Lubumbashi"
+  country="Russian Federation"
+  firstname2="Ruthe"
+  lastname2="Cutlerr"
+  email="Ruthe.Cutlerr@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>64.047</random_float>
+  <bool>true</bool>
+  <date>1997-10-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jackie</elt><elt>Silvana</elt><elt>Dari</elt><elt>Letizia</elt><elt>Patricia</elt>  
+  <Ruthe>
+    <age>31</age>
+  </Ruthe>
+</root>

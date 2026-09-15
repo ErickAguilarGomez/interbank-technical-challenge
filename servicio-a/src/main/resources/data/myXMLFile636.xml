@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Atonsah"
+  city="Port Louis"
+  country="Saint Pierre and Miquelon"
+  firstname2="Dawn"
+  lastname2="Juliet"
+  email="Dawn.Juliet@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>75.853</random_float>
+  <bool>false</bool>
+  <date>1982-01-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mellicent</elt><elt>Harmonia</elt><elt>Lila</elt><elt>Gabi</elt><elt>Chloris</elt>  
+  <Dawn>
+    <age>43</age>
+  </Dawn>
+</root>

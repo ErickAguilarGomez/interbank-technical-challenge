@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alleen"
+  lastname="Macey"
+  city="Nassau"
+  country="Romania"
+  firstname2="Consuela"
+  lastname2="Wareing"
+  email="Consuela.Wareing@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>61.615</random_float>
+  <bool>false</bool>
+  <date>1980-09-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Larine</elt><elt>Sophia</elt><elt>Meg</elt><elt>Brana</elt><elt>Violet</elt>  
+  <Consuela>
+    <age>38</age>
+  </Consuela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vevay"
+  lastname="Penelopa"
+  city="Libreville"
+  country="Hong Kong"
+  firstname2="Steffane"
+  lastname2="Richers"
+  email="Steffane.Richers@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>18.846</random_float>
+  <bool>false</bool>
+  <date>1987-04-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Julieta</elt><elt>Tierney</elt><elt>Theodora</elt><elt>Hettie</elt><elt>Zaria</elt>  
+  <Steffane>
+    <age>43</age>
+  </Steffane>
+</root>

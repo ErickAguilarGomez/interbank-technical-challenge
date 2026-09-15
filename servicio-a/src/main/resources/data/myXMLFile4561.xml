@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jerry"
+  lastname="Mozelle"
+  city="Kuala Lumpur"
+  country="Georgia"
+  firstname2="Modestia"
+  lastname2="Denis"
+  email="Modestia.Denis@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>86.853</random_float>
+  <bool>false</bool>
+  <date>1981-10-01</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Melina</elt><elt>Kara-Lynn</elt><elt>Deirdre</elt><elt>Adriana</elt><elt>Ariela</elt>  
+  <Modestia>
+    <age>93</age>
+  </Modestia>
+</root>

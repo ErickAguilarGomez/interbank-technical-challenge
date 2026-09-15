@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Philis"
+  lastname="Pillsbury"
+  city="Sri Jayawardenapura-Kotte"
+  country="Armenia"
+  firstname2="Pearline"
+  lastname2="Amasa"
+  email="Pearline.Amasa@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>69.461</random_float>
+  <bool>false</bool>
+  <date>1998-02-28</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carree</elt><elt>Elmira</elt><elt>Dari</elt><elt>Annecorinne</elt><elt>Alyssa</elt>  
+  <Pearline>
+    <age>32</age>
+  </Pearline>
+</root>

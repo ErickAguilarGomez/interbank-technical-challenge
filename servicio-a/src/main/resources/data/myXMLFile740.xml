@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Salchunas"
+  city="Fortaleza"
+  country="Slovenia"
+  firstname2="Ada"
+  lastname2="Whittaker"
+  email="Ada.Whittaker@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>58.549</random_float>
+  <bool>true</bool>
+  <date>1993-11-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Adele</elt><elt>Tracey</elt><elt>Alejandra</elt><elt>Keelia</elt><elt>Keelia</elt>  
+  <Ada>
+    <age>89</age>
+  </Ada>
+</root>

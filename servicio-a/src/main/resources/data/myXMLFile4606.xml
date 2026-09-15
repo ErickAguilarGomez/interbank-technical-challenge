@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winifred"
+  lastname="Carolin"
+  city="Detroit"
+  country="Lesotho"
+  firstname2="Mallory"
+  lastname2="Colleen"
+  email="Mallory.Colleen@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>62.399</random_float>
+  <bool>true</bool>
+  <date>1991-02-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Charmaine</elt><elt>Tera</elt><elt>Philis</elt><elt>Morganica</elt><elt>Alex</elt>  
+  <Mallory>
+    <age>89</age>
+  </Mallory>
+</root>

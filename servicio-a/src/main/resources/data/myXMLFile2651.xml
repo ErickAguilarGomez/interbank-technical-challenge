@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Tufts"
+  city="Marrakech"
+  country="Sweden"
+  firstname2="Eugine"
+  lastname2="Cecile"
+  email="Eugine.Cecile@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>74.242</random_float>
+  <bool>true</bool>
+  <date>1996-07-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dede</elt><elt>Roz</elt><elt>Michaelina</elt><elt>Mahalia</elt><elt>Vere</elt>  
+  <Eugine>
+    <age>30</age>
+  </Eugine>
+</root>

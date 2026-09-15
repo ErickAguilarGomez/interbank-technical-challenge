@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Brian"
+  city="Mexico City"
+  country="Austria"
+  firstname2="Almeta"
+  lastname2="Bonilla"
+  email="Almeta.Bonilla@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>32.169</random_float>
+  <bool>true</bool>
+  <date>1991-03-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Yolane</elt><elt>Aubrie</elt><elt>Gloria</elt><elt>Kathi</elt><elt>Jolyn</elt>  
+  <Almeta>
+    <age>49</age>
+  </Almeta>
+</root>

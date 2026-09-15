@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Courtnay"
+  lastname="Gaspard"
+  city="Moscow"
+  country="New Zealand"
+  firstname2="Babita"
+  lastname2="Gabrielli"
+  email="Babita.Gabrielli@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>97.499</random_float>
+  <bool>false</bool>
+  <date>1984-05-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Genevra</elt><elt>Nonnah</elt><elt>Antonietta</elt><elt>Gloria</elt><elt>Aaren</elt>  
+  <Babita>
+    <age>92</age>
+  </Babita>
+</root>

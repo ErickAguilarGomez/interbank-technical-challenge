@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="O'Carroll"
+  city="Kota Bharu"
+  country="Holy See (Vatican City State)"
+  firstname2="Dorothy"
+  lastname2="Moina"
+  email="Dorothy.Moina@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>63.26</random_float>
+  <bool>false</bool>
+  <date>1995-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Flory</elt><elt>Maisey</elt><elt>Cam</elt><elt>Corene</elt><elt>Eve</elt>  
+  <Dorothy>
+    <age>19</age>
+  </Dorothy>
+</root>

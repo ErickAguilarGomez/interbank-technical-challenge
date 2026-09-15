@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Henriette"
+  lastname="Brodench"
+  city="Kanpur"
+  country="Slovakia"
+  firstname2="Shauna"
+  lastname2="Hachmin"
+  email="Shauna.Hachmin@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>16.599</random_float>
+  <bool>false</bool>
+  <date>1983-03-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hermione</elt><elt>Constance</elt><elt>Ashlee</elt><elt>Marsiella</elt><elt>Lolita</elt>  
+  <Shauna>
+    <age>94</age>
+  </Shauna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucille"
+  lastname="Rooney"
+  city="Suez"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Maurene"
+  lastname2="Cassius"
+  email="Maurene.Cassius@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>75.852</random_float>
+  <bool>false</bool>
+  <date>1983-06-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lauryn</elt><elt>Sindee</elt><elt>Alleen</elt><elt>Barbi</elt><elt>Carmencita</elt>  
+  <Maurene>
+    <age>62</age>
+  </Maurene>
+</root>

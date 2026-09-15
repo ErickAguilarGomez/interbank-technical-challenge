@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adriana"
+  lastname="Chrystel"
+  city="Zanzibar City"
+  country="Bolivia"
+  firstname2="Edith"
+  lastname2="Susannah"
+  email="Edith.Susannah@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>54.959</random_float>
+  <bool>false</bool>
+  <date>1994-01-20</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Frances</elt><elt>Augustine</elt><elt>Agnese</elt><elt>Shandie</elt><elt>Sarette</elt>  
+  <Edith>
+    <age>25</age>
+  </Edith>
+</root>

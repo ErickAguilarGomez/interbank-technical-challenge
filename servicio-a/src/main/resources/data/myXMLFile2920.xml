@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Julieta"
+  lastname="Alrich"
+  city="Pristina"
+  country="Tanzania, United Republic of"
+  firstname2="Mamie"
+  lastname2="Japeth"
+  email="Mamie.Japeth@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>67.29</random_float>
+  <bool>false</bool>
+  <date>1995-04-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emma</elt><elt>Joceline</elt><elt>Allis</elt><elt>Mireielle</elt><elt>Gretal</elt>  
+  <Mamie>
+    <age>48</age>
+  </Mamie>
+</root>

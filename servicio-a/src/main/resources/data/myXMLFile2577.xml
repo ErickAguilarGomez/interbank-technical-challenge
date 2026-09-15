@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Brotherson"
+  city="Doha"
+  country="Honduras"
+  firstname2="Elmira"
+  lastname2="Michella"
+  email="Elmira.Michella@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>38.315</random_float>
+  <bool>true</bool>
+  <date>1990-08-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mary</elt><elt>Carree</elt><elt>Audrie</elt><elt>Frank</elt><elt>Marinna</elt>  
+  <Elmira>
+    <age>34</age>
+  </Elmira>
+</root>

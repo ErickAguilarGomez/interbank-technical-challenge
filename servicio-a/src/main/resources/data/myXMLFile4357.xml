@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Tarrant"
+  city="Sofia"
+  country="Cocos (Keeling) Islands"
+  firstname2="Jenilee"
+  lastname2="Norrie"
+  email="Jenilee.Norrie@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>35.998</random_float>
+  <bool>true</bool>
+  <date>1990-02-16</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dotty</elt><elt>Laure</elt><elt>Karena</elt><elt>Hyacinthe</elt><elt>Perry</elt>  
+  <Jenilee>
+    <age>60</age>
+  </Jenilee>
+</root>

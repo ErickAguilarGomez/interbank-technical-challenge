@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Olnee"
+  city="Asunción"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Ezmeralda"
+  lastname2="Loring"
+  email="Ezmeralda.Loring@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>85.688</random_float>
+  <bool>false</bool>
+  <date>1988-12-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elsie</elt><elt>Misha</elt><elt>Desirae</elt><elt>Dorothy</elt><elt>Ofilia</elt>  
+  <Ezmeralda>
+    <age>97</age>
+  </Ezmeralda>
+</root>

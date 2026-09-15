@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Korrie"
+  lastname="McLaughlin"
+  city="Cork (city)"
+  country="Singapore"
+  firstname2="Ronna"
+  lastname2="Deny"
+  email="Ronna.Deny@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>67.874</random_float>
+  <bool>true</bool>
+  <date>1980-03-12</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Frances</elt><elt>Gisela</elt><elt>Brynna</elt><elt>Kary</elt><elt>Nananne</elt>  
+  <Ronna>
+    <age>26</age>
+  </Ronna>
+</root>

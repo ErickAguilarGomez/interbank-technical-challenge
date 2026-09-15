@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucy"
+  lastname="Irmine"
+  city="City of Halifax"
+  country="Costa Rica"
+  firstname2="Fernande"
+  lastname2="Deny"
+  email="Fernande.Deny@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>87.34</random_float>
+  <bool>false</bool>
+  <date>1985-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tera</elt><elt>Nelle</elt><elt>Larine</elt><elt>Diena</elt><elt>Maridel</elt>  
+  <Fernande>
+    <age>28</age>
+  </Fernande>
+</root>

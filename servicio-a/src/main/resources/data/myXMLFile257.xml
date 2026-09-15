@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tilly"
+  lastname="Cyrie"
+  city="Thiès"
+  country="Ukraine"
+  firstname2="Dianemarie"
+  lastname2="Rebecka"
+  email="Dianemarie.Rebecka@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>13.995</random_float>
+  <bool>false</bool>
+  <date>1991-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lacie</elt><elt>Nessie</elt><elt>Madeleine</elt><elt>Minne</elt><elt>Nelle</elt>  
+  <Dianemarie>
+    <age>35</age>
+  </Dianemarie>
+</root>

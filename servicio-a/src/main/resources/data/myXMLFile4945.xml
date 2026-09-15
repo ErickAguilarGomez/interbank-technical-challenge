@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lusa"
+  lastname="Sheedy"
+  city="Buenos Aires"
+  country="Palestinian Territory, Occupied"
+  firstname2="Rosabelle"
+  lastname2="Fennessy"
+  email="Rosabelle.Fennessy@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>44.239</random_float>
+  <bool>true</bool>
+  <date>1984-05-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kathy</elt><elt>Dulcinea</elt><elt>Marsiella</elt><elt>Liana</elt><elt>Brana</elt>  
+  <Rosabelle>
+    <age>85</age>
+  </Rosabelle>
+</root>

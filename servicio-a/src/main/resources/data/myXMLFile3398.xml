@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurelie"
+  lastname="Camden"
+  city="Montreal"
+  country="Cote D"Ivoire"
+  firstname2="Willetta"
+  lastname2="Glovsky"
+  email="Willetta.Glovsky@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>72.064</random_float>
+  <bool>false</bool>
+  <date>1993-03-26</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fanny</elt><elt>Vevay</elt><elt>Hettie</elt><elt>Brietta</elt><elt>Danny</elt>  
+  <Willetta>
+    <age>70</age>
+  </Willetta>
+</root>

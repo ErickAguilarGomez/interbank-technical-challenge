@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darlleen"
+  lastname="Romelda"
+  city="Prague"
+  country="Angola"
+  firstname2="Ronna"
+  lastname2="Hylan"
+  email="Ronna.Hylan@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>70.603</random_float>
+  <bool>false</bool>
+  <date>1985-08-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Corene</elt><elt>Hollie</elt><elt>Adriana</elt><elt>Blondelle</elt><elt>Myrtice</elt>  
+  <Ronna>
+    <age>99</age>
+  </Ronna>
+</root>

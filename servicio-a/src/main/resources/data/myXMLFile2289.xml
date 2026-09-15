@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karina"
+  lastname="Germann"
+  city="Zanzibar City"
+  country="Ireland"
+  firstname2="Regina"
+  lastname2="Sothena"
+  email="Regina.Sothena@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>25.736</random_float>
+  <bool>false</bool>
+  <date>1981-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Frieda</elt><elt>Ginnie</elt><elt>Kellen</elt><elt>Keelia</elt><elt>Ann-Marie</elt>  
+  <Regina>
+    <age>48</age>
+  </Regina>
+</root>

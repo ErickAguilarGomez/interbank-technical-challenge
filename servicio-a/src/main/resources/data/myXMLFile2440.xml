@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tatiania"
+  lastname="Esmaria"
+  city="Tampa"
+  country="Christmas Island"
+  firstname2="Zaria"
+  lastname2="Eldrid"
+  email="Zaria.Eldrid@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>45.403</random_float>
+  <bool>true</bool>
+  <date>1986-10-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ingrid</elt><elt>Sheelagh</elt><elt>Gianina</elt><elt>Esmeralda</elt><elt>Loree</elt>  
+  <Zaria>
+    <age>39</age>
+  </Zaria>
+</root>

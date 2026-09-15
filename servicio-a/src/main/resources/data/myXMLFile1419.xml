@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alexine"
+  lastname="Kaete"
+  city="Whitehorse"
+  country="Belize"
+  firstname2="Melanie"
+  lastname2="Belanger"
+  email="Melanie.Belanger@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>63.486</random_float>
+  <bool>true</bool>
+  <date>1980-08-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Meghann</elt><elt>Jorry</elt><elt>Brandise</elt><elt>Ethel</elt><elt>Dulcinea</elt>  
+  <Melanie>
+    <age>95</age>
+  </Melanie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cassandra"
+  lastname="Norrie"
+  city="Nanning"
+  country="Hungary"
+  firstname2="Dyann"
+  lastname2="Maroney"
+  email="Dyann.Maroney@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>70.818</random_float>
+  <bool>true</bool>
+  <date>1983-02-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Morganica</elt><elt>Anestassia</elt><elt>Talya</elt><elt>Beverley</elt><elt>Harmonia</elt>  
+  <Dyann>
+    <age>89</age>
+  </Dyann>
+</root>

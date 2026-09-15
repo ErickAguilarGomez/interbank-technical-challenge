@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Poll"
+  city="Winnipeg"
+  country="American Samoa"
+  firstname2="Maisey"
+  lastname2="Mozelle"
+  email="Maisey.Mozelle@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>43.426</random_float>
+  <bool>false</bool>
+  <date>1985-09-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Alia</elt><elt>Ingrid</elt><elt>Lilith</elt><elt>Chloris</elt><elt>Vere</elt>  
+  <Maisey>
+    <age>57</age>
+  </Maisey>
+</root>

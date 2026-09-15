@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tomasina"
+  lastname="Esmaria"
+  city="Leipzig"
+  country="Gambia"
+  firstname2="Jeanna"
+  lastname2="Florina"
+  email="Jeanna.Florina@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>74.477</random_float>
+  <bool>true</bool>
+  <date>1990-08-23</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Elfreda</elt><elt>Maurene</elt><elt>Kary</elt><elt>Karolina</elt><elt>Lynde</elt>  
+  <Jeanna>
+    <age>87</age>
+  </Jeanna>
+</root>

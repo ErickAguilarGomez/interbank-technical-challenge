@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trixi"
+  lastname="Gabrielli"
+  city="Francistown"
+  country="Cuba"
+  firstname2="Doro"
+  lastname2="Reneta"
+  email="Doro.Reneta@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>8.822</random_float>
+  <bool>false</bool>
+  <date>1984-02-02</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Betta</elt><elt>Dari</elt><elt>Lita</elt><elt>Chrystel</elt><elt>Susan</elt>  
+  <Doro>
+    <age>85</age>
+  </Doro>
+</root>

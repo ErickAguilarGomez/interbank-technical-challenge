@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Wenoa"
+  city="Magadan"
+  country="Zambia"
+  firstname2="Gerrie"
+  lastname2="Stilwell"
+  email="Gerrie.Stilwell@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>98.62</random_float>
+  <bool>false</bool>
+  <date>1988-07-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Loree</elt><elt>Karlee</elt><elt>Marjie</elt><elt>Xylina</elt><elt>Kimberley</elt>  
+  <Gerrie>
+    <age>81</age>
+  </Gerrie>
+</root>

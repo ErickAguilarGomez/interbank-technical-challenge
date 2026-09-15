@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evaleen"
+  lastname="Quinn"
+  city="Bissau"
+  country="Greece"
+  firstname2="Delilah"
+  lastname2="Ursulette"
+  email="Delilah.Ursulette@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>43.962</random_float>
+  <bool>true</bool>
+  <date>1983-10-03</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Leanna</elt><elt>Renie</elt><elt>Emylee</elt><elt>Gaylene</elt><elt>Tabbatha</elt>  
+  <Delilah>
+    <age>98</age>
+  </Delilah>
+</root>

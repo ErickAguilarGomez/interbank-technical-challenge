@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candi"
+  lastname="Woodberry"
+  city="Ponta Delgada"
+  country="Monaco"
+  firstname2="Hollie"
+  lastname2="Pearse"
+  email="Hollie.Pearse@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>50.601</random_float>
+  <bool>false</bool>
+  <date>1992-10-09</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marti</elt><elt>Dennie</elt><elt>Tracey</elt><elt>Mireielle</elt><elt>Alie</elt>  
+  <Hollie>
+    <age>37</age>
+  </Hollie>
+</root>

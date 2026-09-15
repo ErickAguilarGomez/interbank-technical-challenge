@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carlie"
+  lastname="Lareena"
+  city="Glasgow"
+  country="Kyrgyzstan"
+  firstname2="Nadine"
+  lastname2="Riordan"
+  email="Nadine.Riordan@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>23.67</random_float>
+  <bool>true</bool>
+  <date>1999-09-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Silvana</elt><elt>Katuscha</elt><elt>Lory</elt><elt>Linzy</elt><elt>Katleen</elt>  
+  <Nadine>
+    <age>29</age>
+  </Nadine>
+</root>

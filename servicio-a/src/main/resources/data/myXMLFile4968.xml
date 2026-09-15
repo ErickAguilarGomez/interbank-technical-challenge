@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katuscha"
+  lastname="Noelyn"
+  city="Odessa"
+  country="Central African Republic"
+  firstname2="Blake"
+  lastname2="Timon"
+  email="Blake.Timon@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>66.883</random_float>
+  <bool>false</bool>
+  <date>1991-01-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Layla</elt><elt>Regina</elt><elt>Dennie</elt><elt>Agnese</elt><elt>Corry</elt>  
+  <Blake>
+    <age>29</age>
+  </Blake>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="Margarete"
+  city="Nukulaelae"
+  country="Iran, Islamic Republic Of"
+  firstname2="Leeanne"
+  lastname2="Japeth"
+  email="Leeanne.Japeth@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>32.646</random_float>
+  <bool>true</bool>
+  <date>1999-09-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Linzy</elt><elt>Eadie</elt><elt>Lynea</elt><elt>Marcy</elt><elt>Kirstin</elt>  
+  <Leeanne>
+    <age>85</age>
+  </Leeanne>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adele"
+  lastname="Ambrosia"
+  city="São José dos Campos"
+  country="Virgin Islands, British"
+  firstname2="Agnese"
+  lastname2="Hebner"
+  email="Agnese.Hebner@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>58.363</random_float>
+  <bool>false</bool>
+  <date>1989-01-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ana</elt><elt>Annecorinne</elt><elt>Renie</elt><elt>Kimberley</elt><elt>Celestyna</elt>  
+  <Agnese>
+    <age>28</age>
+  </Agnese>
+</root>

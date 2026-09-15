@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raf"
+  lastname="Zaslow"
+  city="Shanghai"
+  country="Bangladesh"
+  firstname2="Dulcinea"
+  lastname2="Ramona"
+  email="Dulcinea.Ramona@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>46.977</random_float>
+  <bool>false</bool>
+  <date>1999-09-13</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Violet</elt><elt>Robbi</elt><elt>Joy</elt><elt>Arlina</elt><elt>Drucie</elt>  
+  <Dulcinea>
+    <age>18</age>
+  </Dulcinea>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Imojean"
+  lastname="Havens"
+  city="Belize City"
+  country="Ecuador"
+  firstname2="Corry"
+  lastname2="Lia"
+  email="Corry.Lia@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>54.562</random_float>
+  <bool>true</bool>
+  <date>1997-06-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nicoli</elt><elt>Frieda</elt><elt>Kayla</elt><elt>Penelopa</elt><elt>Betta</elt>  
+  <Corry>
+    <age>80</age>
+  </Corry>
+</root>

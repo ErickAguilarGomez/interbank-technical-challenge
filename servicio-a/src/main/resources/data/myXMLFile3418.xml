@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Nore"
+  city="Makassar"
+  country="Mayotte"
+  firstname2="Ebonee"
+  lastname2="Ephrem"
+  email="Ebonee.Ephrem@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>80.276</random_float>
+  <bool>true</bool>
+  <date>1995-07-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lita</elt><elt>Barbara</elt><elt>Carolina</elt><elt>Jorry</elt><elt>Almeta</elt>  
+  <Ebonee>
+    <age>35</age>
+  </Ebonee>
+</root>

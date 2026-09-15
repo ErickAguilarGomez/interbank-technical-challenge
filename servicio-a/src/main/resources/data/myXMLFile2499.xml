@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tobe"
+  lastname="Jacinda"
+  city="Ibadan"
+  country="Pakistan"
+  firstname2="Dolli"
+  lastname2="Deegan"
+  email="Dolli.Deegan@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>51.697</random_float>
+  <bool>true</bool>
+  <date>1991-04-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frank</elt><elt>Kathi</elt><elt>Dianemarie</elt><elt>Blake</elt><elt>Hope</elt>  
+  <Dolli>
+    <age>32</age>
+  </Dolli>
+</root>

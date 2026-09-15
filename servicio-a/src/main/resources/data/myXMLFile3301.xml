@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merry"
+  lastname="Malvino"
+  city="Montevideo"
+  country="Netherlands"
+  firstname2="Dale"
+  lastname2="Anis"
+  email="Dale.Anis@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>65.461</random_float>
+  <bool>false</bool>
+  <date>1991-03-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lucille</elt><elt>Kerrin</elt><elt>Tori</elt><elt>Ursulina</elt><elt>Bobinette</elt>  
+  <Dale>
+    <age>69</age>
+  </Dale>
+</root>

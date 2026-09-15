@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kerrin"
+  lastname="Thornburg"
+  city="Ulan Bator"
+  country="Bhutan"
+  firstname2="Jenda"
+  lastname2="Iphlgenia"
+  email="Jenda.Iphlgenia@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>6.551</random_float>
+  <bool>true</bool>
+  <date>1980-04-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Hallie</elt><elt>Annora</elt><elt>Jeanna</elt><elt>Atlanta</elt><elt>Malina</elt>  
+  <Jenda>
+    <age>92</age>
+  </Jenda>
+</root>

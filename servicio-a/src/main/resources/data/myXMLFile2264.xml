@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fina"
+  lastname="Edmund"
+  city="Conakry"
+  country="Isle of Man"
+  firstname2="Mariele"
+  lastname2="Raul"
+  email="Mariele.Raul@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>12.299</random_float>
+  <bool>false</bool>
+  <date>1987-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Raquela</elt><elt>Molli</elt><elt>Angelique</elt><elt>Jolyn</elt><elt>Melanie</elt>  
+  <Mariele>
+    <age>21</age>
+  </Mariele>
+</root>

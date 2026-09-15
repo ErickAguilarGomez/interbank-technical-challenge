@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chandra"
+  lastname="Edee"
+  city="Barranquilla"
+  country="Guinea-Bissau"
+  firstname2="Janis"
+  lastname2="Jaylene"
+  email="Janis.Jaylene@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>44.95</random_float>
+  <bool>false</bool>
+  <date>1996-01-07</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Minne</elt><elt>Teddie</elt><elt>Annice</elt><elt>Amalie</elt><elt>Kerrin</elt>  
+  <Janis>
+    <age>90</age>
+  </Janis>
+</root>

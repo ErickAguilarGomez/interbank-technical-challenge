@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tami"
+  lastname="Bashemeth"
+  city="Santa Cruz de Tenerife"
+  country="Armenia"
+  firstname2="Theodora"
+  lastname2="Sundin"
+  email="Theodora.Sundin@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>94.985</random_float>
+  <bool>false</bool>
+  <date>1993-09-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sarette</elt><elt>Layla</elt><elt>Ardenia</elt><elt>Rosabelle</elt><elt>Dianemarie</elt>  
+  <Theodora>
+    <age>68</age>
+  </Theodora>
+</root>

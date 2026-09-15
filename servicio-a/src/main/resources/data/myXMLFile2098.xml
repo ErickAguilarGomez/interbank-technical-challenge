@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marylou"
+  lastname="Carvey"
+  city="Bishkek"
+  country="Nicaragua"
+  firstname2="Jaclyn"
+  lastname2="Frodi"
+  email="Jaclyn.Frodi@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>36.997</random_float>
+  <bool>false</bool>
+  <date>1998-10-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Edee</elt><elt>Lindie</elt><elt>Jan</elt><elt>Nita</elt><elt>Gisela</elt>  
+  <Jaclyn>
+    <age>99</age>
+  </Jaclyn>
+</root>

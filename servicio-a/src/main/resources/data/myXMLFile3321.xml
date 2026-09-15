@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucy"
+  lastname="Kendrick"
+  city="Albuquerque"
+  country="Turkmenistan"
+  firstname2="Carly"
+  lastname2="Seligman"
+  email="Carly.Seligman@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>36.32</random_float>
+  <bool>false</bool>
+  <date>1989-06-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cristine</elt><elt>Celisse</elt><elt>Linzy</elt><elt>Candy</elt><elt>Alia</elt>  
+  <Carly>
+    <age>21</age>
+  </Carly>
+</root>

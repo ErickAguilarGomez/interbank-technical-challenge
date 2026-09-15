@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Monika"
+  lastname="Telfer"
+  city="Concepción"
+  country="Israel"
+  firstname2="Perry"
+  lastname2="Aaberg"
+  email="Perry.Aaberg@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>38.731</random_float>
+  <bool>true</bool>
+  <date>1993-09-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jordan</elt><elt>Felice</elt><elt>Asia</elt><elt>Addia</elt><elt>Glynnis</elt>  
+  <Perry>
+    <age>52</age>
+  </Perry>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Herrera"
+  city="Bissau"
+  country="Saint Lucia"
+  firstname2="Pollyanna"
+  lastname2="Eckblad"
+  email="Pollyanna.Eckblad@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>62.14</random_float>
+  <bool>true</bool>
+  <date>1988-07-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Giustina</elt><elt>Deirdre</elt><elt>Rayna</elt><elt>Harmonia</elt><elt>Ilse</elt>  
+  <Pollyanna>
+    <age>53</age>
+  </Pollyanna>
+</root>

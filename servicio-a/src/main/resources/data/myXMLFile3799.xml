@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Devina"
+  lastname="Decato"
+  city="Johor Bahru"
+  country="Uganda"
+  firstname2="Janis"
+  lastname2="Ferrell"
+  email="Janis.Ferrell@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>87.984</random_float>
+  <bool>true</bool>
+  <date>1984-09-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sara-Ann</elt><elt>Lenna</elt><elt>Leona</elt><elt>Georgina</elt><elt>Myrtice</elt>  
+  <Janis>
+    <age>67</age>
+  </Janis>
+</root>

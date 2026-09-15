@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selia"
+  lastname="Rillings"
+  city="Edmonton"
+  country="Gibraltar"
+  firstname2="Kerrin"
+  lastname2="Mandler"
+  email="Kerrin.Mandler@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>42.725</random_float>
+  <bool>false</bool>
+  <date>1983-02-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Antonietta</elt><elt>Roseline</elt><elt>Lynea</elt><elt>Janis</elt><elt>Kylynn</elt>  
+  <Kerrin>
+    <age>48</age>
+  </Kerrin>
+</root>

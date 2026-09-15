@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Brady"
+  city="Samara"
+  country="Virgin Islands, U.S."
+  firstname2="Randa"
+  lastname2="Quinn"
+  email="Randa.Quinn@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>99.73</random_float>
+  <bool>false</bool>
+  <date>1985-07-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Claudina</elt><elt>Felice</elt><elt>Melanie</elt><elt>Carmela</elt><elt>Jinny</elt>  
+  <Randa>
+    <age>29</age>
+  </Randa>
+</root>

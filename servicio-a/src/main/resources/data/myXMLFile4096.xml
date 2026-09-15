@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheree"
+  lastname="Keelia"
+  city="Shigatse"
+  country="France"
+  firstname2="Tamqrah"
+  lastname2="Lewes"
+  email="Tamqrah.Lewes@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>88.379</random_float>
+  <bool>true</bool>
+  <date>1993-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Verla</elt><elt>Aurelie</elt><elt>Hannis</elt><elt>Averyl</elt><elt>Dennie</elt>  
+  <Tamqrah>
+    <age>99</age>
+  </Tamqrah>
+</root>

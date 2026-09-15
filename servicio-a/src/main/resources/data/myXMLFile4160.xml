@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Verla"
+  lastname="Schlosser"
+  city="Seattle"
+  country="Sao Tome and Principe"
+  firstname2="Merle"
+  lastname2="Rosalba"
+  email="Merle.Rosalba@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>64.966</random_float>
+  <bool>true</bool>
+  <date>1996-03-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mara</elt><elt>Feliza</elt><elt>Nita</elt><elt>Jordan</elt><elt>Valeda</elt>  
+  <Merle>
+    <age>63</age>
+  </Merle>
+</root>

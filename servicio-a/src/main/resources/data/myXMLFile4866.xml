@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirstin"
+  lastname="Colbert"
+  city="Providence"
+  country="Paraguay"
+  firstname2="Clarice"
+  lastname2="Lorain"
+  email="Clarice.Lorain@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>55.542</random_float>
+  <bool>false</bool>
+  <date>1984-08-10</date>
+  <regEx>hello world</regEx>
+  <enum>online</enum>
+  <elt>Talya</elt><elt>Nita</elt><elt>Daune</elt><elt>Violet</elt><elt>Ilse</elt>  
+  <Clarice>
+    <age>30</age>
+  </Clarice>
+</root>

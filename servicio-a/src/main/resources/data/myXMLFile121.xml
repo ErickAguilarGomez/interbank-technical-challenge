@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Reeba"
+  lastname="Cavan"
+  city="Chaguanas"
+  country="Cocos (Keeling) Islands"
+  firstname2="Wilma"
+  lastname2="Drisko"
+  email="Wilma.Drisko@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>54.07</random_float>
+  <bool>true</bool>
+  <date>1987-02-18</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Taffy</elt><elt>Sherrie</elt><elt>Lanae</elt><elt>Kate</elt><elt>Asia</elt>  
+  <Wilma>
+    <age>65</age>
+  </Wilma>
+</root>

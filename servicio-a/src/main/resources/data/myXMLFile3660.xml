@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgetta"
+  lastname="Thema"
+  city="Jeddah"
+  country="Bangladesh"
+  firstname2="Roberta"
+  lastname2="Dudley"
+  email="Roberta.Dudley@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>52.983</random_float>
+  <bool>true</bool>
+  <date>1991-01-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ginnie</elt><elt>Ofilia</elt><elt>Judy</elt><elt>Diena</elt><elt>Dulce</elt>  
+  <Roberta>
+    <age>99</age>
+  </Roberta>
+</root>

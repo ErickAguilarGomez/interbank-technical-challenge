@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Goerke"
+  city="Yogyakarta (city)"
+  country="Christmas Island"
+  firstname2="Valli"
+  lastname2="Doig"
+  email="Valli.Doig@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>86.49</random_float>
+  <bool>false</bool>
+  <date>1999-03-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lonnie</elt><elt>Adelle</elt><elt>Genovera</elt><elt>Nataline</elt><elt>Cam</elt>  
+  <Valli>
+    <age>83</age>
+  </Valli>
+</root>

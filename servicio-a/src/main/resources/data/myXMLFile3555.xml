@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daphne"
+  lastname="Raffo"
+  city="Daegu"
+  country="Papua New Guinea"
+  firstname2="Concettina"
+  lastname2="Uund"
+  email="Concettina.Uund@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>82.858</random_float>
+  <bool>true</bool>
+  <date>1991-03-27</date>
+  <regEx>helloooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Misha</elt><elt>Morganica</elt><elt>Corene</elt><elt>Micheline</elt><elt>Quintina</elt>  
+  <Concettina>
+    <age>88</age>
+  </Concettina>
+</root>

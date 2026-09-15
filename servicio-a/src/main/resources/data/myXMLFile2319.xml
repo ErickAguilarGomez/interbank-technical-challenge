@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kittie"
+  lastname="Evvie"
+  city="Kabul"
+  country="Oman"
+  firstname2="Gwyneth"
+  lastname2="Moseley"
+  email="Gwyneth.Moseley@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>51.396</random_float>
+  <bool>false</bool>
+  <date>1988-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shaine</elt><elt>Augustine</elt><elt>Mahalia</elt><elt>Giustina</elt><elt>Konstance</elt>  
+  <Gwyneth>
+    <age>21</age>
+  </Gwyneth>
+</root>

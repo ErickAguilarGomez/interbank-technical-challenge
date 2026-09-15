@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Almeta"
+  lastname="Alarise"
+  city="Rome"
+  country="French Guiana"
+  firstname2="Frieda"
+  lastname2="Toffic"
+  email="Frieda.Toffic@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>11.62</random_float>
+  <bool>false</bool>
+  <date>1995-04-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Collen</elt><elt>Emylee</elt><elt>Ida</elt><elt>Ricky</elt><elt>Chrystel</elt>  
+  <Frieda>
+    <age>80</age>
+  </Frieda>
+</root>

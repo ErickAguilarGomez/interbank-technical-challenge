@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trudie"
+  lastname="Palocz"
+  city="Manchester"
+  country="Grenada"
+  firstname2="Valeda"
+  lastname2="Adamsen"
+  email="Valeda.Adamsen@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>3.177</random_float>
+  <bool>false</bool>
+  <date>1983-05-09</date>
+  <regEx>helloooo world</regEx>
+  <enum>online</enum>
+  <elt>Doralynne</elt><elt>Jessy</elt><elt>Valera</elt><elt>Brana</elt><elt>Tonia</elt>  
+  <Valeda>
+    <age>31</age>
+  </Valeda>
+</root>

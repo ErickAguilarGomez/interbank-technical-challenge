@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Stacy"
+  city="St. John's"
+  country="South Africa"
+  firstname2="Shandie"
+  lastname2="Septima"
+  email="Shandie.Septima@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>80.607</random_float>
+  <bool>false</bool>
+  <date>1993-01-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joy</elt><elt>Aigneis</elt><elt>Devina</elt><elt>Fernande</elt><elt>Addia</elt>  
+  <Shandie>
+    <age>67</age>
+  </Shandie>
+</root>

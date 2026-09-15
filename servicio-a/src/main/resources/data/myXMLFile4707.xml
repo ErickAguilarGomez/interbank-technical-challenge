@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britte"
+  lastname="Sholley"
+  city="Portland"
+  country="Benin"
+  firstname2="Dari"
+  lastname2="Lorain"
+  email="Dari.Lorain@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>88.368</random_float>
+  <bool>false</bool>
+  <date>1980-04-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ottilie</elt><elt>Bobbi</elt><elt>Janey</elt><elt>Millie</elt><elt>Britni</elt>  
+  <Dari>
+    <age>61</age>
+  </Dari>
+</root>

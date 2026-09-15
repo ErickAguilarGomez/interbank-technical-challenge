@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Libbie"
+  lastname="Birdella"
+  city="Belfast"
+  country="Congo"
+  firstname2="Lonnie"
+  lastname2="Nore"
+  email="Lonnie.Nore@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>31.877</random_float>
+  <bool>true</bool>
+  <date>1992-10-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sheree</elt><elt>Mathilda</elt><elt>Correy</elt><elt>Tierney</elt><elt>Luci</elt>  
+  <Lonnie>
+    <age>83</age>
+  </Lonnie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ivett"
+  lastname="Levey"
+  city="Valdivia"
+  country="Tuvalu"
+  firstname2="Maryellen"
+  lastname2="Himelman"
+  email="Maryellen.Himelman@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>42</random_float>
+  <bool>true</bool>
+  <date>1998-09-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Rochette</elt><elt>Elyssa</elt><elt>Andeee</elt><elt>Tami</elt><elt>Jan</elt>  
+  <Maryellen>
+    <age>61</age>
+  </Maryellen>
+</root>

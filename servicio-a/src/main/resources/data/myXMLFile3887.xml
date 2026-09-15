@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jennica"
+  lastname="Trey"
+  city="Hargeisa"
+  country="Martinique"
+  firstname2="Emmey"
+  lastname2="Amasa"
+  email="Emmey.Amasa@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>72.919</random_float>
+  <bool>false</bool>
+  <date>1994-04-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Theodora</elt><elt>Melisent</elt><elt>Kassey</elt><elt>Modestia</elt><elt>Wynne</elt>  
+  <Emmey>
+    <age>59</age>
+  </Emmey>
+</root>

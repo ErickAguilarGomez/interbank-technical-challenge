@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorie"
+  lastname="Elisha"
+  city="Brikama"
+  country="Uruguay"
+  firstname2="Nananne"
+  lastname2="Olympium"
+  email="Nananne.Olympium@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>90.34</random_float>
+  <bool>true</bool>
+  <date>1999-11-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Minne</elt><elt>Taffy</elt><elt>Kerrin</elt><elt>Gale</elt><elt>Lauryn</elt>  
+  <Nananne>
+    <age>33</age>
+  </Nananne>
+</root>

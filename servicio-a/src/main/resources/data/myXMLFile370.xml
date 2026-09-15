@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emylee"
+  lastname="Rosemary"
+  city="Boa Vista"
+  country="French Guiana"
+  firstname2="Dyann"
+  lastname2="Leonard"
+  email="Dyann.Leonard@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>81.162</random_float>
+  <bool>true</bool>
+  <date>1990-03-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Eadie</elt><elt>Jasmina</elt><elt>Quintina</elt><elt>Talya</elt><elt>Jan</elt>  
+  <Dyann>
+    <age>89</age>
+  </Dyann>
+</root>

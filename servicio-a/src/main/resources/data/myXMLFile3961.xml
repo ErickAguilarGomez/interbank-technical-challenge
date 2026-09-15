@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brena"
+  lastname="Delila"
+  city="Managua"
+  country="Lao People"S Democratic Republic"
+  firstname2="Arabel"
+  lastname2="Rurik"
+  email="Arabel.Rurik@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>97.031</random_float>
+  <bool>true</bool>
+  <date>1984-12-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jaime</elt><elt>Damaris</elt><elt>Aigneis</elt><elt>Ashlee</elt><elt>Rani</elt>  
+  <Arabel>
+    <age>54</age>
+  </Arabel>
+</root>

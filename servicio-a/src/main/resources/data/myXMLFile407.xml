@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hettie"
+  lastname="Gunn"
+  city="Sydney"
+  country="Wallis and Futuna"
+  firstname2="Nicoli"
+  lastname2="Ralfston"
+  email="Nicoli.Ralfston@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>48.833</random_float>
+  <bool>false</bool>
+  <date>1987-05-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Justinn</elt><elt>Therine</elt><elt>Tersina</elt><elt>Frances</elt><elt>Elmira</elt>  
+  <Nicoli>
+    <age>33</age>
+  </Nicoli>
+</root>

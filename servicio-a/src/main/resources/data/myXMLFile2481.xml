@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jan"
+  lastname="Masao"
+  city="Castries"
+  country="Japan"
+  firstname2="Flo"
+  lastname2="Iaverne"
+  email="Flo.Iaverne@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>96.633</random_float>
+  <bool>false</bool>
+  <date>1986-04-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Basia</elt><elt>Jan</elt><elt>Annaliese</elt><elt>Bee</elt><elt>Zsa Zsa</elt>  
+  <Flo>
+    <age>68</age>
+  </Flo>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Cohdwell"
+  city="Malabo"
+  country="Czech Republic"
+  firstname2="Anica"
+  lastname2="Syd"
+  email="Anica.Syd@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>68.61</random_float>
+  <bool>false</bool>
+  <date>1995-12-31</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Di</elt><elt>Marsiella</elt><elt>Clementine</elt><elt>Priscilla</elt><elt>June</elt>  
+  <Anica>
+    <age>34</age>
+  </Anica>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marguerite"
+  lastname="Jacqui"
+  city="Faisalabad"
+  country="United Arab Emirates"
+  firstname2="Elmira"
+  lastname2="Havens"
+  email="Elmira.Havens@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>16.71</random_float>
+  <bool>false</bool>
+  <date>1982-02-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jinny</elt><elt>Robinia</elt><elt>Vanessa</elt><elt>Brena</elt><elt>Cissiee</elt>  
+  <Elmira>
+    <age>30</age>
+  </Elmira>
+</root>

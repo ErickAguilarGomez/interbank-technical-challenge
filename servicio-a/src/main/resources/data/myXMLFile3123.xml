@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harrietta"
+  lastname="Shama"
+  city="Shenzhen"
+  country="Zambia"
+  firstname2="Suzette"
+  lastname2="Doig"
+  email="Suzette.Doig@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>99.879</random_float>
+  <bool>false</bool>
+  <date>1982-06-17</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Alisha</elt><elt>Luci</elt><elt>Philis</elt><elt>Wanda</elt><elt>Paulita</elt>  
+  <Suzette>
+    <age>46</age>
+  </Suzette>
+</root>

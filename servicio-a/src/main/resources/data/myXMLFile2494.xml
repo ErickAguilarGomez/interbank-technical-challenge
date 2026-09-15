@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berget"
+  lastname="Killigrew"
+  city="Frankfurt"
+  country="Greenland"
+  firstname2="Raquela"
+  lastname2="Edvard"
+  email="Raquela.Edvard@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>97.145</random_float>
+  <bool>true</bool>
+  <date>1990-06-02</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Dorice</elt><elt>Bobinette</elt><elt>Florie</elt><elt>Tatiania</elt><elt>Harrietta</elt>  
+  <Raquela>
+    <age>54</age>
+  </Raquela>
+</root>

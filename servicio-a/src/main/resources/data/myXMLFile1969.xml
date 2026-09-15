@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nerta"
+  lastname="Lucienne"
+  city="Zürich"
+  country="Nigeria"
+  firstname2="Alleen"
+  lastname2="Campball"
+  email="Alleen.Campball@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>78.901</random_float>
+  <bool>false</bool>
+  <date>1996-05-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Talya</elt><elt>Gusty</elt><elt>Hollie</elt><elt>Dione</elt><elt>Giustina</elt>  
+  <Alleen>
+    <age>96</age>
+  </Alleen>
+</root>

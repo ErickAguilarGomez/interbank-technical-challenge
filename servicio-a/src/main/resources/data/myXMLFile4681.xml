@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Cherianne"
+  city="San Diego"
+  country="Venezuela"
+  firstname2="Lindie"
+  lastname2="Ajay"
+  email="Lindie.Ajay@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>16.386</random_float>
+  <bool>true</bool>
+  <date>1985-05-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Bernardine</elt><elt>Tera</elt><elt>Dione</elt><elt>Tybie</elt><elt>Nollie</elt>  
+  <Lindie>
+    <age>68</age>
+  </Lindie>
+</root>

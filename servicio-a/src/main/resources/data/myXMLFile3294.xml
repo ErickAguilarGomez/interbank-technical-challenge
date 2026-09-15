@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wanda"
+  lastname="Nedrud"
+  city="Bursa"
+  country="Bhutan"
+  firstname2="Heida"
+  lastname2="Sothena"
+  email="Heida.Sothena@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>69.458</random_float>
+  <bool>true</bool>
+  <date>1982-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dotty</elt><elt>Eugine</elt><elt>Verla</elt><elt>Tori</elt><elt>Violet</elt>  
+  <Heida>
+    <age>35</age>
+  </Heida>
+</root>

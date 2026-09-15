@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Correy"
+  lastname="Elsinore"
+  city="Gothenburg"
+  country="Holy See (Vatican City State)"
+  firstname2="Corly"
+  lastname2="Felecia"
+  email="Corly.Felecia@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>97.213</random_float>
+  <bool>false</bool>
+  <date>1984-06-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Paulita</elt><elt>Mady</elt><elt>Tierney</elt><elt>Carmela</elt><elt>Aryn</elt>  
+  <Corly>
+    <age>51</age>
+  </Corly>
+</root>

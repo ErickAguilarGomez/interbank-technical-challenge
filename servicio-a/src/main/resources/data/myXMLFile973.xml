@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Patricia"
+  lastname="Tatianas"
+  city="Algiers"
+  country="Papua New Guinea"
+  firstname2="Tiffie"
+  lastname2="Katrine"
+  email="Tiffie.Katrine@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>62.567</random_float>
+  <bool>false</bool>
+  <date>1988-11-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Goldie</elt><elt>Sarette</elt><elt>Zsa Zsa</elt><elt>Esmeralda</elt><elt>Maye</elt>  
+  <Tiffie>
+    <age>70</age>
+  </Tiffie>
+</root>

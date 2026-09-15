@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Diena"
+  lastname="Jena"
+  city="Phnom Penh"
+  country="Saint Helena"
+  firstname2="Jeanna"
+  lastname2="Weinreb"
+  email="Jeanna.Weinreb@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>95.377</random_float>
+  <bool>true</bool>
+  <date>1997-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Paola</elt><elt>Nonnah</elt><elt>Clementine</elt><elt>Adriana</elt><elt>Meghann</elt>  
+  <Jeanna>
+    <age>85</age>
+  </Jeanna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valera"
+  lastname="Chandler"
+  city="Miami"
+  country="Venezuela"
+  firstname2="Lynnea"
+  lastname2="Allina"
+  email="Lynnea.Allina@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>41.102</random_float>
+  <bool>true</bool>
+  <date>1988-10-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marcelline</elt><elt>Kelly</elt><elt>Audrie</elt><elt>Lorie</elt><elt>Danny</elt>  
+  <Lynnea>
+    <age>29</age>
+  </Lynnea>
+</root>

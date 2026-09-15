@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Ovid"
+  city="Kinshasa"
+  country="Tonga"
+  firstname2="Donnie"
+  lastname2="Rozanna"
+  email="Donnie.Rozanna@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>54.279</random_float>
+  <bool>true</bool>
+  <date>1981-07-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Georgetta</elt><elt>Ada</elt><elt>Elie</elt><elt>Donetta</elt><elt>Fred</elt>  
+  <Donnie>
+    <age>67</age>
+  </Donnie>
+</root>

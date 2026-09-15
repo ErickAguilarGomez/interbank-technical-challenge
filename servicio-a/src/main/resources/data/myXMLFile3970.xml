@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allis"
+  lastname="McAdams"
+  city="Sacramento"
+  country="Lesotho"
+  firstname2="Neila"
+  lastname2="Caitlin"
+  email="Neila.Caitlin@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>5.641</random_float>
+  <bool>false</bool>
+  <date>1983-05-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Benita</elt><elt>Cathie</elt><elt>Rosanne</elt><elt>Hannis</elt><elt>Mariann</elt>  
+  <Neila>
+    <age>49</age>
+  </Neila>
+</root>

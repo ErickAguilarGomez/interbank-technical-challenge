@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Nea"
+  city="Rawalpindi"
+  country="Wallis and Futuna"
+  firstname2="Elsie"
+  lastname2="Brodench"
+  email="Elsie.Brodench@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>7.615</random_float>
+  <bool>true</bool>
+  <date>1993-01-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Isa</elt><elt>Jere</elt><elt>Madelle</elt><elt>Julieta</elt><elt>Carlie</elt>  
+  <Elsie>
+    <age>76</age>
+  </Elsie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donetta"
+  lastname="Lunsford"
+  city="Asmara"
+  country="Canada"
+  firstname2="Ethel"
+  lastname2="Truc"
+  email="Ethel.Truc@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>63.957</random_float>
+  <bool>true</bool>
+  <date>1990-07-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dolli</elt><elt>Bee</elt><elt>Taffy</elt><elt>Helena</elt><elt>Nita</elt>  
+  <Ethel>
+    <age>70</age>
+  </Ethel>
+</root>

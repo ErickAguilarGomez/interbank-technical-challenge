@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Chaing"
+  city="Quezon City"
+  country="Dominican Republic"
+  firstname2="Hallie"
+  lastname2="Penelopa"
+  email="Hallie.Penelopa@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>59.864</random_float>
+  <bool>false</bool>
+  <date>1984-06-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ernesta</elt><elt>Roxane</elt><elt>Brietta</elt><elt>Selma</elt><elt>Nariko</elt>  
+  <Hallie>
+    <age>91</age>
+  </Hallie>
+</root>

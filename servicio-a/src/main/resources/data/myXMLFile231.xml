@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dotty"
+  lastname="Bebe"
+  city="Rockhampton"
+  country="Kenya"
+  firstname2="Fina"
+  lastname2="Gert"
+  email="Fina.Gert@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>58.312</random_float>
+  <bool>true</bool>
+  <date>1992-08-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lindie</elt><elt>Valera</elt><elt>Micheline</elt><elt>Gale</elt><elt>Ofilia</elt>  
+  <Fina>
+    <age>67</age>
+  </Fina>
+</root>

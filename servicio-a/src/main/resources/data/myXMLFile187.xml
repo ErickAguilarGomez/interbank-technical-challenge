@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allyce"
+  lastname="Doig"
+  city="Geneva"
+  country="Sao Tome and Principe"
+  firstname2="Mathilda"
+  lastname2="Noam"
+  email="Mathilda.Noam@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>51.205</random_float>
+  <bool>true</bool>
+  <date>1984-07-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mureil</elt><elt>Rani</elt><elt>Orsola</elt><elt>Malina</elt><elt>Gwenneth</elt>  
+  <Mathilda>
+    <age>50</age>
+  </Mathilda>
+</root>

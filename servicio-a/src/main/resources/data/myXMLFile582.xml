@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Maxi"
+  city="Minneapolis"
+  country="Svalbard and Jan Mayen"
+  firstname2="Annecorinne"
+  lastname2="Tatianas"
+  email="Annecorinne.Tatianas@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>73.235</random_float>
+  <bool>false</bool>
+  <date>1994-11-22</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rhoda</elt><elt>Stacey</elt><elt>Lacie</elt><elt>Shauna</elt><elt>Lindie</elt>  
+  <Annecorinne>
+    <age>29</age>
+  </Annecorinne>
+</root>

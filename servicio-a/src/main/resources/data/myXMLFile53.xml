@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernie"
+  lastname="Mott"
+  city="Nizhny Novgorod"
+  country="Bahrain"
+  firstname2="Reeba"
+  lastname2="Fillbert"
+  email="Reeba.Fillbert@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>63.716</random_float>
+  <bool>false</bool>
+  <date>1993-01-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Chastity</elt><elt>Marti</elt><elt>Charmaine</elt><elt>Kayla</elt><elt>Pierette</elt>  
+  <Reeba>
+    <age>80</age>
+  </Reeba>
+</root>

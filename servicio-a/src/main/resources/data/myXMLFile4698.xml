@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alejandra"
+  lastname="Vernier"
+  city="Durango"
+  country="Guernsey"
+  firstname2="Maridel"
+  lastname2="Even"
+  email="Maridel.Even@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>50.955</random_float>
+  <bool>true</bool>
+  <date>1991-05-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Suzette</elt><elt>Fredericka</elt><elt>Augustine</elt><elt>Lolita</elt><elt>Devina</elt>  
+  <Maridel>
+    <age>48</age>
+  </Maridel>
+</root>

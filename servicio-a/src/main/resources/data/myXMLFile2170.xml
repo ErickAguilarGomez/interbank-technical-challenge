@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janenna"
+  lastname="Evvie"
+  city="Port Hedland"
+  country="Samoa"
+  firstname2="Lizzie"
+  lastname2="Hylan"
+  email="Lizzie.Hylan@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>36.23</random_float>
+  <bool>true</bool>
+  <date>1996-04-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Barbi</elt><elt>Fidelia</elt><elt>Sheelagh</elt><elt>Rori</elt><elt>Tera</elt>  
+  <Lizzie>
+    <age>23</age>
+  </Lizzie>
+</root>

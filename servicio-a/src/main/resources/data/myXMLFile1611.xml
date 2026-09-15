@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sybille"
+  lastname="Burkle"
+  city="Medina"
+  country="South Africa"
+  firstname2="Amara"
+  lastname2="Othilia"
+  email="Amara.Othilia@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>90.659</random_float>
+  <bool>false</bool>
+  <date>1997-11-29</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tomasina</elt><elt>Sheelagh</elt><elt>Amara</elt><elt>Rubie</elt><elt>Joelly</elt>  
+  <Amara>
+    <age>80</age>
+  </Amara>
+</root>

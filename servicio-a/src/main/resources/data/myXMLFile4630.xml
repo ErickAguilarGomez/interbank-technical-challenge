@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Andrel"
+  city="Whitehorse"
+  country="Saint Helena"
+  firstname2="Carree"
+  lastname2="Harriman"
+  email="Carree.Harriman@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>21.328</random_float>
+  <bool>false</bool>
+  <date>1991-04-10</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Annabela</elt><elt>Gloria</elt><elt>Lelah</elt><elt>Berta</elt><elt>Candy</elt>  
+  <Carree>
+    <age>82</age>
+  </Carree>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christian"
+  lastname="Eliathas"
+  city="Mérida"
+  country="Bhutan"
+  firstname2="Oralee"
+  lastname2="Lanita"
+  email="Oralee.Lanita@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>37.965</random_float>
+  <bool>false</bool>
+  <date>1993-08-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lenna</elt><elt>Rhoda</elt><elt>Bernie</elt><elt>Orsola</elt><elt>Lila</elt>  
+  <Oralee>
+    <age>25</age>
+  </Oralee>
+</root>

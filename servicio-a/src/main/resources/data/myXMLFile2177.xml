@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Odessa"
+  lastname="Rheingold"
+  city="Albuquerque"
+  country="Bahrain"
+  firstname2="Karena"
+  lastname2="Brittani"
+  email="Karena.Brittani@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>16.413</random_float>
+  <bool>false</bool>
+  <date>1982-05-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Meghann</elt><elt>Katuscha</elt><elt>Willetta</elt><elt>Marleah</elt><elt>Merry</elt>  
+  <Karena>
+    <age>98</age>
+  </Karena>
+</root>

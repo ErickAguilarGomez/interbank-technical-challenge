@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lisette"
+  lastname="Maisey"
+  city="Bandar Seri Begawan"
+  country="Micronesia, Federated States of"
+  firstname2="Albertina"
+  lastname2="Goerke"
+  email="Albertina.Goerke@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>48.051</random_float>
+  <bool>false</bool>
+  <date>1989-06-04</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Orelia</elt><elt>Selma</elt><elt>Darlleen</elt><elt>Jessamyn</elt><elt>Maridel</elt>  
+  <Albertina>
+    <age>30</age>
+  </Albertina>
+</root>

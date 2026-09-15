@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Toni"
+  city="Pelotas"
+  country="Panama"
+  firstname2="Nyssa"
+  lastname2="Denis"
+  email="Nyssa.Denis@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>22.206</random_float>
+  <bool>true</bool>
+  <date>1995-03-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Chickie</elt><elt>Cam</elt><elt>Stacey</elt><elt>Morganica</elt><elt>Gianina</elt>  
+  <Nyssa>
+    <age>76</age>
+  </Nyssa>
+</root>

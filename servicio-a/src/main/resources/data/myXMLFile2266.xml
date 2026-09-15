@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darci"
+  lastname="Jaylene"
+  city="Lilongwe"
+  country="Anguilla"
+  firstname2="Meg"
+  lastname2="Gualtiero"
+  email="Meg.Gualtiero@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>10.578</random_float>
+  <bool>true</bool>
+  <date>1992-11-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Livvyy</elt><elt>Fernande</elt><elt>Daune</elt><elt>Asia</elt><elt>Viki</elt>  
+  <Meg>
+    <age>35</age>
+  </Meg>
+</root>

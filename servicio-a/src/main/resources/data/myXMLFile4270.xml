@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Felice"
+  lastname="Fitzsimmons"
+  city="Ambon"
+  country="Equatorial Guinea"
+  firstname2="Amara"
+  lastname2="Hathaway"
+  email="Amara.Hathaway@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>53.633</random_float>
+  <bool>true</bool>
+  <date>1996-02-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jaime</elt><elt>Charmaine</elt><elt>Janeczka</elt><elt>Thalia</elt><elt>Kalina</elt>  
+  <Amara>
+    <age>92</age>
+  </Amara>
+</root>

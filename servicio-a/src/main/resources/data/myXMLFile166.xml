@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doralynne"
+  lastname="Dash"
+  city="Durango"
+  country="Saint Pierre and Miquelon"
+  firstname2="Alleen"
+  lastname2="Shanley"
+  email="Alleen.Shanley@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>57.283</random_float>
+  <bool>true</bool>
+  <date>1992-12-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Donnie</elt><elt>Wendi</elt><elt>Celene</elt><elt>Ivett</elt><elt>Glynnis</elt>  
+  <Alleen>
+    <age>70</age>
+  </Alleen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Letizia"
+  lastname="Uund"
+  city="Zhengzhou"
+  country="Zimbabwe"
+  firstname2="Dyann"
+  lastname2="Brian"
+  email="Dyann.Brian@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>58.236</random_float>
+  <bool>false</bool>
+  <date>1980-04-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kenna</elt><elt>Adele</elt><elt>Bee</elt><elt>Cyndie</elt><elt>Ruthe</elt>  
+  <Dyann>
+    <age>66</age>
+  </Dyann>
+</root>

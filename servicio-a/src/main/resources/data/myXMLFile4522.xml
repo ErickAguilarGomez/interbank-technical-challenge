@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ariela"
+  lastname="Barrus"
+  city="Palma"
+  country="Panama"
+  firstname2="Jillayne"
+  lastname2="Rheingold"
+  email="Jillayne.Rheingold@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>59.859</random_float>
+  <bool>false</bool>
+  <date>1997-04-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Minda</elt><elt>Harrietta</elt><elt>Nonnah</elt><elt>Lorie</elt><elt>Livvyy</elt>  
+  <Jillayne>
+    <age>29</age>
+  </Jillayne>
+</root>

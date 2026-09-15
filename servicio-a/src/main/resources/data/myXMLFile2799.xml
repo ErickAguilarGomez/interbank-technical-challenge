@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathie"
+  lastname="Colp"
+  city="Punta Arenas"
+  country="Central African Republic"
+  firstname2="Edee"
+  lastname2="Janene"
+  email="Edee.Janene@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>32.01</random_float>
+  <bool>true</bool>
+  <date>1987-06-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Fanny</elt><elt>Karena</elt><elt>Lenna</elt><elt>Reeba</elt><elt>Mariele</elt>  
+  <Edee>
+    <age>64</age>
+  </Edee>
+</root>

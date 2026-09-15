@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Ehrman"
+  city="Frankfurt"
+  country="Papua New Guinea"
+  firstname2="Jordan"
+  lastname2="Podvin"
+  email="Jordan.Podvin@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>71.86</random_float>
+  <bool>false</bool>
+  <date>1999-03-29</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mary</elt><elt>Nicoli</elt><elt>Evita</elt><elt>Mariann</elt><elt>Leona</elt>  
+  <Jordan>
+    <age>25</age>
+  </Jordan>
+</root>

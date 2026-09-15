@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jessy"
+  lastname="Horan"
+  city="Sucre"
+  country="Panama"
+  firstname2="Bibby"
+  lastname2="Saunderson"
+  email="Bibby.Saunderson@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>25.983</random_float>
+  <bool>false</bool>
+  <date>1991-07-17</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Bernardine</elt><elt>Bill</elt><elt>Shauna</elt><elt>Siana</elt><elt>Winifred</elt>  
+  <Bibby>
+    <age>60</age>
+  </Bibby>
+</root>

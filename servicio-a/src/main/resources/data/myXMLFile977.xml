@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gertrud"
+  lastname="Georas"
+  city="Rotterdam"
+  country="Burundi"
+  firstname2="Malina"
+  lastname2="Annice"
+  email="Malina.Annice@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>61.836</random_float>
+  <bool>true</bool>
+  <date>1989-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alejandra</elt><elt>Aurore</elt><elt>Georgetta</elt><elt>Ashlee</elt><elt>Sybille</elt>  
+  <Malina>
+    <age>40</age>
+  </Malina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Vivle"
+  city="Jacksonville"
+  country="Afghanistan"
+  firstname2="Mignon"
+  lastname2="Aida"
+  email="Mignon.Aida@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>88.38</random_float>
+  <bool>true</bool>
+  <date>1984-06-19</date>
+  <regEx>hello to you</regEx>
+  <enum>online</enum>
+  <elt>Wilma</elt><elt>Lexine</elt><elt>Britte</elt><elt>Cathie</elt><elt>Monika</elt>  
+  <Mignon>
+    <age>100</age>
+  </Mignon>
+</root>

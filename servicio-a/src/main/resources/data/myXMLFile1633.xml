@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Regina"
+  lastname="Iphlgenia"
+  city="Birkirkara"
+  country="Armenia"
+  firstname2="Margalo"
+  lastname2="Carey"
+  email="Margalo.Carey@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>60.751</random_float>
+  <bool>true</bool>
+  <date>1999-04-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Talya</elt><elt>Kristina</elt><elt>Codie</elt><elt>Cordi</elt><elt>Vere</elt>  
+  <Margalo>
+    <age>78</age>
+  </Margalo>
+</root>

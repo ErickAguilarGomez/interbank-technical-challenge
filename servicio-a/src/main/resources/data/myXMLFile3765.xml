@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Clarissa"
+  city="Phuket (city)"
+  country="Cyprus"
+  firstname2="Dorthy"
+  lastname2="Bashemeth"
+  email="Dorthy.Bashemeth@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>55.293</random_float>
+  <bool>true</bool>
+  <date>1994-01-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Silvana</elt><elt>Fredericka</elt><elt>Cathyleen</elt><elt>Cathie</elt><elt>Ofilia</elt>  
+  <Dorthy>
+    <age>45</age>
+  </Dorthy>
+</root>

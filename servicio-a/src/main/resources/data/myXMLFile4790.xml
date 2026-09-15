@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Jeanne"
+  city="Cincinnati"
+  country="Congo"
+  firstname2="Gerrie"
+  lastname2="Belanger"
+  email="Gerrie.Belanger@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>5.677</random_float>
+  <bool>false</bool>
+  <date>1990-09-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Siana</elt><elt>Tarra</elt><elt>Sabina</elt><elt>Wendi</elt><elt>Leona</elt>  
+  <Gerrie>
+    <age>20</age>
+  </Gerrie>
+</root>

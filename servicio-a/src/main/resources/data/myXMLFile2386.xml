@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaja"
+  lastname="Breed"
+  city="Davao City"
+  country="Bulgaria"
+  firstname2="Nelle"
+  lastname2="Elephus"
+  email="Nelle.Elephus@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>3.165</random_float>
+  <bool>false</bool>
+  <date>1985-01-04</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ana</elt><elt>Regina</elt><elt>Genovera</elt><elt>Josephine</elt><elt>Kassey</elt>  
+  <Nelle>
+    <age>46</age>
+  </Nelle>
+</root>

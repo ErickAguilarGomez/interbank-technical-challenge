@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Veda"
+  lastname="Connelly"
+  city="Gold Coast"
+  country="Dominica"
+  firstname2="Gwyneth"
+  lastname2="Brodench"
+  email="Gwyneth.Brodench@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>52.494</random_float>
+  <bool>true</bool>
+  <date>1990-08-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jessamyn</elt><elt>Florie</elt><elt>Chickie</elt><elt>Fred</elt><elt>Valera</elt>  
+  <Gwyneth>
+    <age>30</age>
+  </Gwyneth>
+</root>

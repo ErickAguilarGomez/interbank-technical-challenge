@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susan"
+  lastname="Salvidor"
+  city="Valletta"
+  country="Venezuela"
+  firstname2="Carmela"
+  lastname2="Arathorn"
+  email="Carmela.Arathorn@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>7.879</random_float>
+  <bool>false</bool>
+  <date>1986-09-18</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Linet</elt><elt>Ekaterina</elt><elt>Bibby</elt><elt>Fanny</elt><elt>Myriam</elt>  
+  <Carmela>
+    <age>95</age>
+  </Carmela>
+</root>

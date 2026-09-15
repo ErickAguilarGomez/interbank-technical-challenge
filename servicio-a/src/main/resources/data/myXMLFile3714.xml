@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Donetta"
+  lastname="Fennessy"
+  city="Omdurman"
+  country="Cote D"Ivoire"
+  firstname2="Stevana"
+  lastname2="Erb"
+  email="Stevana.Erb@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>25.06</random_float>
+  <bool>false</bool>
+  <date>1999-01-28</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Shannah</elt><elt>Ayn</elt><elt>Mallory</elt><elt>Sean</elt><elt>Roz</elt>  
+  <Stevana>
+    <age>42</age>
+  </Stevana>
+</root>

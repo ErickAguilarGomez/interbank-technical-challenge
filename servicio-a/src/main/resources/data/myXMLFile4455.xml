@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Coral"
+  lastname="Madelene"
+  city="Stuttgart"
+  country="Jamaica"
+  firstname2="Teriann"
+  lastname2="Shirberg"
+  email="Teriann.Shirberg@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>85.717</random_float>
+  <bool>true</bool>
+  <date>1995-07-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Delilah</elt><elt>Shaine</elt><elt>Florie</elt><elt>Kate</elt><elt>Rosaline</elt>  
+  <Teriann>
+    <age>94</age>
+  </Teriann>
+</root>

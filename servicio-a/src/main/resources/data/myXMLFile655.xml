@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christian"
+  lastname="Nore"
+  city="Rabi Island"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Agnese"
+  lastname2="Jammal"
+  email="Agnese.Jammal@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>87.654</random_float>
+  <bool>true</bool>
+  <date>1996-01-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Bettine</elt><elt>Juliane</elt><elt>Annabela</elt><elt>Carly</elt><elt>Sindee</elt>  
+  <Agnese>
+    <age>77</age>
+  </Agnese>
+</root>

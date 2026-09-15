@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Eiser"
+  city="Ljubljana"
+  country="Morocco"
+  firstname2="Vivia"
+  lastname2="Valoniah"
+  email="Vivia.Valoniah@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>48.417</random_float>
+  <bool>false</bool>
+  <date>1994-08-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Angelique</elt><elt>Charlena</elt><elt>Jessy</elt><elt>Dari</elt><elt>Alisha</elt>  
+  <Vivia>
+    <age>22</age>
+  </Vivia>
+</root>

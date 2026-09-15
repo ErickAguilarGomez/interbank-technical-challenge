@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Talya"
+  lastname="Lipson"
+  city="Hobart"
+  country="Qatar"
+  firstname2="Susette"
+  lastname2="Delacourt"
+  email="Susette.Delacourt@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>84.371</random_float>
+  <bool>true</bool>
+  <date>1996-12-16</date>
+  <regEx>helloo to you</regEx>
+  <enum>online</enum>
+  <elt>Shaine</elt><elt>Addia</elt><elt>Concettina</elt><elt>Konstance</elt><elt>Bibby</elt>  
+  <Susette>
+    <age>29</age>
+  </Susette>
+</root>

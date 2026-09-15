@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stevana"
+  lastname="Suzetta"
+  city="Maseru"
+  country="Guinea"
+  firstname2="Dorthy"
+  lastname2="Sabella"
+  email="Dorthy.Sabella@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>72.436</random_float>
+  <bool>false</bool>
+  <date>1992-12-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Moyna</elt><elt>Lexine</elt><elt>Belinda</elt><elt>Fernande</elt><elt>Arabel</elt>  
+  <Dorthy>
+    <age>45</age>
+  </Dorthy>
+</root>

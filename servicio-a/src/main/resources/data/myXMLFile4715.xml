@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jeanna"
+  lastname="Cherianne"
+  city="Asunción"
+  country="Myanmar"
+  firstname2="Vinita"
+  lastname2="Jorgan"
+  email="Vinita.Jorgan@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>74.066</random_float>
+  <bool>false</bool>
+  <date>1994-04-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Goldie</elt><elt>Marnia</elt><elt>Marguerite</elt><elt>Valera</elt><elt>Gretal</elt>  
+  <Vinita>
+    <age>84</age>
+  </Vinita>
+</root>

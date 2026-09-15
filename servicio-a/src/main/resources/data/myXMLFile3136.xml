@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dode"
+  lastname="Luhe"
+  city="Mbabane"
+  country="Nicaragua"
+  firstname2="Ayn"
+  lastname2="Westphal"
+  email="Ayn.Westphal@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>66.436</random_float>
+  <bool>true</bool>
+  <date>1989-04-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ann-Marie</elt><elt>Libbie</elt><elt>Jenilee</elt><elt>Loree</elt><elt>Ofilia</elt>  
+  <Ayn>
+    <age>58</age>
+  </Ayn>
+</root>

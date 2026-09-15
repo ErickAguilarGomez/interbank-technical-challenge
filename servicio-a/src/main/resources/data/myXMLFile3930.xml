@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Chinua"
+  city="Hanover"
+  country="Paraguay"
+  firstname2="Nanete"
+  lastname2="Nikaniki"
+  email="Nanete.Nikaniki@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>65.811</random_float>
+  <bool>true</bool>
+  <date>1983-03-24</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ana</elt><elt>Cyb</elt><elt>Ottilie</elt><elt>Korrie</elt><elt>Babita</elt>  
+  <Nanete>
+    <age>84</age>
+  </Nanete>
+</root>

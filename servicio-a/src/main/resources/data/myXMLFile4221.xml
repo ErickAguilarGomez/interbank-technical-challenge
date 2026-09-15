@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hettie"
+  lastname="Teddman"
+  city="Skopje"
+  country="Belgium"
+  firstname2="Sarette"
+  lastname2="Hoenack"
+  email="Sarette.Hoenack@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>95.411</random_float>
+  <bool>true</bool>
+  <date>1983-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Anthia</elt><elt>Alleen</elt><elt>Madeleine</elt><elt>Marguerite</elt><elt>Ana</elt>  
+  <Sarette>
+    <age>98</age>
+  </Sarette>
+</root>

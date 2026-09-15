@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristan"
+  lastname="Redmond"
+  city="Cairo"
+  country="Philippines"
+  firstname2="Drucie"
+  lastname2="Ilka"
+  email="Drucie.Ilka@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>22.462</random_float>
+  <bool>true</bool>
+  <date>1981-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marita</elt><elt>Kimberley</elt><elt>Ricky</elt><elt>Phylis</elt><elt>Florie</elt>  
+  <Drucie>
+    <age>39</age>
+  </Drucie>
+</root>

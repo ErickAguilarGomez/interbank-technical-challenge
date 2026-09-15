@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dode"
+  lastname="Cristi"
+  city="Mamoudzou"
+  country="Ghana"
+  firstname2="Danny"
+  lastname2="Donoghue"
+  email="Danny.Donoghue@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>52.697</random_float>
+  <bool>false</bool>
+  <date>1987-06-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Karina</elt><elt>Sophia</elt><elt>Lynde</elt><elt>Althea</elt><elt>Roberta</elt>  
+  <Danny>
+    <age>88</age>
+  </Danny>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gale"
+  lastname="Isacco"
+  city="El Aaiún"
+  country="Mongolia"
+  firstname2="Lauryn"
+  lastname2="Charity"
+  email="Lauryn.Charity@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>94.805</random_float>
+  <bool>true</bool>
+  <date>1986-03-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ashlee</elt><elt>Cyndie</elt><elt>Sheelagh</elt><elt>Millie</elt><elt>Misha</elt>  
+  <Lauryn>
+    <age>46</age>
+  </Lauryn>
+</root>

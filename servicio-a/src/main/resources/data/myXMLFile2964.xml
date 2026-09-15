@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nessie"
+  lastname="Claudine"
+  city="San Juan"
+  country="Japan"
+  firstname2="Daphne"
+  lastname2="Bultman"
+  email="Daphne.Bultman@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>23.517</random_float>
+  <bool>true</bool>
+  <date>1996-01-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marnia</elt><elt>Steffane</elt><elt>Farrah</elt><elt>Adore</elt><elt>Gwenneth</elt>  
+  <Daphne>
+    <age>94</age>
+  </Daphne>
+</root>

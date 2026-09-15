@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Cloris"
+  city="Harare"
+  country="Chile"
+  firstname2="Linet"
+  lastname2="Joni"
+  email="Linet.Joni@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>25.933</random_float>
+  <bool>true</bool>
+  <date>1997-05-31</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Annecorinne</elt><elt>Benita</elt><elt>Suzette</elt><elt>Corina</elt><elt>Rori</elt>  
+  <Linet>
+    <age>37</age>
+  </Linet>
+</root>

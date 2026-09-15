@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jere"
+  lastname="Liva"
+  city="Murmansk"
+  country="Namibia"
+  firstname2="Nessie"
+  lastname2="Paton"
+  email="Nessie.Paton@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>78.455</random_float>
+  <bool>false</bool>
+  <date>1993-05-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Florencia</elt><elt>Rani</elt><elt>Glynnis</elt><elt>Keelia</elt><elt>Vonny</elt>  
+  <Nessie>
+    <age>63</age>
+  </Nessie>
+</root>

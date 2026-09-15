@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Libbie"
+  lastname="Tristram"
+  city="Mumbai"
+  country="Mongolia"
+  firstname2="Jessamyn"
+  lastname2="Jenness"
+  email="Jessamyn.Jenness@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>19.949</random_float>
+  <bool>false</bool>
+  <date>1991-08-06</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Georgina</elt><elt>Imojean</elt><elt>Alisha</elt><elt>Karly</elt><elt>Alie</elt>  
+  <Jessamyn>
+    <age>58</age>
+  </Jessamyn>
+</root>

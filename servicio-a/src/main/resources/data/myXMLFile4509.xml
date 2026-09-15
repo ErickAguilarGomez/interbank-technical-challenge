@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britni"
+  lastname="Quinn"
+  city="Bissau"
+  country="Jamaica"
+  firstname2="Veda"
+  lastname2="Jethro"
+  email="Veda.Jethro@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>100.224</random_float>
+  <bool>true</bool>
+  <date>1980-02-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Wynne</elt><elt>Bertine</elt><elt>Britni</elt><elt>Basia</elt><elt>Jany</elt>  
+  <Veda>
+    <age>51</age>
+  </Veda>
+</root>

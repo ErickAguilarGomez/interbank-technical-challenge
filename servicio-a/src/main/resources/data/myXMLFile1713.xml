@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tracey"
+  lastname="Wolfgram"
+  city="Nagpur"
+  country="American Samoa"
+  firstname2="Dawn"
+  lastname2="Celestine"
+  email="Dawn.Celestine@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>22.282</random_float>
+  <bool>false</bool>
+  <date>1990-07-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Modestia</elt><elt>Vevay</elt><elt>Jessamyn</elt><elt>Carmencita</elt><elt>Gusty</elt>  
+  <Dawn>
+    <age>74</age>
+  </Dawn>
+</root>

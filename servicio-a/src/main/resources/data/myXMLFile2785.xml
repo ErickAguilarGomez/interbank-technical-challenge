@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Reinke"
+  city="Birkirkara"
+  country="Chile"
+  firstname2="Darlleen"
+  lastname2="Germann"
+  email="Darlleen.Germann@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>31.296</random_float>
+  <bool>true</bool>
+  <date>1988-04-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alyda</elt><elt>Marinna</elt><elt>Jolyn</elt><elt>Di</elt><elt>Moyna</elt>  
+  <Darlleen>
+    <age>81</age>
+  </Darlleen>
+</root>

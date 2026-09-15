@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aubrie"
+  lastname="Peg"
+  city="Longyearbyen"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Melisent"
+  lastname2="Fiester"
+  email="Melisent.Fiester@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>49.456</random_float>
+  <bool>true</bool>
+  <date>1985-11-22</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Daryl</elt><elt>Aurore</elt><elt>Janeczka</elt><elt>Konstance</elt><elt>Queenie</elt>  
+  <Melisent>
+    <age>92</age>
+  </Melisent>
+</root>

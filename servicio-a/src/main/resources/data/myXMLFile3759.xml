@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kayla"
+  lastname="Natalia"
+  city="Abu Dhabi"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Juliane"
+  lastname2="Lynn"
+  email="Juliane.Lynn@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>13.364</random_float>
+  <bool>true</bool>
+  <date>1990-08-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Suzette</elt><elt>Amara</elt><elt>Jillayne</elt><elt>Nicoli</elt><elt>Lauryn</elt>  
+  <Juliane>
+    <age>29</age>
+  </Juliane>
+</root>

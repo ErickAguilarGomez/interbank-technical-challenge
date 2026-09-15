@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Xylina"
+  lastname="Hieronymus"
+  city="Lucknow"
+  country="Burkina Faso"
+  firstname2="Doro"
+  lastname2="Greyson"
+  email="Doro.Greyson@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>71.848</random_float>
+  <bool>true</bool>
+  <date>1995-02-12</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Robbi</elt><elt>Rosene</elt><elt>Daune</elt><elt>Rhoda</elt><elt>Moyna</elt>  
+  <Doro>
+    <age>91</age>
+  </Doro>
+</root>

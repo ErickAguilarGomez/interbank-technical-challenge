@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lita"
+  lastname="Cullin"
+  city="Monrovia"
+  country="Estonia"
+  firstname2="Trixi"
+  lastname2="Lea"
+  email="Trixi.Lea@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>25.266</random_float>
+  <bool>true</bool>
+  <date>1991-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Valera</elt><elt>Jeanna</elt><elt>Farrah</elt><elt>Nelle</elt><elt>Jobi</elt>  
+  <Trixi>
+    <age>64</age>
+  </Trixi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brooks"
+  lastname="Dalli"
+  city="Paramaribo"
+  country="Switzerland"
+  firstname2="Ursulina"
+  lastname2="Roumell"
+  email="Ursulina.Roumell@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>46.963</random_float>
+  <bool>false</bool>
+  <date>1997-07-16</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Corene</elt><elt>Jere</elt><elt>Thalia</elt><elt>Ofilia</elt><elt>Atlanta</elt>  
+  <Ursulina>
+    <age>48</age>
+  </Ursulina>
+</root>

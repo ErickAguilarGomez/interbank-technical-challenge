@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaja"
+  lastname="Milson"
+  city="Kuching"
+  country="Tonga"
+  firstname2="Neila"
+  lastname2="Anderea"
+  email="Neila.Anderea@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>3.707</random_float>
+  <bool>true</bool>
+  <date>1980-06-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lulita</elt><elt>Donnie</elt><elt>Valeda</elt><elt>Lynea</elt><elt>Libbie</elt>  
+  <Neila>
+    <age>25</age>
+  </Neila>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Esmeralda"
+  lastname="Giff"
+  city="Barcelona"
+  country="Iraq"
+  firstname2="Letizia"
+  lastname2="Dorine"
+  email="Letizia.Dorine@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>15.393</random_float>
+  <bool>false</bool>
+  <date>1992-01-18</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Paola</elt><elt>Emmey</elt><elt>Lulita</elt><elt>Gui</elt><elt>Heida</elt>  
+  <Letizia>
+    <age>20</age>
+  </Letizia>
+</root>

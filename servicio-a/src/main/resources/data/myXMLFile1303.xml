@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katuscha"
+  lastname="Docilla"
+  city="Yangon"
+  country="Cook Islands"
+  firstname2="Rhea"
+  lastname2="Gabrielli"
+  email="Rhea.Gabrielli@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>35.156</random_float>
+  <bool>false</bool>
+  <date>1980-06-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Corly</elt><elt>Jere</elt><elt>Nataline</elt><elt>Merry</elt><elt>Emylee</elt>  
+  <Rhea>
+    <age>26</age>
+  </Rhea>
+</root>

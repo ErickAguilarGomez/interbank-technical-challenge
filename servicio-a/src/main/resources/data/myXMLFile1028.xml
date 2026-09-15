@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Hermes"
+  city="Kota Kinabalu"
+  country="Bangladesh"
+  firstname2="Valera"
+  lastname2="Primalia"
+  email="Valera.Primalia@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>9.767</random_float>
+  <bool>false</bool>
+  <date>1986-05-30</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gisela</elt><elt>Josephine</elt><elt>Robinia</elt><elt>Meg</elt><elt>Nataline</elt>  
+  <Valera>
+    <age>48</age>
+  </Valera>
+</root>

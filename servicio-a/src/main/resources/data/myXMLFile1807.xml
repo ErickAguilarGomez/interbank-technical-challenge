@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kara-Lynn"
+  lastname="Chesna"
+  city="Gold Coast"
+  country="Indonesia"
+  firstname2="Ida"
+  lastname2="Dyche"
+  email="Ida.Dyche@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>10.81</random_float>
+  <bool>false</bool>
+  <date>1981-07-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Molli</elt><elt>Jan</elt><elt>Theodora</elt><elt>Jordan</elt><elt>Imojean</elt>  
+  <Ida>
+    <age>78</age>
+  </Ida>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Shaddock"
+  city="Copenhagen"
+  country="Anguilla"
+  firstname2="Katuscha"
+  lastname2="Atcliffe"
+  email="Katuscha.Atcliffe@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>12.182</random_float>
+  <bool>false</bool>
+  <date>1987-03-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Leeanne</elt><elt>Annice</elt><elt>Mathilda</elt><elt>Marline</elt><elt>Sibella</elt>  
+  <Katuscha>
+    <age>80</age>
+  </Katuscha>
+</root>

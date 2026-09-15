@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fina"
+  lastname="Keily"
+  city="Paramaribo"
+  country="Åland Islands"
+  firstname2="Maridel"
+  lastname2="Colleen"
+  email="Maridel.Colleen@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>14.974</random_float>
+  <bool>true</bool>
+  <date>1981-11-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Pearline</elt><elt>Sybille</elt><elt>Sophia</elt><elt>Misha</elt><elt>Krystle</elt>  
+  <Maridel>
+    <age>66</age>
+  </Maridel>
+</root>

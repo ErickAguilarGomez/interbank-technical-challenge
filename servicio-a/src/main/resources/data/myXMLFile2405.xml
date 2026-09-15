@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nannie"
+  lastname="Ietta"
+  city="Malacca Town"
+  country="India"
+  firstname2="Caressa"
+  lastname2="August"
+  email="Caressa.August@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>2.486</random_float>
+  <bool>false</bool>
+  <date>1984-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tamqrah</elt><elt>Shaine</elt><elt>Carlie</elt><elt>Pamella</elt><elt>Winifred</elt>  
+  <Caressa>
+    <age>97</age>
+  </Caressa>
+</root>

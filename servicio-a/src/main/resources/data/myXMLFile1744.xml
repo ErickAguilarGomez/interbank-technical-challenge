@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dawn"
+  lastname="Pattin"
+  city="Adana"
+  country="United Arab Emirates"
+  firstname2="Hayley"
+  lastname2="Love"
+  email="Hayley.Love@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>52.126</random_float>
+  <bool>false</bool>
+  <date>1988-09-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lesly</elt><elt>Coral</elt><elt>Glynnis</elt><elt>Emma</elt><elt>Cam</elt>  
+  <Hayley>
+    <age>48</age>
+  </Hayley>
+</root>

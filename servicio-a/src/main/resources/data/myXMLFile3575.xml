@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nadine"
+  lastname="Quent"
+  city="Tucson"
+  country="Brunei Darussalam"
+  firstname2="Jenda"
+  lastname2="Joni"
+  email="Jenda.Joni@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>29.665</random_float>
+  <bool>false</bool>
+  <date>1998-12-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Shirlee</elt><elt>Ariela</elt><elt>Ivett</elt><elt>Peri</elt><elt>Tabbatha</elt>  
+  <Jenda>
+    <age>50</age>
+  </Jenda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaja"
+  lastname="Rocray"
+  city="Concepción"
+  country="Grenada"
+  firstname2="Larine"
+  lastname2="Abernon"
+  email="Larine.Abernon@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>92.166</random_float>
+  <bool>true</bool>
+  <date>1998-03-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jenda</elt><elt>Winifred</elt><elt>Blinni</elt><elt>Roxane</elt><elt>Judy</elt>  
+  <Larine>
+    <age>54</age>
+  </Larine>
+</root>

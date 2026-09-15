@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Gunn"
+  city="Dresden"
+  country="Nepal"
+  firstname2="Chandra"
+  lastname2="Pulsifer"
+  email="Chandra.Pulsifer@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>17.268</random_float>
+  <bool>false</bool>
+  <date>1991-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Clary</elt><elt>Lulita</elt><elt>Janis</elt><elt>Dominga</elt><elt>Chrystel</elt>  
+  <Chandra>
+    <age>90</age>
+  </Chandra>
+</root>

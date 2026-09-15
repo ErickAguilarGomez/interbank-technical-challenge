@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Gherardo"
+  city="Pontianak"
+  country="Bolivia"
+  firstname2="Latisha"
+  lastname2="Sekofski"
+  email="Latisha.Sekofski@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>53.735</random_float>
+  <bool>false</bool>
+  <date>1999-01-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Goldie</elt><elt>Krystle</elt><elt>Christy</elt><elt>Ida</elt><elt>Maud</elt>  
+  <Latisha>
+    <age>73</age>
+  </Latisha>
+</root>

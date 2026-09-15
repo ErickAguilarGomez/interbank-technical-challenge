@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bill"
+  lastname="Nore"
+  city="Incheon"
+  country="Yemen"
+  firstname2="Gabi"
+  lastname2="Yusuk"
+  email="Gabi.Yusuk@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>17.895</random_float>
+  <bool>true</bool>
+  <date>1984-07-18</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Camile</elt><elt>Tabbatha</elt><elt>Darci</elt><elt>Korrie</elt><elt>Genevra</elt>  
+  <Gabi>
+    <age>45</age>
+  </Gabi>
+</root>

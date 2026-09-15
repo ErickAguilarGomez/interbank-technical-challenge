@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shel"
+  lastname="Afton"
+  city="Caracas"
+  country="Mexico"
+  firstname2="Nikki"
+  lastname2="Kunin"
+  email="Nikki.Kunin@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>21.153</random_float>
+  <bool>false</bool>
+  <date>1992-03-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Korrie</elt><elt>Tamqrah</elt><elt>Alex</elt><elt>Antonietta</elt><elt>Mathilda</elt>  
+  <Nikki>
+    <age>42</age>
+  </Nikki>
+</root>

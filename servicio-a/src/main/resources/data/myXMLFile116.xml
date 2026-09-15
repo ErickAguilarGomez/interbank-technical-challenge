@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kelly"
+  lastname="Brunell"
+  city="Surabaya"
+  country="Argentina"
+  firstname2="Raf"
+  lastname2="Fax"
+  email="Raf.Fax@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>93.767</random_float>
+  <bool>true</bool>
+  <date>1985-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kelly</elt><elt>Charlena</elt><elt>Christy</elt><elt>Veda</elt><elt>Gusella</elt>  
+  <Raf>
+    <age>22</age>
+  </Raf>
+</root>

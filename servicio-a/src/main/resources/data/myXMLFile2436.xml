@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Gombach"
+  city="Nanning"
+  country="Chad"
+  firstname2="Leona"
+  lastname2="Urias"
+  email="Leona.Urias@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>22.133</random_float>
+  <bool>false</bool>
+  <date>1987-12-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jessamyn</elt><elt>Marsiella</elt><elt>Nonnah</elt><elt>Nollie</elt><elt>Lilith</elt>  
+  <Leona>
+    <age>58</age>
+  </Leona>
+</root>

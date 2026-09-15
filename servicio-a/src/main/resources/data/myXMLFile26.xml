@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flory"
+  lastname="Terencio"
+  city="Libreville"
+  country="Macao"
+  firstname2="Reeba"
+  lastname2="Kannry"
+  email="Reeba.Kannry@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>49.366</random_float>
+  <bool>true</bool>
+  <date>1982-07-24</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sonni</elt><elt>Deane</elt><elt>Tiffie</elt><elt>Janis</elt><elt>Brynna</elt>  
+  <Reeba>
+    <age>50</age>
+  </Reeba>
+</root>

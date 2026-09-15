@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fina"
+  lastname="Mullane"
+  city="Dodoma"
+  country="Mauritania"
+  firstname2="Angela"
+  lastname2="Middleton"
+  email="Angela.Middleton@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>82.905</random_float>
+  <bool>false</bool>
+  <date>1985-09-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Estell</elt><elt>Theodora</elt><elt>Andree</elt><elt>Luci</elt><elt>Mireielle</elt>  
+  <Angela>
+    <age>39</age>
+  </Angela>
+</root>

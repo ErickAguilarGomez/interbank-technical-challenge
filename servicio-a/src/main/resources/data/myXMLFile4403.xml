@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucille"
+  lastname="Rozanna"
+  city="Bridgetown"
+  country="Bahamas"
+  firstname2="Lonnie"
+  lastname2="McLaughlin"
+  email="Lonnie.McLaughlin@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>32.59</random_float>
+  <bool>true</bool>
+  <date>1995-07-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Brianna</elt><elt>Dulcinea</elt><elt>Doro</elt><elt>Zondra</elt><elt>Elena</elt>  
+  <Lonnie>
+    <age>49</age>
+  </Lonnie>
+</root>

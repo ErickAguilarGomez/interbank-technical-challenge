@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Revkah"
+  city="Udon Thani"
+  country="Finland"
+  firstname2="Aurore"
+  lastname2="Bronk"
+  email="Aurore.Bronk@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>42.501</random_float>
+  <bool>true</bool>
+  <date>1998-09-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Anallese</elt><elt>Gerrie</elt><elt>Bee</elt><elt>Karena</elt><elt>Leanna</elt>  
+  <Aurore>
+    <age>43</age>
+  </Aurore>
+</root>

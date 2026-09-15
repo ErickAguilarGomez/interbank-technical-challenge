@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paola"
+  lastname="Wildermuth"
+  city="Mexico City"
+  country="Jersey"
+  firstname2="Sharlene"
+  lastname2="Zrike"
+  email="Sharlene.Zrike@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>9.58</random_float>
+  <bool>false</bool>
+  <date>1997-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ardenia</elt><elt>Brynna</elt><elt>Kellen</elt><elt>Margalo</elt><elt>Sidoney</elt>  
+  <Sharlene>
+    <age>80</age>
+  </Sharlene>
+</root>

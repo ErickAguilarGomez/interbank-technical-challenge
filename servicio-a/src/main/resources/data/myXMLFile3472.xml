@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="Felecia"
+  city="Bujumbura"
+  country="El Salvador"
+  firstname2="Cyb"
+  lastname2="Casimir"
+  email="Cyb.Casimir@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>53.335</random_float>
+  <bool>false</bool>
+  <date>1982-11-30</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Peri</elt><elt>Tera</elt><elt>Brooks</elt><elt>Leona</elt><elt>Elka</elt>  
+  <Cyb>
+    <age>65</age>
+  </Cyb>
+</root>

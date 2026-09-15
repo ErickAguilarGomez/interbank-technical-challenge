@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Iseabal"
+  lastname="Baptlsta"
+  city="Apia"
+  country="Bahamas"
+  firstname2="Frieda"
+  lastname2="Hewitt"
+  email="Frieda.Hewitt@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>48.596</random_float>
+  <bool>true</bool>
+  <date>1990-01-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aurore</elt><elt>Marleah</elt><elt>Darlleen</elt><elt>Marline</elt><elt>Odessa</elt>  
+  <Frieda>
+    <age>63</age>
+  </Frieda>
+</root>

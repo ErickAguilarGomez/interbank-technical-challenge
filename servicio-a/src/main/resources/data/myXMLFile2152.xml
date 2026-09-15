@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orelia"
+  lastname="Slifka"
+  city="Zagreb"
+  country="Brunei Darussalam"
+  firstname2="Violet"
+  lastname2="Shelba"
+  email="Violet.Shelba@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>30.709</random_float>
+  <bool>true</bool>
+  <date>1995-05-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Eugine</elt><elt>Kirstin</elt><elt>Elvira</elt><elt>Ezmeralda</elt><elt>Dolli</elt>  
+  <Violet>
+    <age>89</age>
+  </Violet>
+</root>

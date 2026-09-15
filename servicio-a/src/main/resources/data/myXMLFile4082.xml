@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Halette"
+  lastname="Linehan"
+  city="Liverpool"
+  country="British Indian Ocean Territory"
+  firstname2="Romona"
+  lastname2="McCutcheon"
+  email="Romona.McCutcheon@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>76.879</random_float>
+  <bool>false</bool>
+  <date>1994-06-06</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Aubrie</elt><elt>Winny</elt><elt>Emma</elt><elt>Di</elt><elt>Louella</elt>  
+  <Romona>
+    <age>19</age>
+  </Romona>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mary"
+  lastname="Kat"
+  city="Ulan Bator"
+  country="Seychelles"
+  firstname2="Mellicent"
+  lastname2="Regan"
+  email="Mellicent.Regan@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>19.742</random_float>
+  <bool>true</bool>
+  <date>1988-03-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Beatriz</elt><elt>Mellicent</elt><elt>Libbie</elt><elt>Leanna</elt><elt>Sarette</elt>  
+  <Mellicent>
+    <age>36</age>
+  </Mellicent>
+</root>

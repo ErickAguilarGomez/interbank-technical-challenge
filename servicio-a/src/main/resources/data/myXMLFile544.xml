@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorne"
+  lastname="Joachim"
+  city="Shillong"
+  country="United States Minor Outlying Islands"
+  firstname2="Janis"
+  lastname2="Dermott"
+  email="Janis.Dermott@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>74.354</random_float>
+  <bool>true</bool>
+  <date>1986-08-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kamilah</elt><elt>Cyb</elt><elt>Britte</elt><elt>Paule</elt><elt>Carol-Jean</elt>  
+  <Janis>
+    <age>56</age>
+  </Janis>
+</root>

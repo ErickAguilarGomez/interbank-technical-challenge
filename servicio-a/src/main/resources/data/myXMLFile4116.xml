@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Justinn"
+  lastname="Phi"
+  city="Rosario"
+  country="Brazil"
+  firstname2="Edith"
+  lastname2="Therine"
+  email="Edith.Therine@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>78.991</random_float>
+  <bool>true</bool>
+  <date>1980-07-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Arlina</elt><elt>Ann-Marie</elt><elt>Eolanda</elt><elt>Allyce</elt><elt>Gianina</elt>  
+  <Edith>
+    <age>74</age>
+  </Edith>
+</root>

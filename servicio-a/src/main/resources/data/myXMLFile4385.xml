@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgina"
+  lastname="Orpah"
+  city="St. Louis"
+  country="Northern Mariana Islands"
+  firstname2="Laure"
+  lastname2="Phi"
+  email="Laure.Phi@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>70.745</random_float>
+  <bool>true</bool>
+  <date>1991-11-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Amara</elt><elt>Basia</elt><elt>Demetris</elt><elt>Tracey</elt><elt>Elsie</elt>  
+  <Laure>
+    <age>72</age>
+  </Laure>
+</root>

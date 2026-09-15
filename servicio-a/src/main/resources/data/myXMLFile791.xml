@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ivett"
+  lastname="Tarrant"
+  city="Vatican City"
+  country="Bermuda"
+  firstname2="Jorry"
+  lastname2="Arvo"
+  email="Jorry.Arvo@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>54.703</random_float>
+  <bool>true</bool>
+  <date>1997-03-04</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Glynnis</elt><elt>Amalie</elt><elt>Gilda</elt><elt>Queenie</elt><elt>Ardenia</elt>  
+  <Jorry>
+    <age>39</age>
+  </Jorry>
+</root>

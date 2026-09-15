@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florencia"
+  lastname="Cavan"
+  city="Kobe"
+  country="Sierra Leone"
+  firstname2="Elmira"
+  lastname2="Eliathas"
+  email="Elmira.Eliathas@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>59.83</random_float>
+  <bool>false</bool>
+  <date>1999-03-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Consuela</elt><elt>Cindelyn</elt><elt>Millie</elt><elt>Dorene</elt><elt>Lorie</elt>  
+  <Elmira>
+    <age>69</age>
+  </Elmira>
+</root>

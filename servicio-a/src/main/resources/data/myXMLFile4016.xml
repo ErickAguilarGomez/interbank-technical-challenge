@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Violet"
+  lastname="Salchunas"
+  city="Huế"
+  country="United States"
+  firstname2="Trixi"
+  lastname2="Keily"
+  email="Trixi.Keily@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>17.862</random_float>
+  <bool>true</bool>
+  <date>1997-06-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tera</elt><elt>Brana</elt><elt>Merry</elt><elt>Britte</elt><elt>Donnie</elt>  
+  <Trixi>
+    <age>34</age>
+  </Trixi>
+</root>

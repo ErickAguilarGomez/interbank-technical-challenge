@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corina"
+  lastname="Adalbert"
+  city="Quezon City"
+  country="Kiribati"
+  firstname2="Belinda"
+  lastname2="Bivins"
+  email="Belinda.Bivins@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>90.578</random_float>
+  <bool>true</bool>
+  <date>1984-07-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jolyn</elt><elt>Tressa</elt><elt>Kenna</elt><elt>Justinn</elt><elt>Dari</elt>  
+  <Belinda>
+    <age>87</age>
+  </Belinda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orelia"
+  lastname="Hutchison"
+  city="Winnipeg"
+  country="Zambia"
+  firstname2="Phylis"
+  lastname2="Durware"
+  email="Phylis.Durware@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>38.708</random_float>
+  <bool>true</bool>
+  <date>1986-03-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Queenie</elt><elt>Zia</elt><elt>Annaliese</elt><elt>Leontine</elt><elt>Catharine</elt>  
+  <Phylis>
+    <age>21</age>
+  </Phylis>
+</root>

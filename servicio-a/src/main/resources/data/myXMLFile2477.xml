@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Alcott"
+  city="Strasbourg"
+  country="Panama"
+  firstname2="Cordi"
+  lastname2="Behre"
+  email="Cordi.Behre@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>7.683</random_float>
+  <bool>false</bool>
+  <date>1998-04-22</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ida</elt><elt>Felice</elt><elt>Jany</elt><elt>Roz</elt><elt>Annabela</elt>  
+  <Cordi>
+    <age>65</age>
+  </Cordi>
+</root>

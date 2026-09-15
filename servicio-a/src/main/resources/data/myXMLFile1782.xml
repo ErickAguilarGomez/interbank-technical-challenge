@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joy"
+  lastname="Even"
+  city="Tallinn"
+  country="Burkina Faso"
+  firstname2="Amii"
+  lastname2="Larochelle"
+  email="Amii.Larochelle@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>68.9</random_float>
+  <bool>true</bool>
+  <date>1981-12-06</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Elise</elt><elt>Cherilyn</elt><elt>Riannon</elt><elt>Rani</elt><elt>Elfreda</elt>  
+  <Amii>
+    <age>33</age>
+  </Amii>
+</root>

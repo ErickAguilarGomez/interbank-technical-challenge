@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Teddman"
+  city="Berlin"
+  country="Mozambique"
+  firstname2="Viki"
+  lastname2="Huggins"
+  email="Viki.Huggins@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>50.366</random_float>
+  <bool>false</bool>
+  <date>1984-10-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rosabelle</elt><elt>Carly</elt><elt>Ottilie</elt><elt>Eve</elt><elt>Marinna</elt>  
+  <Viki>
+    <age>35</age>
+  </Viki>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Antonietta"
+  lastname="Clie"
+  city="Ipoh"
+  country="Burkina Faso"
+  firstname2="Cordi"
+  lastname2="Rillings"
+  email="Cordi.Rillings@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>80.267</random_float>
+  <bool>true</bool>
+  <date>1985-03-12</date>
+  <regEx>helloooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Melodie</elt><elt>Karena</elt><elt>Chloris</elt><elt>Feliza</elt><elt>Frances</elt>  
+  <Cordi>
+    <age>75</age>
+  </Cordi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anthia"
+  lastname="Alejoa"
+  city="Bratsk"
+  country="Denmark"
+  firstname2="Elie"
+  lastname2="Brodench"
+  email="Elie.Brodench@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>42.851</random_float>
+  <bool>false</bool>
+  <date>1985-11-02</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Zia</elt><elt>Kenna</elt><elt>Barbara</elt><elt>Jenda</elt><elt>Morganica</elt>  
+  <Elie>
+    <age>90</age>
+  </Elie>
+</root>

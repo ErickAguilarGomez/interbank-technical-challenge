@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Koziara"
+  city="Pattaya"
+  country="Puerto Rico"
+  firstname2="Britni"
+  lastname2="Elsinore"
+  email="Britni.Elsinore@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>8.205</random_float>
+  <bool>false</bool>
+  <date>1981-11-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Bertine</elt><elt>Carly</elt><elt>Kelly</elt><elt>Shell</elt><elt>Philis</elt>  
+  <Britni>
+    <age>95</age>
+  </Britni>
+</root>

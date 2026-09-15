@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Karl"
+  city="Pelotas"
+  country="Norway"
+  firstname2="Renae"
+  lastname2="O'Carroll"
+  email="Renae.O'Carroll@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>15.504</random_float>
+  <bool>true</bool>
+  <date>1983-10-10</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Meg</elt><elt>Xylina</elt><elt>Melina</elt><elt>Helena</elt><elt>Lorenza</elt>  
+  <Renae>
+    <age>64</age>
+  </Renae>
+</root>

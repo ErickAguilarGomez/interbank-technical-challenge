@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Norine"
+  lastname="Buttaro"
+  city="Dresden"
+  country="Austria"
+  firstname2="Helena"
+  lastname2="Vernier"
+  email="Helena.Vernier@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>38.386</random_float>
+  <bool>true</bool>
+  <date>1983-06-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gaylene</elt><elt>Sherrie</elt><elt>Corene</elt><elt>Pamella</elt><elt>Joleen</elt>  
+  <Helena>
+    <age>64</age>
+  </Helena>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Eben"
+  city="Belém"
+  country="Bermuda"
+  firstname2="Meriel"
+  lastname2="Goode"
+  email="Meriel.Goode@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>60.99</random_float>
+  <bool>true</bool>
+  <date>2000-01-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sophia</elt><elt>Teddie</elt><elt>Lory</elt><elt>Rosaline</elt><elt>Nyssa</elt>  
+  <Meriel>
+    <age>73</age>
+  </Meriel>
+</root>

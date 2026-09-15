@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Hebner"
+  city="Valletta"
+  country="Seychelles"
+  firstname2="Dari"
+  lastname2="Yoko"
+  email="Dari.Yoko@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>49.253</random_float>
+  <bool>false</bool>
+  <date>1994-08-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Frances</elt><elt>Florencia</elt><elt>Roseline</elt><elt>Angelique</elt><elt>Estell</elt>  
+  <Dari>
+    <age>56</age>
+  </Dari>
+</root>

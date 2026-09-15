@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maisey"
+  lastname="Vharat"
+  city="Belmopan"
+  country="Greenland"
+  firstname2="Mildrid"
+  lastname2="Shirberg"
+  email="Mildrid.Shirberg@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>71.612</random_float>
+  <bool>false</bool>
+  <date>1981-07-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dotty</elt><elt>Jacenta</elt><elt>Viviene</elt><elt>Marjie</elt><elt>Ann-Marie</elt>  
+  <Mildrid>
+    <age>77</age>
+  </Mildrid>
+</root>

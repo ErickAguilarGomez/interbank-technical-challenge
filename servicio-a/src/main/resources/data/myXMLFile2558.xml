@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Cath"
+  city="Nashville"
+  country="Chile"
+  firstname2="Marylou"
+  lastname2="Callista"
+  email="Marylou.Callista@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>15.794</random_float>
+  <bool>false</bool>
+  <date>1982-09-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Henriette</elt><elt>Raina</elt><elt>Mireielle</elt><elt>Jessy</elt><elt>Brooks</elt>  
+  <Marylou>
+    <age>69</age>
+  </Marylou>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Lewes"
+  city="Stuttgart"
+  country="Netherlands Antilles"
+  firstname2="Regina"
+  lastname2="Hylan"
+  email="Regina.Hylan@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>72.145</random_float>
+  <bool>false</bool>
+  <date>1985-09-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Andeee</elt><elt>Glenda</elt><elt>Sybille</elt><elt>Rori</elt><elt>Miquela</elt>  
+  <Regina>
+    <age>28</age>
+  </Regina>
+</root>

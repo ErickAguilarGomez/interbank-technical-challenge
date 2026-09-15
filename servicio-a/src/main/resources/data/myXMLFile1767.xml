@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Ruvolo"
+  city="Ulan Bator"
+  country="Costa Rica"
+  firstname2="Carmencita"
+  lastname2="Granoff"
+  email="Carmencita.Granoff@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>41.214</random_float>
+  <bool>false</bool>
+  <date>1987-06-07</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Hollie</elt><elt>Frieda</elt><elt>Collen</elt><elt>Christy</elt><elt>Lusa</elt>  
+  <Carmencita>
+    <age>80</age>
+  </Carmencita>
+</root>

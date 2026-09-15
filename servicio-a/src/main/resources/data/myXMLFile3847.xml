@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Alcott"
+  city="Kandy"
+  country="Iran, Islamic Republic Of"
+  firstname2="Louella"
+  lastname2="Ulphia"
+  email="Louella.Ulphia@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>61.148</random_float>
+  <bool>true</bool>
+  <date>1983-09-26</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dianemarie</elt><elt>Anestassia</elt><elt>Stephanie</elt><elt>Belinda</elt><elt>Benita</elt>  
+  <Louella>
+    <age>31</age>
+  </Louella>
+</root>

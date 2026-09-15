@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Izaak"
+  city="Fortaleza"
+  country="Italy"
+  firstname2="Tori"
+  lastname2="Orlene"
+  email="Tori.Orlene@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>45.244</random_float>
+  <bool>true</bool>
+  <date>1987-03-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Fayre</elt><elt>Regina</elt><elt>Kimmy</elt><elt>Meg</elt><elt>Ginnie</elt>  
+  <Tori>
+    <age>48</age>
+  </Tori>
+</root>

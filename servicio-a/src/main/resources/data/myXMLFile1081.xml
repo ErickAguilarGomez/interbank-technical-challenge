@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Diena"
+  lastname="Sancho"
+  city="Nairobi"
+  country="Kenya"
+  firstname2="Cherilyn"
+  lastname2="Harday"
+  email="Cherilyn.Harday@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>91.558</random_float>
+  <bool>false</bool>
+  <date>1992-06-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ofilia</elt><elt>Gertrud</elt><elt>Danika</elt><elt>Evaleen</elt><elt>Lizzie</elt>  
+  <Cherilyn>
+    <age>40</age>
+  </Cherilyn>
+</root>

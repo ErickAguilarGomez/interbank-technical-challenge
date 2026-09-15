@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariele"
+  lastname="Juliet"
+  city="Córdoba"
+  country="Burkina Faso"
+  firstname2="Nonnah"
+  lastname2="Nisbet"
+  email="Nonnah.Nisbet@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>43.024</random_float>
+  <bool>true</bool>
+  <date>1990-11-16</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hettie</elt><elt>Netty</elt><elt>Fawne</elt><elt>Minda</elt><elt>Abbie</elt>  
+  <Nonnah>
+    <age>52</age>
+  </Nonnah>
+</root>

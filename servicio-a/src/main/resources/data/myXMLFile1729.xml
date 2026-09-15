@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Albertina"
+  lastname="Nore"
+  city="The Hague"
+  country="Wallis and Futuna"
+  firstname2="Kathi"
+  lastname2="Neils"
+  email="Kathi.Neils@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>88.647</random_float>
+  <bool>true</bool>
+  <date>1991-08-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Frances</elt><elt>Cissiee</elt><elt>Camile</elt><elt>Tressa</elt><elt>Kimmy</elt>  
+  <Kathi>
+    <age>50</age>
+  </Kathi>
+</root>

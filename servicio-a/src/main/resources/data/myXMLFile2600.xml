@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kalina"
+  lastname="Niccolo"
+  city="Melekeok"
+  country="Swaziland"
+  firstname2="Zia"
+  lastname2="Kress"
+  email="Zia.Kress@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>90.364</random_float>
+  <bool>false</bool>
+  <date>1998-06-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Chloris</elt><elt>Lacie</elt><elt>Adele</elt><elt>Sue</elt><elt>Cissiee</elt>  
+  <Zia>
+    <age>85</age>
+  </Zia>
+</root>

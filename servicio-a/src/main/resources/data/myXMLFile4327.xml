@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Marsden"
+  city="Wonsan"
+  country="Georgia"
+  firstname2="Tina"
+  lastname2="Geffner"
+  email="Tina.Geffner@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>34.033</random_float>
+  <bool>false</bool>
+  <date>1982-11-25</date>
+  <regEx>hellooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Edee</elt><elt>Odessa</elt><elt>Willetta</elt><elt>Tabbatha</elt><elt>Almeta</elt>  
+  <Tina>
+    <age>50</age>
+  </Tina>
+</root>

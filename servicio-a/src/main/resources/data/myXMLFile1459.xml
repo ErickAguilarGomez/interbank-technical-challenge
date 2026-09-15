@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Angela"
+  lastname="Zachary"
+  city="Kawasaki"
+  country="El Salvador"
+  firstname2="Genevra"
+  lastname2="Ventre"
+  email="Genevra.Ventre@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>31.344</random_float>
+  <bool>false</bool>
+  <date>1997-07-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aimil</elt><elt>Margette</elt><elt>Orelia</elt><elt>Elyssa</elt><elt>Annecorinne</elt>  
+  <Genevra>
+    <age>74</age>
+  </Genevra>
+</root>

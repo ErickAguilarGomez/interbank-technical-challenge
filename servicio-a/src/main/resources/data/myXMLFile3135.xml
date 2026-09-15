@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shandie"
+  lastname="Phyllis"
+  city="Apia"
+  country="Liechtenstein"
+  firstname2="Valeda"
+  lastname2="Morrill"
+  email="Valeda.Morrill@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>19.771</random_float>
+  <bool>true</bool>
+  <date>1999-06-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Michaelina</elt><elt>Kayla</elt><elt>Myrtice</elt><elt>Micheline</elt><elt>Dorthy</elt>  
+  <Valeda>
+    <age>43</age>
+  </Valeda>
+</root>

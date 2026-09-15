@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Juliane"
+  lastname="Baudin"
+  city="Yogyakarta (city)"
+  country="Japan"
+  firstname2="Fred"
+  lastname2="Jeanne"
+  email="Fred.Jeanne@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>41.466</random_float>
+  <bool>true</bool>
+  <date>1988-11-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hyacinthe</elt><elt>Carly</elt><elt>Nariko</elt><elt>Agnese</elt><elt>Cyndie</elt>  
+  <Fred>
+    <age>76</age>
+  </Fred>
+</root>

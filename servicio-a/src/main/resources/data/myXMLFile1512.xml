@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adele"
+  lastname="Manolo"
+  city="Vienna"
+  country="Ireland"
+  firstname2="Cassondra"
+  lastname2="Fink"
+  email="Cassondra.Fink@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>63.12</random_float>
+  <bool>false</bool>
+  <date>1980-11-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Arlina</elt><elt>Leontine</elt><elt>Maridel</elt><elt>Gratia</elt><elt>Misha</elt>  
+  <Cassondra>
+    <age>67</age>
+  </Cassondra>
+</root>

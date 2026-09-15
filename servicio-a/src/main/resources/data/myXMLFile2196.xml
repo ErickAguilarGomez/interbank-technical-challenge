@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maisey"
+  lastname="Uird"
+  city="Shigatse"
+  country="Netherlands Antilles"
+  firstname2="Cissiee"
+  lastname2="Stephie"
+  email="Cissiee.Stephie@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>39.834</random_float>
+  <bool>false</bool>
+  <date>1989-03-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Danika</elt><elt>Selia</elt><elt>Damaris</elt><elt>Frank</elt><elt>Ermengarde</elt>  
+  <Cissiee>
+    <age>97</age>
+  </Cissiee>
+</root>

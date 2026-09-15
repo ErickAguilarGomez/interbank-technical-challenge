@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nicoli"
+  lastname="Tiffa"
+  city="Nanning"
+  country="Niger"
+  firstname2="Ethel"
+  lastname2="Khorma"
+  email="Ethel.Khorma@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>79.603</random_float>
+  <bool>true</bool>
+  <date>1993-08-29</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ayn</elt><elt>Celene</elt><elt>Norine</elt><elt>Patricia</elt><elt>Brietta</elt>  
+  <Ethel>
+    <age>72</age>
+  </Ethel>
+</root>

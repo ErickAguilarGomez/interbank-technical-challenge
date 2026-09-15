@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carol-Jean"
+  lastname="Brittani"
+  city="Jerusalem"
+  country="Nicaragua"
+  firstname2="Jean"
+  lastname2="Reidar"
+  email="Jean.Reidar@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>42.409</random_float>
+  <bool>false</bool>
+  <date>1983-08-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Letizia</elt><elt>Jennica</elt><elt>Halette</elt><elt>Rhoda</elt><elt>Shannah</elt>  
+  <Jean>
+    <age>38</age>
+  </Jean>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Jerold"
+  city="Oranjestad"
+  country="Dominican Republic"
+  firstname2="Donetta"
+  lastname2="Dermott"
+  email="Donetta.Dermott@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>18.162</random_float>
+  <bool>true</bool>
+  <date>1985-01-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Magdalena</elt><elt>Wendi</elt><elt>Althea</elt><elt>Frank</elt><elt>Candy</elt>  
+  <Donetta>
+    <age>54</age>
+  </Donetta>
+</root>

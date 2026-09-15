@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Micheline"
+  lastname="Orlene"
+  city="Nakhon Ratchasima"
+  country="Samoa"
+  firstname2="Esmeralda"
+  lastname2="Scammon"
+  email="Esmeralda.Scammon@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>3.223</random_float>
+  <bool>false</bool>
+  <date>1993-11-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rhea</elt><elt>Gisela</elt><elt>Benita</elt><elt>Jordan</elt><elt>Chloris</elt>  
+  <Esmeralda>
+    <age>24</age>
+  </Esmeralda>
+</root>

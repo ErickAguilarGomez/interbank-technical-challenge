@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dagmar"
+  lastname="Iphlgenia"
+  city="Anchorage"
+  country="Virgin Islands, U.S."
+  firstname2="Millie"
+  lastname2="Brackely"
+  email="Millie.Brackely@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>75.272</random_float>
+  <bool>true</bool>
+  <date>1989-12-11</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Clary</elt><elt>Maisey</elt><elt>Briney</elt><elt>Shirlee</elt><elt>Esmeralda</elt>  
+  <Millie>
+    <age>35</age>
+  </Millie>
+</root>

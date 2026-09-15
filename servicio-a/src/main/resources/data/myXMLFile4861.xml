@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ketti"
+  lastname="Glenden"
+  city="Belém"
+  country="Bouvet Island"
+  firstname2="Frances"
+  lastname2="Woodberry"
+  email="Frances.Woodberry@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>58.917</random_float>
+  <bool>true</bool>
+  <date>1993-04-26</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Priscilla</elt><elt>Alyda</elt><elt>Jessy</elt><elt>Nataline</elt><elt>Bobinette</elt>  
+  <Frances>
+    <age>48</age>
+  </Frances>
+</root>

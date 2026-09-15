@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elie"
+  lastname="Camden"
+  city="Sapporo"
+  country="Virgin Islands, British"
+  firstname2="Tonia"
+  lastname2="Rocray"
+  email="Tonia.Rocray@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>41.637</random_float>
+  <bool>true</bool>
+  <date>1982-04-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Verla</elt><elt>Frank</elt><elt>Lynnea</elt><elt>Nananne</elt><elt>Laurene</elt>  
+  <Tonia>
+    <age>60</age>
+  </Tonia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joceline"
+  lastname="Donoghue"
+  city="Andorra la Vella"
+  country="Uruguay"
+  firstname2="Mary"
+  lastname2="McNully"
+  email="Mary.McNully@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>21.462</random_float>
+  <bool>false</bool>
+  <date>1995-01-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Luci</elt><elt>Harmonia</elt><elt>Tiffie</elt><elt>Daune</elt><elt>Emylee</elt>  
+  <Mary>
+    <age>93</age>
+  </Mary>
+</root>

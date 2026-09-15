@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shannah"
+  lastname="Parsaye"
+  city="Ibadan"
+  country="Vanuatu"
+  firstname2="Emma"
+  lastname2="Noam"
+  email="Emma.Noam@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>71.06</random_float>
+  <bool>false</bool>
+  <date>1990-02-25</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Clo</elt><elt>Penelopa</elt><elt>Julieta</elt><elt>Kathi</elt><elt>Gui</elt>  
+  <Emma>
+    <age>23</age>
+  </Emma>
+</root>

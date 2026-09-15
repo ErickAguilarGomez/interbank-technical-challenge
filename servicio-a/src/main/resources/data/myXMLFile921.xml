@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Basia"
+  lastname="Koziara"
+  city="Caracas"
+  country="Venezuela"
+  firstname2="Lily"
+  lastname2="Codding"
+  email="Lily.Codding@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>63.077</random_float>
+  <bool>false</bool>
+  <date>1992-11-24</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Shel</elt><elt>Audrie</elt><elt>Lorenza</elt><elt>Wileen</elt><elt>Cyndie</elt>  
+  <Lily>
+    <age>27</age>
+  </Lily>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Delilah"
+  lastname="Garbe"
+  city="Moroni"
+  country="China"
+  firstname2="Pierette"
+  lastname2="Thar"
+  email="Pierette.Thar@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>99.222</random_float>
+  <bool>false</bool>
+  <date>1990-03-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Meghann</elt><elt>Fayre</elt><elt>Theodora</elt><elt>Elfreda</elt><elt>Meg</elt>  
+  <Pierette>
+    <age>79</age>
+  </Pierette>
+</root>

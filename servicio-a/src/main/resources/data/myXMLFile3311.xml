@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elyssa"
+  lastname="Loleta"
+  city="Chittagong"
+  country="Taiwan, Province of China"
+  firstname2="Hettie"
+  lastname2="Corabella"
+  email="Hettie.Corabella@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>94.164</random_float>
+  <bool>false</bool>
+  <date>1983-06-20</date>
+  <regEx>helloooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hermione</elt><elt>Lita</elt><elt>Anallese</elt><elt>Silvana</elt><elt>Edee</elt>  
+  <Hettie>
+    <age>80</age>
+  </Hettie>
+</root>

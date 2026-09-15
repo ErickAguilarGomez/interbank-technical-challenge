@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edith"
+  lastname="Saint"
+  city="Bergen"
+  country="Suriname"
+  firstname2="Evita"
+  lastname2="Ortrude"
+  email="Evita.Ortrude@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>22.123</random_float>
+  <bool>false</bool>
+  <date>1986-04-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joceline</elt><elt>Donnie</elt><elt>Max</elt><elt>Briney</elt><elt>Reeba</elt>  
+  <Evita>
+    <age>26</age>
+  </Evita>
+</root>

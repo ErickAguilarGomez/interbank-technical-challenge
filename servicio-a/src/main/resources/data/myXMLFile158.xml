@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myrtice"
+  lastname="Atonsah"
+  city="Adelaide"
+  country="Qatar"
+  firstname2="Jessamyn"
+  lastname2="Uund"
+  email="Jessamyn.Uund@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>69.585</random_float>
+  <bool>true</bool>
+  <date>1985-07-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wanda</elt><elt>Modestia</elt><elt>Raf</elt><elt>Vevay</elt><elt>Edith</elt>  
+  <Jessamyn>
+    <age>77</age>
+  </Jessamyn>
+</root>

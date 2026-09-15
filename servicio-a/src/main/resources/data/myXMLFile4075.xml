@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyndie"
+  lastname="Janene"
+  city="Naypyidaw"
+  country="Luxembourg"
+  firstname2="Sara-Ann"
+  lastname2="Philoo"
+  email="Sara-Ann.Philoo@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>67.923</random_float>
+  <bool>true</bool>
+  <date>1988-11-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Konstance</elt><elt>Hermione</elt><elt>Henriette</elt><elt>Kellen</elt><elt>Chickie</elt>  
+  <Sara-Ann>
+    <age>95</age>
+  </Sara-Ann>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dennie"
+  lastname="Pond"
+  city="Saint Petersburg"
+  country="Palestinian Territory, Occupied"
+  firstname2="Kirbee"
+  lastname2="Cloris"
+  email="Kirbee.Cloris@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>15.569</random_float>
+  <bool>false</bool>
+  <date>1992-02-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Danny</elt><elt>Caryl</elt><elt>Stevana</elt><elt>Amalie</elt><elt>Peri</elt>  
+  <Kirbee>
+    <age>58</age>
+  </Kirbee>
+</root>

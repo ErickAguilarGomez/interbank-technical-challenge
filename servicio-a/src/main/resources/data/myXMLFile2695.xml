@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusella"
+  lastname="Plato"
+  city="Toulouse"
+  country="Marshall Islands"
+  firstname2="Ardenia"
+  lastname2="Verger"
+  email="Ardenia.Verger@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>69.262</random_float>
+  <bool>true</bool>
+  <date>1984-11-01</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Chandra</elt><elt>Coral</elt><elt>Candi</elt><elt>Fawne</elt><elt>Belva</elt>  
+  <Ardenia>
+    <age>52</age>
+  </Ardenia>
+</root>

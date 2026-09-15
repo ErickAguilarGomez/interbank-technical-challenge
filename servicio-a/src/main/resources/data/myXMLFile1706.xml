@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Riannon"
+  lastname="Haldas"
+  city="Phoenix"
+  country="Azerbaijan"
+  firstname2="Annice"
+  lastname2="Bakerman"
+  email="Annice.Bakerman@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>37.525</random_float>
+  <bool>false</bool>
+  <date>1988-03-07</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Amara</elt><elt>Netty</elt><elt>Bertine</elt><elt>Leeanne</elt><elt>Laure</elt>  
+  <Annice>
+    <age>20</age>
+  </Annice>
+</root>

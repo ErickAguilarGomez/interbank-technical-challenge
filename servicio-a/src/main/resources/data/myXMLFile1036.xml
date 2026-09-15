@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="Ietta"
+  city="Jamestown"
+  country="Monaco"
+  firstname2="Ricky"
+  lastname2="Rodmann"
+  email="Ricky.Rodmann@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>23.817</random_float>
+  <bool>false</bool>
+  <date>1996-05-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Zondra</elt><elt>Donnie</elt><elt>Allyce</elt><elt>Maryellen</elt><elt>Claresta</elt>  
+  <Ricky>
+    <age>35</age>
+  </Ricky>
+</root>

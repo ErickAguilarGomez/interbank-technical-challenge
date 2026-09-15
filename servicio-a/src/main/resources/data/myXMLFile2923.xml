@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vevay"
+  lastname="Voletta"
+  city="Lviv"
+  country="Palestinian Territory, Occupied"
+  firstname2="Carly"
+  lastname2="Brenn"
+  email="Carly.Brenn@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>74.659</random_float>
+  <bool>true</bool>
+  <date>1980-10-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Renae</elt><elt>Cristabel</elt><elt>Kimmy</elt><elt>Rosaline</elt><elt>Basia</elt>  
+  <Carly>
+    <age>31</age>
+  </Carly>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Guildroy"
+  city="Pattaya"
+  country="Viet Nam"
+  firstname2="Janeczka"
+  lastname2="Madelene"
+  email="Janeczka.Madelene@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>68.112</random_float>
+  <bool>false</bool>
+  <date>1997-06-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Andeee</elt><elt>Andree</elt><elt>Nikki</elt><elt>Jacquetta</elt><elt>Cordi</elt>  
+  <Janeczka>
+    <age>56</age>
+  </Janeczka>
+</root>

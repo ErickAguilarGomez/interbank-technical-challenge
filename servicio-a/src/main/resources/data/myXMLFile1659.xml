@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gaylene"
+  lastname="Yate"
+  city="Phnom Penh"
+  country="Ghana"
+  firstname2="Talya"
+  lastname2="Connelly"
+  email="Talya.Connelly@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>4.233</random_float>
+  <bool>true</bool>
+  <date>1998-10-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Pearline</elt><elt>Dulce</elt><elt>Feliza</elt><elt>Deedee</elt><elt>Dione</elt>  
+  <Talya>
+    <age>91</age>
+  </Talya>
+</root>

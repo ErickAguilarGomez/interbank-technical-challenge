@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Horan"
+  city="Yaoundé"
+  country="Luxembourg"
+  firstname2="Modestia"
+  lastname2="Cullin"
+  email="Modestia.Cullin@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>35.453</random_float>
+  <bool>false</bool>
+  <date>1992-07-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sheelagh</elt><elt>Jacquetta</elt><elt>Angelique</elt><elt>Gerianna</elt><elt>Dode</elt>  
+  <Modestia>
+    <age>58</age>
+  </Modestia>
+</root>

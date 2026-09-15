@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Wareing"
+  city="Harare"
+  country="Norfolk Island"
+  firstname2="Tomasina"
+  lastname2="Yoko"
+  email="Tomasina.Yoko@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>24.918</random_float>
+  <bool>false</bool>
+  <date>1984-12-27</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dotty</elt><elt>Shirlee</elt><elt>Paola</elt><elt>Roseline</elt><elt>Dennie</elt>  
+  <Tomasina>
+    <age>26</age>
+  </Tomasina>
+</root>

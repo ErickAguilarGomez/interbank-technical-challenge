@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kittie"
+  lastname="Chesna"
+  city="Tamale"
+  country="Jordan"
+  firstname2="Carree"
+  lastname2="Erlandson"
+  email="Carree.Erlandson@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>90.113</random_float>
+  <bool>true</bool>
+  <date>1986-10-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Maurene</elt><elt>Ernesta</elt><elt>Cindelyn</elt><elt>Harrietta</elt><elt>Ethel</elt>  
+  <Carree>
+    <age>35</age>
+  </Carree>
+</root>

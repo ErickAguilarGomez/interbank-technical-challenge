@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ermengarde"
+  lastname="Ruvolo"
+  city="Wellington"
+  country="Montserrat"
+  firstname2="Petronia"
+  lastname2="Candy"
+  email="Petronia.Candy@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>28.81</random_float>
+  <bool>false</bool>
+  <date>1984-04-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Agnese</elt><elt>Tabbatha</elt><elt>Adelle</elt><elt>Nataline</elt><elt>Teriann</elt>  
+  <Petronia>
+    <age>52</age>
+  </Petronia>
+</root>

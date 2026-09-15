@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Mintz"
+  city="Patna"
+  country="United Kingdom"
+  firstname2="Fina"
+  lastname2="Maiah"
+  email="Fina.Maiah@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>50.163</random_float>
+  <bool>false</bool>
+  <date>1997-06-17</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jackie</elt><elt>Krystle</elt><elt>Ulrike</elt><elt>Celestyna</elt><elt>Dotty</elt>  
+  <Fina>
+    <age>74</age>
+  </Fina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Cherianne"
+  city="Dubai"
+  country="Nauru"
+  firstname2="Bernie"
+  lastname2="Cosenza"
+  email="Bernie.Cosenza@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>92.547</random_float>
+  <bool>true</bool>
+  <date>1989-09-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Chloris</elt><elt>Lilith</elt><elt>Donetta</elt><elt>Therine</elt><elt>Camile</elt>  
+  <Bernie>
+    <age>83</age>
+  </Bernie>
+</root>

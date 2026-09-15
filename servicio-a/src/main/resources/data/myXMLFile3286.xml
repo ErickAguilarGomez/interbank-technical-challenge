@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eve"
+  lastname="Pond"
+  city="San Antonio"
+  country="Vanuatu"
+  firstname2="Alyda"
+  lastname2="Suzetta"
+  email="Alyda.Suzetta@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>48.205</random_float>
+  <bool>false</bool>
+  <date>1998-01-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Corry</elt><elt>Sidoney</elt><elt>Tomasina</elt><elt>Paola</elt><elt>Selma</elt>  
+  <Alyda>
+    <age>45</age>
+  </Alyda>
+</root>

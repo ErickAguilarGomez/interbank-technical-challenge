@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Bahr"
+  city="Asunción"
+  country="Iran, Islamic Republic Of"
+  firstname2="Briney"
+  lastname2="Cohdwell"
+  email="Briney.Cohdwell@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>86.244</random_float>
+  <bool>false</bool>
+  <date>1986-04-20</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alejandra</elt><elt>Oralee</elt><elt>Kary</elt><elt>Olwen</elt><elt>Dale</elt>  
+  <Briney>
+    <age>32</age>
+  </Briney>
+</root>

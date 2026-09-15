@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ricky"
+  lastname="Suzetta"
+  city="Kaohsiung"
+  country="Virgin Islands, U.S."
+  firstname2="Desirae"
+  lastname2="Bakerman"
+  email="Desirae.Bakerman@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>43.037</random_float>
+  <bool>true</bool>
+  <date>1999-05-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sybille</elt><elt>Sindee</elt><elt>Jackie</elt><elt>Alie</elt><elt>Paule</elt>  
+  <Desirae>
+    <age>44</age>
+  </Desirae>
+</root>

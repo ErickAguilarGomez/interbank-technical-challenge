@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evaleen"
+  lastname="Kaete"
+  city="Mexico City"
+  country="Niger"
+  firstname2="Lynde"
+  lastname2="Bobbee"
+  email="Lynde.Bobbee@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>39.758</random_float>
+  <bool>true</bool>
+  <date>1983-03-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kalina</elt><elt>Marcelline</elt><elt>Tilly</elt><elt>Rhea</elt><elt>Deirdre</elt>  
+  <Lynde>
+    <age>55</age>
+  </Lynde>
+</root>

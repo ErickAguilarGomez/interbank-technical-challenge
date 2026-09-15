@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ellette"
+  lastname="Hutchison"
+  city="Málaga"
+  country="Iran, Islamic Republic Of"
+  firstname2="Evita"
+  lastname2="Joni"
+  email="Evita.Joni@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>47.14</random_float>
+  <bool>false</bool>
+  <date>1984-02-27</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Romona</elt><elt>Aubrie</elt><elt>Belinda</elt><elt>Nikki</elt><elt>Linzy</elt>  
+  <Evita>
+    <age>56</age>
+  </Evita>
+</root>

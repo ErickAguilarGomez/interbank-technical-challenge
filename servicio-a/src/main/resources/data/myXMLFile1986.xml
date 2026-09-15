@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tobe"
+  lastname="Valerio"
+  city="Minsk"
+  country="Saint Helena"
+  firstname2="Sheree"
+  lastname2="Eckblad"
+  email="Sheree.Eckblad@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>52.947</random_float>
+  <bool>true</bool>
+  <date>1997-07-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nonnah</elt><elt>Flo</elt><elt>Darci</elt><elt>Deedee</elt><elt>Philis</elt>  
+  <Sheree>
+    <age>44</age>
+  </Sheree>
+</root>

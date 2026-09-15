@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Fitzsimmons"
+  city="Banjul"
+  country="Hong Kong"
+  firstname2="Thalia"
+  lastname2="Borrell"
+  email="Thalia.Borrell@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>41.617</random_float>
+  <bool>false</bool>
+  <date>1992-12-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Marti</elt><elt>Demetris</elt><elt>Esmeralda</elt><elt>Tracey</elt><elt>Aili</elt>  
+  <Thalia>
+    <age>40</age>
+  </Thalia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corly"
+  lastname="Maroney"
+  city="Turin"
+  country="Armenia"
+  firstname2="Brynna"
+  lastname2="Niccolo"
+  email="Brynna.Niccolo@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>67.453</random_float>
+  <bool>false</bool>
+  <date>1980-04-11</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sean</elt><elt>Aurore</elt><elt>Amalie</elt><elt>Annora</elt><elt>Lila</elt>  
+  <Brynna>
+    <age>20</age>
+  </Brynna>
+</root>

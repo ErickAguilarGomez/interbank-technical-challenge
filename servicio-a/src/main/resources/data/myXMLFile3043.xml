@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aubrie"
+  lastname="Eben"
+  city="Chuí"
+  country="Cocos (Keeling) Islands"
+  firstname2="Tilly"
+  lastname2="Auberbach"
+  email="Tilly.Auberbach@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>72.901</random_float>
+  <bool>false</bool>
+  <date>1981-07-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Pamella</elt><elt>Leeanne</elt><elt>Edee</elt><elt>Phylis</elt><elt>Ana</elt>  
+  <Tilly>
+    <age>32</age>
+  </Tilly>
+</root>

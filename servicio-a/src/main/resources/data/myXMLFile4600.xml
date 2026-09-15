@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elise"
+  lastname="Harned"
+  city="Rawalpindi"
+  country="Martinique"
+  firstname2="Grier"
+  lastname2="Destinee"
+  email="Grier.Destinee@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>56.951</random_float>
+  <bool>true</bool>
+  <date>1989-07-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jinny</elt><elt>Kerrin</elt><elt>Carree</elt><elt>Kenna</elt><elt>Aaren</elt>  
+  <Grier>
+    <age>74</age>
+  </Grier>
+</root>

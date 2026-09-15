@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marjie"
+  lastname="Docilla"
+  city="Kaliningrad"
+  country="Sao Tome and Principe"
+  firstname2="Sarette"
+  lastname2="Milson"
+  email="Sarette.Milson@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>72.866</random_float>
+  <bool>true</bool>
+  <date>1994-09-02</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cyndie</elt><elt>Gerianna</elt><elt>Dode</elt><elt>Hallie</elt><elt>Aili</elt>  
+  <Sarette>
+    <age>48</age>
+  </Sarette>
+</root>

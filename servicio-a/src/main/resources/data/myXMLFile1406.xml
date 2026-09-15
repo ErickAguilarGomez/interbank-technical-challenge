@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pierette"
+  lastname="Paton"
+  city="Mandurah"
+  country="Singapore"
+  firstname2="Sarette"
+  lastname2="Hollingsworth"
+  email="Sarette.Hollingsworth@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>49.141</random_float>
+  <bool>false</bool>
+  <date>1986-02-17</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Meriel</elt><elt>Siana</elt><elt>Rhoda</elt><elt>Antonietta</elt><elt>Penelopa</elt>  
+  <Sarette>
+    <age>30</age>
+  </Sarette>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Ochs"
+  city="Ahmedabad"
+  country="Bosnia and Herzegovina"
+  firstname2="Ingrid"
+  lastname2="Robertson"
+  email="Ingrid.Robertson@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>42.972</random_float>
+  <bool>true</bool>
+  <date>1989-03-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Vita</elt><elt>Mireielle</elt><elt>Beatriz</elt><elt>Lulita</elt><elt>Bettine</elt>  
+  <Ingrid>
+    <age>40</age>
+  </Ingrid>
+</root>

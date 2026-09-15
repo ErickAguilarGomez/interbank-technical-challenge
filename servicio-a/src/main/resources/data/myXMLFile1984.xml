@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Letsou"
+  city="Wollongong"
+  country="Palestinian Territory, Occupied"
+  firstname2="Netty"
+  lastname2="Genna"
+  email="Netty.Genna@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>57.231</random_float>
+  <bool>true</bool>
+  <date>1988-06-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jaime</elt><elt>Mara</elt><elt>Cassandra</elt><elt>Sean</elt><elt>Kellen</elt>  
+  <Netty>
+    <age>95</age>
+  </Netty>
+</root>

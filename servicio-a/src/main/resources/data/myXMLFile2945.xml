@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kial"
+  lastname="Maurine"
+  city="Anchorage"
+  country="Maldives"
+  firstname2="Rubie"
+  lastname2="Fontana"
+  email="Rubie.Fontana@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>7.332</random_float>
+  <bool>true</bool>
+  <date>1994-01-05</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Deedee</elt><elt>Melina</elt><elt>Raina</elt><elt>Jean</elt><elt>Elena</elt>  
+  <Rubie>
+    <age>73</age>
+  </Rubie>
+</root>

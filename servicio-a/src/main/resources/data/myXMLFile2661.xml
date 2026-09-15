@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Damaris"
+  lastname="Ludewig"
+  city="Tamale"
+  country="Chad"
+  firstname2="Melodie"
+  lastname2="Shirberg"
+  email="Melodie.Shirberg@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>10.151</random_float>
+  <bool>true</bool>
+  <date>1993-01-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Charmaine</elt><elt>Blake</elt><elt>Sadie</elt><elt>Riannon</elt><elt>Cyndie</elt>  
+  <Melodie>
+    <age>68</age>
+  </Melodie>
+</root>

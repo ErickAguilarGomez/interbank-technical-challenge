@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorne"
+  lastname="Wenoa"
+  city="Makati City"
+  country="Barbados"
+  firstname2="Pearline"
+  lastname2="McCutcheon"
+  email="Pearline.McCutcheon@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>1.299</random_float>
+  <bool>false</bool>
+  <date>1994-09-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dacia</elt><elt>Lauryn</elt><elt>Tiffie</elt><elt>Kayla</elt><elt>Etta</elt>  
+  <Pearline>
+    <age>60</age>
+  </Pearline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dotty"
+  lastname="Persse"
+  city="Johor Bahru"
+  country="Tunisia"
+  firstname2="Lindie"
+  lastname2="Douglass"
+  email="Lindie.Douglass@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>58.501</random_float>
+  <bool>true</bool>
+  <date>1995-08-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cassandra</elt><elt>Steffane</elt><elt>Gusella</elt><elt>Sandie</elt><elt>Winifred</elt>  
+  <Lindie>
+    <age>20</age>
+  </Lindie>
+</root>

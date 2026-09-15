@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elise"
+  lastname="Shields"
+  city="Port Hedland"
+  country="South Africa"
+  firstname2="Dale"
+  lastname2="Tufts"
+  email="Dale.Tufts@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>22.188</random_float>
+  <bool>true</bool>
+  <date>1996-08-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Cissiee</elt><elt>Mellicent</elt><elt>Sonni</elt><elt>Brena</elt><elt>Gertrud</elt>  
+  <Dale>
+    <age>28</age>
+  </Dale>
+</root>

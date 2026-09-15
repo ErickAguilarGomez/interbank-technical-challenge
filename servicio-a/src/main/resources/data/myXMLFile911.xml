@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melodie"
+  lastname="Ader"
+  city="Seattle"
+  country="Fiji"
+  firstname2="Aeriela"
+  lastname2="Crudden"
+  email="Aeriela.Crudden@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>68.225</random_float>
+  <bool>true</bool>
+  <date>1989-08-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sheelagh</elt><elt>Roz</elt><elt>Lila</elt><elt>Melanie</elt><elt>Max</elt>  
+  <Aeriela>
+    <age>33</age>
+  </Aeriela>
+</root>

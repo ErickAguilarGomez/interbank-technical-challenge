@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mildrid"
+  lastname="Alwin"
+  city="Adana"
+  country="Latvia"
+  firstname2="Ekaterina"
+  lastname2="Sabella"
+  email="Ekaterina.Sabella@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>5.187</random_float>
+  <bool>false</bool>
+  <date>1996-09-28</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Morganica</elt><elt>Kerrin</elt><elt>Lizzie</elt><elt>Miquela</elt><elt>Heddie</elt>  
+  <Ekaterina>
+    <age>46</age>
+  </Ekaterina>
+</root>

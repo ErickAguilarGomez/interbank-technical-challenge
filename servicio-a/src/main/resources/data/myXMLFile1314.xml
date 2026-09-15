@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Siana"
+  lastname="Whittaker"
+  city="Doha"
+  country="Virgin Islands, British"
+  firstname2="Kellen"
+  lastname2="Therine"
+  email="Kellen.Therine@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>87.811</random_float>
+  <bool>true</bool>
+  <date>1988-09-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Shaylyn</elt><elt>Audrie</elt><elt>Judy</elt><elt>Quintina</elt><elt>Basia</elt>  
+  <Kellen>
+    <age>35</age>
+  </Kellen>
+</root>

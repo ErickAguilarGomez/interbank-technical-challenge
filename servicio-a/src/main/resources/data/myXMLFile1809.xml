@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosabelle"
+  lastname="Reneta"
+  city="Guangzhou"
+  country="Monaco"
+  firstname2="Ruthe"
+  lastname2="Chesna"
+  email="Ruthe.Chesna@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>25.871</random_float>
+  <bool>true</bool>
+  <date>1993-04-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cordi</elt><elt>Deirdre</elt><elt>Tina</elt><elt>Theodora</elt><elt>Fanchon</elt>  
+  <Ruthe>
+    <age>70</age>
+  </Ruthe>
+</root>

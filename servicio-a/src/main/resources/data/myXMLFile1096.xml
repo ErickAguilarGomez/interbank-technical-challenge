@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kittie"
+  lastname="Camden"
+  city="Monaco"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Kirstin"
+  lastname2="Hoenack"
+  email="Kirstin.Hoenack@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>76.429</random_float>
+  <bool>false</bool>
+  <date>1983-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hyacinthe</elt><elt>Jean</elt><elt>Nyssa</elt><elt>Laure</elt><elt>Kaja</elt>  
+  <Kirstin>
+    <age>98</age>
+  </Kirstin>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Korrie"
+  lastname="Means"
+  city="Fairbanks"
+  country="Kazakhstan"
+  firstname2="Wilma"
+  lastname2="Georgy"
+  email="Wilma.Georgy@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>68.223</random_float>
+  <bool>false</bool>
+  <date>1993-01-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carlie</elt><elt>Stephanie</elt><elt>Karly</elt><elt>Thalia</elt><elt>Tori</elt>  
+  <Wilma>
+    <age>66</age>
+  </Wilma>
+</root>

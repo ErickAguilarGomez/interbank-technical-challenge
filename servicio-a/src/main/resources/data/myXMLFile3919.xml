@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merrie"
+  lastname="Viddah"
+  city="Johannesburg"
+  country="Guinea"
+  firstname2="Tressa"
+  lastname2="Haerr"
+  email="Tressa.Haerr@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>62.638</random_float>
+  <bool>false</bool>
+  <date>1991-02-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Morganica</elt><elt>Hyacinthe</elt><elt>Anallese</elt><elt>Misha</elt><elt>Cherrita</elt>  
+  <Tressa>
+    <age>48</age>
+  </Tressa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Esmeralda"
+  lastname="Atcliffe"
+  city="Ljubljana"
+  country="Australia"
+  firstname2="Janis"
+  lastname2="Taam"
+  email="Janis.Taam@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>70.565</random_float>
+  <bool>false</bool>
+  <date>1986-11-04</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Robbi</elt><elt>Wynne</elt><elt>Consuela</elt><elt>Michaelina</elt><elt>Darci</elt>  
+  <Janis>
+    <age>73</age>
+  </Janis>
+</root>

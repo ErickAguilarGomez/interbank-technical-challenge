@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Croix"
+  city="Gothenburg"
+  country="Lebanon"
+  firstname2="Modestia"
+  lastname2="Shelba"
+  email="Modestia.Shelba@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>37.212</random_float>
+  <bool>false</bool>
+  <date>1991-04-06</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tonia</elt><elt>Odessa</elt><elt>Harrietta</elt><elt>Agathe</elt><elt>Hallie</elt>  
+  <Modestia>
+    <age>66</age>
+  </Modestia>
+</root>

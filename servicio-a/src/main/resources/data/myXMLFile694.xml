@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mara"
+  lastname="Hillel"
+  city="Weno"
+  country="Portugal"
+  firstname2="Lita"
+  lastname2="Barbey"
+  email="Lita.Barbey@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>2.115</random_float>
+  <bool>true</bool>
+  <date>1981-02-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Blondelle</elt><elt>Julieta</elt><elt>Ann-Marie</elt><elt>Robinia</elt><elt>Marline</elt>  
+  <Lita>
+    <age>47</age>
+  </Lita>
+</root>

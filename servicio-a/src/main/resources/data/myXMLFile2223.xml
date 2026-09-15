@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andree"
+  lastname="Leopold"
+  city="Salt Lake City"
+  country="Guinea"
+  firstname2="Dorthy"
+  lastname2="Carolin"
+  email="Dorthy.Carolin@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>45.353</random_float>
+  <bool>false</bool>
+  <date>1981-05-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hyacinthe</elt><elt>Lexine</elt><elt>Penelopa</elt><elt>Dorene</elt><elt>Sabina</elt>  
+  <Dorthy>
+    <age>18</age>
+  </Dorthy>
+</root>

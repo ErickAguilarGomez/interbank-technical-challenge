@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shauna"
+  lastname="Anestassia"
+  city="Apia"
+  country="Botswana"
+  firstname2="Jobi"
+  lastname2="Japeth"
+  email="Jobi.Japeth@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>51.704</random_float>
+  <bool>true</bool>
+  <date>1991-08-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Harmonia</elt><elt>Rosabelle</elt><elt>Viki</elt><elt>Jessamyn</elt><elt>Anthia</elt>  
+  <Jobi>
+    <age>65</age>
+  </Jobi>
+</root>

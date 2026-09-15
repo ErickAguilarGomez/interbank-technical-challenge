@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Shields"
+  city="Liverpool"
+  country="Iceland"
+  firstname2="Ardys"
+  lastname2="Infield"
+  email="Ardys.Infield@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>14.963</random_float>
+  <bool>false</bool>
+  <date>1983-02-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Iseabal</elt><elt>Max</elt><elt>Lilith</elt><elt>Kirbee</elt><elt>Inga</elt>  
+  <Ardys>
+    <age>36</age>
+  </Ardys>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marinna"
+  lastname="Ochs"
+  city="Belgrade"
+  country="Faroe Islands"
+  firstname2="Phylis"
+  lastname2="Decato"
+  email="Phylis.Decato@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>68.538</random_float>
+  <bool>false</bool>
+  <date>1986-01-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Liana</elt><elt>Bertine</elt><elt>Rosabelle</elt><elt>Carree</elt><elt>Mureil</elt>  
+  <Phylis>
+    <age>86</age>
+  </Phylis>
+</root>

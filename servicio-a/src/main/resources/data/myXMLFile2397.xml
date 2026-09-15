@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Neils"
+  city="Baltimore"
+  country="Cote D"Ivoire"
+  firstname2="Gerrie"
+  lastname2="Bivins"
+  email="Gerrie.Bivins@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>18.344</random_float>
+  <bool>true</bool>
+  <date>1987-09-16</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Randa</elt><elt>Mathilda</elt><elt>Fredericka</elt><elt>Oralee</elt><elt>Emylee</elt>  
+  <Gerrie>
+    <age>31</age>
+  </Gerrie>
+</root>

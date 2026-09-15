@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbara"
+  lastname="Presber"
+  city="Buenos Aires"
+  country="Madagascar"
+  firstname2="Jere"
+  lastname2="McAdams"
+  email="Jere.McAdams@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>61.103</random_float>
+  <bool>true</bool>
+  <date>1993-03-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Pamella</elt><elt>Jillayne</elt><elt>Desirae</elt><elt>Di</elt><elt>Marika</elt>  
+  <Jere>
+    <age>52</age>
+  </Jere>
+</root>

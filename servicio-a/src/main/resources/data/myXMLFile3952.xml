@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kittie"
+  lastname="Horan"
+  city="Cuiabá"
+  country="Italy"
+  firstname2="Jean"
+  lastname2="Hunfredo"
+  email="Jean.Hunfredo@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>53.363</random_float>
+  <bool>true</bool>
+  <date>2000-01-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tatiania</elt><elt>Cam</elt><elt>Dode</elt><elt>Mariele</elt><elt>Anestassia</elt>  
+  <Jean>
+    <age>68</age>
+  </Jean>
+</root>

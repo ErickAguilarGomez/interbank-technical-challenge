@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristan"
+  lastname="Minetta"
+  city="Cannes"
+  country="Azerbaijan"
+  firstname2="Vita"
+  lastname2="Emmaline"
+  email="Vita.Emmaline@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>44.947</random_float>
+  <bool>true</bool>
+  <date>1998-04-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Pierette</elt><elt>Tina</elt><elt>Jeanna</elt><elt>Dorene</elt><elt>Collen</elt>  
+  <Vita>
+    <age>74</age>
+  </Vita>
+</root>

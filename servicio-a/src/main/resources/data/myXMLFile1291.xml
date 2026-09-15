@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wileen"
+  lastname="Lia"
+  city="Iloilo City"
+  country="Micronesia, Federated States of"
+  firstname2="Doralynne"
+  lastname2="Tarrant"
+  email="Doralynne.Tarrant@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>71.816</random_float>
+  <bool>false</bool>
+  <date>1984-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Desirae</elt><elt>Benita</elt><elt>Riannon</elt><elt>Fernande</elt><elt>Glenda</elt>  
+  <Doralynne>
+    <age>82</age>
+  </Doralynne>
+</root>

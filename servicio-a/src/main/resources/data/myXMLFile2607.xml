@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Gino"
+  city="Kinshasa"
+  country="Estonia"
+  firstname2="Leona"
+  lastname2="Shama"
+  email="Leona.Shama@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>100.068</random_float>
+  <bool>true</bool>
+  <date>1994-02-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gui</elt><elt>Suzette</elt><elt>Joceline</elt><elt>Clary</elt><elt>Georgina</elt>  
+  <Leona>
+    <age>62</age>
+  </Leona>
+</root>

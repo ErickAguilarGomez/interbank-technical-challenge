@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roxane"
+  lastname="Crudden"
+  city="Albuquerque"
+  country="Cocos (Keeling) Islands"
+  firstname2="Vonny"
+  lastname2="Belldas"
+  email="Vonny.Belldas@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>83.547</random_float>
+  <bool>true</bool>
+  <date>1986-02-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ursulina</elt><elt>Carolina</elt><elt>Correy</elt><elt>Amalie</elt><elt>Joleen</elt>  
+  <Vonny>
+    <age>89</age>
+  </Vonny>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marjie"
+  lastname="Skurnik"
+  city="Malacca Town"
+  country="Dominica"
+  firstname2="Silvana"
+  lastname2="Mata"
+  email="Silvana.Mata@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>87.685</random_float>
+  <bool>false</bool>
+  <date>1981-04-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tybie</elt><elt>Daphne</elt><elt>Yolane</elt><elt>Eolanda</elt><elt>Rivalee</elt>  
+  <Silvana>
+    <age>93</age>
+  </Silvana>
+</root>

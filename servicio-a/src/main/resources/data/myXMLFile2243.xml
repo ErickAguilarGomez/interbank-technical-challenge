@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alameda"
+  lastname="Emmy"
+  city="Gaborone"
+  country="Costa Rica"
+  firstname2="Annora"
+  lastname2="Destinee"
+  email="Annora.Destinee@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>3.988</random_float>
+  <bool>true</bool>
+  <date>1980-12-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lorie</elt><elt>Darlleen</elt><elt>Pamella</elt><elt>Ermengarde</elt><elt>Lauryn</elt>  
+  <Annora>
+    <age>75</age>
+  </Annora>
+</root>

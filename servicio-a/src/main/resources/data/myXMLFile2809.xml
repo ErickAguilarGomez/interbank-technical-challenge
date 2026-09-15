@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leia"
+  lastname="Iaverne"
+  city="Ibadan"
+  country="Eritrea"
+  firstname2="Maisey"
+  lastname2="Kaete"
+  email="Maisey.Kaete@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>72.602</random_float>
+  <bool>false</bool>
+  <date>1980-01-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Linet</elt><elt>Stephanie</elt><elt>Dorthy</elt><elt>Andree</elt><elt>Kelly</elt>  
+  <Maisey>
+    <age>28</age>
+  </Maisey>
+</root>

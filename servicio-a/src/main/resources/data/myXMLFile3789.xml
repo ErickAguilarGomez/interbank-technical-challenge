@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vinita"
+  lastname="Olin"
+  city="Sarajevo"
+  country="Albania"
+  firstname2="Adore"
+  lastname2="Lymann"
+  email="Adore.Lymann@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>86.993</random_float>
+  <bool>false</bool>
+  <date>1985-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marnia</elt><elt>Dyann</elt><elt>Kamilah</elt><elt>Aaren</elt><elt>Gerrie</elt>  
+  <Adore>
+    <age>89</age>
+  </Adore>
+</root>

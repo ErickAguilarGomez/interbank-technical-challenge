@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fredericka"
+  lastname="Hylan"
+  city="Singapore"
+  country="United States Minor Outlying Islands"
+  firstname2="Jacquetta"
+  lastname2="Adalbert"
+  email="Jacquetta.Adalbert@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>18.57</random_float>
+  <bool>false</bool>
+  <date>1993-11-30</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lory</elt><elt>Beth</elt><elt>Shel</elt><elt>June</elt><elt>Pearline</elt>  
+  <Jacquetta>
+    <age>79</age>
+  </Jacquetta>
+</root>

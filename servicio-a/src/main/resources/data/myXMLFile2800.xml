@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ellette"
+  lastname="McLaughlin"
+  city="Podgorica"
+  country="Madagascar"
+  firstname2="Babita"
+  lastname2="Drus"
+  email="Babita.Drus@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>60.872</random_float>
+  <bool>true</bool>
+  <date>1992-01-09</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marita</elt><elt>Brynna</elt><elt>Lucy</elt><elt>Karolina</elt><elt>Vinita</elt>  
+  <Babita>
+    <age>49</age>
+  </Babita>
+</root>

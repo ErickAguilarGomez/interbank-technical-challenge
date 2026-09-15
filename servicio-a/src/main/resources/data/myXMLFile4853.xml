@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Masao"
+  city="Havana"
+  country="Bolivia"
+  firstname2="Letizia"
+  lastname2="Nicoline"
+  email="Letizia.Nicoline@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>44.286</random_float>
+  <bool>false</bool>
+  <date>1983-04-22</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Benita</elt><elt>Kerrin</elt><elt>Nataline</elt><elt>Daryl</elt><elt>Malina</elt>  
+  <Letizia>
+    <age>67</age>
+  </Letizia>
+</root>

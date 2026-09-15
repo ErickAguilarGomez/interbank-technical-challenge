@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maisey"
+  lastname="Selway"
+  city="Simferopol"
+  country="Nigeria"
+  firstname2="Leeanne"
+  lastname2="Bibi"
+  email="Leeanne.Bibi@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>23.363</random_float>
+  <bool>false</bool>
+  <date>1996-04-11</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Genovera</elt><elt>Hallie</elt><elt>Hayley</elt><elt>Emylee</elt><elt>Sidoney</elt>  
+  <Leeanne>
+    <age>71</age>
+  </Leeanne>
+</root>

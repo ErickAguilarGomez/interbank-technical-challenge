@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Xylina"
+  lastname="Torray"
+  city="Bratsk"
+  country="Mauritius"
+  firstname2="Gertrud"
+  lastname2="Fancie"
+  email="Gertrud.Fancie@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>83.661</random_float>
+  <bool>true</bool>
+  <date>1995-05-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Caryl</elt><elt>Aimil</elt><elt>Meg</elt><elt>Margette</elt><elt>Elena</elt>  
+  <Gertrud>
+    <age>80</age>
+  </Gertrud>
+</root>

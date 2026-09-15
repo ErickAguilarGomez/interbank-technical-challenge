@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tera"
+  lastname="Hanshaw"
+  city="Tijuana"
+  country="Dominican Republic"
+  firstname2="Veda"
+  lastname2="Monk"
+  email="Veda.Monk@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>44.272</random_float>
+  <bool>false</bool>
+  <date>1985-11-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Vinita</elt><elt>Anica</elt><elt>Jolyn</elt><elt>Dari</elt><elt>Ericka</elt>  
+  <Veda>
+    <age>32</age>
+  </Veda>
+</root>

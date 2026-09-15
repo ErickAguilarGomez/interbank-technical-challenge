@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mireielle"
+  lastname="Cullin"
+  city="Moroni"
+  country="Saint Lucia"
+  firstname2="Norine"
+  lastname2="Wattenberg"
+  email="Norine.Wattenberg@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>80.948</random_float>
+  <bool>false</bool>
+  <date>1997-10-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Georgina</elt><elt>Ariela</elt><elt>Aurore</elt><elt>Ira</elt><elt>Margette</elt>  
+  <Norine>
+    <age>41</age>
+  </Norine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tonia"
+  lastname="Diogenes"
+  city="İzmir"
+  country="Zimbabwe"
+  firstname2="Doralynne"
+  lastname2="Allina"
+  email="Doralynne.Allina@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>1.952</random_float>
+  <bool>false</bool>
+  <date>1981-08-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Maud</elt><elt>Liana</elt><elt>Tierney</elt><elt>Frances</elt><elt>Janey</elt>  
+  <Doralynne>
+    <age>67</age>
+  </Doralynne>
+</root>

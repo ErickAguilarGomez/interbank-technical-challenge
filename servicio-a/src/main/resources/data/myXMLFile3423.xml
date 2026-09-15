@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Millie"
+  lastname="Docilla"
+  city="Mérida"
+  country="Jamaica"
+  firstname2="Adele"
+  lastname2="Yerkovich"
+  email="Adele.Yerkovich@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>31.307</random_float>
+  <bool>true</bool>
+  <date>1991-02-08</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Maisey</elt><elt>Ninnetta</elt><elt>Tina</elt><elt>Beverley</elt><elt>Petronia</elt>  
+  <Adele>
+    <age>91</age>
+  </Adele>
+</root>

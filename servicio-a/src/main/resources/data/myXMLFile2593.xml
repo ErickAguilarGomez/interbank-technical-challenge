@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beth"
+  lastname="Himelman"
+  city="Roseau"
+  country="Panama"
+  firstname2="Alia"
+  lastname2="Scammon"
+  email="Alia.Scammon@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>56.268</random_float>
+  <bool>true</bool>
+  <date>1991-05-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Valera</elt><elt>Kimmy</elt><elt>Nanete</elt><elt>Aryn</elt><elt>Paule</elt>  
+  <Alia>
+    <age>97</age>
+  </Alia>
+</root>

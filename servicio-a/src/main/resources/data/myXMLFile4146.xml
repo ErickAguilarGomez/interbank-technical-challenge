@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joy"
+  lastname="Geffner"
+  city="Willemstad"
+  country="Bolivia"
+  firstname2="Eolanda"
+  lastname2="Genna"
+  email="Eolanda.Genna@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>11.409</random_float>
+  <bool>true</bool>
+  <date>1984-12-26</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elsie</elt><elt>Andree</elt><elt>Laurene</elt><elt>Elie</elt><elt>Carlie</elt>  
+  <Eolanda>
+    <age>50</age>
+  </Eolanda>
+</root>

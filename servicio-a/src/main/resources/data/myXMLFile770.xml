@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candi"
+  lastname="Stilwell"
+  city="Jersey City"
+  country="Monaco"
+  firstname2="Tressa"
+  lastname2="Allys"
+  email="Tressa.Allys@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>82.659</random_float>
+  <bool>false</bool>
+  <date>1987-05-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Blondelle</elt><elt>Melina</elt><elt>Drucie</elt><elt>Aubrie</elt><elt>Lisette</elt>  
+  <Tressa>
+    <age>68</age>
+  </Tressa>
+</root>

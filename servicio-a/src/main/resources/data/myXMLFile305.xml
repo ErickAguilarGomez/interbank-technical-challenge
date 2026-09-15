@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mara"
+  lastname="Roumell"
+  city="Tel Aviv"
+  country="Bahamas"
+  firstname2="Netty"
+  lastname2="Brandice"
+  email="Netty.Brandice@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>47.014</random_float>
+  <bool>false</bool>
+  <date>1998-06-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dione</elt><elt>Jenda</elt><elt>Kirbee</elt><elt>Aigneis</elt><elt>Brandise</elt>  
+  <Netty>
+    <age>75</age>
+  </Netty>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emmey"
+  lastname="Lissi"
+  city="Phnom Penh"
+  country="Gabon"
+  firstname2="Eadie"
+  lastname2="Gilmour"
+  email="Eadie.Gilmour@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>62.882</random_float>
+  <bool>false</bool>
+  <date>1981-02-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Collen</elt><elt>Ninnetta</elt><elt>Karlee</elt><elt>Nananne</elt><elt>Shauna</elt>  
+  <Eadie>
+    <age>34</age>
+  </Eadie>
+</root>

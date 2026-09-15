@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerrie"
+  lastname="Prober"
+  city="Milwaukee"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Cecile"
+  lastname2="Eckblad"
+  email="Cecile.Eckblad@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>92.813</random_float>
+  <bool>true</bool>
+  <date>1982-05-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Heddie</elt><elt>Siana</elt><elt>Gui</elt><elt>Brietta</elt><elt>Audrie</elt>  
+  <Cecile>
+    <age>48</age>
+  </Cecile>
+</root>

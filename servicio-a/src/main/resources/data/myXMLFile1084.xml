@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Odessa"
+  lastname="Hortensia"
+  city="Dodoma"
+  country="New Zealand"
+  firstname2="Antonietta"
+  lastname2="Westphal"
+  email="Antonietta.Westphal@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>63.013</random_float>
+  <bool>true</bool>
+  <date>1983-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Bertine</elt><elt>Lucy</elt><elt>Raquela</elt><elt>Edyth</elt><elt>Danny</elt>  
+  <Antonietta>
+    <age>23</age>
+  </Antonietta>
+</root>

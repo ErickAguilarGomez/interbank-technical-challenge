@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Gaspard"
+  city="Cuiabá"
+  country="Algeria"
+  firstname2="Aigneis"
+  lastname2="Aldric"
+  email="Aigneis.Aldric@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>87.307</random_float>
+  <bool>false</bool>
+  <date>1990-03-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Florie</elt><elt>Jemie</elt><elt>Valli</elt><elt>Rhoda</elt><elt>Meg</elt>  
+  <Aigneis>
+    <age>59</age>
+  </Aigneis>
+</root>

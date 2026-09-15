@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Fennessy"
+  city="Prague"
+  country="Tanzania, United Republic of"
+  firstname2="Kayla"
+  lastname2="Pond"
+  email="Kayla.Pond@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>34.402</random_float>
+  <bool>true</bool>
+  <date>1989-02-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Orsola</elt><elt>Meghann</elt><elt>Amii</elt><elt>Alleen</elt><elt>Leona</elt>  
+  <Kayla>
+    <age>59</age>
+  </Kayla>
+</root>

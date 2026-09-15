@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flory"
+  lastname="Elbertina"
+  city="Valdivia"
+  country="Bouvet Island"
+  firstname2="Verla"
+  lastname2="Hurley"
+  email="Verla.Hurley@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>67.861</random_float>
+  <bool>false</bool>
+  <date>1987-01-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Roslyn</elt><elt>Felice</elt><elt>Aurelie</elt><elt>Myrtice</elt><elt>Frances</elt>  
+  <Verla>
+    <age>18</age>
+  </Verla>
+</root>

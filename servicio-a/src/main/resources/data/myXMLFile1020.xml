@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernie"
+  lastname="Meli"
+  city="Linz"
+  country="Comoros"
+  firstname2="Annecorinne"
+  lastname2="Millda"
+  email="Annecorinne.Millda@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>56.61</random_float>
+  <bool>true</bool>
+  <date>1995-08-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Margette</elt><elt>Damaris</elt><elt>Desirae</elt><elt>Dacia</elt><elt>Sue</elt>  
+  <Annecorinne>
+    <age>73</age>
+  </Annecorinne>
+</root>

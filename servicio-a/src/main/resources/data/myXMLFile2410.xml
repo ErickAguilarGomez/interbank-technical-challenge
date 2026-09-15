@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merci"
+  lastname="Helfand"
+  city="Saint-Denis"
+  country="Barbados"
+  firstname2="Lelah"
+  lastname2="Izaak"
+  email="Lelah.Izaak@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>52.185</random_float>
+  <bool>false</bool>
+  <date>1983-04-04</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Caryl</elt><elt>Carly</elt><elt>Ellette</elt><elt>Lynnea</elt><elt>Aaren</elt>  
+  <Lelah>
+    <age>68</age>
+  </Lelah>
+</root>

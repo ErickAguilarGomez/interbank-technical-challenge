@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pierette"
+  lastname="Publia"
+  city="Rome"
+  country="Nauru"
+  firstname2="Donnie"
+  lastname2="Louanna"
+  email="Donnie.Louanna@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>42.862</random_float>
+  <bool>true</bool>
+  <date>1986-07-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Chrystel</elt><elt>Christal</elt><elt>Dede</elt><elt>Nataline</elt><elt>Valera</elt>  
+  <Donnie>
+    <age>76</age>
+  </Donnie>
+</root>

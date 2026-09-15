@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Myriam"
+  lastname="Plato"
+  city="Sucre"
+  country="Mauritius"
+  firstname2="Audrie"
+  lastname2="Koziara"
+  email="Audrie.Koziara@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>66.551</random_float>
+  <bool>true</bool>
+  <date>1988-11-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Anthia</elt><elt>Allis</elt><elt>Georgina</elt><elt>Adore</elt><elt>Deane</elt>  
+  <Audrie>
+    <age>70</age>
+  </Audrie>
+</root>

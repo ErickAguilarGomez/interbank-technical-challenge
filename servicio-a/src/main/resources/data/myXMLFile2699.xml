@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rochette"
+  lastname="Berriman"
+  city="Wellington"
+  country="Guatemala"
+  firstname2="Karena"
+  lastname2="Gaal"
+  email="Karena.Gaal@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>65.062</random_float>
+  <bool>true</bool>
+  <date>1984-06-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Vita</elt><elt>Pearline</elt><elt>Theodora</elt><elt>Willetta</elt><elt>Donnie</elt>  
+  <Karena>
+    <age>75</age>
+  </Karena>
+</root>

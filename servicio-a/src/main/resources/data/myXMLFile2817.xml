@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Allina"
+  city="Calgary"
+  country="China"
+  firstname2="Laure"
+  lastname2="Berard"
+  email="Laure.Berard@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>30.756</random_float>
+  <bool>true</bool>
+  <date>1999-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sissy</elt><elt>Cathie</elt><elt>Claudina</elt><elt>Yetty</elt><elt>Marsiella</elt>  
+  <Laure>
+    <age>44</age>
+  </Laure>
+</root>

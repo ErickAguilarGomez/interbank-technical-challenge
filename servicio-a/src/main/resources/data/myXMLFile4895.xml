@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olwen"
+  lastname="Whiffen"
+  city="Kunming"
+  country="Guinea"
+  firstname2="Monika"
+  lastname2="Raimondo"
+  email="Monika.Raimondo@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>12.764</random_float>
+  <bool>true</bool>
+  <date>1994-01-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mariele</elt><elt>Charlena</elt><elt>Leona</elt><elt>Malina</elt><elt>Audrie</elt>  
+  <Monika>
+    <age>98</age>
+  </Monika>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Atlanta"
+  lastname="Norrie"
+  city="Samara"
+  country="Anguilla"
+  firstname2="Adriana"
+  lastname2="Leffen"
+  email="Adriana.Leffen@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>28.175</random_float>
+  <bool>true</bool>
+  <date>1992-02-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tamqrah</elt><elt>Esmeralda</elt><elt>Michaelina</elt><elt>Therine</elt><elt>Hermione</elt>  
+  <Adriana>
+    <age>89</age>
+  </Adriana>
+</root>

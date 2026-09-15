@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hayley"
+  lastname="Valoniah"
+  city="Mexicali"
+  country="Gabon"
+  firstname2="Olivette"
+  lastname2="Joeann"
+  email="Olivette.Joeann@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>57.534</random_float>
+  <bool>false</bool>
+  <date>1998-01-18</date>
+  <regEx>helloooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Chere</elt><elt>Georgina</elt><elt>Lucy</elt><elt>Maurene</elt><elt>Grier</elt>  
+  <Olivette>
+    <age>96</age>
+  </Olivette>
+</root>

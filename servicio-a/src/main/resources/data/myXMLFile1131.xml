@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Claudine"
+  city="San Diego"
+  country="Norway"
+  firstname2="Viki"
+  lastname2="Smitt"
+  email="Viki.Smitt@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>91.246</random_float>
+  <bool>false</bool>
+  <date>1990-03-08</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lynde</elt><elt>Katuscha</elt><elt>Suzette</elt><elt>Annabela</elt><elt>Minne</elt>  
+  <Viki>
+    <age>23</age>
+  </Viki>
+</root>

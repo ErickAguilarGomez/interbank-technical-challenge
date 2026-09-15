@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jasmina"
+  lastname="Nea"
+  city="Tagbilaran"
+  country="Israel"
+  firstname2="Jordan"
+  lastname2="Giff"
+  email="Jordan.Giff@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>5.799</random_float>
+  <bool>true</bool>
+  <date>1983-01-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Evita</elt><elt>Feliza</elt><elt>Minda</elt><elt>Willetta</elt><elt>Marita</elt>  
+  <Jordan>
+    <age>24</age>
+  </Jordan>
+</root>

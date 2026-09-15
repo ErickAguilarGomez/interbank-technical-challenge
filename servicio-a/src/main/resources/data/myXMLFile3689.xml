@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ashlee"
+  lastname="Manolo"
+  city="Yaren District"
+  country="Guatemala"
+  firstname2="Lolita"
+  lastname2="Baudin"
+  email="Lolita.Baudin@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>63.16</random_float>
+  <bool>false</bool>
+  <date>1996-07-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gertrud</elt><elt>Tabbatha</elt><elt>Annecorinne</elt><elt>Tersina</elt><elt>Dulcinea</elt>  
+  <Lolita>
+    <age>33</age>
+  </Lolita>
+</root>

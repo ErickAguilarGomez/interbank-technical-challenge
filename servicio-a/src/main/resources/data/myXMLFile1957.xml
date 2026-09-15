@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sidoney"
+  lastname="Palocz"
+  city="Brisbane"
+  country="Lebanon"
+  firstname2="Aryn"
+  lastname2="Dunkin"
+  email="Aryn.Dunkin@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>100.317</random_float>
+  <bool>true</bool>
+  <date>1982-02-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mureil</elt><elt>Pierette</elt><elt>Ruthe</elt><elt>Clementine</elt><elt>Rivalee</elt>  
+  <Aryn>
+    <age>29</age>
+  </Aryn>
+</root>

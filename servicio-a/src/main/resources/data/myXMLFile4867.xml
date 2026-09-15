@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Gaynor"
+  city="Turin"
+  country="Australia"
+  firstname2="Darci"
+  lastname2="Tamar"
+  email="Darci.Tamar@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>68.074</random_float>
+  <bool>true</bool>
+  <date>1990-09-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Winifred</elt><elt>Maurene</elt><elt>Ebonee</elt><elt>Neila</elt><elt>Deirdre</elt>  
+  <Darci>
+    <age>49</age>
+  </Darci>
+</root>

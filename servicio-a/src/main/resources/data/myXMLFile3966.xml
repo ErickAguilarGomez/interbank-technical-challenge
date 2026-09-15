@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacquetta"
+  lastname="Tjon"
+  city="Cockburn Town"
+  country="Sweden"
+  firstname2="Feliza"
+  lastname2="Bebe"
+  email="Feliza.Bebe@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>21.495</random_float>
+  <bool>false</bool>
+  <date>1994-03-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Delilah</elt><elt>Nariko</elt><elt>Wendi</elt><elt>Karolina</elt><elt>Helena</elt>  
+  <Feliza>
+    <age>20</age>
+  </Feliza>
+</root>

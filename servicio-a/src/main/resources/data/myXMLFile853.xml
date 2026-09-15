@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Britni"
+  lastname="Cordi"
+  city="Port-au-Prince"
+  country="Syrian Arab Republic"
+  firstname2="Ann-Marie"
+  lastname2="Ax"
+  email="Ann-Marie.Ax@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>7.123</random_float>
+  <bool>true</bool>
+  <date>1992-02-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Edith</elt><elt>Sissy</elt><elt>Cordi</elt><elt>Darci</elt><elt>Demetris</elt>  
+  <Ann-Marie>
+    <age>65</age>
+  </Ann-Marie>
+</root>

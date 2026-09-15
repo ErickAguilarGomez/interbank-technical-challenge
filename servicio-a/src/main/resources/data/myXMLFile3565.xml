@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janey"
+  lastname="Noam"
+  city="Hyderabad"
+  country="Holy See (Vatican City State)"
+  firstname2="Giustina"
+  lastname2="Muriel"
+  email="Giustina.Muriel@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>52.65</random_float>
+  <bool>false</bool>
+  <date>1998-01-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ketti</elt><elt>Blondelle</elt><elt>Orsola</elt><elt>Rubie</elt><elt>Joane</elt>  
+  <Giustina>
+    <age>74</age>
+  </Giustina>
+</root>

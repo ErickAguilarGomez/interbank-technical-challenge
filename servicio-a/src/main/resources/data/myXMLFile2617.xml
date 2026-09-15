@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariele"
+  lastname="Diann"
+  city="Omdurman"
+  country="Guadeloupe"
+  firstname2="Zsa Zsa"
+  lastname2="Cressida"
+  email="Zsa Zsa.Cressida@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>62.004</random_float>
+  <bool>true</bool>
+  <date>1988-01-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ninnetta</elt><elt>Vinita</elt><elt>Mureil</elt><elt>Emilia</elt><elt>Sidoney</elt>  
+  <Zsa Zsa>
+    <age>50</age>
+  </Zsa Zsa>
+</root>

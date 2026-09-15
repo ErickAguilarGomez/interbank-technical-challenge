@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariele"
+  lastname="Dichy"
+  city="Cali"
+  country="Palestinian Territory, Occupied"
+  firstname2="Ileana"
+  lastname2="Hylan"
+  email="Ileana.Hylan@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>4.371</random_float>
+  <bool>true</bool>
+  <date>1999-11-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Olwen</elt><elt>Nita</elt><elt>Alameda</elt><elt>Maurene</elt><elt>Alyda</elt>  
+  <Ileana>
+    <age>21</age>
+  </Ileana>
+</root>

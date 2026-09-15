@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanny"
+  lastname="Remmer"
+  city="Turin"
+  country="Cocos (Keeling) Islands"
+  firstname2="Fawne"
+  lastname2="Rozanna"
+  email="Fawne.Rozanna@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>51.845</random_float>
+  <bool>true</bool>
+  <date>1998-04-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Steffane</elt><elt>Elise</elt><elt>Sidoney</elt><elt>Gretal</elt><elt>Chandra</elt>  
+  <Fawne>
+    <age>20</age>
+  </Fawne>
+</root>

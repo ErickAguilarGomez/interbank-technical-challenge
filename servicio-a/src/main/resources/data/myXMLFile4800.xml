@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Quent"
+  city="Bandar Seri Begawan"
+  country="RWANDA"
+  firstname2="Nananne"
+  lastname2="Allare"
+  email="Nananne.Allare@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>32.758</random_float>
+  <bool>true</bool>
+  <date>1993-11-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorene</elt><elt>Tera</elt><elt>Deloria</elt><elt>Daryl</elt><elt>Gisela</elt>  
+  <Nananne>
+    <age>54</age>
+  </Nananne>
+</root>

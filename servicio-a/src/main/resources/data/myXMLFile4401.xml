@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Standing"
+  city="Cockburn Town"
+  country="Åland Islands"
+  firstname2="Etta"
+  lastname2="Raychel"
+  email="Etta.Raychel@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>21.089</random_float>
+  <bool>false</bool>
+  <date>1989-03-20</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cassondra</elt><elt>Genevra</elt><elt>Heida</elt><elt>Therine</elt><elt>Althea</elt>  
+  <Etta>
+    <age>89</age>
+  </Etta>
+</root>

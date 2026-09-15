@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jany"
+  lastname="Lucienne"
+  city="Koulikoro"
+  country="Finland"
+  firstname2="Ann-Marie"
+  lastname2="Burkle"
+  email="Ann-Marie.Burkle@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>13.698</random_float>
+  <bool>true</bool>
+  <date>1995-03-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Candy</elt><elt>Leeanne</elt><elt>Sashenka</elt><elt>Ernesta</elt><elt>Flory</elt>  
+  <Ann-Marie>
+    <age>56</age>
+  </Ann-Marie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Heidt"
+  city="Hai Phong"
+  country="Ukraine"
+  firstname2="Berget"
+  lastname2="Arne"
+  email="Berget.Arne@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>46.183</random_float>
+  <bool>true</bool>
+  <date>1994-01-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Elmira</elt><elt>Joy</elt><elt>Lusa</elt><elt>Jorry</elt><elt>Agathe</elt>  
+  <Berget>
+    <age>92</age>
+  </Berget>
+</root>

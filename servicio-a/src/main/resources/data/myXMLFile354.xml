@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Silvana"
+  lastname="Aloise"
+  city="Córdoba"
+  country="Tajikistan"
+  firstname2="Genevra"
+  lastname2="Ax"
+  email="Genevra.Ax@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>33.943</random_float>
+  <bool>true</bool>
+  <date>1989-09-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Almeta</elt><elt>Eadie</elt><elt>Abbie</elt><elt>Orelia</elt><elt>Albertina</elt>  
+  <Genevra>
+    <age>86</age>
+  </Genevra>
+</root>

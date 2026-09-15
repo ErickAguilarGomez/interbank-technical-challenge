@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gerianna"
+  lastname="Alcott"
+  city="Balikpapan"
+  country="Kyrgyzstan"
+  firstname2="Elvira"
+  lastname2="Stav"
+  email="Elvira.Stav@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>13.298</random_float>
+  <bool>false</bool>
+  <date>1989-11-02</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Candy</elt><elt>Sharlene</elt><elt>Elise</elt><elt>Adore</elt><elt>Pollyanna</elt>  
+  <Elvira>
+    <age>72</age>
+  </Elvira>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shell"
+  lastname="Bivins"
+  city="Hagåtña"
+  country="Mauritania"
+  firstname2="Cindelyn"
+  lastname2="Willie"
+  email="Cindelyn.Willie@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>48.612</random_float>
+  <bool>false</bool>
+  <date>1983-09-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Caritta</elt><elt>Tomasina</elt><elt>Katuscha</elt><elt>Charlena</elt><elt>Bibby</elt>  
+  <Cindelyn>
+    <age>51</age>
+  </Cindelyn>
+</root>

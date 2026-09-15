@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gloria"
+  lastname="Capello"
+  city="Guadalajara"
+  country="Djibouti"
+  firstname2="Abbie"
+  lastname2="Margret"
+  email="Abbie.Margret@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>100.469</random_float>
+  <bool>false</bool>
+  <date>1993-11-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Florie</elt><elt>Ann-Marie</elt><elt>Kary</elt><elt>Ira</elt><elt>Frieda</elt>  
+  <Abbie>
+    <age>58</age>
+  </Abbie>
+</root>

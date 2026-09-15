@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorenza"
+  lastname="Zrike"
+  city="Kandahar"
+  country="Tanzania, United Republic of"
+  firstname2="Starla"
+  lastname2="Tippets"
+  email="Starla.Tippets@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>43.808</random_float>
+  <bool>false</bool>
+  <date>1993-04-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rosabelle</elt><elt>Vonny</elt><elt>Evita</elt><elt>Kathy</elt><elt>Lesly</elt>  
+  <Starla>
+    <age>87</age>
+  </Starla>
+</root>

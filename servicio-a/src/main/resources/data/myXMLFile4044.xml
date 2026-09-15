@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Bendick"
+  city="Dallas"
+  country="Saudi Arabia"
+  firstname2="Nikki"
+  lastname2="Adrienne"
+  email="Nikki.Adrienne@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>36.232</random_float>
+  <bool>true</bool>
+  <date>1985-01-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Chloris</elt><elt>Flo</elt><elt>Gabriellia</elt><elt>Mariele</elt><elt>Rosaline</elt>  
+  <Nikki>
+    <age>61</age>
+  </Nikki>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nonnah"
+  lastname="Bartlett"
+  city="Nagoya"
+  country="Senegal"
+  firstname2="Kylynn"
+  lastname2="Gladstone"
+  email="Kylynn.Gladstone@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>9.275</random_float>
+  <bool>false</bool>
+  <date>1990-11-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gabriellia</elt><elt>Agnese</elt><elt>Marcy</elt><elt>Jacenta</elt><elt>Neila</elt>  
+  <Kylynn>
+    <age>99</age>
+  </Kylynn>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Imojean"
+  lastname="Kamaria"
+  city="Phoenix"
+  country="Egypt"
+  firstname2="Blondelle"
+  lastname2="Burnside"
+  email="Blondelle.Burnside@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>64.086</random_float>
+  <bool>false</bool>
+  <date>1984-09-21</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marinna</elt><elt>Ardenia</elt><elt>Renae</elt><elt>Drucie</elt><elt>Hyacinthe</elt>  
+  <Blondelle>
+    <age>67</age>
+  </Blondelle>
+</root>

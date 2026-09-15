@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sabina"
+  lastname="Gherardo"
+  city="Lviv"
+  country="Namibia"
+  firstname2="Addia"
+  lastname2="Lorenz"
+  email="Addia.Lorenz@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>72.921</random_float>
+  <bool>false</bool>
+  <date>1995-01-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Collen</elt><elt>Arabel</elt><elt>Zondra</elt><elt>Belva</elt><elt>Paule</elt>  
+  <Addia>
+    <age>64</age>
+  </Addia>
+</root>

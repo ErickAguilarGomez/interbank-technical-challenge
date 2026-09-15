@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bill"
+  lastname="Greenwald"
+  city="Santiago"
+  country="Kiribati"
+  firstname2="Aili"
+  lastname2="Longfellow"
+  email="Aili.Longfellow@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>79.678</random_float>
+  <bool>false</bool>
+  <date>1988-06-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jean</elt><elt>Oona</elt><elt>Tobe</elt><elt>Ernesta</elt><elt>Cordi</elt>  
+  <Aili>
+    <age>83</age>
+  </Aili>
+</root>

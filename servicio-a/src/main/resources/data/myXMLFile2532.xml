@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fred"
+  lastname="Shanley"
+  city="Port Blair"
+  country="New Caledonia"
+  firstname2="Michaelina"
+  lastname2="Gillan"
+  email="Michaelina.Gillan@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>29.637</random_float>
+  <bool>true</bool>
+  <date>1989-06-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nananne</elt><elt>Adore</elt><elt>Minne</elt><elt>Mireielle</elt><elt>Ketti</elt>  
+  <Michaelina>
+    <age>97</age>
+  </Michaelina>
+</root>

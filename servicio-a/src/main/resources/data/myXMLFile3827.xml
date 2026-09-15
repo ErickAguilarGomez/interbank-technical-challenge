@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusty"
+  lastname="Ephrem"
+  city="Jeddah"
+  country="Djibouti"
+  firstname2="Ayn"
+  lastname2="Francene"
+  email="Ayn.Francene@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>17.816</random_float>
+  <bool>true</bool>
+  <date>1986-06-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Delilah</elt><elt>Lucille</elt><elt>Selia</elt><elt>Chloris</elt><elt>Sissy</elt>  
+  <Ayn>
+    <age>73</age>
+  </Ayn>
+</root>

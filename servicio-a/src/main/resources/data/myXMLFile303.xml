@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maurene"
+  lastname="Ehrman"
+  city="Mersin"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Mady"
+  lastname2="Garlinda"
+  email="Mady.Garlinda@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>31.258</random_float>
+  <bool>true</bool>
+  <date>1996-04-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Deedee</elt><elt>Alleen</elt><elt>Antonietta</elt><elt>Roslyn</elt><elt>Anthia</elt>  
+  <Mady>
+    <age>49</age>
+  </Mady>
+</root>

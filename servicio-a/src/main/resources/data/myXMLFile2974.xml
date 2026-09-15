@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marylou"
+  lastname="Thad"
+  city="Kota Kinabalu"
+  country="Wallis and Futuna"
+  firstname2="Gloria"
+  lastname2="Aldric"
+  email="Gloria.Aldric@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>84.947</random_float>
+  <bool>false</bool>
+  <date>1995-08-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Concettina</elt><elt>Riannon</elt><elt>Rosene</elt><elt>Rayna</elt><elt>Beth</elt>  
+  <Gloria>
+    <age>38</age>
+  </Gloria>
+</root>

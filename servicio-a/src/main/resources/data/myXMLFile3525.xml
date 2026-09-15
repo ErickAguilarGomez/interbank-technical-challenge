@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mahalia"
+  lastname="Markman"
+  city="Seville"
+  country="Bouvet Island"
+  firstname2="Catrina"
+  lastname2="Pattin"
+  email="Catrina.Pattin@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>73.556</random_float>
+  <bool>false</bool>
+  <date>1988-04-22</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Doralynne</elt><elt>Ezmeralda</elt><elt>Sallie</elt><elt>Lisette</elt><elt>Flory</elt>  
+  <Catrina>
+    <age>84</age>
+  </Catrina>
+</root>

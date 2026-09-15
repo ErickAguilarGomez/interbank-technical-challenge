@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Moyna"
+  lastname="Joni"
+  city="Ludhiana"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Roseline"
+  lastname2="Nickola"
+  email="Roseline.Nickola@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>7.33</random_float>
+  <bool>true</bool>
+  <date>1987-03-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tani</elt><elt>Rebeca</elt><elt>Ronna</elt><elt>Elvira</elt><elt>Paola</elt>  
+  <Roseline>
+    <age>66</age>
+  </Roseline>
+</root>

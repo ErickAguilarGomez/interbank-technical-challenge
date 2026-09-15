@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Cottle"
+  city="Valparaíso"
+  country="British Indian Ocean Territory"
+  firstname2="Augustine"
+  lastname2="Erminia"
+  email="Augustine.Erminia@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>94.808</random_float>
+  <bool>true</bool>
+  <date>1982-06-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Linzy</elt><elt>Hildegaard</elt><elt>Shirlee</elt><elt>Ardys</elt><elt>Zondra</elt>  
+  <Augustine>
+    <age>86</age>
+  </Augustine>
+</root>

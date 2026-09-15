@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Randa"
+  lastname="Tamar"
+  city="Thimphu"
+  country="Botswana"
+  firstname2="Betta"
+  lastname2="Dermott"
+  email="Betta.Dermott@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>16.604</random_float>
+  <bool>false</bool>
+  <date>1981-05-12</date>
+  <regEx>helloooo world</regEx>
+  <enum>xml</enum>
+  <elt>Bobbi</elt><elt>Maisey</elt><elt>Sallie</elt><elt>Vinita</elt><elt>Cindelyn</elt>  
+  <Betta>
+    <age>59</age>
+  </Betta>
+</root>

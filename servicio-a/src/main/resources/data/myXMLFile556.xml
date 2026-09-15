@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merle"
+  lastname="Georgy"
+  city="Shigatse"
+  country="Norfolk Island"
+  firstname2="Rozele"
+  lastname2="Hathaway"
+  email="Rozele.Hathaway@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>3.194</random_float>
+  <bool>false</bool>
+  <date>1987-06-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Joane</elt><elt>Heddie</elt><elt>Jere</elt><elt>Codie</elt><elt>Stacey</elt>  
+  <Rozele>
+    <age>30</age>
+  </Rozele>
+</root>

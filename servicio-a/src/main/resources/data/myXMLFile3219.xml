@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Patricia"
+  lastname="Shama"
+  city="Nice"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Janeczka"
+  lastname2="Malanie"
+  email="Janeczka.Malanie@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>14.851</random_float>
+  <bool>false</bool>
+  <date>1991-02-01</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dawn</elt><elt>Beatriz</elt><elt>Nelle</elt><elt>Concettina</elt><elt>Flory</elt>  
+  <Janeczka>
+    <age>19</age>
+  </Janeczka>
+</root>

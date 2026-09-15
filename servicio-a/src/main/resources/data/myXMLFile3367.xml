@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sissy"
+  lastname="Stilwell"
+  city="Amman"
+  country="Albania"
+  firstname2="Chandra"
+  lastname2="Tiffa"
+  email="Chandra.Tiffa@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>54.704</random_float>
+  <bool>false</bool>
+  <date>1984-01-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Anestassia</elt><elt>Violet</elt><elt>Fredericka</elt><elt>Maryellen</elt><elt>Ariela</elt>  
+  <Chandra>
+    <age>23</age>
+  </Chandra>
+</root>

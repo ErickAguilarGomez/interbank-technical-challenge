@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andeee"
+  lastname="Radu"
+  city="San Juan"
+  country="Moldova, Republic of"
+  firstname2="Meghann"
+  lastname2="Alisia"
+  email="Meghann.Alisia@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>96.915</random_float>
+  <bool>false</bool>
+  <date>1989-08-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rozele</elt><elt>Mildrid</elt><elt>Jenda</elt><elt>Orsola</elt><elt>Marylou</elt>  
+  <Meghann>
+    <age>76</age>
+  </Meghann>
+</root>

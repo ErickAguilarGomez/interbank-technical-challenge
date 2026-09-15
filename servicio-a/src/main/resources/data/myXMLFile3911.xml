@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susan"
+  lastname="Maxi"
+  city="Antananarivo"
+  country="Hungary"
+  firstname2="Margalo"
+  lastname2="Jeanne"
+  email="Margalo.Jeanne@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>80.581</random_float>
+  <bool>false</bool>
+  <date>1984-07-12</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Andree</elt><elt>Sean</elt><elt>Kaja</elt><elt>Heida</elt><elt>Hayley</elt>  
+  <Margalo>
+    <age>82</age>
+  </Margalo>
+</root>

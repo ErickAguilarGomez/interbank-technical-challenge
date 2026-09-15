@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leontine"
+  lastname="Taima"
+  city="St. George's"
+  country="Malaysia"
+  firstname2="Caressa"
+  lastname2="McNully"
+  email="Caressa.McNully@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>36.152</random_float>
+  <bool>false</bool>
+  <date>1989-06-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alia</elt><elt>Marita</elt><elt>Stevana</elt><elt>Sam</elt><elt>Mathilda</elt>  
+  <Caressa>
+    <age>92</age>
+  </Caressa>
+</root>

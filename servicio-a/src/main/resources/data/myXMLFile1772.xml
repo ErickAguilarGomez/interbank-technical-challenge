@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Taffy"
+  lastname="Arathorn"
+  city="Luxembourg (city)"
+  country="AndorrA"
+  firstname2="Marti"
+  lastname2="Garlinda"
+  email="Marti.Garlinda@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>5.99</random_float>
+  <bool>false</bool>
+  <date>1986-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jemie</elt><elt>Lynnea</elt><elt>Magdalena</elt><elt>Carmencita</elt><elt>Audrie</elt>  
+  <Marti>
+    <age>86</age>
+  </Marti>
+</root>

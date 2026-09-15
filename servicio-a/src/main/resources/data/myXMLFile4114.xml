@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nonnah"
+  lastname="Argus"
+  city="Hiroshima"
+  country="Gibraltar"
+  firstname2="Winifred"
+  lastname2="Erminia"
+  email="Winifred.Erminia@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>24.749</random_float>
+  <bool>true</bool>
+  <date>1991-07-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elmira</elt><elt>Tabbatha</elt><elt>Carol-Jean</elt><elt>Aurore</elt><elt>Netty</elt>  
+  <Winifred>
+    <age>49</age>
+  </Winifred>
+</root>

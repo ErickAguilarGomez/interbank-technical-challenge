@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Camile"
+  lastname="Bevin"
+  city="Dhaka"
+  country="United States Minor Outlying Islands"
+  firstname2="Zia"
+  lastname2="Rosette"
+  email="Zia.Rosette@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>75.644</random_float>
+  <bool>false</bool>
+  <date>1990-06-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Coral</elt><elt>Marcy</elt><elt>Taffy</elt><elt>Elena</elt><elt>Evita</elt>  
+  <Zia>
+    <age>49</age>
+  </Zia>
+</root>

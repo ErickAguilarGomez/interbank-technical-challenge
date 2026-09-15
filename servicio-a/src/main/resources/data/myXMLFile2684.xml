@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Zamora"
+  city="Maracaibo"
+  country="Romania"
+  firstname2="Emma"
+  lastname2="Kylander"
+  email="Emma.Kylander@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>50.746</random_float>
+  <bool>true</bool>
+  <date>1999-12-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Laure</elt><elt>Tarra</elt><elt>Sibella</elt><elt>Allis</elt><elt>Cyb</elt>  
+  <Emma>
+    <age>33</age>
+  </Emma>
+</root>

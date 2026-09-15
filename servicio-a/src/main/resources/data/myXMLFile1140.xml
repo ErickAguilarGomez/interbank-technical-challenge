@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orelia"
+  lastname="Jary"
+  city="Changchun"
+  country="Burundi"
+  firstname2="Verla"
+  lastname2="Zachary"
+  email="Verla.Zachary@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>22.159</random_float>
+  <bool>true</bool>
+  <date>1994-05-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dulcinea</elt><elt>Konstance</elt><elt>Gale</elt><elt>Rosanne</elt><elt>Sean</elt>  
+  <Verla>
+    <age>22</age>
+  </Verla>
+</root>

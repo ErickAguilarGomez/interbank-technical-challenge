@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaylyn"
+  lastname="Raul"
+  city="Surat Thani"
+  country="Sri Lanka"
+  firstname2="Flory"
+  lastname2="Romelda"
+  email="Flory.Romelda@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>49.543</random_float>
+  <bool>true</bool>
+  <date>1982-10-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gretal</elt><elt>Claresta</elt><elt>Carly</elt><elt>Correy</elt><elt>Dominga</elt>  
+  <Flory>
+    <age>37</age>
+  </Flory>
+</root>

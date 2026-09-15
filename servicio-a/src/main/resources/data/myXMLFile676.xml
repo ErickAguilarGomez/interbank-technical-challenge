@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Katrine"
+  city="Sri Jayawardenapura-Kotte"
+  country="Cambodia"
+  firstname2="Bertine"
+  lastname2="Hoenack"
+  email="Bertine.Hoenack@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>45.627</random_float>
+  <bool>false</bool>
+  <date>1986-01-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Madalyn</elt><elt>Anallese</elt><elt>Madalyn</elt><elt>Edee</elt><elt>Jaime</elt>  
+  <Bertine>
+    <age>62</age>
+  </Bertine>
+</root>

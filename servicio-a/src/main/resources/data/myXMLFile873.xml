@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zia"
+  lastname="Cavan"
+  city="Guayaquil"
+  country="Myanmar"
+  firstname2="Joelly"
+  lastname2="Sammons"
+  email="Joelly.Sammons@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>33.066</random_float>
+  <bool>false</bool>
+  <date>1999-09-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rayna</elt><elt>Moyna</elt><elt>Norine</elt><elt>Claudina</elt><elt>Vanessa</elt>  
+  <Joelly>
+    <age>45</age>
+  </Joelly>
+</root>

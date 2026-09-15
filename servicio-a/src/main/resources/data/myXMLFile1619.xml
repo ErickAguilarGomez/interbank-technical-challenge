@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Chauncey"
+  city="Concepción"
+  country="United States Minor Outlying Islands"
+  firstname2="Gilda"
+  lastname2="Dulciana"
+  email="Gilda.Dulciana@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>93.914</random_float>
+  <bool>false</bool>
+  <date>1988-10-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Deane</elt><elt>Perry</elt><elt>Robbi</elt><elt>Elyssa</elt><elt>Michaelina</elt>  
+  <Gilda>
+    <age>57</age>
+  </Gilda>
+</root>

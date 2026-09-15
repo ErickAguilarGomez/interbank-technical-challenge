@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernie"
+  lastname="Xerxes"
+  city="São José dos Campos"
+  country="Philippines"
+  firstname2="Livvyy"
+  lastname2="Cecile"
+  email="Livvyy.Cecile@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>49.211</random_float>
+  <bool>false</bool>
+  <date>1986-10-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Goldie</elt><elt>Coral</elt><elt>Meg</elt><elt>Janis</elt><elt>Winny</elt>  
+  <Livvyy>
+    <age>40</age>
+  </Livvyy>
+</root>

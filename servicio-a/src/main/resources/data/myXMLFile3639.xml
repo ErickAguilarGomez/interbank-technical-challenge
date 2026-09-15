@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tera"
+  lastname="Bandeen"
+  city="Amman"
+  country="Korea, Republic of"
+  firstname2="Theodora"
+  lastname2="Colbert"
+  email="Theodora.Colbert@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>86.453</random_float>
+  <bool>true</bool>
+  <date>1990-09-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Randa</elt><elt>Kial</elt><elt>Sam</elt><elt>Vere</elt><elt>Sashenka</elt>  
+  <Theodora>
+    <age>100</age>
+  </Theodora>
+</root>

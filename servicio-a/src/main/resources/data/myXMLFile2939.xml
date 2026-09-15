@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ileana"
+  lastname="McCutcheon"
+  city="Kota Bharu"
+  country="RWANDA"
+  firstname2="Shaine"
+  lastname2="Quent"
+  email="Shaine.Quent@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>86.721</random_float>
+  <bool>true</bool>
+  <date>1998-12-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gloria</elt><elt>Donnie</elt><elt>Orelia</elt><elt>Chere</elt><elt>Annaliese</elt>  
+  <Shaine>
+    <age>96</age>
+  </Shaine>
+</root>

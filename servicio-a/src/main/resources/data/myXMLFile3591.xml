@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Lia"
+  city="Tunis"
+  country="Burkina Faso"
+  firstname2="Tarra"
+  lastname2="Georgy"
+  email="Tarra.Georgy@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>62.222</random_float>
+  <bool>true</bool>
+  <date>1983-02-26</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cassandra</elt><elt>Fred</elt><elt>Alejandra</elt><elt>Rosaline</elt><elt>Gale</elt>  
+  <Tarra>
+    <age>45</age>
+  </Tarra>
+</root>

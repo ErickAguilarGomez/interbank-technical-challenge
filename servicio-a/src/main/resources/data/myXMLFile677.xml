@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marti"
+  lastname="Gusella"
+  city="Rio de Janeiro"
+  country="United Arab Emirates"
+  firstname2="Dianemarie"
+  lastname2="Kauppi"
+  email="Dianemarie.Kauppi@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>95.973</random_float>
+  <bool>true</bool>
+  <date>1981-08-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Bibby</elt><elt>Marsiella</elt><elt>Grier</elt><elt>Caritta</elt><elt>Jobi</elt>  
+  <Dianemarie>
+    <age>100</age>
+  </Dianemarie>
+</root>

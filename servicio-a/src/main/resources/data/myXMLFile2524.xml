@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimberley"
+  lastname="Breed"
+  city="Omsk"
+  country="Tuvalu"
+  firstname2="Sarette"
+  lastname2="Waite"
+  email="Sarette.Waite@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>7.677</random_float>
+  <bool>true</bool>
+  <date>1989-01-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ardeen</elt><elt>Dorice</elt><elt>Eolanda</elt><elt>Linet</elt><elt>Binny</elt>  
+  <Sarette>
+    <age>89</age>
+  </Sarette>
+</root>

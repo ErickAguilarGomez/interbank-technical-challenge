@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosene"
+  lastname="Soneson"
+  city="Tirana"
+  country="Eritrea"
+  firstname2="Harmonia"
+  lastname2="Killigrew"
+  email="Harmonia.Killigrew@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>39.28</random_float>
+  <bool>false</bool>
+  <date>1985-04-21</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jsandye</elt><elt>Kenna</elt><elt>Mildrid</elt><elt>Maridel</elt><elt>Taffy</elt>  
+  <Harmonia>
+    <age>86</age>
+  </Harmonia>
+</root>

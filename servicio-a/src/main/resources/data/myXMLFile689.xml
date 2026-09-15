@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="Jarib"
+  city="Ankara"
+  country="Jamaica"
+  firstname2="Doro"
+  lastname2="Jenness"
+  email="Doro.Jenness@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>15.376</random_float>
+  <bool>false</bool>
+  <date>1989-01-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lory</elt><elt>Madelle</elt><elt>Vonny</elt><elt>Shell</elt><elt>Aili</elt>  
+  <Doro>
+    <age>52</age>
+  </Doro>
+</root>

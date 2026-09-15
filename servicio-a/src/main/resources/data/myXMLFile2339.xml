@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merry"
+  lastname="Gerge"
+  city="Pontianak"
+  country="Brazil"
+  firstname2="Sonni"
+  lastname2="Beniamino"
+  email="Sonni.Beniamino@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>22.647</random_float>
+  <bool>false</bool>
+  <date>1984-05-03</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Arlena</elt><elt>Glenda</elt><elt>Fernande</elt><elt>Eugine</elt><elt>Therine</elt>  
+  <Sonni>
+    <age>86</age>
+  </Sonni>
+</root>

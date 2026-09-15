@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yetty"
+  lastname="Masao"
+  city="Petropavlovsk-Kamchatsky"
+  country="Antigua and Barbuda"
+  firstname2="Anallese"
+  lastname2="Cottle"
+  email="Anallese.Cottle@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>53.863</random_float>
+  <bool>false</bool>
+  <date>1994-01-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elmira</elt><elt>Leeanne</elt><elt>Allis</elt><elt>Cassondra</elt><elt>Dorene</elt>  
+  <Anallese>
+    <age>59</age>
+  </Anallese>
+</root>

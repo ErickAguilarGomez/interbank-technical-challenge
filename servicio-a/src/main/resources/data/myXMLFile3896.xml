@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Randa"
+  lastname="Prober"
+  city="Bratsk"
+  country="Madagascar"
+  firstname2="Chrystel"
+  lastname2="Alrich"
+  email="Chrystel.Alrich@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>43.398</random_float>
+  <bool>false</bool>
+  <date>1993-05-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jordan</elt><elt>Cam</elt><elt>Leia</elt><elt>Perry</elt><elt>Sashenka</elt>  
+  <Chrystel>
+    <age>100</age>
+  </Chrystel>
+</root>

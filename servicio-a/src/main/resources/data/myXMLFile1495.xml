@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dale"
+  lastname="Euridice"
+  city="Campinas"
+  country="French Polynesia"
+  firstname2="Leeanne"
+  lastname2="Shama"
+  email="Leeanne.Shama@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>92.211</random_float>
+  <bool>false</bool>
+  <date>1991-12-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Quintina</elt><elt>Sharai</elt><elt>Ardeen</elt><elt>Rebeca</elt><elt>Sibella</elt>  
+  <Leeanne>
+    <age>85</age>
+  </Leeanne>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melanie"
+  lastname="Ulphia"
+  city="Antananarivo"
+  country="Netherlands"
+  firstname2="Kristan"
+  lastname2="Bord"
+  email="Kristan.Bord@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>3.449</random_float>
+  <bool>false</bool>
+  <date>1997-03-27</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lacie</elt><elt>Marita</elt><elt>Sindee</elt><elt>Brena</elt><elt>Jobi</elt>  
+  <Kristan>
+    <age>99</age>
+  </Kristan>
+</root>

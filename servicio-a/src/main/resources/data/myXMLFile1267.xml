@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trudie"
+  lastname="Bonilla"
+  city="Kaliningrad"
+  country="Bermuda"
+  firstname2="Estell"
+  lastname2="Harday"
+  email="Estell.Harday@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>60.214</random_float>
+  <bool>true</bool>
+  <date>1992-10-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Carmencita</elt><elt>Millie</elt><elt>Jobi</elt><elt>Doralynne</elt><elt>Ermengarde</elt>  
+  <Estell>
+    <age>67</age>
+  </Estell>
+</root>

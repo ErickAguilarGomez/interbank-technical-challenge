@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurelie"
+  lastname="Trinetta"
+  city="Casablanca"
+  country="Turks and Caicos Islands"
+  firstname2="Rhea"
+  lastname2="August"
+  email="Rhea.August@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>74.72</random_float>
+  <bool>true</bool>
+  <date>1990-05-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Cassondra</elt><elt>Maridel</elt><elt>Nelle</elt><elt>Elora</elt><elt>Penelopa</elt>  
+  <Rhea>
+    <age>69</age>
+  </Rhea>
+</root>

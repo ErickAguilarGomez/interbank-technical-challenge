@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leia"
+  lastname="Duwalt"
+  city="Okinawa"
+  country="Saint Helena"
+  firstname2="Clementine"
+  lastname2="Infield"
+  email="Clementine.Infield@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>71.507</random_float>
+  <bool>false</bool>
+  <date>1986-06-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rivalee</elt><elt>Starla</elt><elt>Nicoli</elt><elt>Aimil</elt><elt>Fina</elt>  
+  <Clementine>
+    <age>95</age>
+  </Clementine>
+</root>

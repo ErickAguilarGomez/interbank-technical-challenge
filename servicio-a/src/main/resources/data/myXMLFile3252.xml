@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frank"
+  lastname="Olin"
+  city="Colombo"
+  country="Viet Nam"
+  firstname2="Moyna"
+  lastname2="Gunn"
+  email="Moyna.Gunn@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>17.893</random_float>
+  <bool>false</bool>
+  <date>1996-07-27</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jere</elt><elt>Cristabel</elt><elt>Janey</elt><elt>Deedee</elt><elt>Ebonee</elt>  
+  <Moyna>
+    <age>25</age>
+  </Moyna>
+</root>

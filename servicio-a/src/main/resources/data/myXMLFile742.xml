@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Judy"
+  lastname="Kolnick"
+  city="San Juan"
+  country="El Salvador"
+  firstname2="Eadie"
+  lastname2="Dowski"
+  email="Eadie.Dowski@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>46.519</random_float>
+  <bool>false</bool>
+  <date>1994-09-17</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mathilda</elt><elt>Johna</elt><elt>Jerry</elt><elt>Isa</elt><elt>Arlena</elt>  
+  <Eadie>
+    <age>98</age>
+  </Eadie>
+</root>

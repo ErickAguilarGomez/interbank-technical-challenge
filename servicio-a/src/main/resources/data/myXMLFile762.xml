@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sallie"
+  lastname="Huggins"
+  city="Port Blair"
+  country="Hungary"
+  firstname2="Evaleen"
+  lastname2="Cavan"
+  email="Evaleen.Cavan@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>37.89</random_float>
+  <bool>false</bool>
+  <date>1996-03-07</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Georgina</elt><elt>Binny</elt><elt>Michaelina</elt><elt>Brena</elt><elt>Dode</elt>  
+  <Evaleen>
+    <age>95</age>
+  </Evaleen>
+</root>

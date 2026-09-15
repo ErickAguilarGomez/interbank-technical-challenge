@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kary"
+  lastname="Delacourt"
+  city="Dubai"
+  country="Burkina Faso"
+  firstname2="Elbertina"
+  lastname2="Garbe"
+  email="Elbertina.Garbe@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>48.491</random_float>
+  <bool>false</bool>
+  <date>1997-09-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hallie</elt><elt>Tracey</elt><elt>Merci</elt><elt>Gilda</elt><elt>Joeann</elt>  
+  <Elbertina>
+    <age>24</age>
+  </Elbertina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Flo"
+  lastname="Jerold"
+  city="Bucharest"
+  country="Western Sahara"
+  firstname2="Olivette"
+  lastname2="Clarissa"
+  email="Olivette.Clarissa@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>80.307</random_float>
+  <bool>false</bool>
+  <date>1998-09-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Vinita</elt><elt>Ursulina</elt><elt>Keelia</elt><elt>Alisha</elt><elt>Verla</elt>  
+  <Olivette>
+    <age>99</age>
+  </Olivette>
+</root>

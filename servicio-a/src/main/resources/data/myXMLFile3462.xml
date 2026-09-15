@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celisse"
+  lastname="Geffner"
+  city="Sofia"
+  country="Poland"
+  firstname2="Tamqrah"
+  lastname2="Sancho"
+  email="Tamqrah.Sancho@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>14.744</random_float>
+  <bool>true</bool>
+  <date>1989-12-24</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Maryellen</elt><elt>Gusty</elt><elt>Jaime</elt><elt>Gertrud</elt><elt>Adriana</elt>  
+  <Tamqrah>
+    <age>93</age>
+  </Tamqrah>
+</root>

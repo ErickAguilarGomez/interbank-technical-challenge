@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Bethany"
+  city="Prague"
+  country="Belarus"
+  firstname2="Krystle"
+  lastname2="Sammons"
+  email="Krystle.Sammons@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>64.153</random_float>
+  <bool>true</bool>
+  <date>1988-11-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Shaylyn</elt><elt>Goldie</elt><elt>Margalo</elt><elt>Blondelle</elt><elt>Melodie</elt>  
+  <Krystle>
+    <age>25</age>
+  </Krystle>
+</root>

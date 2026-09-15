@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trixi"
+  lastname="Melleta"
+  city="Kota Kinabalu"
+  country="Marshall Islands"
+  firstname2="Janey"
+  lastname2="Amand"
+  email="Janey.Amand@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>17.799</random_float>
+  <bool>false</bool>
+  <date>1989-03-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tani</elt><elt>Hyacinthe</elt><elt>Cissiee</elt><elt>Elora</elt><elt>Dorene</elt>  
+  <Janey>
+    <age>76</age>
+  </Janey>
+</root>

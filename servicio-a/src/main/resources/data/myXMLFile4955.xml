@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Sundin"
+  city="São Tomé"
+  country="British Indian Ocean Territory"
+  firstname2="Tori"
+  lastname2="Campball"
+  email="Tori.Campball@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>91.454</random_float>
+  <bool>false</bool>
+  <date>1998-04-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sue</elt><elt>Chastity</elt><elt>Raina</elt><elt>Kirstin</elt><elt>Nerta</elt>  
+  <Tori>
+    <age>100</age>
+  </Tori>
+</root>

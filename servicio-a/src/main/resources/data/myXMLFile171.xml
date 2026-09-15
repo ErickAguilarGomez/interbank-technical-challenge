@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vinita"
+  lastname="Lutero"
+  city="Shenyang"
+  country="Turkey"
+  firstname2="Cordi"
+  lastname2="Izaak"
+  email="Cordi.Izaak@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>76.539</random_float>
+  <bool>true</bool>
+  <date>1999-01-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Belinda</elt><elt>Ardeen</elt><elt>Edith</elt><elt>Nannie</elt><elt>Alex</elt>  
+  <Cordi>
+    <age>20</age>
+  </Cordi>
+</root>

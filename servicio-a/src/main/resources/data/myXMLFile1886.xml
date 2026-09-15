@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Honoria"
+  city="New Delhi"
+  country="Afghanistan"
+  firstname2="Kellen"
+  lastname2="Anderea"
+  email="Kellen.Anderea@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>90.048</random_float>
+  <bool>false</bool>
+  <date>1986-05-04</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alexine</elt><elt>Cyb</elt><elt>Caritta</elt><elt>Bertine</elt><elt>Kellen</elt>  
+  <Kellen>
+    <age>55</age>
+  </Kellen>
+</root>

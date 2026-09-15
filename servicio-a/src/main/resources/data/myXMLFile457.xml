@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Sabella"
+  city="Dhaka"
+  country="Sierra Leone"
+  firstname2="Harrietta"
+  lastname2="Hubert"
+  email="Harrietta.Hubert@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>49.846</random_float>
+  <bool>true</bool>
+  <date>1982-11-02</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tiffie</elt><elt>Jan</elt><elt>Marleah</elt><elt>Karly</elt><elt>Katharina</elt>  
+  <Harrietta>
+    <age>19</age>
+  </Harrietta>
+</root>

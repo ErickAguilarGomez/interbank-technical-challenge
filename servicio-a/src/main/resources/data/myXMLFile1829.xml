@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lacie"
+  lastname="Jotham"
+  city="Damascus"
+  country="Belarus"
+  firstname2="Ursulina"
+  lastname2="Salchunas"
+  email="Ursulina.Salchunas@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>80.9</random_float>
+  <bool>true</bool>
+  <date>1984-11-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Willetta</elt><elt>Dennie</elt><elt>Chrystel</elt><elt>Quintina</elt><elt>Fred</elt>  
+  <Ursulina>
+    <age>61</age>
+  </Ursulina>
+</root>

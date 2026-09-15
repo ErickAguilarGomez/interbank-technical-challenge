@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tressa"
+  lastname="Nahum"
+  city="Invercargill"
+  country="Afghanistan"
+  firstname2="Lanae"
+  lastname2="Vanni"
+  email="Lanae.Vanni@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>22.121</random_float>
+  <bool>true</bool>
+  <date>1992-04-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kayla</elt><elt>Katuscha</elt><elt>Leontine</elt><elt>Dacia</elt><elt>Annecorinne</elt>  
+  <Lanae>
+    <age>86</age>
+  </Lanae>
+</root>

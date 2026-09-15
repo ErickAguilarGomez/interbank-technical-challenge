@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andree"
+  lastname="Delila"
+  city="Saipan"
+  country="French Polynesia"
+  firstname2="Clarice"
+  lastname2="Yam"
+  email="Clarice.Yam@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>23.836</random_float>
+  <bool>true</bool>
+  <date>1980-09-13</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Brooks</elt><elt>Goldie</elt><elt>Dede</elt><elt>Gabriellia</elt><elt>Aubrie</elt>  
+  <Clarice>
+    <age>86</age>
+  </Clarice>
+</root>

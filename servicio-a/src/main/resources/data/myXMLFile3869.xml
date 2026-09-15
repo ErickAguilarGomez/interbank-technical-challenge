@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Giustina"
+  lastname="Odell"
+  city="Dar es Salaam"
+  country="Cuba"
+  firstname2="Morganica"
+  lastname2="Tiffa"
+  email="Morganica.Tiffa@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>87.566</random_float>
+  <bool>false</bool>
+  <date>1984-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joy</elt><elt>Blinni</elt><elt>Wanda</elt><elt>Stephanie</elt><elt>Nonnah</elt>  
+  <Morganica>
+    <age>79</age>
+  </Morganica>
+</root>

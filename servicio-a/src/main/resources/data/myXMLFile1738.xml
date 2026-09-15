@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tonia"
+  lastname="Naashom"
+  city="Ahmedabad"
+  country="Samoa"
+  firstname2="Magdalena"
+  lastname2="Vittoria"
+  email="Magdalena.Vittoria@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>30.671</random_float>
+  <bool>false</bool>
+  <date>1999-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nikki</elt><elt>Vevay</elt><elt>Kalina</elt><elt>Violet</elt><elt>Caressa</elt>  
+  <Magdalena>
+    <age>18</age>
+  </Magdalena>
+</root>

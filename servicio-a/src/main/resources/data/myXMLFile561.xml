@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Collen"
+  lastname="Stefa"
+  city="Port Hedland"
+  country="Wallis and Futuna"
+  firstname2="Jerry"
+  lastname2="Uird"
+  email="Jerry.Uird@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>82.125</random_float>
+  <bool>false</bool>
+  <date>1992-06-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Adelle</elt><elt>Carmencita</elt><elt>Marjie</elt><elt>Lusa</elt><elt>Blinni</elt>  
+  <Jerry>
+    <age>69</age>
+  </Jerry>
+</root>

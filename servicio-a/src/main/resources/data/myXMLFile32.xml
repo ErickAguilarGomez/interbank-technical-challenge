@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dione"
+  lastname="Hertzfeld"
+  city="Dhaka"
+  country="Niue"
+  firstname2="Jolyn"
+  lastname2="Cimbura"
+  email="Jolyn.Cimbura@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>37.219</random_float>
+  <bool>true</bool>
+  <date>1985-02-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Allis</elt><elt>Gaylene</elt><elt>Millie</elt><elt>Katleen</elt><elt>Catharine</elt>  
+  <Jolyn>
+    <age>68</age>
+  </Jolyn>
+</root>

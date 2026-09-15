@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Cimbura"
+  city="Ho Chi Minh City"
+  country="Pitcairn"
+  firstname2="Briney"
+  lastname2="Norvol"
+  email="Briney.Norvol@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>62.501</random_float>
+  <bool>false</bool>
+  <date>1987-08-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ninnetta</elt><elt>Jolyn</elt><elt>Rori</elt><elt>Viki</elt><elt>Courtnay</elt>  
+  <Briney>
+    <age>38</age>
+  </Briney>
+</root>

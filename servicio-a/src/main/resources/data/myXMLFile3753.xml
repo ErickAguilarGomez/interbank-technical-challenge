@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ottilie"
+  lastname="Gaal"
+  city="Chişinău"
+  country="Thailand"
+  firstname2="Belva"
+  lastname2="Kravits"
+  email="Belva.Kravits@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>57.448</random_float>
+  <bool>false</bool>
+  <date>1996-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Eugine</elt><elt>Renae</elt><elt>Imojean</elt><elt>Wilma</elt><elt>Zia</elt>  
+  <Belva>
+    <age>86</age>
+  </Belva>
+</root>

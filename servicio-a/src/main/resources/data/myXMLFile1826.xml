@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="Burch"
+  city="Bergen"
+  country="Antarctica"
+  firstname2="Gerrie"
+  lastname2="Emerson"
+  email="Gerrie.Emerson@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>10.64</random_float>
+  <bool>true</bool>
+  <date>1993-06-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Merci</elt><elt>Brana</elt><elt>Jsandye</elt><elt>Dennie</elt><elt>Carolina</elt>  
+  <Gerrie>
+    <age>25</age>
+  </Gerrie>
+</root>

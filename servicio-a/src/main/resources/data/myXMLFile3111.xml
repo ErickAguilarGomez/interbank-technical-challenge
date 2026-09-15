@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Estell"
+  lastname="Tremayne"
+  city="Malang"
+  country="Swaziland"
+  firstname2="Claresta"
+  lastname2="Corabella"
+  email="Claresta.Corabella@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>31.635</random_float>
+  <bool>true</bool>
+  <date>1985-09-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shirlee</elt><elt>Cindelyn</elt><elt>Wilma</elt><elt>Annecorinne</elt><elt>Janenna</elt>  
+  <Claresta>
+    <age>95</age>
+  </Claresta>
+</root>

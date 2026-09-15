@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elfreda"
+  lastname="Amethist"
+  city="Gold Coast"
+  country="Czech Republic"
+  firstname2="Beverley"
+  lastname2="Amand"
+  email="Beverley.Amand@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>91.226</random_float>
+  <bool>false</bool>
+  <date>1986-03-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sophia</elt><elt>Rani</elt><elt>Berget</elt><elt>Keelia</elt><elt>Norine</elt>  
+  <Beverley>
+    <age>59</age>
+  </Beverley>
+</root>

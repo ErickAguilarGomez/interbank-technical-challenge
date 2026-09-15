@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernardine"
+  lastname="Ioab"
+  city="Fukuoka"
+  country="Åland Islands"
+  firstname2="Eugine"
+  lastname2="Paine"
+  email="Eugine.Paine@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>84.051</random_float>
+  <bool>false</bool>
+  <date>1986-02-24</date>
+  <regEx>hellooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Liana</elt><elt>Mariele</elt><elt>Nickie</elt><elt>Quintina</elt><elt>Ottilie</elt>  
+  <Eugine>
+    <age>70</age>
+  </Eugine>
+</root>

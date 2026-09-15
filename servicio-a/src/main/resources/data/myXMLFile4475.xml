@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helsa"
+  lastname="Bouchard"
+  city="San Salvador"
+  country="French Southern Territories"
+  firstname2="Neila"
+  lastname2="Tippets"
+  email="Neila.Tippets@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>25.078</random_float>
+  <bool>false</bool>
+  <date>1995-05-15</date>
+  <regEx>helloooo world</regEx>
+  <enum>xml</enum>
+  <elt>Maridel</elt><elt>Desirae</elt><elt>Kaia</elt><elt>Theodora</elt><elt>Kerrin</elt>  
+  <Neila>
+    <age>78</age>
+  </Neila>
+</root>

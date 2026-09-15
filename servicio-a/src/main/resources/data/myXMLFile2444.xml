@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dianemarie"
+  lastname="Telfer"
+  city="San José"
+  country="Uruguay"
+  firstname2="Merry"
+  lastname2="Lattie"
+  email="Merry.Lattie@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>89.65</random_float>
+  <bool>false</bool>
+  <date>1998-01-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Monika</elt><elt>Merle</elt><elt>Renie</elt><elt>Odessa</elt><elt>Quintina</elt>  
+  <Merry>
+    <age>54</age>
+  </Merry>
+</root>

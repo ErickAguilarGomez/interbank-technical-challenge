@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hildegaard"
+  lastname="Greyson"
+  city="Sana'a"
+  country="Montserrat"
+  firstname2="Catrina"
+  lastname2="Denis"
+  email="Catrina.Denis@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>31.595</random_float>
+  <bool>true</bool>
+  <date>1990-09-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Helena</elt><elt>Theodora</elt><elt>Ashlee</elt><elt>Rosabelle</elt><elt>Ulrike</elt>  
+  <Catrina>
+    <age>59</age>
+  </Catrina>
+</root>

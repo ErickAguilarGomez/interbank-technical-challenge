@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tiffie"
+  lastname="Ledah"
+  city="Konya"
+  country="Bosnia and Herzegovina"
+  firstname2="Margarette"
+  lastname2="Mathilde"
+  email="Margarette.Mathilde@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>50.334</random_float>
+  <bool>true</bool>
+  <date>1985-10-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Mariann</elt><elt>Viki</elt><elt>Gusella</elt><elt>Caressa</elt><elt>Ashlee</elt>  
+  <Margarette>
+    <age>43</age>
+  </Margarette>
+</root>

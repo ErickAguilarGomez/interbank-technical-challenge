@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maud"
+  lastname="Macey"
+  city="Okinawa"
+  country="Antarctica"
+  firstname2="Lory"
+  lastname2="Mathilde"
+  email="Lory.Mathilde@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>15.732</random_float>
+  <bool>true</bool>
+  <date>1996-04-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ivett</elt><elt>Luci</elt><elt>Farrah</elt><elt>Sabina</elt><elt>Demetris</elt>  
+  <Lory>
+    <age>89</age>
+  </Lory>
+</root>

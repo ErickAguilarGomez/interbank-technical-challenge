@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pollyanna"
+  lastname="Iiette"
+  city="Ottawa"
+  country="Eritrea"
+  firstname2="Roz"
+  lastname2="Loring"
+  email="Roz.Loring@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>94.448</random_float>
+  <bool>true</bool>
+  <date>1988-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Livvyy</elt><elt>Cacilie</elt><elt>Frieda</elt><elt>Dorene</elt><elt>Dulce</elt>  
+  <Roz>
+    <age>77</age>
+  </Roz>
+</root>

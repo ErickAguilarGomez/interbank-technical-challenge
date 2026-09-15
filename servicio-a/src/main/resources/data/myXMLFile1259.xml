@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vita"
+  lastname="Destinee"
+  city="Lisbon"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Kalina"
+  lastname2="Sigfrid"
+  email="Kalina.Sigfrid@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>84.868</random_float>
+  <bool>false</bool>
+  <date>1993-05-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Feliza</elt><elt>Gratia</elt><elt>Christy</elt><elt>Lusa</elt><elt>Merrie</elt>  
+  <Kalina>
+    <age>57</age>
+  </Kalina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joy"
+  lastname="Sundin"
+  city="Austin"
+  country="Cote D"Ivoire"
+  firstname2="Dede"
+  lastname2="Kelula"
+  email="Dede.Kelula@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>87.027</random_float>
+  <bool>true</bool>
+  <date>1981-06-23</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lilith</elt><elt>Caryl</elt><elt>Margette</elt><elt>Mady</elt><elt>Jan</elt>  
+  <Dede>
+    <age>80</age>
+  </Dede>
+</root>

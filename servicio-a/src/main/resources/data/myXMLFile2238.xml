@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurore"
+  lastname="Anton"
+  city="Ibadan"
+  country="Virgin Islands, British"
+  firstname2="Henriette"
+  lastname2="Ahab"
+  email="Henriette.Ahab@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>53.035</random_float>
+  <bool>false</bool>
+  <date>1986-11-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kalina</elt><elt>Cacilie</elt><elt>Barbi</elt><elt>Sean</elt><elt>Inga</elt>  
+  <Henriette>
+    <age>29</age>
+  </Henriette>
+</root>

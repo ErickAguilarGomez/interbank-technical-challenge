@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Japeth"
+  city="Lucknow"
+  country="Turks and Caicos Islands"
+  firstname2="Anthia"
+  lastname2="Lorain"
+  email="Anthia.Lorain@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>63.064</random_float>
+  <bool>true</bool>
+  <date>1997-06-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hettie</elt><elt>Philis</elt><elt>Brandise</elt><elt>Merrie</elt><elt>Etta</elt>  
+  <Anthia>
+    <age>52</age>
+  </Anthia>
+</root>

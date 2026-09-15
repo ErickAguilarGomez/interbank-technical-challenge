@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwyneth"
+  lastname="Wallis"
+  city="Okinawa"
+  country="Paraguay"
+  firstname2="Ursulina"
+  lastname2="Kimmie"
+  email="Ursulina.Kimmie@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>21.747</random_float>
+  <bool>true</bool>
+  <date>1988-02-01</date>
+  <regEx>helloooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brena</elt><elt>Lyssa</elt><elt>Deirdre</elt><elt>Joane</elt><elt>Shel</elt>  
+  <Ursulina>
+    <age>65</age>
+  </Ursulina>
+</root>

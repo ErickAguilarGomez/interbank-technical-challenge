@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Sisile"
+  city="Sana'a"
+  country="Georgia"
+  firstname2="Chloris"
+  lastname2="Trey"
+  email="Chloris.Trey@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>59.74</random_float>
+  <bool>true</bool>
+  <date>1991-04-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jeanna</elt><elt>Melisent</elt><elt>Celene</elt><elt>Daune</elt><elt>Sidoney</elt>  
+  <Chloris>
+    <age>49</age>
+  </Chloris>
+</root>

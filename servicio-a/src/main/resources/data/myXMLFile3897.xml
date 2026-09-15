@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Strephon"
+  city="Belize City"
+  country="United States"
+  firstname2="Johna"
+  lastname2="Wooster"
+  email="Johna.Wooster@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>78.823</random_float>
+  <bool>false</bool>
+  <date>1992-10-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kathy</elt><elt>Abbie</elt><elt>Elise</elt><elt>Lanna</elt><elt>Allis</elt>  
+  <Johna>
+    <age>99</age>
+  </Johna>
+</root>

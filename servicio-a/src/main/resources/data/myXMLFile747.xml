@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jere"
+  lastname="Skurnik"
+  city="Jeddah"
+  country="Macao"
+  firstname2="Asia"
+  lastname2="Loeb"
+  email="Asia.Loeb@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>57.987</random_float>
+  <bool>false</bool>
+  <date>1997-04-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Modestia</elt><elt>Clary</elt><elt>Bobbi</elt><elt>Kerrin</elt><elt>Kathy</elt>  
+  <Asia>
+    <age>71</age>
+  </Asia>
+</root>

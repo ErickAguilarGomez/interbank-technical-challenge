@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Neila"
+  lastname="Flita"
+  city="Nakhon Ratchasima"
+  country="Serbia and Montenegro"
+  firstname2="Daune"
+  lastname2="Jobi"
+  email="Daune.Jobi@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>78.372</random_float>
+  <bool>true</bool>
+  <date>1982-02-20</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Viki</elt><elt>Blondelle</elt><elt>Deane</elt><elt>Chere</elt><elt>Perry</elt>  
+  <Daune>
+    <age>79</age>
+  </Daune>
+</root>

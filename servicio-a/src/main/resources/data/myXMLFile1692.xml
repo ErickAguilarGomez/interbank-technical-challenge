@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susette"
+  lastname="Henebry"
+  city="Chicago"
+  country="Azerbaijan"
+  firstname2="Leia"
+  lastname2="Brady"
+  email="Leia.Brady@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>46.079</random_float>
+  <bool>false</bool>
+  <date>1995-03-16</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Letizia</elt><elt>Bernie</elt><elt>Lilith</elt><elt>Pamella</elt><elt>Nessie</elt>  
+  <Leia>
+    <age>96</age>
+  </Leia>
+</root>

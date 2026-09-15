@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanna"
+  lastname="Septima"
+  city="Medellín"
+  country="Mozambique"
+  firstname2="Robbi"
+  lastname2="Taima"
+  email="Robbi.Taima@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>22.817</random_float>
+  <bool>false</bool>
+  <date>1999-09-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Brietta</elt><elt>Verla</elt><elt>Kylynn</elt><elt>Romona</elt><elt>Tiffie</elt>  
+  <Robbi>
+    <age>87</age>
+  </Robbi>
+</root>

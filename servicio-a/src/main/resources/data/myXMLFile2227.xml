@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carree"
+  lastname="Seumas"
+  city="Helsinki"
+  country="Bolivia"
+  firstname2="Halette"
+  lastname2="Kylander"
+  email="Halette.Kylander@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>38.204</random_float>
+  <bool>false</bool>
+  <date>1996-09-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Carly</elt><elt>Maurene</elt><elt>Julieta</elt><elt>Fina</elt><elt>Gisela</elt>  
+  <Halette>
+    <age>67</age>
+  </Halette>
+</root>

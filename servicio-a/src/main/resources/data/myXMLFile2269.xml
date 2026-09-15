@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Danny"
+  lastname="Lane"
+  city="Abuja"
+  country="Solomon Islands"
+  firstname2="Siana"
+  lastname2="Esmaria"
+  email="Siana.Esmaria@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>23.317</random_float>
+  <bool>true</bool>
+  <date>1980-01-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Shirlee</elt><elt>Bobinette</elt><elt>Fredericka</elt><elt>Adore</elt><elt>Mahalia</elt>  
+  <Siana>
+    <age>28</age>
+  </Siana>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lyssa"
+  lastname="Hashim"
+  city="Atlanta"
+  country="Holy See (Vatican City State)"
+  firstname2="Anallese"
+  lastname2="Phaidra"
+  email="Anallese.Phaidra@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>48.355</random_float>
+  <bool>false</bool>
+  <date>1980-09-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Silvana</elt><elt>Gusty</elt><elt>Olwen</elt><elt>Farrah</elt><elt>Pearline</elt>  
+  <Anallese>
+    <age>28</age>
+  </Anallese>
+</root>

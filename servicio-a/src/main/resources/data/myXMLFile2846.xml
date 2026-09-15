@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marguerite"
+  lastname="Alice"
+  city="Melekeok"
+  country="Kiribati"
+  firstname2="Alisha"
+  lastname2="Lindemann"
+  email="Alisha.Lindemann@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>8.334</random_float>
+  <bool>false</bool>
+  <date>1995-10-26</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cindelyn</elt><elt>Elyssa</elt><elt>Candi</elt><elt>Kary</elt><elt>Rochette</elt>  
+  <Alisha>
+    <age>69</age>
+  </Alisha>
+</root>

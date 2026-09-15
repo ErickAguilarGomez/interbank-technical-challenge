@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tressa"
+  lastname="Gusella"
+  city="Thimphu"
+  country="Austria"
+  firstname2="Gui"
+  lastname2="Middleton"
+  email="Gui.Middleton@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>72.089</random_float>
+  <bool>true</bool>
+  <date>1988-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gabriellia</elt><elt>Emelina</elt><elt>Cristabel</elt><elt>Celisse</elt><elt>Randa</elt>  
+  <Gui>
+    <age>69</age>
+  </Gui>
+</root>

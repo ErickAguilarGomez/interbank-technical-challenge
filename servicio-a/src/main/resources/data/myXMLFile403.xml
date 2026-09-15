@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathi"
+  lastname="Ricarda"
+  city="Rotterdam"
+  country="Turkey"
+  firstname2="Eve"
+  lastname2="Kermit"
+  email="Eve.Kermit@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>40.912</random_float>
+  <bool>true</bool>
+  <date>1985-12-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Adele</elt><elt>Pamella</elt><elt>Di</elt><elt>Cyndie</elt><elt>Valli</elt>  
+  <Eve>
+    <age>86</age>
+  </Eve>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheree"
+  lastname="Pyle"
+  city="Milwaukee"
+  country="Greece"
+  firstname2="Deloria"
+  lastname2="Martguerita"
+  email="Deloria.Martguerita@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>5.558</random_float>
+  <bool>false</bool>
+  <date>1982-08-07</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kylynn</elt><elt>Lynde</elt><elt>Orsola</elt><elt>Sean</elt><elt>Althea</elt>  
+  <Deloria>
+    <age>74</age>
+  </Deloria>
+</root>

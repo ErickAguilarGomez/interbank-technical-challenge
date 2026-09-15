@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Rad"
+  city="Cardiff"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Agnese"
+  lastname2="Christine"
+  email="Agnese.Christine@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>31.345</random_float>
+  <bool>false</bool>
+  <date>1984-12-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Hollie</elt><elt>Elbertina</elt><elt>Kara-Lynn</elt><elt>Annaliese</elt><elt>Heddie</elt>  
+  <Agnese>
+    <age>71</age>
+  </Agnese>
+</root>

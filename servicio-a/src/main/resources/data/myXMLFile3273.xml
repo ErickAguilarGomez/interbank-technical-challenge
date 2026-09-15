@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Babita"
+  lastname="Sekofski"
+  city="Bandar Seri Begawan"
+  country="Zambia"
+  firstname2="Vivia"
+  lastname2="Uund"
+  email="Vivia.Uund@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>52.277</random_float>
+  <bool>true</bool>
+  <date>1983-07-10</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Inga</elt><elt>Alia</elt><elt>Helsa</elt><elt>Sophia</elt><elt>Kalina</elt>  
+  <Vivia>
+    <age>39</age>
+  </Vivia>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zsa Zsa"
+  lastname="Rese"
+  city="Dunedin"
+  country="Madagascar"
+  firstname2="Alameda"
+  lastname2="Cimbura"
+  email="Alameda.Cimbura@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>12.986</random_float>
+  <bool>true</bool>
+  <date>1991-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Collen</elt><elt>Andeee</elt><elt>Asia</elt><elt>Rosanne</elt><elt>Glenda</elt>  
+  <Alameda>
+    <age>23</age>
+  </Alameda>
+</root>

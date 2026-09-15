@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bibby"
+  lastname="Doig"
+  city="Tiraspol"
+  country="Cocos (Keeling) Islands"
+  firstname2="Viviene"
+  lastname2="Bury"
+  email="Viviene.Bury@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>8.559</random_float>
+  <bool>false</bool>
+  <date>1996-04-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lonnie</elt><elt>Therine</elt><elt>Lizzie</elt><elt>Carolina</elt><elt>Verla</elt>  
+  <Viviene>
+    <age>82</age>
+  </Viviene>
+</root>

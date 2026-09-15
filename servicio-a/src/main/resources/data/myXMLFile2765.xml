@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roberta"
+  lastname="Tomasina"
+  city="Durban"
+  country="Ecuador"
+  firstname2="Kirbee"
+  lastname2="Secrest"
+  email="Kirbee.Secrest@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>10.941</random_float>
+  <bool>false</bool>
+  <date>1995-12-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Amelia</elt><elt>Gisela</elt><elt>Concettina</elt><elt>Maridel</elt><elt>Linet</elt>  
+  <Kirbee>
+    <age>39</age>
+  </Kirbee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sarette"
+  lastname="Paine"
+  city="Kunming"
+  country="Namibia"
+  firstname2="Raquela"
+  lastname2="Ursulette"
+  email="Raquela.Ursulette@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>41.275</random_float>
+  <bool>true</bool>
+  <date>1994-10-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cyndie</elt><elt>Dania</elt><elt>Melina</elt><elt>Lauryn</elt><elt>Margalo</elt>  
+  <Raquela>
+    <age>19</age>
+  </Raquela>
+</root>

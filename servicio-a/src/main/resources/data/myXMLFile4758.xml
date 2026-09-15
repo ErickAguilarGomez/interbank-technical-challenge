@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zaria"
+  lastname="Weide"
+  city="Balikpapan"
+  country="Norway"
+  firstname2="Frank"
+  lastname2="Poll"
+  email="Frank.Poll@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>88.249</random_float>
+  <bool>true</bool>
+  <date>1988-07-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Shannah</elt><elt>Teriann</elt><elt>Kelly</elt><elt>Raf</elt><elt>Oralee</elt>  
+  <Frank>
+    <age>76</age>
+  </Frank>
+</root>

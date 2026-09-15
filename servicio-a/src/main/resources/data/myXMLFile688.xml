@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marinna"
+  lastname="Garrison"
+  city="Boa Vista"
+  country="Cote D"Ivoire"
+  firstname2="Doro"
+  lastname2="Pauly"
+  email="Doro.Pauly@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>75.615</random_float>
+  <bool>true</bool>
+  <date>1994-11-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Christal</elt><elt>Mamie</elt><elt>Meghann</elt><elt>Glynnis</elt><elt>Vere</elt>  
+  <Doro>
+    <age>100</age>
+  </Doro>
+</root>

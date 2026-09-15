@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carilyn"
+  lastname="Frodi"
+  city="Novosibirsk"
+  country="Malta"
+  firstname2="Stephanie"
+  lastname2="Faso"
+  email="Stephanie.Faso@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>58.641</random_float>
+  <bool>true</bool>
+  <date>1984-07-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Arlena</elt><elt>Beth</elt><elt>Silvana</elt><elt>Raina</elt><elt>Anallese</elt>  
+  <Stephanie>
+    <age>83</age>
+  </Stephanie>
+</root>

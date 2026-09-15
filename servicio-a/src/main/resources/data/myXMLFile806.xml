@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Giustina"
+  lastname="Lunsford"
+  city="Lyon"
+  country="Antigua and Barbuda"
+  firstname2="Bettine"
+  lastname2="Schonfeld"
+  email="Bettine.Schonfeld@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>94.331</random_float>
+  <bool>false</bool>
+  <date>1986-08-14</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Brena</elt><elt>Ginnie</elt><elt>Devina</elt><elt>Dorice</elt><elt>Cathyleen</elt>  
+  <Bettine>
+    <age>60</age>
+  </Bettine>
+</root>

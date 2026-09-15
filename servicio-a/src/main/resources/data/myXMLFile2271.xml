@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Drisko"
+  city="Wellington"
+  country="Cambodia"
+  firstname2="Xylina"
+  lastname2="Ax"
+  email="Xylina.Ax@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>47.709</random_float>
+  <bool>false</bool>
+  <date>1988-06-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jinny</elt><elt>Leeanne</elt><elt>Janey</elt><elt>Ezmeralda</elt><elt>Concettina</elt>  
+  <Xylina>
+    <age>97</age>
+  </Xylina>
+</root>

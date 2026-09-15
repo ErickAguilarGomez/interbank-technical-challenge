@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hildegaard"
+  lastname="Croix"
+  city="Lucknow"
+  country="Myanmar"
+  firstname2="Teriann"
+  lastname2="Halsey"
+  email="Teriann.Halsey@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>100.78</random_float>
+  <bool>false</bool>
+  <date>1995-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Doro</elt><elt>Kittie</elt><elt>Lulita</elt><elt>Stephanie</elt><elt>Selma</elt>  
+  <Teriann>
+    <age>24</age>
+  </Teriann>
+</root>

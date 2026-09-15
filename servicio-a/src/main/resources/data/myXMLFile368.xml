@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Marcellus"
+  city="Magadan"
+  country="San Marino"
+  firstname2="Laure"
+  lastname2="Romelda"
+  email="Laure.Romelda@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>27.408</random_float>
+  <bool>true</bool>
+  <date>1996-02-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alameda</elt><elt>Gabriellia</elt><elt>Lusa</elt><elt>Rosene</elt><elt>Rayna</elt>  
+  <Laure>
+    <age>76</age>
+  </Laure>
+</root>

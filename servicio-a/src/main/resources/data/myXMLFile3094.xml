@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ernesta"
+  lastname="Ashely"
+  city="Fort-de-France"
+  country="Mozambique"
+  firstname2="Clementine"
+  lastname2="Clywd"
+  email="Clementine.Clywd@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>23.226</random_float>
+  <bool>true</bool>
+  <date>1995-11-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Molli</elt><elt>Fredericka</elt><elt>Lila</elt><elt>Carmela</elt><elt>Brana</elt>  
+  <Clementine>
+    <age>85</age>
+  </Clementine>
+</root>

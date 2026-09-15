@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Asia"
+  lastname="Durware"
+  city="Simferopol"
+  country="British Indian Ocean Territory"
+  firstname2="Allis"
+  lastname2="Leler"
+  email="Allis.Leler@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>53.223</random_float>
+  <bool>false</bool>
+  <date>1981-09-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Di</elt><elt>Meg</elt><elt>Zondra</elt><elt>Clary</elt><elt>Misha</elt>  
+  <Allis>
+    <age>30</age>
+  </Allis>
+</root>

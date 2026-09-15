@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Cavan"
+  city="Fukuoka"
+  country="Guinea-Bissau"
+  firstname2="Rayna"
+  lastname2="Vernier"
+  email="Rayna.Vernier@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>55.916</random_float>
+  <bool>true</bool>
+  <date>1989-06-17</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ellette</elt><elt>Angelique</elt><elt>Starla</elt><elt>Eolanda</elt><elt>Emma</elt>  
+  <Rayna>
+    <age>90</age>
+  </Rayna>
+</root>

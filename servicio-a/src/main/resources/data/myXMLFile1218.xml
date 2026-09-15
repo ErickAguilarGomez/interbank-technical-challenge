@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ayn"
+  lastname="Merell"
+  city="Guwahati"
+  country="Saint Kitts and Nevis"
+  firstname2="Ana"
+  lastname2="Birdella"
+  email="Ana.Birdella@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>38.824</random_float>
+  <bool>false</bool>
+  <date>1991-02-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Myriam</elt><elt>Debee</elt><elt>Joelly</elt><elt>Sandie</elt><elt>Janey</elt>  
+  <Ana>
+    <age>46</age>
+  </Ana>
+</root>

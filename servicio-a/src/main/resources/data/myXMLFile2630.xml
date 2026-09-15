@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Grier"
+  lastname="Tannie"
+  city="Boston"
+  country="Norfolk Island"
+  firstname2="Larine"
+  lastname2="Tryck"
+  email="Larine.Tryck@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>36.603</random_float>
+  <bool>false</bool>
+  <date>1989-03-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vita</elt><elt>Roslyn</elt><elt>Darlleen</elt><elt>Dorene</elt><elt>Valeda</elt>  
+  <Larine>
+    <age>60</age>
+  </Larine>
+</root>

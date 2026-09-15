@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vita"
+  lastname="Berriman"
+  city="Washington"
+  country="Russian Federation"
+  firstname2="Barbara"
+  lastname2="Kenney"
+  email="Barbara.Kenney@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>40.133</random_float>
+  <bool>false</bool>
+  <date>1989-07-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Celestyna</elt><elt>Ursulina</elt><elt>Emelina</elt><elt>Catharine</elt><elt>Edee</elt>  
+  <Barbara>
+    <age>85</age>
+  </Barbara>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Rosalba"
+  city="Quebec City"
+  country="Luxembourg"
+  firstname2="Susan"
+  lastname2="Pernick"
+  email="Susan.Pernick@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>70.71</random_float>
+  <bool>false</bool>
+  <date>1998-07-25</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Britni</elt><elt>Florie</elt><elt>Henriette</elt><elt>Jean</elt><elt>Elbertina</elt>  
+  <Susan>
+    <age>68</age>
+  </Susan>
+</root>

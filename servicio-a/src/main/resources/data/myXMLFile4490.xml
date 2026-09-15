@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Imojean"
+  lastname="Maryanne"
+  city="Basra"
+  country="Swaziland"
+  firstname2="Celisse"
+  lastname2="Moina"
+  email="Celisse.Moina@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>23.871</random_float>
+  <bool>false</bool>
+  <date>1985-07-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Renie</elt><elt>Arlina</elt><elt>Rosanne</elt><elt>Frances</elt><elt>Susette</elt>  
+  <Celisse>
+    <age>27</age>
+  </Celisse>
+</root>

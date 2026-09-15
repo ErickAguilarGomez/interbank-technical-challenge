@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sara-Ann"
+  lastname="Nerita"
+  city="Brazzaville"
+  country="Mayotte"
+  firstname2="Hayley"
+  lastname2="Charmine"
+  email="Hayley.Charmine@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>10.523</random_float>
+  <bool>false</bool>
+  <date>1985-01-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tatiania</elt><elt>Damaris</elt><elt>Tonia</elt><elt>Jsandye</elt><elt>Flo</elt>  
+  <Hayley>
+    <age>73</age>
+  </Hayley>
+</root>

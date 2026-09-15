@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sean"
+  lastname="Chinua"
+  city="Manila"
+  country="Belarus"
+  firstname2="Cherrita"
+  lastname2="Hilbert"
+  email="Cherrita.Hilbert@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>72.657</random_float>
+  <bool>false</bool>
+  <date>1989-12-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ethel</elt><elt>Carmencita</elt><elt>Maridel</elt><elt>Sarette</elt><elt>Minne</elt>  
+  <Cherrita>
+    <age>79</age>
+  </Cherrita>
+</root>

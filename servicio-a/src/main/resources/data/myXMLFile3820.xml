@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Debee"
+  lastname="Johanna"
+  city="Mashhad"
+  country="Panama"
+  firstname2="Evita"
+  lastname2="Abbot"
+  email="Evita.Abbot@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>76.296</random_float>
+  <bool>false</bool>
+  <date>1986-05-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Karolina</elt><elt>Marcelline</elt><elt>Aryn</elt><elt>Adele</elt><elt>Cassondra</elt>  
+  <Evita>
+    <age>79</age>
+  </Evita>
+</root>

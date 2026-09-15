@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Bartlett"
+  city="Jakarta"
+  country="Finland"
+  firstname2="Cyndie"
+  lastname2="Dahlia"
+  email="Cyndie.Dahlia@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>28.854</random_float>
+  <bool>true</bool>
+  <date>1984-08-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Paulita</elt><elt>Averyl</elt><elt>Tani</elt><elt>Latisha</elt><elt>Dorthy</elt>  
+  <Cyndie>
+    <age>25</age>
+  </Cyndie>
+</root>

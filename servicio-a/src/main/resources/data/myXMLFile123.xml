@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chastity"
+  lastname="Gabrielli"
+  city="Birkirkara"
+  country="Haiti"
+  firstname2="Hollie"
+  lastname2="Brunell"
+  email="Hollie.Brunell@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>69.917</random_float>
+  <bool>false</bool>
+  <date>1993-08-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dorice</elt><elt>Pamella</elt><elt>Frank</elt><elt>Chrystel</elt><elt>Chickie</elt>  
+  <Hollie>
+    <age>84</age>
+  </Hollie>
+</root>

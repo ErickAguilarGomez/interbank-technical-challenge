@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Patricia"
+  lastname="Klotz"
+  city="Jersey City"
+  country="Paraguay"
+  firstname2="Marleah"
+  lastname2="Virgin"
+  email="Marleah.Virgin@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>72.252</random_float>
+  <bool>true</bool>
+  <date>1982-07-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Annora</elt><elt>Linzy</elt><elt>Tera</elt><elt>Susette</elt><elt>Tersina</elt>  
+  <Marleah>
+    <age>41</age>
+  </Marleah>
+</root>

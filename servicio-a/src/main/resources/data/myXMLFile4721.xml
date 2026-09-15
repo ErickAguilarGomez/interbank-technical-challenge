@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lenna"
+  lastname="Joseph"
+  city="Bilbao"
+  country="Malta"
+  firstname2="Collen"
+  lastname2="Plato"
+  email="Collen.Plato@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>26.799</random_float>
+  <bool>true</bool>
+  <date>1998-05-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Katharina</elt><elt>Cassondra</elt><elt>Annice</elt><elt>Larine</elt><elt>Violet</elt>  
+  <Collen>
+    <age>44</age>
+  </Collen>
+</root>

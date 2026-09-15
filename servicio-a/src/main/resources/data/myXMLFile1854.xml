@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mureil"
+  lastname="Wenda"
+  city="Odessa"
+  country="Samoa"
+  firstname2="Sonni"
+  lastname2="Standing"
+  email="Sonni.Standing@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>54.497</random_float>
+  <bool>true</bool>
+  <date>1997-11-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gerianna</elt><elt>Diena</elt><elt>Ermengarde</elt><elt>Sybille</elt><elt>Molli</elt>  
+  <Sonni>
+    <age>41</age>
+  </Sonni>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elise"
+  lastname="Bebe"
+  city="Fortaleza"
+  country="Nauru"
+  firstname2="Concettina"
+  lastname2="Harday"
+  email="Concettina.Harday@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>27.191</random_float>
+  <bool>false</bool>
+  <date>1984-07-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gabi</elt><elt>Roseline</elt><elt>Sallie</elt><elt>Hettie</elt><elt>Alie</elt>  
+  <Concettina>
+    <age>58</age>
+  </Concettina>
+</root>

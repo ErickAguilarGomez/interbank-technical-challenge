@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Berget"
+  lastname="Johanna"
+  city="Pago Pago"
+  country="RWANDA"
+  firstname2="Marleah"
+  lastname2="Faso"
+  email="Marleah.Faso@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>38.406</random_float>
+  <bool>true</bool>
+  <date>1988-05-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ida</elt><elt>Zaria</elt><elt>Kamilah</elt><elt>Betta</elt><elt>Janeczka</elt>  
+  <Marleah>
+    <age>75</age>
+  </Marleah>
+</root>

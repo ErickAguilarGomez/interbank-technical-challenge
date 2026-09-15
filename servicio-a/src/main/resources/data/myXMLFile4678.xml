@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Maryanne"
+  city="Winnipeg"
+  country="Zimbabwe"
+  firstname2="Jaclyn"
+  lastname2="Kosey"
+  email="Jaclyn.Kosey@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>97.18</random_float>
+  <bool>false</bool>
+  <date>1983-06-11</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Max</elt><elt>Janis</elt><elt>Margarette</elt><elt>Kaja</elt><elt>Gale</elt>  
+  <Jaclyn>
+    <age>86</age>
+  </Jaclyn>
+</root>

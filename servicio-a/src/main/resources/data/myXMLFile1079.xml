@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Glenda"
+  lastname="Ferino"
+  city="Paramaribo"
+  country="AndorrA"
+  firstname2="Mahalia"
+  lastname2="Anastatius"
+  email="Mahalia.Anastatius@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>85.528</random_float>
+  <bool>true</bool>
+  <date>1980-04-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jaclyn</elt><elt>Claresta</elt><elt>Aaren</elt><elt>Hollie</elt><elt>Lila</elt>  
+  <Mahalia>
+    <age>46</age>
+  </Mahalia>
+</root>

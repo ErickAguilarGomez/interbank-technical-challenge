@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stacey"
+  lastname="Warthman"
+  city="Gold Coast"
+  country="Maldives"
+  firstname2="Cacilie"
+  lastname2="Anis"
+  email="Cacilie.Anis@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>83.475</random_float>
+  <bool>false</bool>
+  <date>1988-01-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rosene</elt><elt>Tarra</elt><elt>Talya</elt><elt>Raf</elt><elt>Andree</elt>  
+  <Cacilie>
+    <age>68</age>
+  </Cacilie>
+</root>

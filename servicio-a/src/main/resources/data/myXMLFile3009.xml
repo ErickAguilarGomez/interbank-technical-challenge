@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmencita"
+  lastname="Ogren"
+  city="Fairbanks"
+  country="Pakistan"
+  firstname2="Krystle"
+  lastname2="Rustice"
+  email="Krystle.Rustice@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>45.87</random_float>
+  <bool>false</bool>
+  <date>1999-03-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jsandye</elt><elt>Mariele</elt><elt>Rosene</elt><elt>Dorice</elt><elt>Katuscha</elt>  
+  <Krystle>
+    <age>65</age>
+  </Krystle>
+</root>

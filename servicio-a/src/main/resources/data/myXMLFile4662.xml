@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charissa"
+  lastname="Denis"
+  city="Mérida"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Xylina"
+  lastname2="Prober"
+  email="Xylina.Prober@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>34.631</random_float>
+  <bool>false</bool>
+  <date>1997-08-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kelly</elt><elt>Cristabel</elt><elt>Cyb</elt><elt>Nita</elt><elt>Binny</elt>  
+  <Xylina>
+    <age>58</age>
+  </Xylina>
+</root>

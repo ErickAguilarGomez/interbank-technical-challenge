@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Aida"
+  city="Cork (city)"
+  country="Tuvalu"
+  firstname2="Hallie"
+  lastname2="Decato"
+  email="Hallie.Decato@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>3.464</random_float>
+  <bool>true</bool>
+  <date>1984-03-17</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Minne</elt><elt>Nanete</elt><elt>Gui</elt><elt>Cacilie</elt><elt>Hayley</elt>  
+  <Hallie>
+    <age>46</age>
+  </Hallie>
+</root>

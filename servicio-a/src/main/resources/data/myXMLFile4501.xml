@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Margarette"
+  lastname="Raimondo"
+  city="Bamako"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Antonietta"
+  lastname2="Magnolia"
+  email="Antonietta.Magnolia@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>66.694</random_float>
+  <bool>false</bool>
+  <date>1988-01-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Chere</elt><elt>Emma</elt><elt>Deane</elt><elt>Carmencita</elt><elt>Jere</elt>  
+  <Antonietta>
+    <age>23</age>
+  </Antonietta>
+</root>

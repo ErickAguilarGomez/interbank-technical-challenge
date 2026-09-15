@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Antonietta"
+  lastname="Germann"
+  city="Kunming"
+  country="Bolivia"
+  firstname2="Noelle"
+  lastname2="Haerr"
+  email="Noelle.Haerr@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>75.291</random_float>
+  <bool>false</bool>
+  <date>1980-02-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Verla</elt><elt>Nananne</elt><elt>Danny</elt><elt>Ileana</elt><elt>Ezmeralda</elt>  
+  <Noelle>
+    <age>32</age>
+  </Noelle>
+</root>

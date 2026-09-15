@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brooks"
+  lastname="Crudden"
+  city="Charlottetown"
+  country="Macao"
+  firstname2="Gabriellia"
+  lastname2="Eachern"
+  email="Gabriellia.Eachern@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>71.501</random_float>
+  <bool>true</bool>
+  <date>1996-12-05</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vanessa</elt><elt>Kirbee</elt><elt>Cristine</elt><elt>Emelina</elt><elt>Roxane</elt>  
+  <Gabriellia>
+    <age>68</age>
+  </Gabriellia>
+</root>

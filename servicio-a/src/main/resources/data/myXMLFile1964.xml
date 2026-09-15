@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Augustine"
+  lastname="Levey"
+  city="Dushanbe"
+  country="Senegal"
+  firstname2="Dacia"
+  lastname2="Primalia"
+  email="Dacia.Primalia@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>29.676</random_float>
+  <bool>false</bool>
+  <date>1999-02-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dode</elt><elt>Lorie</elt><elt>Lucy</elt><elt>Aili</elt><elt>Starla</elt>  
+  <Dacia>
+    <age>95</age>
+  </Dacia>
+</root>

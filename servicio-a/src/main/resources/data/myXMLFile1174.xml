@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirstin"
+  lastname="Sperling"
+  city="Iquique"
+  country="Guinea-Bissau"
+  firstname2="Marika"
+  lastname2="Beebe"
+  email="Marika.Beebe@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>11.877</random_float>
+  <bool>false</bool>
+  <date>1992-08-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Emelina</elt><elt>Katuscha</elt><elt>Arabel</elt><elt>Hallie</elt><elt>Jerry</elt>  
+  <Marika>
+    <age>40</age>
+  </Marika>
+</root>

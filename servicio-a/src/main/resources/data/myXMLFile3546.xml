@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Thalia"
+  lastname="Papageno"
+  city="Kota Bharu"
+  country="Micronesia, Federated States of"
+  firstname2="Marcy"
+  lastname2="Krystle"
+  email="Marcy.Krystle@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>31.233</random_float>
+  <bool>true</bool>
+  <date>1984-12-28</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lila</elt><elt>Amelia</elt><elt>Patricia</elt><elt>Ninnetta</elt><elt>Sidoney</elt>  
+  <Marcy>
+    <age>52</age>
+  </Marcy>
+</root>

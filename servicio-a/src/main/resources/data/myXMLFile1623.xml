@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bee"
+  lastname="Constancy"
+  city="El Aaiún"
+  country="Mongolia"
+  firstname2="Catrina"
+  lastname2="Konyn"
+  email="Catrina.Konyn@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>16.682</random_float>
+  <bool>false</bool>
+  <date>1994-01-03</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ingrid</elt><elt>Gale</elt><elt>Mariann</elt><elt>Kimberley</elt><elt>Jenda</elt>  
+  <Catrina>
+    <age>34</age>
+  </Catrina>
+</root>

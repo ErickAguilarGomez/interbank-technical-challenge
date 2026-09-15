@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mellicent"
+  lastname="Scammon"
+  city="Geneva"
+  country="Western Sahara"
+  firstname2="Latisha"
+  lastname2="Ralfston"
+  email="Latisha.Ralfston@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>59.582</random_float>
+  <bool>false</bool>
+  <date>1995-05-29</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ann-Marie</elt><elt>Aryn</elt><elt>Dotty</elt><elt>Zia</elt><elt>Jaime</elt>  
+  <Latisha>
+    <age>73</age>
+  </Latisha>
+</root>

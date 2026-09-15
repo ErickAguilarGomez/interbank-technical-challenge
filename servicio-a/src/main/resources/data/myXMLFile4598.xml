@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Basia"
+  lastname="Koehler"
+  city="Port-au-Prince"
+  country="Vanuatu"
+  firstname2="Jackie"
+  lastname2="Orpah"
+  email="Jackie.Orpah@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>96.678</random_float>
+  <bool>true</bool>
+  <date>1996-09-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Valli</elt><elt>Viki</elt><elt>Karina</elt><elt>Raf</elt><elt>Fayre</elt>  
+  <Jackie>
+    <age>63</age>
+  </Jackie>
+</root>

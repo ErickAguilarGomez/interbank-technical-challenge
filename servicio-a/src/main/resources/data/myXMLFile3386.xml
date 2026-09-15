@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olivette"
+  lastname="MacIntosh"
+  city="Huế"
+  country="Puerto Rico"
+  firstname2="Florencia"
+  lastname2="Dex"
+  email="Florencia.Dex@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>86.474</random_float>
+  <bool>true</bool>
+  <date>1991-09-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jacquetta</elt><elt>Noelle</elt><elt>Cyb</elt><elt>Celestyna</elt><elt>Kara-Lynn</elt>  
+  <Florencia>
+    <age>57</age>
+  </Florencia>
+</root>

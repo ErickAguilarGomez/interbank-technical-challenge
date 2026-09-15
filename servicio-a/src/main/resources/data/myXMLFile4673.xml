@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lindie"
+  lastname="Toni"
+  city="Namangan"
+  country="Guinea-Bissau"
+  firstname2="Gabi"
+  lastname2="Thar"
+  email="Gabi.Thar@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>34.994</random_float>
+  <bool>true</bool>
+  <date>1996-01-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tonia</elt><elt>Karlee</elt><elt>Kara-Lynn</elt><elt>Gaylene</elt><elt>Patricia</elt>  
+  <Gabi>
+    <age>51</age>
+  </Gabi>
+</root>

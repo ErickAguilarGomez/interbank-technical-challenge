@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anica"
+  lastname="Cordi"
+  city="Charlottetown"
+  country="Kiribati"
+  firstname2="Shauna"
+  lastname2="Fredi"
+  email="Shauna.Fredi@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>91.598</random_float>
+  <bool>true</bool>
+  <date>1993-02-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Libbie</elt><elt>Aimil</elt><elt>Julieta</elt><elt>Estell</elt><elt>Inga</elt>  
+  <Shauna>
+    <age>58</age>
+  </Shauna>
+</root>

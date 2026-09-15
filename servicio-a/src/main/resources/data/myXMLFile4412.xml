@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Queenie"
+  lastname="Madelene"
+  city="Cebu City"
+  country="Argentina"
+  firstname2="Calla"
+  lastname2="Gladstone"
+  email="Calla.Gladstone@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>31.292</random_float>
+  <bool>false</bool>
+  <date>1991-11-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Letizia</elt><elt>Devina</elt><elt>Caryl</elt><elt>Margette</elt><elt>Sheree</elt>  
+  <Calla>
+    <age>21</age>
+  </Calla>
+</root>

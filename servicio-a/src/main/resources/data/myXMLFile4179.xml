@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jinny"
+  lastname="Jagir"
+  city="Saint John"
+  country="Bhutan"
+  firstname2="Selia"
+  lastname2="Podvin"
+  email="Selia.Podvin@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>9.211</random_float>
+  <bool>true</bool>
+  <date>1994-01-29</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Amii</elt><elt>Libbie</elt><elt>Orsola</elt><elt>Flo</elt><elt>Tressa</elt>  
+  <Selia>
+    <age>46</age>
+  </Selia>
+</root>

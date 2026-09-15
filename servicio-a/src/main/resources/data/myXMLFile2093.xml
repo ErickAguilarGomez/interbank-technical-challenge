@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hermione"
+  lastname="Cavan"
+  city="Toulouse"
+  country="Kenya"
+  firstname2="Lusa"
+  lastname2="Alwin"
+  email="Lusa.Alwin@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>4.144</random_float>
+  <bool>false</bool>
+  <date>1980-11-11</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lorne</elt><elt>Corly</elt><elt>Letizia</elt><elt>Dawn</elt><elt>Agathe</elt>  
+  <Lusa>
+    <age>19</age>
+  </Lusa>
+</root>

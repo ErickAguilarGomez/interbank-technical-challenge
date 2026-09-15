@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genovera"
+  lastname="Rhu"
+  city="Phuket (city)"
+  country="Bouvet Island"
+  firstname2="Elbertina"
+  lastname2="Juan"
+  email="Elbertina.Juan@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>14.386</random_float>
+  <bool>false</bool>
+  <date>1996-01-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dorthy</elt><elt>Kristan</elt><elt>Maridel</elt><elt>Margarette</elt><elt>Tersina</elt>  
+  <Elbertina>
+    <age>73</age>
+  </Elbertina>
+</root>

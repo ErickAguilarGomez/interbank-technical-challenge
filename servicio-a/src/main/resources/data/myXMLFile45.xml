@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fina"
+  lastname="Thema"
+  city="Ambon"
+  country="Cameroon"
+  firstname2="Kimberley"
+  lastname2="Lymann"
+  email="Kimberley.Lymann@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>2.351</random_float>
+  <bool>false</bool>
+  <date>1997-02-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Caressa</elt><elt>Kara-Lynn</elt><elt>Katuscha</elt><elt>Marti</elt><elt>Dode</elt>  
+  <Kimberley>
+    <age>84</age>
+  </Kimberley>
+</root>

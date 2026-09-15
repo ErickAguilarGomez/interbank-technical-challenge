@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Rheingold"
+  city="Houston"
+  country="Peru"
+  firstname2="Jobi"
+  lastname2="Sadowski"
+  email="Jobi.Sadowski@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>11.012</random_float>
+  <bool>true</bool>
+  <date>1986-08-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Joceline</elt><elt>Jere</elt><elt>Asia</elt><elt>Petronia</elt><elt>Moyna</elt>  
+  <Jobi>
+    <age>38</age>
+  </Jobi>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Casimir"
+  city="Charlotte Amalie"
+  country="Virgin Islands, British"
+  firstname2="Sheelagh"
+  lastname2="Mathilde"
+  email="Sheelagh.Mathilde@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>52.938</random_float>
+  <bool>true</bool>
+  <date>1990-12-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jan</elt><elt>Renie</elt><elt>Kylynn</elt><elt>Jaime</elt><elt>Aurore</elt>  
+  <Sheelagh>
+    <age>33</age>
+  </Sheelagh>
+</root>

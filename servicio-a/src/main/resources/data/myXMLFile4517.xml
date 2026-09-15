@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marylou"
+  lastname="Lindemann"
+  city="Yaren District"
+  country="Uruguay"
+  firstname2="Reeba"
+  lastname2="Suanne"
+  email="Reeba.Suanne@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>65.218</random_float>
+  <bool>false</bool>
+  <date>1988-02-24</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gwenneth</elt><elt>Donnie</elt><elt>Shirlee</elt><elt>Lolita</elt><elt>Arlena</elt>  
+  <Reeba>
+    <age>54</age>
+  </Reeba>
+</root>

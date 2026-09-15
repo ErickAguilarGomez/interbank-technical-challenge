@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gertrud"
+  lastname="Bultman"
+  city="Yellowknife"
+  country="Mali"
+  firstname2="Nataline"
+  lastname2="Pond"
+  email="Nataline.Pond@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>22.799</random_float>
+  <bool>false</bool>
+  <date>1987-07-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Vinita</elt><elt>Yvonne</elt><elt>Penelopa</elt><elt>Beatriz</elt><elt>Alejandra</elt>  
+  <Nataline>
+    <age>26</age>
+  </Nataline>
+</root>

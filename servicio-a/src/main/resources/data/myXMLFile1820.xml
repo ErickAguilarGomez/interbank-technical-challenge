@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lonnie"
+  lastname="Rossner"
+  city="São Paulo"
+  country="Guadeloupe"
+  firstname2="Latisha"
+  lastname2="Gaulin"
+  email="Latisha.Gaulin@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>96.65</random_float>
+  <bool>true</bool>
+  <date>1996-10-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lanae</elt><elt>Marti</elt><elt>Shannah</elt><elt>Cassondra</elt><elt>Joeann</elt>  
+  <Latisha>
+    <age>77</age>
+  </Latisha>
+</root>

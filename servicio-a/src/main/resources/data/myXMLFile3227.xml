@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hyacinthe"
+  lastname="Winthorpe"
+  city="Mandurah"
+  country="Mauritania"
+  firstname2="Valeda"
+  lastname2="Grobe"
+  email="Valeda.Grobe@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>60.074</random_float>
+  <bool>true</bool>
+  <date>1994-01-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Theodora</elt><elt>Brynna</elt><elt>Korrie</elt><elt>Charissa</elt><elt>Rochette</elt>  
+  <Valeda>
+    <age>69</age>
+  </Valeda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Aldric"
+  city="Thimphu"
+  country="Bangladesh"
+  firstname2="Quintina"
+  lastname2="Brenn"
+  email="Quintina.Brenn@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>99.157</random_float>
+  <bool>true</bool>
+  <date>1987-10-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ursulina</elt><elt>Gale</elt><elt>Gusty</elt><elt>Demetris</elt><elt>Alex</elt>  
+  <Quintina>
+    <age>41</age>
+  </Quintina>
+</root>

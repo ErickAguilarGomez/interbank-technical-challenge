@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jolyn"
+  lastname="Jalbert"
+  city="Charlotte Amalie"
+  country="Saint Lucia"
+  firstname2="Maud"
+  lastname2="Ventre"
+  email="Maud.Ventre@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>30.11</random_float>
+  <bool>true</bool>
+  <date>1984-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Joleen</elt><elt>Letizia</elt><elt>Fanchon</elt><elt>Elise</elt><elt>Susette</elt>  
+  <Maud>
+    <age>43</age>
+  </Maud>
+</root>

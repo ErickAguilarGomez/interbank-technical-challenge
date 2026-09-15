@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cissiee"
+  lastname="Pandolfi"
+  city="Nuuk"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Mahalia"
+  lastname2="Suk"
+  email="Mahalia.Suk@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>21.997</random_float>
+  <bool>false</bool>
+  <date>1997-04-11</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kayla</elt><elt>Dorice</elt><elt>Frances</elt><elt>Kaia</elt><elt>Bibby</elt>  
+  <Mahalia>
+    <age>90</age>
+  </Mahalia>
+</root>

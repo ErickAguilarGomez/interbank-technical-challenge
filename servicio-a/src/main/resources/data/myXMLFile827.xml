@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Laurene"
+  lastname="Cimbura"
+  city="City of Halifax"
+  country="Niue"
+  firstname2="Lynde"
+  lastname2="Aldric"
+  email="Lynde.Aldric@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>96.227</random_float>
+  <bool>false</bool>
+  <date>1996-02-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sean</elt><elt>Rori</elt><elt>Tina</elt><elt>Katleen</elt><elt>Cathyleen</elt>  
+  <Lynde>
+    <age>66</age>
+  </Lynde>
+</root>

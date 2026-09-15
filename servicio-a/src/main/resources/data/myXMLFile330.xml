@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madalyn"
+  lastname="Maribeth"
+  city="Chicago"
+  country="Sao Tome and Principe"
+  firstname2="Deedee"
+  lastname2="Zamora"
+  email="Deedee.Zamora@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>24.357</random_float>
+  <bool>false</bool>
+  <date>1983-07-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Arlena</elt><elt>Fred</elt><elt>Arlina</elt><elt>Donetta</elt><elt>Dania</elt>  
+  <Deedee>
+    <age>22</age>
+  </Deedee>
+</root>

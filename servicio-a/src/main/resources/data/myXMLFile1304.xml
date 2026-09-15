@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rani"
+  lastname="Ricki"
+  city="Salt Lake City"
+  country="Uganda"
+  firstname2="Myrtice"
+  lastname2="Aaberg"
+  email="Myrtice.Aaberg@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>71.548</random_float>
+  <bool>false</bool>
+  <date>1993-02-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Blinni</elt><elt>Tressa</elt><elt>Annecorinne</elt><elt>Taffy</elt><elt>Keelia</elt>  
+  <Myrtice>
+    <age>57</age>
+  </Myrtice>
+</root>

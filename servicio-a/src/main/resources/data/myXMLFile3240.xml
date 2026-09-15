@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harrietta"
+  lastname="Lynn"
+  city="Johor Bahru"
+  country="Guinea-Bissau"
+  firstname2="Nerta"
+  lastname2="Teddman"
+  email="Nerta.Teddman@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>85.9</random_float>
+  <bool>false</bool>
+  <date>1980-07-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Bibby</elt><elt>Laurene</elt><elt>Lila</elt><elt>Isa</elt><elt>Agathe</elt>  
+  <Nerta>
+    <age>93</age>
+  </Nerta>
+</root>

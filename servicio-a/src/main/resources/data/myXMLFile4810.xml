@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madelle"
+  lastname="Fulmer"
+  city="Samara"
+  country="Romania"
+  firstname2="Jennica"
+  lastname2="Rossner"
+  email="Jennica.Rossner@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>61.396</random_float>
+  <bool>true</bool>
+  <date>1986-05-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lisette</elt><elt>Dianemarie</elt><elt>Barbara</elt><elt>Vonny</elt><elt>Vanessa</elt>  
+  <Jennica>
+    <age>85</age>
+  </Jennica>
+</root>

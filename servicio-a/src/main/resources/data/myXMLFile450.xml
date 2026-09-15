@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elbertina"
+  lastname="Uund"
+  city="Shenyang"
+  country="Mozambique"
+  firstname2="Donnie"
+  lastname2="Edee"
+  email="Donnie.Edee@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>26.479</random_float>
+  <bool>false</bool>
+  <date>2000-01-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Eolanda</elt><elt>Annecorinne</elt><elt>Fred</elt><elt>Michaelina</elt><elt>Cacilie</elt>  
+  <Donnie>
+    <age>43</age>
+  </Donnie>
+</root>

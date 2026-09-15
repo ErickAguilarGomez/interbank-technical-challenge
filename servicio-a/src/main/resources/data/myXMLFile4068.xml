@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chere"
+  lastname="Sheedy"
+  city="Seville"
+  country="Bosnia and Herzegovina"
+  firstname2="Steffane"
+  lastname2="Philipp"
+  email="Steffane.Philipp@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>17.955</random_float>
+  <bool>false</bool>
+  <date>1982-08-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Claresta</elt><elt>Lexine</elt><elt>Merrie</elt><elt>Elora</elt><elt>Ardeen</elt>  
+  <Steffane>
+    <age>48</age>
+  </Steffane>
+</root>

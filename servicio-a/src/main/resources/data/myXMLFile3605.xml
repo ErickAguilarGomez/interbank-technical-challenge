@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nananne"
+  lastname="Carri"
+  city="Pekanbaru"
+  country="Montserrat"
+  firstname2="Winny"
+  lastname2="Kamaria"
+  email="Winny.Kamaria@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>90.989</random_float>
+  <bool>false</bool>
+  <date>1983-05-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Justinn</elt><elt>Pollyanna</elt><elt>Darlleen</elt><elt>Dianemarie</elt><elt>Christal</elt>  
+  <Winny>
+    <age>95</age>
+  </Winny>
+</root>

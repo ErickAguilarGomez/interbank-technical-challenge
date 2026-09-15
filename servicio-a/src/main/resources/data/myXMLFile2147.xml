@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genevra"
+  lastname="Lane"
+  city="Quito"
+  country="Peru"
+  firstname2="Mamie"
+  lastname2="Weinreb"
+  email="Mamie.Weinreb@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>50.591</random_float>
+  <bool>false</bool>
+  <date>1983-10-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Madeleine</elt><elt>Ardeen</elt><elt>Ada</elt><elt>Justinn</elt><elt>Madalyn</elt>  
+  <Mamie>
+    <age>58</age>
+  </Mamie>
+</root>

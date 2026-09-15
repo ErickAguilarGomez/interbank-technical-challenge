@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mureil"
+  lastname="Lunsford"
+  city="Kandahar"
+  country="Bhutan"
+  firstname2="Maridel"
+  lastname2="Stilwell"
+  email="Maridel.Stilwell@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>61.959</random_float>
+  <bool>true</bool>
+  <date>1984-07-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Carmela</elt><elt>Tabbatha</elt><elt>Gwenneth</elt><elt>Vonny</elt><elt>Kaja</elt>  
+  <Maridel>
+    <age>70</age>
+  </Maridel>
+</root>

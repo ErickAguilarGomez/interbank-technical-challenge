@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teddie"
+  lastname="Kermit"
+  city="Busan"
+  country="Australia"
+  firstname2="Viviene"
+  lastname2="Dielu"
+  email="Viviene.Dielu@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>11.46</random_float>
+  <bool>true</bool>
+  <date>1985-04-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Corry</elt><elt>Orsola</elt><elt>Vivia</elt><elt>Jordan</elt><elt>Tracey</elt>  
+  <Viviene>
+    <age>25</age>
+  </Viviene>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Claudina"
+  lastname="Wildermuth"
+  city="Seville"
+  country="Armenia"
+  firstname2="Nikki"
+  lastname2="Kendrick"
+  email="Nikki.Kendrick@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>77.561</random_float>
+  <bool>true</bool>
+  <date>1992-01-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gilda</elt><elt>Tonia</elt><elt>Brooks</elt><elt>Elsie</elt><elt>Jinny</elt>  
+  <Nikki>
+    <age>97</age>
+  </Nikki>
+</root>

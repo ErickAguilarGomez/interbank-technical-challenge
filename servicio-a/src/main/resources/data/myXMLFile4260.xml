@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcy"
+  lastname="Burkle"
+  city="Surat Thani"
+  country="Tanzania, United Republic of"
+  firstname2="Kathy"
+  lastname2="Brackely"
+  email="Kathy.Brackely@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>3.117</random_float>
+  <bool>false</bool>
+  <date>1988-03-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Zia</elt><elt>Renie</elt><elt>Ariela</elt><elt>Corene</elt><elt>Correy</elt>  
+  <Kathy>
+    <age>25</age>
+  </Kathy>
+</root>

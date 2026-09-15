@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teddie"
+  lastname="Cutlerr"
+  city="Zanzibar City"
+  country="Dominica"
+  firstname2="Jemie"
+  lastname2="Barrus"
+  email="Jemie.Barrus@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>61.66</random_float>
+  <bool>true</bool>
+  <date>1994-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jere</elt><elt>Ardeen</elt><elt>Althea</elt><elt>Bertine</elt><elt>Rosene</elt>  
+  <Jemie>
+    <age>30</age>
+  </Jemie>
+</root>

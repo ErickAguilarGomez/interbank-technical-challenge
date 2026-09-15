@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brena"
+  lastname="Tryck"
+  city="Zamboanga City"
+  country="Honduras"
+  firstname2="Nita"
+  lastname2="Mendez"
+  email="Nita.Mendez@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>63.195</random_float>
+  <bool>true</bool>
+  <date>1985-11-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Giustina</elt><elt>Annabela</elt><elt>Belva</elt><elt>Tabbatha</elt><elt>Susette</elt>  
+  <Nita>
+    <age>86</age>
+  </Nita>
+</root>

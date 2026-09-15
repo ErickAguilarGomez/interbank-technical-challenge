@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genevra"
+  lastname="Juliet"
+  city="Shillong"
+  country="Mongolia"
+  firstname2="Bee"
+  lastname2="Philoo"
+  email="Bee.Philoo@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>51.842</random_float>
+  <bool>true</bool>
+  <date>1992-01-29</date>
+  <regEx>hello to you</regEx>
+  <enum>online</enum>
+  <elt>Rivalee</elt><elt>Anestassia</elt><elt>Viviene</elt><elt>Sharai</elt><elt>Genovera</elt>  
+  <Bee>
+    <age>26</age>
+  </Bee>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wileen"
+  lastname="Aurelio"
+  city="Dibrugarh"
+  country="Bermuda"
+  firstname2="Bernardine"
+  lastname2="Taam"
+  email="Bernardine.Taam@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>16.944</random_float>
+  <bool>true</bool>
+  <date>1992-02-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ivett</elt><elt>Nananne</elt><elt>Vanessa</elt><elt>Jennica</elt><elt>Elka</elt>  
+  <Bernardine>
+    <age>57</age>
+  </Bernardine>
+</root>

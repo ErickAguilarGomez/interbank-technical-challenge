@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Gower"
+  city="Banjul"
+  country="Viet Nam"
+  firstname2="Brandise"
+  lastname2="Jotham"
+  email="Brandise.Jotham@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>8.475</random_float>
+  <bool>true</bool>
+  <date>1998-11-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kellen</elt><elt>Tressa</elt><elt>Blake</elt><elt>Tonia</elt><elt>Jobi</elt>  
+  <Brandise>
+    <age>54</age>
+  </Brandise>
+</root>

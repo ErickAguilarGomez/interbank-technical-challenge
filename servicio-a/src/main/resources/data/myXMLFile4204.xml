@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darlleen"
+  lastname="Tengdin"
+  city="Medina"
+  country="Mauritania"
+  firstname2="Kellen"
+  lastname2="Libna"
+  email="Kellen.Libna@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>99.14</random_float>
+  <bool>false</bool>
+  <date>1981-11-26</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Louella</elt><elt>Carlie</elt><elt>Helena</elt><elt>Thalia</elt><elt>Daphne</elt>  
+  <Kellen>
+    <age>34</age>
+  </Kellen>
+</root>

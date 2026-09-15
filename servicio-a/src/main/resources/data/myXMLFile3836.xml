@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celene"
+  lastname="Tufts"
+  city="Porto"
+  country="Cocos (Keeling) Islands"
+  firstname2="Sissy"
+  lastname2="Paine"
+  email="Sissy.Paine@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>65.666</random_float>
+  <bool>true</bool>
+  <date>1997-10-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Katuscha</elt><elt>Sindee</elt><elt>Chere</elt><elt>Raf</elt><elt>Imojean</elt>  
+  <Sissy>
+    <age>96</age>
+  </Sissy>
+</root>

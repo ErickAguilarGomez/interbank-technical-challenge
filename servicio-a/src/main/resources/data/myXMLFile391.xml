@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Baudin"
+  city="Arbil"
+  country="Hong Kong"
+  firstname2="Teddie"
+  lastname2="Borrell"
+  email="Teddie.Borrell@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>5.122</random_float>
+  <bool>false</bool>
+  <date>1989-05-21</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sabina</elt><elt>Esmeralda</elt><elt>Kittie</elt><elt>Shaylyn</elt><elt>Marjie</elt>  
+  <Teddie>
+    <age>47</age>
+  </Teddie>
+</root>

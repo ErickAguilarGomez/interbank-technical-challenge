@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wendi"
+  lastname="Bennie"
+  city="Bucharest"
+  country="Uruguay"
+  firstname2="Benita"
+  lastname2="Harriman"
+  email="Benita.Harriman@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>10.999</random_float>
+  <bool>false</bool>
+  <date>1987-11-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sara-Ann</elt><elt>Verla</elt><elt>Fred</elt><elt>Valera</elt><elt>Celestyna</elt>  
+  <Benita>
+    <age>55</age>
+  </Benita>
+</root>

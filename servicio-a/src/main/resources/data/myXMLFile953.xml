@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merle"
+  lastname="Ellord"
+  city="Yellowknife"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Ardeen"
+  lastname2="Macey"
+  email="Ardeen.Macey@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>78.951</random_float>
+  <bool>false</bool>
+  <date>1993-01-24</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tiffie</elt><elt>Judy</elt><elt>Janeczka</elt><elt>Lorie</elt><elt>Adele</elt>  
+  <Ardeen>
+    <age>57</age>
+  </Ardeen>
+</root>

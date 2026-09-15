@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Duwalt"
+  city="Casablanca"
+  country="Algeria"
+  firstname2="Jessamyn"
+  lastname2="Graig"
+  email="Jessamyn.Graig@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>24.883</random_float>
+  <bool>true</bool>
+  <date>1982-05-12</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Morganica</elt><elt>Amara</elt><elt>Ardeen</elt><elt>Melisent</elt><elt>Merci</elt>  
+  <Jessamyn>
+    <age>51</age>
+  </Jessamyn>
+</root>

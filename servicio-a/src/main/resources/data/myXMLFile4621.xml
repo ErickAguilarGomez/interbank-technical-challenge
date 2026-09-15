@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Siana"
+  lastname="Sophronia"
+  city="Kaesong"
+  country="Viet Nam"
+  firstname2="Jere"
+  lastname2="Mendez"
+  email="Jere.Mendez@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>32.859</random_float>
+  <bool>false</bool>
+  <date>1983-03-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nickie</elt><elt>Kamilah</elt><elt>Bee</elt><elt>Dode</elt><elt>Jacquetta</elt>  
+  <Jere>
+    <age>56</age>
+  </Jere>
+</root>

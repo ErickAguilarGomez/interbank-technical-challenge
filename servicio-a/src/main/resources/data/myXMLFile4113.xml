@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gabi"
+  lastname="Stoller"
+  city="New York City"
+  country="Colombia"
+  firstname2="Vita"
+  lastname2="Shirberg"
+  email="Vita.Shirberg@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>15.657</random_float>
+  <bool>true</bool>
+  <date>1993-06-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jobi</elt><elt>Jacquetta</elt><elt>Vita</elt><elt>Queenie</elt><elt>Dennie</elt>  
+  <Vita>
+    <age>22</age>
+  </Vita>
+</root>

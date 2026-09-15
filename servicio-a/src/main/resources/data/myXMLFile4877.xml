@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jessamyn"
+  lastname="Darrell"
+  city="Kuching"
+  country="Guyana"
+  firstname2="Ketti"
+  lastname2="Hilbert"
+  email="Ketti.Hilbert@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>6.455</random_float>
+  <bool>false</bool>
+  <date>1989-10-31</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roslyn</elt><elt>Stacey</elt><elt>Glynnis</elt><elt>Rebeca</elt><elt>Pearline</elt>  
+  <Ketti>
+    <age>87</age>
+  </Ketti>
+</root>

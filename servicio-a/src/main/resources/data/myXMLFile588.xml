@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Alwin"
+  city="Denpasar"
+  country="Nauru"
+  firstname2="Justinn"
+  lastname2="Gregrory"
+  email="Justinn.Gregrory@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>8.124</random_float>
+  <bool>false</bool>
+  <date>1990-11-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Marcy</elt><elt>Aigneis</elt><elt>Calla</elt><elt>Chastity</elt><elt>Letizia</elt>  
+  <Justinn>
+    <age>83</age>
+  </Justinn>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Demitria"
+  city="Quito"
+  country="Qatar"
+  firstname2="Halette"
+  lastname2="Shaddock"
+  email="Halette.Shaddock@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>78.332</random_float>
+  <bool>false</bool>
+  <date>1991-12-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alex</elt><elt>Sidoney</elt><elt>Asia</elt><elt>Cam</elt><elt>Bee</elt>  
+  <Halette>
+    <age>94</age>
+  </Halette>
+</root>

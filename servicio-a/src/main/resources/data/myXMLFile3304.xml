@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mildrid"
+  lastname="Dom"
+  city="Iquitos"
+  country="Cyprus"
+  firstname2="Karina"
+  lastname2="Myrilla"
+  email="Karina.Myrilla@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>68.433</random_float>
+  <bool>false</bool>
+  <date>1980-08-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Steffane</elt><elt>Rhoda</elt><elt>Feliza</elt><elt>Valera</elt><elt>Estell</elt>  
+  <Karina>
+    <age>69</age>
+  </Karina>
+</root>

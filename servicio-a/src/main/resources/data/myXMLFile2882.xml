@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Alva"
+  city="Hanga Roa"
+  country="Macao"
+  firstname2="Tierney"
+  lastname2="Vacuva"
+  email="Tierney.Vacuva@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>94.326</random_float>
+  <bool>true</bool>
+  <date>1987-01-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Thalia</elt><elt>Queenie</elt><elt>Elfreda</elt><elt>Candi</elt><elt>Philis</elt>  
+  <Tierney>
+    <age>50</age>
+  </Tierney>
+</root>

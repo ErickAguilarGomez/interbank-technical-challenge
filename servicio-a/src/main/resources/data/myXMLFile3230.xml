@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lila"
+  lastname="Munn"
+  city="Magadan"
+  country="AndorrA"
+  firstname2="Elvira"
+  lastname2="Uund"
+  email="Elvira.Uund@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>98.933</random_float>
+  <bool>false</bool>
+  <date>1983-08-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Donnie</elt><elt>Ninnetta</elt><elt>Damaris</elt><elt>Ruthe</elt><elt>Brana</elt>  
+  <Elvira>
+    <age>23</age>
+  </Elvira>
+</root>

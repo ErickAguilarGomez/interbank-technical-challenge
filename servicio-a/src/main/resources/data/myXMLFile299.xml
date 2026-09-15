@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mariele"
+  lastname="Maples"
+  city="Tunis"
+  country="Kuwait"
+  firstname2="Chloris"
+  lastname2="Sheedy"
+  email="Chloris.Sheedy@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>5.63</random_float>
+  <bool>true</bool>
+  <date>1990-09-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Monika</elt><elt>Ninnetta</elt><elt>Mignon</elt><elt>Hyacinthe</elt><elt>Lusa</elt>  
+  <Chloris>
+    <age>44</age>
+  </Chloris>
+</root>

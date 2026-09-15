@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jackie"
+  lastname="Ivens"
+  city="Istanbul"
+  country="Costa Rica"
+  firstname2="Jere"
+  lastname2="Gabrielli"
+  email="Jere.Gabrielli@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>29.812</random_float>
+  <bool>true</bool>
+  <date>1997-02-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Florie</elt><elt>Cathie</elt><elt>Justinn</elt><elt>Nessie</elt><elt>Cherrita</elt>  
+  <Jere>
+    <age>37</age>
+  </Jere>
+</root>

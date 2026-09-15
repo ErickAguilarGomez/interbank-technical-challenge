@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Almeta"
+  lastname="Stover"
+  city="Chongqing"
+  country="Croatia"
+  firstname2="Dulcinea"
+  lastname2="Francyne"
+  email="Dulcinea.Francyne@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>66.977</random_float>
+  <bool>false</bool>
+  <date>1990-08-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Paola</elt><elt>Vanessa</elt><elt>Codie</elt><elt>Florie</elt><elt>Tonia</elt>  
+  <Dulcinea>
+    <age>65</age>
+  </Dulcinea>
+</root>

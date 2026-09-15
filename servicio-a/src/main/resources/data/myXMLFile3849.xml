@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joelly"
+  lastname="Karna"
+  city="Campinas"
+  country="Viet Nam"
+  firstname2="Sissy"
+  lastname2="Natalia"
+  email="Sissy.Natalia@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>38.93</random_float>
+  <bool>true</bool>
+  <date>1982-02-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ursulina</elt><elt>Jeanna</elt><elt>Joceline</elt><elt>Courtnay</elt><elt>Leia</elt>  
+  <Sissy>
+    <age>20</age>
+  </Sissy>
+</root>

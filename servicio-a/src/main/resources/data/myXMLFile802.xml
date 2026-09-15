@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elvira"
+  lastname="Martsen"
+  city="Tunis"
+  country="Saint Kitts and Nevis"
+  firstname2="Ashlee"
+  lastname2="Bonilla"
+  email="Ashlee.Bonilla@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>55.179</random_float>
+  <bool>false</bool>
+  <date>1995-10-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Tera</elt><elt>Dulcinea</elt><elt>Jere</elt><elt>Sibella</elt><elt>Zaria</elt>  
+  <Ashlee>
+    <age>64</age>
+  </Ashlee>
+</root>

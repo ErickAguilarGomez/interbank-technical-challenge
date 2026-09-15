@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dulcinea"
+  lastname="Cath"
+  city="Recife"
+  country="Ecuador"
+  firstname2="Miquela"
+  lastname2="Naashom"
+  email="Miquela.Naashom@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>41.062</random_float>
+  <bool>false</bool>
+  <date>1980-09-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Krystle</elt><elt>Leanna</elt><elt>Di</elt><elt>Alyssa</elt><elt>Xylina</elt>  
+  <Miquela>
+    <age>69</age>
+  </Miquela>
+</root>

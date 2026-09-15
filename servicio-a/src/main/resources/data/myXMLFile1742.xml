@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tera"
+  lastname="Abbot"
+  city="Ashgabat"
+  country="New Caledonia"
+  firstname2="Allyce"
+  lastname2="Salvidor"
+  email="Allyce.Salvidor@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>58.678</random_float>
+  <bool>true</bool>
+  <date>1984-06-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Debee</elt><elt>Rochette</elt><elt>Dawn</elt><elt>Cyb</elt><elt>Zaria</elt>  
+  <Allyce>
+    <age>89</age>
+  </Allyce>
+</root>

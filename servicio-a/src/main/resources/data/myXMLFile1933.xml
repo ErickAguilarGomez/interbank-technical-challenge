@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vevay"
+  lastname="Oriana"
+  city="Charlotte"
+  country="Panama"
+  firstname2="Dania"
+  lastname2="Heidt"
+  email="Dania.Heidt@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>21.645</random_float>
+  <bool>false</bool>
+  <date>1991-06-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Fina</elt><elt>Leeanne</elt><elt>Ebonee</elt><elt>Valera</elt><elt>Suzette</elt>  
+  <Dania>
+    <age>66</age>
+  </Dania>
+</root>

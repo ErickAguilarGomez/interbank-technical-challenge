@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hildegaard"
+  lastname="Sprage"
+  city="Aberdeen"
+  country="Nepal"
+  firstname2="Cyb"
+  lastname2="Junie"
+  email="Cyb.Junie@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>37.307</random_float>
+  <bool>false</bool>
+  <date>1986-06-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gloria</elt><elt>Rubie</elt><elt>Courtnay</elt><elt>Selma</elt><elt>Bobbi</elt>  
+  <Cyb>
+    <age>82</age>
+  </Cyb>
+</root>

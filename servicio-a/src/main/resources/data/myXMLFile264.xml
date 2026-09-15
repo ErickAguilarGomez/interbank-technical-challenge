@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dede"
+  lastname="Graig"
+  city="Yellowknife"
+  country="Australia"
+  firstname2="Arabel"
+  lastname2="Nance"
+  email="Arabel.Nance@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>50.537</random_float>
+  <bool>false</bool>
+  <date>1998-05-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sadie</elt><elt>Lorne</elt><elt>Lolita</elt><elt>Maurene</elt><elt>Vivia</elt>  
+  <Arabel>
+    <age>42</age>
+  </Arabel>
+</root>

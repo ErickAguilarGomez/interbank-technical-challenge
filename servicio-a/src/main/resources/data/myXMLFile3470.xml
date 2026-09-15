@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ricky"
+  lastname="Peti"
+  city="Saint-Pierre"
+  country="Poland"
+  firstname2="Riannon"
+  lastname2="Martguerita"
+  email="Riannon.Martguerita@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>41.79</random_float>
+  <bool>false</bool>
+  <date>1992-02-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Heida</elt><elt>Roslyn</elt><elt>Kore</elt><elt>Deane</elt><elt>Audrie</elt>  
+  <Riannon>
+    <age>87</age>
+  </Riannon>
+</root>

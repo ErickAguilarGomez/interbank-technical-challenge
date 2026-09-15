@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clo"
+  lastname="O'Rourke"
+  city="Palma"
+  country="Iceland"
+  firstname2="Steffane"
+  lastname2="Docilla"
+  email="Steffane.Docilla@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>99.187</random_float>
+  <bool>false</bool>
+  <date>1984-04-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nicoli</elt><elt>Renie</elt><elt>Mara</elt><elt>Evita</elt><elt>Tilly</elt>  
+  <Steffane>
+    <age>91</age>
+  </Steffane>
+</root>

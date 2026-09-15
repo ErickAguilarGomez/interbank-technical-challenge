@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Adrienne"
+  city="Pelotas"
+  country="Grenada"
+  firstname2="Shannah"
+  lastname2="Mathilde"
+  email="Shannah.Mathilde@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>47.402</random_float>
+  <bool>false</bool>
+  <date>1992-09-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ketti</elt><elt>Dari</elt><elt>Madalyn</elt><elt>Kalina</elt><elt>Rosaline</elt>  
+  <Shannah>
+    <age>54</age>
+  </Shannah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Pip"
+  city="Puerto Williams"
+  country="AndorrA"
+  firstname2="Deedee"
+  lastname2="Bury"
+  email="Deedee.Bury@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>10.119</random_float>
+  <bool>true</bool>
+  <date>1988-02-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rosaline</elt><elt>Dorene</elt><elt>Tani</elt><elt>Stevana</elt><elt>Lenna</elt>  
+  <Deedee>
+    <age>34</age>
+  </Deedee>
+</root>

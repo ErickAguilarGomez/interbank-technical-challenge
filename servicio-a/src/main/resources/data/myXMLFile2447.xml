@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorenza"
+  lastname="Pillsbury"
+  city="Gangtok"
+  country="Peru"
+  firstname2="Sean"
+  lastname2="Hirsch"
+  email="Sean.Hirsch@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>8.764</random_float>
+  <bool>true</bool>
+  <date>1988-01-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nadine</elt><elt>Heddie</elt><elt>Hyacinthe</elt><elt>Raf</elt><elt>Kathi</elt>  
+  <Sean>
+    <age>88</age>
+  </Sean>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobbi"
+  lastname="Whiffen"
+  city="Hiroshima"
+  country="French Guiana"
+  firstname2="Marcelline"
+  lastname2="Ramona"
+  email="Marcelline.Ramona@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>83.438</random_float>
+  <bool>true</bool>
+  <date>1989-01-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Corene</elt><elt>Aubrie</elt><elt>Viviene</elt><elt>Atlanta</elt><elt>Beatriz</elt>  
+  <Marcelline>
+    <age>28</age>
+  </Marcelline>
+</root>

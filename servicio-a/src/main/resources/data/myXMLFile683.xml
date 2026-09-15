@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Abbie"
+  lastname="Leffen"
+  city="Ciudad del Este"
+  country="Argentina"
+  firstname2="Arabel"
+  lastname2="Virgin"
+  email="Arabel.Virgin@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>11.431</random_float>
+  <bool>true</bool>
+  <date>1992-06-17</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Robbi</elt><elt>Shauna</elt><elt>Vonny</elt><elt>Sharai</elt><elt>Carree</elt>  
+  <Arabel>
+    <age>100</age>
+  </Arabel>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sadie"
+  lastname="Lubin"
+  city="Ibadan"
+  country="French Southern Territories"
+  firstname2="Lorie"
+  lastname2="Stephie"
+  email="Lorie.Stephie@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>68.368</random_float>
+  <bool>true</bool>
+  <date>1992-01-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dorene</elt><elt>Aili</elt><elt>Carly</elt><elt>Fina</elt><elt>Jacquetta</elt>  
+  <Lorie>
+    <age>48</age>
+  </Lorie>
+</root>

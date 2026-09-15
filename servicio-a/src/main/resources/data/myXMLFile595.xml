@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimberley"
+  lastname="Claudine"
+  city="Kabul"
+  country="Bangladesh"
+  firstname2="Carilyn"
+  lastname2="Travax"
+  email="Carilyn.Travax@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>36.11</random_float>
+  <bool>false</bool>
+  <date>1995-04-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Olivette</elt><elt>Romona</elt><elt>Nerta</elt><elt>Alameda</elt><elt>Nollie</elt>  
+  <Carilyn>
+    <age>44</age>
+  </Carilyn>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Estell"
+  lastname="Kiersten"
+  city="Ouagadougou"
+  country="San Marino"
+  firstname2="Gwenneth"
+  lastname2="Parette"
+  email="Gwenneth.Parette@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>61.66</random_float>
+  <bool>false</bool>
+  <date>1998-06-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Viviene</elt><elt>Olwen</elt><elt>Ida</elt><elt>Aigneis</elt><elt>Celene</elt>  
+  <Gwenneth>
+    <age>97</age>
+  </Gwenneth>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karena"
+  lastname="Thar"
+  city="Los Angeles"
+  country="Brunei Darussalam"
+  firstname2="Millie"
+  lastname2="Pacorro"
+  email="Millie.Pacorro@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>64.083</random_float>
+  <bool>true</bool>
+  <date>1986-01-03</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Aryn</elt><elt>Iseabal</elt><elt>Shaine</elt><elt>Elise</elt><elt>Rayna</elt>  
+  <Millie>
+    <age>43</age>
+  </Millie>
+</root>

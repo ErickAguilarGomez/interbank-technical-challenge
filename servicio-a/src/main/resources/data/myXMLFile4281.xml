@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ayn"
+  lastname="Bach"
+  city="Osaka"
+  country="Iran, Islamic Republic Of"
+  firstname2="Cecile"
+  lastname2="Abernon"
+  email="Cecile.Abernon@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>90.822</random_float>
+  <bool>false</bool>
+  <date>1980-12-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gilda</elt><elt>Fayre</elt><elt>Eugine</elt><elt>Arabel</elt><elt>Frances</elt>  
+  <Cecile>
+    <age>81</age>
+  </Cecile>
+</root>

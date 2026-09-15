@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Petronia"
+  lastname="Madaih"
+  city="Vilnius"
+  country="Guam"
+  firstname2="Arabel"
+  lastname2="Ludewig"
+  email="Arabel.Ludewig@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>45.709</random_float>
+  <bool>true</bool>
+  <date>1996-09-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Hayley</elt><elt>Trudie</elt><elt>Maurene</elt><elt>Ericka</elt><elt>Kial</elt>  
+  <Arabel>
+    <age>81</age>
+  </Arabel>
+</root>

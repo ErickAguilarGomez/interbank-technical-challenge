@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Melodie"
+  lastname="Roxanna"
+  city="Yellowknife"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Marsiella"
+  lastname2="Nahum"
+  email="Marsiella.Nahum@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>64.257</random_float>
+  <bool>true</bool>
+  <date>1994-10-16</date>
+  <regEx>helloooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hettie</elt><elt>Sheelagh</elt><elt>Gwyneth</elt><elt>Lanae</elt><elt>Gui</elt>  
+  <Marsiella>
+    <age>76</age>
+  </Marsiella>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Allina"
+  city="Dushanbe"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Cindelyn"
+  lastname2="Junie"
+  email="Cindelyn.Junie@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>76.472</random_float>
+  <bool>true</bool>
+  <date>1980-07-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Albertina</elt><elt>Karlee</elt><elt>Rochette</elt><elt>Wilma</elt><elt>Dyann</elt>  
+  <Cindelyn>
+    <age>61</age>
+  </Cindelyn>
+</root>

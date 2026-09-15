@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shell"
+  lastname="Margret"
+  city="Nukuʻalofa"
+  country="India"
+  firstname2="Brianna"
+  lastname2="Brenn"
+  email="Brianna.Brenn@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>97.801</random_float>
+  <bool>true</bool>
+  <date>1992-10-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lita</elt><elt>Verla</elt><elt>Maye</elt><elt>Dulcinea</elt><elt>Sibella</elt>  
+  <Brianna>
+    <age>96</age>
+  </Brianna>
+</root>

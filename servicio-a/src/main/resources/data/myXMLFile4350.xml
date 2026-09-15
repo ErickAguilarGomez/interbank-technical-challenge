@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sidoney"
+  lastname="Dearborn"
+  city="Gaziantep"
+  country="Seychelles"
+  firstname2="Genevra"
+  lastname2="Kazimir"
+  email="Genevra.Kazimir@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>27.042</random_float>
+  <bool>false</bool>
+  <date>1991-11-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Shauna</elt><elt>Xylina</elt><elt>Eve</elt><elt>Joleen</elt><elt>Marcelline</elt>  
+  <Genevra>
+    <age>66</age>
+  </Genevra>
+</root>

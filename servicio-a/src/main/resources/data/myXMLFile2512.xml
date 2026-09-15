@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lilith"
+  lastname="Chapland"
+  city="Changchun"
+  country="Uruguay"
+  firstname2="Taffy"
+  lastname2="Buckler"
+  email="Taffy.Buckler@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>17.965</random_float>
+  <bool>true</bool>
+  <date>1984-07-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Livvyy</elt><elt>Veda</elt><elt>Carmencita</elt><elt>Tami</elt><elt>Darlleen</elt>  
+  <Taffy>
+    <age>94</age>
+  </Taffy>
+</root>

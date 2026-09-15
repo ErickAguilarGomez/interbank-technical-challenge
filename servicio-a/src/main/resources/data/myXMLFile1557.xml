@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Garbe"
+  city="Surat Thani"
+  country="Azerbaijan"
+  firstname2="Gertrud"
+  lastname2="Carmena"
+  email="Gertrud.Carmena@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>94.749</random_float>
+  <bool>true</bool>
+  <date>1980-10-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nataline</elt><elt>Genovera</elt><elt>Romona</elt><elt>Rebeca</elt><elt>Ileana</elt>  
+  <Gertrud>
+    <age>48</age>
+  </Gertrud>
+</root>

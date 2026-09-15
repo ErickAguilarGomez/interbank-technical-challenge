@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Krystle"
+  lastname="Goldina"
+  city="Zanzibar City"
+  country="Algeria"
+  firstname2="Kellen"
+  lastname2="Mayeda"
+  email="Kellen.Mayeda@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>36.37</random_float>
+  <bool>true</bool>
+  <date>1990-06-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Josephine</elt><elt>Hope</elt><elt>Lory</elt><elt>Blondelle</elt><elt>Linzy</elt>  
+  <Kellen>
+    <age>98</age>
+  </Kellen>
+</root>

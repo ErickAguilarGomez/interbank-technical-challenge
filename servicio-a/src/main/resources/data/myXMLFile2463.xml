@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adele"
+  lastname="Fadiman"
+  city="Quito"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Dorothy"
+  lastname2="Isacco"
+  email="Dorothy.Isacco@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>5.355</random_float>
+  <bool>true</bool>
+  <date>1998-08-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marylou</elt><elt>Alexine</elt><elt>Miquela</elt><elt>Alie</elt><elt>Cathie</elt>  
+  <Dorothy>
+    <age>70</age>
+  </Dorothy>
+</root>

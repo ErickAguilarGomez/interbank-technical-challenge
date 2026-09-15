@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Verla"
+  lastname="Susannah"
+  city="Bratislava"
+  country="Isle of Man"
+  firstname2="Xylina"
+  lastname2="Iphlgenia"
+  email="Xylina.Iphlgenia@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>58.406</random_float>
+  <bool>false</bool>
+  <date>1997-07-18</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mignon</elt><elt>Beth</elt><elt>Maud</elt><elt>Roz</elt><elt>Charlena</elt>  
+  <Xylina>
+    <age>79</age>
+  </Xylina>
+</root>

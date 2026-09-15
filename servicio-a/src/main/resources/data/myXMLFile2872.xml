@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Loree"
+  lastname="Ciro"
+  city="Kota Kinabalu"
+  country="Morocco"
+  firstname2="Hayley"
+  lastname2="Calhoun"
+  email="Hayley.Calhoun@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>96.851</random_float>
+  <bool>true</bool>
+  <date>1987-12-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kylynn</elt><elt>Libbie</elt><elt>Nadine</elt><elt>Ninnetta</elt><elt>Angela</elt>  
+  <Hayley>
+    <age>77</age>
+  </Hayley>
+</root>

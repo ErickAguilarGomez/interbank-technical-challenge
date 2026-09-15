@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Hedve"
+  city="Cairns"
+  country="Costa Rica"
+  firstname2="Consuela"
+  lastname2="August"
+  email="Consuela.August@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>30.368</random_float>
+  <bool>false</bool>
+  <date>1993-12-13</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ruthe</elt><elt>Ketti</elt><elt>Clarice</elt><elt>Kristina</elt><elt>Andeee</elt>  
+  <Consuela>
+    <age>78</age>
+  </Consuela>
+</root>

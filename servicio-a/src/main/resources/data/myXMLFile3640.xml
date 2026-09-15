@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Monika"
+  lastname="Iphlgenia"
+  city="Nakhon Ratchasima"
+  country="Burkina Faso"
+  firstname2="Susette"
+  lastname2="Katrine"
+  email="Susette.Katrine@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>75.291</random_float>
+  <bool>true</bool>
+  <date>1987-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dorene</elt><elt>Joelly</elt><elt>Dolli</elt><elt>Viki</elt><elt>Teriann</elt>  
+  <Susette>
+    <age>61</age>
+  </Susette>
+</root>

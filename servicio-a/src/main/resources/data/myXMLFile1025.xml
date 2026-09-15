@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Modestia"
+  lastname="Hermes"
+  city="Edinburgh"
+  country="Jersey"
+  firstname2="Dorice"
+  lastname2="Lauraine"
+  email="Dorice.Lauraine@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>47.291</random_float>
+  <bool>false</bool>
+  <date>1994-05-24</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gilligan</elt><elt>Merrie</elt><elt>Jerry</elt><elt>Joleen</elt><elt>Edyth</elt>  
+  <Dorice>
+    <age>76</age>
+  </Dorice>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Loree"
+  lastname="Daniele"
+  city="Hanga Roa"
+  country="Brazil"
+  firstname2="Arlina"
+  lastname2="Cynar"
+  email="Arlina.Cynar@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>83.99</random_float>
+  <bool>true</bool>
+  <date>1980-09-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kalina</elt><elt>Minne</elt><elt>Gratia</elt><elt>Lindie</elt><elt>Molli</elt>  
+  <Arlina>
+    <age>93</age>
+  </Arlina>
+</root>

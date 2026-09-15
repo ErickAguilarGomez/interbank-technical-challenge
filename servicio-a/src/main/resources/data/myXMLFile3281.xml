@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selia"
+  lastname="Carvey"
+  city="Sukhumi"
+  country="RWANDA"
+  firstname2="Sissy"
+  lastname2="Tristram"
+  email="Sissy.Tristram@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>30.803</random_float>
+  <bool>false</bool>
+  <date>1983-02-12</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ana</elt><elt>Helena</elt><elt>Marguerite</elt><elt>Ayn</elt><elt>Bettine</elt>  
+  <Sissy>
+    <age>42</age>
+  </Sissy>
+</root>

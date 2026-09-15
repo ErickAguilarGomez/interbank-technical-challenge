@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Haymes"
+  city="Petropavlovsk-Kamchatsky"
+  country="Bahamas"
+  firstname2="Therine"
+  lastname2="Daveta"
+  email="Therine.Daveta@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>28.015</random_float>
+  <bool>true</bool>
+  <date>1986-10-27</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Roslyn</elt><elt>Teddie</elt><elt>Beth</elt><elt>Rhoda</elt><elt>Britni</elt>  
+  <Therine>
+    <age>50</age>
+  </Therine>
+</root>

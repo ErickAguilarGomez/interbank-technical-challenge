@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chastity"
+  lastname="Giff"
+  city="Mexico City"
+  country="Benin"
+  firstname2="Elfreda"
+  lastname2="Roche"
+  email="Elfreda.Roche@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>20.592</random_float>
+  <bool>false</bool>
+  <date>1996-07-23</date>
+  <regEx>hellooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tybie</elt><elt>Donnie</elt><elt>Adele</elt><elt>Amara</elt><elt>Edyth</elt>  
+  <Elfreda>
+    <age>60</age>
+  </Elfreda>
+</root>

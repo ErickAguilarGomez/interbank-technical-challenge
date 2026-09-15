@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Michaelina"
+  lastname="Peg"
+  city="San Diego"
+  country="Israel"
+  firstname2="Cathyleen"
+  lastname2="Melleta"
+  email="Cathyleen.Melleta@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>49.799</random_float>
+  <bool>true</bool>
+  <date>1982-01-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Vinita</elt><elt>Annabela</elt><elt>Collen</elt><elt>Sheelagh</elt><elt>Aubrie</elt>  
+  <Cathyleen>
+    <age>21</age>
+  </Cathyleen>
+</root>

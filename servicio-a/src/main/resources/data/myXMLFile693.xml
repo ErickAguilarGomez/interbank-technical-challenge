@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carol-Jean"
+  lastname="Nicoline"
+  city="Fortaleza"
+  country="Norway"
+  firstname2="Marinna"
+  lastname2="Orlene"
+  email="Marinna.Orlene@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>38.352</random_float>
+  <bool>false</bool>
+  <date>1995-05-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Marita</elt><elt>Gisela</elt><elt>Catharine</elt><elt>Gui</elt><elt>Gloria</elt>  
+  <Marinna>
+    <age>46</age>
+  </Marinna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corly"
+  lastname="Seessel"
+  city="Cotonou"
+  country="Belarus"
+  firstname2="Celene"
+  lastname2="Helve"
+  email="Celene.Helve@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>40.169</random_float>
+  <bool>false</bool>
+  <date>1982-09-12</date>
+  <regEx>hello world</regEx>
+  <enum>generator</enum>
+  <elt>Lorie</elt><elt>Ardys</elt><elt>Ruthe</elt><elt>Michaelina</elt><elt>Anallese</elt>  
+  <Celene>
+    <age>18</age>
+  </Celene>
+</root>

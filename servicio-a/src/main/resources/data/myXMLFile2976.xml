@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elbertina"
+  lastname="Carleen"
+  city="Sofia"
+  country="Czech Republic"
+  firstname2="Tamqrah"
+  lastname2="Seligman"
+  email="Tamqrah.Seligman@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>55.968</random_float>
+  <bool>true</bool>
+  <date>1991-08-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Meghann</elt><elt>Hayley</elt><elt>Gavrielle</elt><elt>Inga</elt><elt>Dulcinea</elt>  
+  <Tamqrah>
+    <age>47</age>
+  </Tamqrah>
+</root>

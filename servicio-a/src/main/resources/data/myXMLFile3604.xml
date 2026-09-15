@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florie"
+  lastname="Sigfrid"
+  city="St. George's"
+  country="Uruguay"
+  firstname2="Cherrita"
+  lastname2="Schroth"
+  email="Cherrita.Schroth@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>30.981</random_float>
+  <bool>true</bool>
+  <date>1996-02-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kaia</elt><elt>Jemie</elt><elt>Priscilla</elt><elt>Susan</elt><elt>Tamqrah</elt>  
+  <Cherrita>
+    <age>53</age>
+  </Cherrita>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sashenka"
+  lastname="Toni"
+  city="Tegucigalpa"
+  country="Timor-Leste"
+  firstname2="Kerrin"
+  lastname2="Peti"
+  email="Kerrin.Peti@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>15.543</random_float>
+  <bool>true</bool>
+  <date>1998-02-12</date>
+  <regEx>helloo to you</regEx>
+  <enum>online</enum>
+  <elt>Delilah</elt><elt>Ira</elt><elt>Kate</elt><elt>Candy</elt><elt>Keelia</elt>  
+  <Kerrin>
+    <age>35</age>
+  </Kerrin>
+</root>

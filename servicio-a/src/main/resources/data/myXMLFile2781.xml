@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Codie"
+  lastname="Rocray"
+  city="Macau"
+  country="Saint Lucia"
+  firstname2="Clo"
+  lastname2="Rurik"
+  email="Clo.Rurik@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>28.489</random_float>
+  <bool>true</bool>
+  <date>1987-01-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lizzie</elt><elt>Nonnah</elt><elt>Drucie</elt><elt>Marsiella</elt><elt>Luci</elt>  
+  <Clo>
+    <age>90</age>
+  </Clo>
+</root>

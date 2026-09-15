@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vanessa"
+  lastname="Lory"
+  city="Nantes"
+  country="Tunisia"
+  firstname2="Concettina"
+  lastname2="Sibyls"
+  email="Concettina.Sibyls@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>90.607</random_float>
+  <bool>true</bool>
+  <date>1980-10-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tierney</elt><elt>Kial</elt><elt>June</elt><elt>Ericka</elt><elt>Sam</elt>  
+  <Concettina>
+    <age>55</age>
+  </Concettina>
+</root>

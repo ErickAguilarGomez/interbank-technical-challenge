@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardeen"
+  lastname="Solitta"
+  city="Aberdeen"
+  country="Uzbekistan"
+  firstname2="Chloris"
+  lastname2="Gunn"
+  email="Chloris.Gunn@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>76.469</random_float>
+  <bool>false</bool>
+  <date>1991-05-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Nanete</elt><elt>Tonia</elt><elt>Carolina</elt><elt>Konstance</elt><elt>Madalyn</elt>  
+  <Chloris>
+    <age>27</age>
+  </Chloris>
+</root>

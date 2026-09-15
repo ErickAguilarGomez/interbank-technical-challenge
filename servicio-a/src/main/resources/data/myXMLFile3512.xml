@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Frank"
+  lastname="Thilda"
+  city="Ludhiana"
+  country="Montserrat"
+  firstname2="Lyssa"
+  lastname2="Pitt"
+  email="Lyssa.Pitt@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>78.006</random_float>
+  <bool>false</bool>
+  <date>1990-12-26</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Claresta</elt><elt>Cordi</elt><elt>Robbi</elt><elt>Calla</elt><elt>Sandie</elt>  
+  <Lyssa>
+    <age>80</age>
+  </Lyssa>
+</root>

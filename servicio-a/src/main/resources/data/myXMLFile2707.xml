@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jan"
+  lastname="Israeli"
+  city="San Diego"
+  country="Cyprus"
+  firstname2="Danika"
+  lastname2="Ingra"
+  email="Danika.Ingra@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>88.592</random_float>
+  <bool>true</bool>
+  <date>1990-08-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Paola</elt><elt>Kate</elt><elt>Rochette</elt><elt>Jessy</elt><elt>Lorie</elt>  
+  <Danika>
+    <age>59</age>
+  </Danika>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andeee"
+  lastname="Bakerman"
+  city="Horta (Azores)"
+  country="Georgia"
+  firstname2="Zia"
+  lastname2="Yuille"
+  email="Zia.Yuille@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>31.905</random_float>
+  <bool>false</bool>
+  <date>1982-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Daphne</elt><elt>Justinn</elt><elt>Gabi</elt><elt>Cristine</elt><elt>Rozele</elt>  
+  <Zia>
+    <age>57</age>
+  </Zia>
+</root>

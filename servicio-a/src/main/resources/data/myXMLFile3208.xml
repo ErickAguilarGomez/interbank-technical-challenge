@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carree"
+  lastname="Haldas"
+  city="Bandung"
+  country="Costa Rica"
+  firstname2="Imojean"
+  lastname2="Erskine"
+  email="Imojean.Erskine@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>61.44</random_float>
+  <bool>false</bool>
+  <date>1990-11-08</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jeanna</elt><elt>Kristina</elt><elt>Cindelyn</elt><elt>Pamella</elt><elt>Charmaine</elt>  
+  <Imojean>
+    <age>55</age>
+  </Imojean>
+</root>

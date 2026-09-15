@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rivalee"
+  lastname="Arne"
+  city="Nicosia"
+  country="Guinea-Bissau"
+  firstname2="Jorry"
+  lastname2="Stilwell"
+  email="Jorry.Stilwell@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>12.637</random_float>
+  <bool>true</bool>
+  <date>1990-06-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Karly</elt><elt>Aimil</elt><elt>Asia</elt><elt>Delilah</elt><elt>Paule</elt>  
+  <Jorry>
+    <age>35</age>
+  </Jorry>
+</root>

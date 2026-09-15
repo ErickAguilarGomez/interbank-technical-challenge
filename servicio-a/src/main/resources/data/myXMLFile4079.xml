@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Monika"
+  lastname="Garbe"
+  city="Xining"
+  country="American Samoa"
+  firstname2="Cacilie"
+  lastname2="Cynar"
+  email="Cacilie.Cynar@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>25.1</random_float>
+  <bool>true</bool>
+  <date>1983-01-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Molli</elt><elt>Adore</elt><elt>Bettine</elt><elt>Margarette</elt><elt>Latisha</elt>  
+  <Cacilie>
+    <age>71</age>
+  </Cacilie>
+</root>

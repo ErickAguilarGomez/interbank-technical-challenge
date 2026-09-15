@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elka"
+  lastname="Brackely"
+  city="Ottawa"
+  country="Reunion"
+  firstname2="Heddie"
+  lastname2="Granoff"
+  email="Heddie.Granoff@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>84.21</random_float>
+  <bool>true</bool>
+  <date>1985-06-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marinna</elt><elt>Stephanie</elt><elt>Marline</elt><elt>Phylis</elt><elt>Laurene</elt>  
+  <Heddie>
+    <age>19</age>
+  </Heddie>
+</root>

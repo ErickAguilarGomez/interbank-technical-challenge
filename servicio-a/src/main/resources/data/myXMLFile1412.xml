@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orelia"
+  lastname="Amethist"
+  city="Abidjan"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Maisey"
+  lastname2="Gabrielli"
+  email="Maisey.Gabrielli@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>99.487</random_float>
+  <bool>false</bool>
+  <date>1985-09-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jordan</elt><elt>Karlee</elt><elt>Ivett</elt><elt>Sheree</elt><elt>Bobbi</elt>  
+  <Maisey>
+    <age>45</age>
+  </Maisey>
+</root>

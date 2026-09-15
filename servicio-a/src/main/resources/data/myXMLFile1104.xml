@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jsandye"
+  lastname="Cynar"
+  city="Yamoussoukro"
+  country="Gibraltar"
+  firstname2="Marline"
+  lastname2="Ingra"
+  email="Marline.Ingra@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>34</random_float>
+  <bool>false</bool>
+  <date>1991-01-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lorie</elt><elt>Cordi</elt><elt>Tobe</elt><elt>Briney</elt><elt>Krystle</elt>  
+  <Marline>
+    <age>20</age>
+  </Marline>
+</root>

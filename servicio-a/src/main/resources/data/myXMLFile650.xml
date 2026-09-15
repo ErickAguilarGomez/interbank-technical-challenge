@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tera"
+  lastname="Harned"
+  city="The Valley"
+  country="Azerbaijan"
+  firstname2="Marleah"
+  lastname2="Holtz"
+  email="Marleah.Holtz@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>75.537</random_float>
+  <bool>false</bool>
+  <date>1997-04-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alie</elt><elt>Gusty</elt><elt>Viviene</elt><elt>Stevana</elt><elt>Karly</elt>  
+  <Marleah>
+    <age>69</age>
+  </Marleah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Averyl"
+  lastname="Michella"
+  city="George Town"
+  country="Kenya"
+  firstname2="Asia"
+  lastname2="Bashemeth"
+  email="Asia.Bashemeth@yopmail.com"
+  />
+  <random>55</random>
+  <random_float>77.789</random_float>
+  <bool>true</bool>
+  <date>1991-03-03</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Courtnay</elt><elt>Yvonne</elt><elt>Rochette</elt><elt>Rosaline</elt><elt>Cristine</elt>  
+  <Asia>
+    <age>75</age>
+  </Asia>
+</root>

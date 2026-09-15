@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sibella"
+  lastname="Cath"
+  city="Pelotas"
+  country="Aruba"
+  firstname2="Chere"
+  lastname2="Damarra"
+  email="Chere.Damarra@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>18.107</random_float>
+  <bool>true</bool>
+  <date>1982-01-06</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cam</elt><elt>Jordan</elt><elt>Katleen</elt><elt>Esmeralda</elt><elt>Binny</elt>  
+  <Chere>
+    <age>42</age>
+  </Chere>
+</root>

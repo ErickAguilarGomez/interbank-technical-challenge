@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Keelia"
+  lastname="Dimitris"
+  city="Nanning"
+  country="Lao People"S Democratic Republic"
+  firstname2="Gwyneth"
+  lastname2="Jenness"
+  email="Gwyneth.Jenness@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>27.979</random_float>
+  <bool>false</bool>
+  <date>1995-10-30</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lanae</elt><elt>Jan</elt><elt>Janenna</elt><elt>Sheelagh</elt><elt>Mireielle</elt>  
+  <Gwyneth>
+    <age>70</age>
+  </Gwyneth>
+</root>

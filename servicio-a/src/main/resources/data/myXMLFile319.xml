@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Benita"
+  lastname="Garlinda"
+  city="Montevideo"
+  country="Namibia"
+  firstname2="Etta"
+  lastname2="Toffic"
+  email="Etta.Toffic@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>12.812</random_float>
+  <bool>true</bool>
+  <date>1983-11-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Georgina</elt><elt>Dennie</elt><elt>Laure</elt><elt>Cacilie</elt><elt>Ilse</elt>  
+  <Etta>
+    <age>49</age>
+  </Etta>
+</root>

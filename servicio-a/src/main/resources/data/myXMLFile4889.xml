@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jeanna"
+  lastname="Friede"
+  city="Punta Arenas"
+  country="Algeria"
+  firstname2="Ricky"
+  lastname2="Hanshaw"
+  email="Ricky.Hanshaw@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>18.348</random_float>
+  <bool>false</bool>
+  <date>1992-08-21</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Angela</elt><elt>Gerrie</elt><elt>Amalie</elt><elt>Sindee</elt><elt>Aurelie</elt>  
+  <Ricky>
+    <age>84</age>
+  </Ricky>
+</root>

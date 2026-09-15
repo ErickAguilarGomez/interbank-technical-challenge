@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emylee"
+  lastname="Dulciana"
+  city="Sukhumi"
+  country="French Polynesia"
+  firstname2="Alisha"
+  lastname2="Jacinda"
+  email="Alisha.Jacinda@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>31.843</random_float>
+  <bool>true</bool>
+  <date>1990-08-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Shell</elt><elt>Cyb</elt><elt>Jolyn</elt><elt>Orsola</elt><elt>Alejandra</elt>  
+  <Alisha>
+    <age>23</age>
+  </Alisha>
+</root>

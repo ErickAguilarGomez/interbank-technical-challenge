@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lenna"
+  lastname="Ferrell"
+  city="Malacca Town"
+  country="Slovenia"
+  firstname2="Verla"
+  lastname2="Valoniah"
+  email="Verla.Valoniah@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>37.458</random_float>
+  <bool>true</bool>
+  <date>1980-01-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Evita</elt><elt>Blake</elt><elt>Marita</elt><elt>Cacilie</elt><elt>Amelia</elt>  
+  <Verla>
+    <age>79</age>
+  </Verla>
+</root>

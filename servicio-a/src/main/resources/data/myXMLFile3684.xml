@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tomasina"
+  lastname="Lindemann"
+  city="Baltimore"
+  country="Brazil"
+  firstname2="Babita"
+  lastname2="Kiyoshi"
+  email="Babita.Kiyoshi@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>33.311</random_float>
+  <bool>false</bool>
+  <date>1988-02-27</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Joelly</elt><elt>Correy</elt><elt>Pierette</elt><elt>Kathy</elt><elt>Marinna</elt>  
+  <Babita>
+    <age>80</age>
+  </Babita>
+</root>

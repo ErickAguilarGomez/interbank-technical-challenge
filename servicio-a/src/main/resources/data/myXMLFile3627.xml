@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gloria"
+  lastname="Henebry"
+  city="Hanga Roa"
+  country="Nigeria"
+  firstname2="Lucille"
+  lastname2="Kelula"
+  email="Lucille.Kelula@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>88.837</random_float>
+  <bool>false</bool>
+  <date>1995-06-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lily</elt><elt>Kylynn</elt><elt>Minda</elt><elt>Rosanne</elt><elt>Hyacinthe</elt>  
+  <Lucille>
+    <age>73</age>
+  </Lucille>
+</root>

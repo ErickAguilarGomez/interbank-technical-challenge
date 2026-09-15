@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wanda"
+  lastname="Viddah"
+  city="Zamboanga City"
+  country="Philippines"
+  firstname2="Joleen"
+  lastname2="Mott"
+  email="Joleen.Mott@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>96.978</random_float>
+  <bool>false</bool>
+  <date>1981-07-22</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rosaline</elt><elt>Joelly</elt><elt>Kary</elt><elt>Malina</elt><elt>Marcelline</elt>  
+  <Joleen>
+    <age>26</age>
+  </Joleen>
+</root>

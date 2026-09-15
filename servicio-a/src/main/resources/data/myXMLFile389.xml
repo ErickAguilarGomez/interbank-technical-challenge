@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mahalia"
+  lastname="Si"
+  city="Johannesburg"
+  country="Palestinian Territory, Occupied"
+  firstname2="Chandra"
+  lastname2="Tayib"
+  email="Chandra.Tayib@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>71.633</random_float>
+  <bool>true</bool>
+  <date>1981-10-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kittie</elt><elt>Jenda</elt><elt>Bettine</elt><elt>Ketti</elt><elt>Maryellen</elt>  
+  <Chandra>
+    <age>58</age>
+  </Chandra>
+</root>

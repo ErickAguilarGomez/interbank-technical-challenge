@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aaren"
+  lastname="Rhu"
+  city="Ottawa"
+  country="Morocco"
+  firstname2="Joleen"
+  lastname2="Sidonius"
+  email="Joleen.Sidonius@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>8.116</random_float>
+  <bool>false</bool>
+  <date>1988-04-26</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sheree</elt><elt>Lanae</elt><elt>Cassondra</elt><elt>Frances</elt><elt>Betta</elt>  
+  <Joleen>
+    <age>72</age>
+  </Joleen>
+</root>

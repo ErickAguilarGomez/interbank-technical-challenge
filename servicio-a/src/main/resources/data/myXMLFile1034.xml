@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaylyn"
+  lastname="Gordon"
+  city="Berlin"
+  country="Holy See (Vatican City State)"
+  firstname2="Addia"
+  lastname2="Uund"
+  email="Addia.Uund@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>80.601</random_float>
+  <bool>true</bool>
+  <date>1991-09-13</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Merrie</elt><elt>Georgina</elt><elt>Moyna</elt><elt>Fayre</elt><elt>Ann-Marie</elt>  
+  <Addia>
+    <age>62</age>
+  </Addia>
+</root>

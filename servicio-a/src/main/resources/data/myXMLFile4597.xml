@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rubie"
+  lastname="Tice"
+  city="Arequipa"
+  country="Kenya"
+  firstname2="Nariko"
+  lastname2="Graig"
+  email="Nariko.Graig@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>47.688</random_float>
+  <bool>true</bool>
+  <date>1987-06-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lesly</elt><elt>Nyssa</elt><elt>Randa</elt><elt>Nadine</elt><elt>Marti</elt>  
+  <Nariko>
+    <age>66</age>
+  </Nariko>
+</root>

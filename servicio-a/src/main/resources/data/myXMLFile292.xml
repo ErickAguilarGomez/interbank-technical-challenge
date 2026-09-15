@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Augustine"
+  lastname="Seessel"
+  city="Alor Star"
+  country="Sao Tome and Principe"
+  firstname2="Binny"
+  lastname2="Rustice"
+  email="Binny.Rustice@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>29.742</random_float>
+  <bool>true</bool>
+  <date>1996-02-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Darlleen</elt><elt>Correy</elt><elt>Ruthe</elt><elt>Addia</elt><elt>Leanna</elt>  
+  <Binny>
+    <age>100</age>
+  </Binny>
+</root>

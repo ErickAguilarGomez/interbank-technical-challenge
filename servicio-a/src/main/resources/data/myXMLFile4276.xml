@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Aida"
+  city="Nagpur"
+  country="Nicaragua"
+  firstname2="Peri"
+  lastname2="Dom"
+  email="Peri.Dom@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>61.308</random_float>
+  <bool>false</bool>
+  <date>1994-07-20</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marinna</elt><elt>Glenda</elt><elt>Vinita</elt><elt>Christy</elt><elt>Sandie</elt>  
+  <Peri>
+    <age>43</age>
+  </Peri>
+</root>

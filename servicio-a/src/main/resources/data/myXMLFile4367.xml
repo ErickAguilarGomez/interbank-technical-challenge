@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanny"
+  lastname="Lane"
+  city="Arbil"
+  country="Slovenia"
+  firstname2="Taffy"
+  lastname2="Pyle"
+  email="Taffy.Pyle@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>13.359</random_float>
+  <bool>true</bool>
+  <date>1980-04-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Monika</elt><elt>Louella</elt><elt>Fayre</elt><elt>Eadie</elt><elt>Flo</elt>  
+  <Taffy>
+    <age>31</age>
+  </Taffy>
+</root>

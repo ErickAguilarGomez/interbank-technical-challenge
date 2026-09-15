@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winifred"
+  lastname="Alisia"
+  city="Copenhagen"
+  country="Jordan"
+  firstname2="Annaliese"
+  lastname2="Turne"
+  email="Annaliese.Turne@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>76.846</random_float>
+  <bool>false</bool>
+  <date>1989-07-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Hannis</elt><elt>Phylis</elt><elt>Ann-Marie</elt><elt>Benita</elt><elt>Hildegaard</elt>  
+  <Annaliese>
+    <age>31</age>
+  </Annaliese>
+</root>

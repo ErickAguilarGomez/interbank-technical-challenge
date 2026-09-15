@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Abbie"
+  lastname="Gino"
+  city="Nanjing"
+  country="San Marino"
+  firstname2="Kelly"
+  lastname2="Primalia"
+  email="Kelly.Primalia@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>78.576</random_float>
+  <bool>false</bool>
+  <date>1997-11-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tilly</elt><elt>Jackie</elt><elt>Bernie</elt><elt>Lynde</elt><elt>Elsie</elt>  
+  <Kelly>
+    <age>35</age>
+  </Kelly>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catharine"
+  lastname="Dahlia"
+  city="Horta (Azores)"
+  country="French Guiana"
+  firstname2="Cherilyn"
+  lastname2="O'Neill"
+  email="Cherilyn.O'Neill@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>49.721</random_float>
+  <bool>true</bool>
+  <date>1980-08-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kristina</elt><elt>Jillayne</elt><elt>Marinna</elt><elt>Louella</elt><elt>Bettine</elt>  
+  <Cherilyn>
+    <age>69</age>
+  </Cherilyn>
+</root>

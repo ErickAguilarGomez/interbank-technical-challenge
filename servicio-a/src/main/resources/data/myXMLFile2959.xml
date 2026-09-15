@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emelina"
+  lastname="Bivins"
+  city="Baghdad"
+  country="Indonesia"
+  firstname2="Feliza"
+  lastname2="Darrell"
+  email="Feliza.Darrell@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>67.228</random_float>
+  <bool>true</bool>
+  <date>1982-04-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Aaren</elt><elt>Mady</elt><elt>Calla</elt><elt>Corina</elt><elt>Blondelle</elt>  
+  <Feliza>
+    <age>24</age>
+  </Feliza>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ana"
+  lastname="Boycey"
+  city="Honolulu"
+  country="Virgin Islands, U.S."
+  firstname2="Barbi"
+  lastname2="Bouchard"
+  email="Barbi.Bouchard@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>43.916</random_float>
+  <bool>true</bool>
+  <date>1990-06-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Rosanne</elt><elt>Doralynne</elt><elt>Tina</elt><elt>Zsa Zsa</elt><elt>Madalyn</elt>  
+  <Barbi>
+    <age>58</age>
+  </Barbi>
+</root>

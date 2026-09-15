@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Poll"
+  city="Santa Cruz de Tenerife"
+  country="Mali"
+  firstname2="Vonny"
+  lastname2="Stelle"
+  email="Vonny.Stelle@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>98.614</random_float>
+  <bool>false</bool>
+  <date>1982-02-19</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Althea</elt><elt>Gisela</elt><elt>Florencia</elt><elt>Ann-Marie</elt><elt>Flory</elt>  
+  <Vonny>
+    <age>46</age>
+  </Vonny>
+</root>

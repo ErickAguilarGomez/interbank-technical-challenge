@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathy"
+  lastname="Robertson"
+  city="Santa Cruz de Tenerife"
+  country="Nigeria"
+  firstname2="Shell"
+  lastname2="Carmena"
+  email="Shell.Carmena@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>5.181</random_float>
+  <bool>false</bool>
+  <date>1986-12-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gilda</elt><elt>Kirstin</elt><elt>Zia</elt><elt>Constance</elt><elt>Melisent</elt>  
+  <Shell>
+    <age>34</age>
+  </Shell>
+</root>

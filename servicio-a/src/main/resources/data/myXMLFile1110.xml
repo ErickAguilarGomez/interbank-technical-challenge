@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Collen"
+  lastname="Dawkins"
+  city="Dongguan"
+  country="Mozambique"
+  firstname2="Beth"
+  lastname2="Dearborn"
+  email="Beth.Dearborn@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>60.625</random_float>
+  <bool>false</bool>
+  <date>1995-11-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Misha</elt><elt>Oona</elt><elt>Marylou</elt><elt>Wileen</elt><elt>Valera</elt>  
+  <Beth>
+    <age>19</age>
+  </Beth>
+</root>

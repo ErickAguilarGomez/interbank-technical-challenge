@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Meg"
+  lastname="Damarra"
+  city="Port Said"
+  country="Namibia"
+  firstname2="Willetta"
+  lastname2="Leary"
+  email="Willetta.Leary@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>92.874</random_float>
+  <bool>false</bool>
+  <date>1980-08-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Silvana</elt><elt>Catharine</elt><elt>Sabina</elt><elt>Emmey</elt><elt>Melanie</elt>  
+  <Willetta>
+    <age>59</age>
+  </Willetta>
+</root>

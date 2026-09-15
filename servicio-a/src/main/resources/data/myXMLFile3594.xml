@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Ivens"
+  city="Horta (Azores)"
+  country="Reunion"
+  firstname2="Audrie"
+  lastname2="Fry"
+  email="Audrie.Fry@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>60.465</random_float>
+  <bool>true</bool>
+  <date>1987-05-16</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kamilah</elt><elt>Olwen</elt><elt>Jaime</elt><elt>Lorne</elt><elt>Augustine</elt>  
+  <Audrie>
+    <age>84</age>
+  </Audrie>
+</root>

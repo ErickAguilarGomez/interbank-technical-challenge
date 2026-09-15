@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Miquela"
+  lastname="Engdahl"
+  city="Petropavlovsk-Kamchatsky"
+  country="Kiribati"
+  firstname2="Vevay"
+  lastname2="Hathaway"
+  email="Vevay.Hathaway@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>76.706</random_float>
+  <bool>true</bool>
+  <date>1988-06-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Christal</elt><elt>Ebonee</elt><elt>Orsola</elt><elt>Max</elt><elt>Merrie</elt>  
+  <Vevay>
+    <age>65</age>
+  </Vevay>
+</root>

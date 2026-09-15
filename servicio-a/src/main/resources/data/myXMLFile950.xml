@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacquetta"
+  lastname="Vanni"
+  city="Iloilo City"
+  country="Burkina Faso"
+  firstname2="Keelia"
+  lastname2="Gaspard"
+  email="Keelia.Gaspard@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>44.136</random_float>
+  <bool>true</bool>
+  <date>1987-09-17</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jeanna</elt><elt>Edee</elt><elt>Patricia</elt><elt>Jacenta</elt><elt>Tani</elt>  
+  <Keelia>
+    <age>74</age>
+  </Keelia>
+</root>

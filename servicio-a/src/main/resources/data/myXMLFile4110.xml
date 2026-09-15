@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbara"
+  lastname="Nunci"
+  city="Fredericton"
+  country="Martinique"
+  firstname2="Ariela"
+  lastname2="Minetta"
+  email="Ariela.Minetta@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>15.552</random_float>
+  <bool>false</bool>
+  <date>1994-06-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mariann</elt><elt>Lucy</elt><elt>Tersina</elt><elt>Merci</elt><elt>Johna</elt>  
+  <Ariela>
+    <age>78</age>
+  </Ariela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Renie"
+  lastname="Pitt"
+  city="Bucharest"
+  country="Singapore"
+  firstname2="Ada"
+  lastname2="Erlandson"
+  email="Ada.Erlandson@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>12.476</random_float>
+  <bool>true</bool>
+  <date>1998-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Micheline</elt><elt>Estell</elt><elt>Pierette</elt><elt>Rosanne</elt><elt>Gwenneth</elt>  
+  <Ada>
+    <age>45</age>
+  </Ada>
+</root>

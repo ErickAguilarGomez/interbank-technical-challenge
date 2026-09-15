@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Giustina"
+  lastname="Janith"
+  city="Virginia Beach"
+  country="Timor-Leste"
+  firstname2="Mildrid"
+  lastname2="Lattie"
+  email="Mildrid.Lattie@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>25.903</random_float>
+  <bool>false</bool>
+  <date>1981-07-22</date>
+  <regEx>helloooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sissy</elt><elt>Linzy</elt><elt>Alyssa</elt><elt>Adriana</elt><elt>Cordi</elt>  
+  <Mildrid>
+    <age>58</age>
+  </Mildrid>
+</root>

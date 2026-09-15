@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christian"
+  lastname="Skurnik"
+  city="Osaka"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Kristan"
+  lastname2="Ephrem"
+  email="Kristan.Ephrem@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>45.752</random_float>
+  <bool>true</bool>
+  <date>1998-02-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Misha</elt><elt>Mady</elt><elt>Carree</elt><elt>Ellette</elt><elt>Penelopa</elt>  
+  <Kristan>
+    <age>44</age>
+  </Kristan>
+</root>

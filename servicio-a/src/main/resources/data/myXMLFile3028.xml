@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joeann"
+  lastname="Cassius"
+  city="Budapest"
+  country="Ireland"
+  firstname2="Ruthe"
+  lastname2="Engdahl"
+  email="Ruthe.Engdahl@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>64.652</random_float>
+  <bool>true</bool>
+  <date>1981-09-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Collen</elt><elt>Sophia</elt><elt>Wanda</elt><elt>Gusty</elt><elt>Dotty</elt>  
+  <Ruthe>
+    <age>51</age>
+  </Ruthe>
+</root>

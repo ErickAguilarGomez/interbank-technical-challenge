@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Neils"
+  city="Frankfurt"
+  country="Brunei Darussalam"
+  firstname2="Kellen"
+  lastname2="Naashom"
+  email="Kellen.Naashom@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>8.206</random_float>
+  <bool>false</bool>
+  <date>1998-06-14</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marline</elt><elt>Flory</elt><elt>Gianina</elt><elt>Starla</elt><elt>Rebeca</elt>  
+  <Kellen>
+    <age>77</age>
+  </Kellen>
+</root>

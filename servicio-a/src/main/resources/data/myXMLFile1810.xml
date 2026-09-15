@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christal"
+  lastname="Eachern"
+  city="Tiraspol"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Lusa"
+  lastname2="Chapland"
+  email="Lusa.Chapland@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>73.703</random_float>
+  <bool>true</bool>
+  <date>1987-06-02</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Collen</elt><elt>Roz</elt><elt>Angela</elt><elt>Marnia</elt><elt>Alyssa</elt>  
+  <Lusa>
+    <age>65</age>
+  </Lusa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Benita"
+  lastname="Ahab"
+  city="Sabha"
+  country="Luxembourg"
+  firstname2="Gerianna"
+  lastname2="Johanna"
+  email="Gerianna.Johanna@yopmail.com"
+  />
+  <random>15</random>
+  <random_float>45.321</random_float>
+  <bool>true</bool>
+  <date>1991-12-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marsiella</elt><elt>Shaine</elt><elt>Konstance</elt><elt>Louella</elt><elt>Fred</elt>  
+  <Gerianna>
+    <age>70</age>
+  </Gerianna>
+</root>

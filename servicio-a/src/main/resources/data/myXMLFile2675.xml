@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimberley"
+  lastname="Genna"
+  city="Osaka"
+  country="Paraguay"
+  firstname2="Kathi"
+  lastname2="Cosenza"
+  email="Kathi.Cosenza@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>11.616</random_float>
+  <bool>true</bool>
+  <date>1995-11-08</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Eugine</elt><elt>Maurene</elt><elt>Ethel</elt><elt>Blinni</elt><elt>Binny</elt>  
+  <Kathi>
+    <age>63</age>
+  </Kathi>
+</root>

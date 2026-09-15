@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nonnah"
+  lastname="Deny"
+  city="Salzburg"
+  country="Palestinian Territory, Occupied"
+  firstname2="Sean"
+  lastname2="Wiener"
+  email="Sean.Wiener@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>56.665</random_float>
+  <bool>false</bool>
+  <date>1995-02-02</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Neila</elt><elt>Vinita</elt><elt>Dianemarie</elt><elt>Yolane</elt><elt>Jaclyn</elt>  
+  <Sean>
+    <age>76</age>
+  </Sean>
+</root>

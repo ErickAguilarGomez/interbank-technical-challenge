@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zondra"
+  lastname="Larochelle"
+  city="Palikir"
+  country="Canada"
+  firstname2="Gavrielle"
+  lastname2="Roumell"
+  email="Gavrielle.Roumell@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>19.307</random_float>
+  <bool>false</bool>
+  <date>1994-03-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Willetta</elt><elt>Jasmina</elt><elt>Leia</elt><elt>Sara-Ann</elt><elt>Jean</elt>  
+  <Gavrielle>
+    <age>72</age>
+  </Gavrielle>
+</root>

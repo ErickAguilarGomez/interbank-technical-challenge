@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gratia"
+  lastname="Voletta"
+  city="Saint Petersburg"
+  country="Monaco"
+  firstname2="Winifred"
+  lastname2="Francyne"
+  email="Winifred.Francyne@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>32.464</random_float>
+  <bool>false</bool>
+  <date>1985-01-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Elyssa</elt><elt>Raquela</elt><elt>Mara</elt><elt>Lonnie</elt><elt>Agnese</elt>  
+  <Winifred>
+    <age>92</age>
+  </Winifred>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joeann"
+  lastname="Sacken"
+  city="Providence"
+  country="Equatorial Guinea"
+  firstname2="Etta"
+  lastname2="Gert"
+  email="Etta.Gert@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>52.08</random_float>
+  <bool>false</bool>
+  <date>1990-12-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kassey</elt><elt>Taffy</elt><elt>Gwenneth</elt><elt>Noelle</elt><elt>Helsa</elt>  
+  <Etta>
+    <age>82</age>
+  </Etta>
+</root>

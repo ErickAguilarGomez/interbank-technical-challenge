@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alia"
+  lastname="Chaing"
+  city="Belgrade"
+  country="United States Minor Outlying Islands"
+  firstname2="Suzette"
+  lastname2="Fitzsimmons"
+  email="Suzette.Fitzsimmons@yopmail.com"
+  />
+  <random>77</random>
+  <random_float>87.336</random_float>
+  <bool>true</bool>
+  <date>1996-02-09</date>
+  <regEx>helloooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Loree</elt><elt>Annaliese</elt><elt>Merci</elt><elt>Orelia</elt><elt>Ninnetta</elt>  
+  <Suzette>
+    <age>75</age>
+  </Suzette>
+</root>

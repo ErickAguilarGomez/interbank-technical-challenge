@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hallie"
+  lastname="Rogerio"
+  city="Okinawa"
+  country="French Polynesia"
+  firstname2="Benita"
+  lastname2="Bluh"
+  email="Benita.Bluh@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>75.362</random_float>
+  <bool>true</bool>
+  <date>1983-06-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Stephanie</elt><elt>Gisela</elt><elt>Molli</elt><elt>Fanny</elt><elt>Dolli</elt>  
+  <Benita>
+    <age>61</age>
+  </Benita>
+</root>

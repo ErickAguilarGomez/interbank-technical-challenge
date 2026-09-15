@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Kimmie"
+  city="Rochester"
+  country="Armenia"
+  firstname2="Augustine"
+  lastname2="Jalbert"
+  email="Augustine.Jalbert@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>22.922</random_float>
+  <bool>false</bool>
+  <date>1992-04-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Frances</elt><elt>Noelle</elt><elt>Evita</elt><elt>Dagmar</elt><elt>Dulcinea</elt>  
+  <Augustine>
+    <age>67</age>
+  </Augustine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Althea"
+  lastname="Jillane"
+  city="Marseille"
+  country="Romania"
+  firstname2="Chandra"
+  lastname2="Guildroy"
+  email="Chandra.Guildroy@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>81.956</random_float>
+  <bool>true</bool>
+  <date>1981-08-10</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cherrita</elt><elt>Aigneis</elt><elt>Amalie</elt><elt>Adriana</elt><elt>Alyda</elt>  
+  <Chandra>
+    <age>79</age>
+  </Chandra>
+</root>

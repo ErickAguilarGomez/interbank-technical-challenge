@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Stephanie"
+  lastname="Rustice"
+  city="Kota Kinabalu"
+  country="Slovenia"
+  firstname2="Ashlee"
+  lastname2="Barrus"
+  email="Ashlee.Barrus@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>49.87</random_float>
+  <bool>true</bool>
+  <date>1995-06-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kirstin</elt><elt>Shell</elt><elt>Jenda</elt><elt>Maryellen</elt><elt>Harmonia</elt>  
+  <Ashlee>
+    <age>47</age>
+  </Ashlee>
+</root>

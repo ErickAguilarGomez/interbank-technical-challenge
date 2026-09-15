@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Greenwald"
+  city="Lisbon"
+  country="Cape Verde"
+  firstname2="Marcy"
+  lastname2="Colleen"
+  email="Marcy.Colleen@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>81.956</random_float>
+  <bool>false</bool>
+  <date>1996-07-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marinna</elt><elt>Quintina</elt><elt>Lelah</elt><elt>Ronna</elt><elt>Ayn</elt>  
+  <Marcy>
+    <age>34</age>
+  </Marcy>
+</root>

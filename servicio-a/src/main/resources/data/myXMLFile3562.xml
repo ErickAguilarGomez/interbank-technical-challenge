@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chrystel"
+  lastname="Alexandr"
+  city="Nizhny Novgorod"
+  country="Uruguay"
+  firstname2="Tressa"
+  lastname2="Fennessy"
+  email="Tressa.Fennessy@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>88.251</random_float>
+  <bool>false</bool>
+  <date>1980-07-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Peri</elt><elt>Inga</elt><elt>Leontine</elt><elt>Gerianna</elt><elt>Charlena</elt>  
+  <Tressa>
+    <age>48</age>
+  </Tressa>
+</root>

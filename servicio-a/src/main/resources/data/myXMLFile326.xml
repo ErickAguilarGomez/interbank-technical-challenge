@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Micheline"
+  lastname="Raffo"
+  city="Jinan"
+  country="Costa Rica"
+  firstname2="Oona"
+  lastname2="Ferino"
+  email="Oona.Ferino@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>77.636</random_float>
+  <bool>false</bool>
+  <date>1997-05-07</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jaime</elt><elt>Blake</elt><elt>Nerta</elt><elt>Bibby</elt><elt>Etta</elt>  
+  <Oona>
+    <age>29</age>
+  </Oona>
+</root>

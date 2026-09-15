@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Xylina"
+  lastname="Pulsifer"
+  city="Tirana"
+  country="Tokelau"
+  firstname2="Susan"
+  lastname2="Libna"
+  email="Susan.Libna@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>41.029</random_float>
+  <bool>false</bool>
+  <date>1981-03-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kathi</elt><elt>Fernande</elt><elt>Jacquetta</elt><elt>Atlanta</elt><elt>Marsiella</elt>  
+  <Susan>
+    <age>48</age>
+  </Susan>
+</root>

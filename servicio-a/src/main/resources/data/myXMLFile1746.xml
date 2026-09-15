@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mignon"
+  lastname="Pacorro"
+  city="Bursa"
+  country="Canada"
+  firstname2="Babita"
+  lastname2="Argus"
+  email="Babita.Argus@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>51.106</random_float>
+  <bool>false</bool>
+  <date>1986-11-28</date>
+  <regEx>hellooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mara</elt><elt>Karly</elt><elt>Georgetta</elt><elt>Karly</elt><elt>Jessamyn</elt>  
+  <Babita>
+    <age>90</age>
+  </Babita>
+</root>

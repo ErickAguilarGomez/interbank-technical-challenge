@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vivia"
+  lastname="Holbrook"
+  city="Vatican City"
+  country="Holy See (Vatican City State)"
+  firstname2="Leanna"
+  lastname2="Gregrory"
+  email="Leanna.Gregrory@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>21.746</random_float>
+  <bool>true</bool>
+  <date>1996-01-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sandie</elt><elt>Nonnah</elt><elt>Margarette</elt><elt>Sue</elt><elt>Lily</elt>  
+  <Leanna>
+    <age>54</age>
+  </Leanna>
+</root>

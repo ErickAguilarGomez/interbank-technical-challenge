@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dione"
+  lastname="Barney"
+  city="Raleigh"
+  country="Finland"
+  firstname2="Krystle"
+  lastname2="Elephus"
+  email="Krystle.Elephus@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>94.021</random_float>
+  <bool>true</bool>
+  <date>1993-11-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rosabelle</elt><elt>Joeann</elt><elt>Wynne</elt><elt>Arabel</elt><elt>Merci</elt>  
+  <Krystle>
+    <age>81</age>
+  </Krystle>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Wu"
+  city="Havana"
+  country="Mauritania"
+  firstname2="Merci"
+  lastname2="Taima"
+  email="Merci.Taima@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>99.566</random_float>
+  <bool>false</bool>
+  <date>1996-11-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lexine</elt><elt>Rori</elt><elt>Correy</elt><elt>Sheelagh</elt><elt>Althea</elt>  
+  <Merci>
+    <age>71</age>
+  </Merci>
+</root>

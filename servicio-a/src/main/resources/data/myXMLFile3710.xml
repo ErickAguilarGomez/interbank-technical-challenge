@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Talya"
+  lastname="Eachern"
+  city="Ahmedabad"
+  country="Tanzania, United Republic of"
+  firstname2="Marti"
+  lastname2="Sprage"
+  email="Marti.Sprage@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>11.511</random_float>
+  <bool>true</bool>
+  <date>1980-11-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Roseline</elt><elt>Gianina</elt><elt>Wynne</elt><elt>Augustine</elt><elt>Sissy</elt>  
+  <Marti>
+    <age>83</age>
+  </Marti>
+</root>

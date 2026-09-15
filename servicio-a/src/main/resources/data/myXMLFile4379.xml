@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gratia"
+  lastname="Leary"
+  city="Horta (Azores)"
+  country="Chile"
+  firstname2="Miquela"
+  lastname2="Jotham"
+  email="Miquela.Jotham@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>63.649</random_float>
+  <bool>true</bool>
+  <date>1997-10-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Bernie</elt><elt>Fina</elt><elt>Mireielle</elt><elt>Gretal</elt><elt>Jolyn</elt>  
+  <Miquela>
+    <age>22</age>
+  </Miquela>
+</root>

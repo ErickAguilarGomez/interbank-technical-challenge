@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardeen"
+  lastname="Artie"
+  city="Port-au-Prince"
+  country="Svalbard and Jan Mayen"
+  firstname2="Nananne"
+  lastname2="Therine"
+  email="Nananne.Therine@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>60.263</random_float>
+  <bool>false</bool>
+  <date>1999-08-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sharlene</elt><elt>Aurelie</elt><elt>Chastity</elt><elt>Meghann</elt><elt>Thalia</elt>  
+  <Nananne>
+    <age>55</age>
+  </Nananne>
+</root>

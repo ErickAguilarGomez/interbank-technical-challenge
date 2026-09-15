@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="Holbrook"
+  city="Buffalo"
+  country="Uruguay"
+  firstname2="Jaime"
+  lastname2="Bevin"
+  email="Jaime.Bevin@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>75.933</random_float>
+  <bool>true</bool>
+  <date>1983-09-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Marcelline</elt><elt>Rozele</elt><elt>Shaine</elt><elt>Lindie</elt><elt>Catharine</elt>  
+  <Jaime>
+    <age>38</age>
+  </Jaime>
+</root>

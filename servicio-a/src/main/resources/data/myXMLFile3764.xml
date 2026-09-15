@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tori"
+  lastname="Ellord"
+  city="Kobe"
+  country="Azerbaijan"
+  firstname2="Anthia"
+  lastname2="Tarrant"
+  email="Anthia.Tarrant@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>83.341</random_float>
+  <bool>false</bool>
+  <date>1986-04-10</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ardeen</elt><elt>Tressa</elt><elt>Evaleen</elt><elt>Helsa</elt><elt>Marita</elt>  
+  <Anthia>
+    <age>46</age>
+  </Anthia>
+</root>

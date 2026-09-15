@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corly"
+  lastname="Gwenore"
+  city="New York City"
+  country="Guam"
+  firstname2="Hettie"
+  lastname2="Aloise"
+  email="Hettie.Aloise@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>94.349</random_float>
+  <bool>true</bool>
+  <date>1985-10-15</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Briney</elt><elt>Gale</elt><elt>Nessie</elt><elt>Teddie</elt><elt>Elyssa</elt>  
+  <Hettie>
+    <age>28</age>
+  </Hettie>
+</root>

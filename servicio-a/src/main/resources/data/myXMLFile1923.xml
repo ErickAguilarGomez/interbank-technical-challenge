@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jordan"
+  lastname="Gladstone"
+  city="Aberdeen"
+  country="Virgin Islands, U.S."
+  firstname2="Rosene"
+  lastname2="Schroth"
+  email="Rosene.Schroth@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>100.705</random_float>
+  <bool>true</bool>
+  <date>1992-05-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alisha</elt><elt>Consuela</elt><elt>Melodie</elt><elt>Madelle</elt><elt>Elyssa</elt>  
+  <Rosene>
+    <age>60</age>
+  </Rosene>
+</root>

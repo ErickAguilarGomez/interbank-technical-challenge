@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candi"
+  lastname="Argus"
+  city="Hiroshima"
+  country="Iceland"
+  firstname2="Orelia"
+  lastname2="Erskine"
+  email="Orelia.Erskine@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>82.281</random_float>
+  <bool>false</bool>
+  <date>1992-09-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Philis</elt><elt>Deane</elt><elt>Aili</elt><elt>Lanna</elt><elt>Ira</elt>  
+  <Orelia>
+    <age>82</age>
+  </Orelia>
+</root>

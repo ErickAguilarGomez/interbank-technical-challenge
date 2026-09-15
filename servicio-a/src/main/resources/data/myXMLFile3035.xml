@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenda"
+  lastname="Elephus"
+  city="Hat Yai"
+  country="French Polynesia"
+  firstname2="Bobbi"
+  lastname2="Bartlett"
+  email="Bobbi.Bartlett@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>16.065</random_float>
+  <bool>false</bool>
+  <date>1982-02-15</date>
+  <regEx>helloooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Bibby</elt><elt>Merci</elt><elt>Jobi</elt><elt>Tatiania</elt><elt>Bobinette</elt>  
+  <Bobbi>
+    <age>62</age>
+  </Bobbi>
+</root>

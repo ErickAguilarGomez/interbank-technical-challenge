@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sharai"
+  lastname="Himelman"
+  city="Kota Kinabalu"
+  country="Guinea-Bissau"
+  firstname2="Viki"
+  lastname2="Mandler"
+  email="Viki.Mandler@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>58.455</random_float>
+  <bool>false</bool>
+  <date>1982-11-17</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sandie</elt><elt>Agnese</elt><elt>Nadine</elt><elt>Fred</elt><elt>Susan</elt>  
+  <Viki>
+    <age>29</age>
+  </Viki>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adore"
+  lastname="Ambrosia"
+  city="Bridgetown"
+  country="Anguilla"
+  firstname2="Olwen"
+  lastname2="Clarissa"
+  email="Olwen.Clarissa@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>83.153</random_float>
+  <bool>true</bool>
+  <date>1994-10-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Madeleine</elt><elt>Devina</elt><elt>Cyndie</elt><elt>Lyssa</elt><elt>Dede</elt>  
+  <Olwen>
+    <age>48</age>
+  </Olwen>
+</root>

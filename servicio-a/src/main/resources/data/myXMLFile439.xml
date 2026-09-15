@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Wu"
+  city="Charlotte"
+  country="Kiribati"
+  firstname2="Bibby"
+  lastname2="Buffum"
+  email="Bibby.Buffum@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>38.65</random_float>
+  <bool>false</bool>
+  <date>1980-09-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Odessa</elt><elt>Laurene</elt><elt>Jsandye</elt><elt>Bobinette</elt><elt>Carol-Jean</elt>  
+  <Bibby>
+    <age>84</age>
+  </Bibby>
+</root>

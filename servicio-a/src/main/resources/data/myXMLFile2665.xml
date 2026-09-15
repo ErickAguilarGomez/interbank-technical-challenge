@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corina"
+  lastname="Cohdwell"
+  city="Paramaribo"
+  country="France"
+  firstname2="Allyce"
+  lastname2="August"
+  email="Allyce.August@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>52.04</random_float>
+  <bool>true</bool>
+  <date>1993-09-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Eadie</elt><elt>Pollyanna</elt><elt>Renie</elt><elt>Joy</elt><elt>Fayre</elt>  
+  <Allyce>
+    <age>48</age>
+  </Allyce>
+</root>

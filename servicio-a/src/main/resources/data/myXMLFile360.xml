@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emmey"
+  lastname="Abbot"
+  city="Basse-Terre"
+  country="Anguilla"
+  firstname2="Kirstin"
+  lastname2="Madelene"
+  email="Kirstin.Madelene@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>21.784</random_float>
+  <bool>false</bool>
+  <date>1996-10-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Brianna</elt><elt>Doro</elt><elt>Judy</elt><elt>Justinn</elt><elt>Kaja</elt>  
+  <Kirstin>
+    <age>87</age>
+  </Kirstin>
+</root>

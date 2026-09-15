@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lorenza"
+  lastname="Vharat"
+  city="Dakar"
+  country="El Salvador"
+  firstname2="Brietta"
+  lastname2="Edee"
+  email="Brietta.Edee@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>14.46</random_float>
+  <bool>false</bool>
+  <date>1996-06-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Kimberley</elt><elt>Briney</elt><elt>Briney</elt><elt>Binny</elt><elt>Candi</elt>  
+  <Brietta>
+    <age>59</age>
+  </Brietta>
+</root>

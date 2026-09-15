@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ricky"
+  lastname="Codding"
+  city="Santiago de Cuba"
+  country="AndorrA"
+  firstname2="Sandie"
+  lastname2="Shama"
+  email="Sandie.Shama@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>87.965</random_float>
+  <bool>true</bool>
+  <date>1993-03-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Cassondra</elt><elt>Glynnis</elt><elt>Annaliese</elt><elt>Arlena</elt><elt>Hollie</elt>  
+  <Sandie>
+    <age>74</age>
+  </Sandie>
+</root>

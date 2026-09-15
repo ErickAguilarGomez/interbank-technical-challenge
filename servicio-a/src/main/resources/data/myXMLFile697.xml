@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Kenwood"
+  city="Chiang Mai"
+  country="Guyana"
+  firstname2="Courtnay"
+  lastname2="Buttaro"
+  email="Courtnay.Buttaro@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>56.278</random_float>
+  <bool>false</bool>
+  <date>1997-06-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Renae</elt><elt>Tina</elt><elt>Laurene</elt><elt>Elfreda</elt><elt>Jenda</elt>  
+  <Courtnay>
+    <age>76</age>
+  </Courtnay>
+</root>

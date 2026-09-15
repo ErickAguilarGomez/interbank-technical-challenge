@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ebonee"
+  lastname="Wu"
+  city="Ürümqi"
+  country="Switzerland"
+  firstname2="Marguerite"
+  lastname2="Koehler"
+  email="Marguerite.Koehler@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>30.843</random_float>
+  <bool>false</bool>
+  <date>1985-08-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Berta</elt><elt>Quintina</elt><elt>Caritta</elt><elt>Lanna</elt><elt>Marsiella</elt>  
+  <Marguerite>
+    <age>28</age>
+  </Marguerite>
+</root>

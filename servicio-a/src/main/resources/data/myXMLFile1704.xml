@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Japeth"
+  city="Thessaloniki"
+  country="Djibouti"
+  firstname2="Aryn"
+  lastname2="Hillel"
+  email="Aryn.Hillel@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>42.094</random_float>
+  <bool>false</bool>
+  <date>1989-08-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Queenie</elt><elt>Moyna</elt><elt>Sam</elt><elt>Kirstin</elt><elt>Rayna</elt>  
+  <Aryn>
+    <age>79</age>
+  </Aryn>
+</root>

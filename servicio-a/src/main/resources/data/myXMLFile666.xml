@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phedra"
+  lastname="Ethban"
+  city="Lahore"
+  country="Kenya"
+  firstname2="Valli"
+  lastname2="Peonir"
+  email="Valli.Peonir@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>74.705</random_float>
+  <bool>true</bool>
+  <date>1997-04-18</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Emma</elt><elt>Hettie</elt><elt>Ana</elt><elt>Tami</elt><elt>Rosanne</elt>  
+  <Valli>
+    <age>96</age>
+  </Valli>
+</root>

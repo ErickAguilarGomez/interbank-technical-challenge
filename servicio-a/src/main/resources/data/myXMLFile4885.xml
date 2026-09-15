@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shandie"
+  lastname="Vanni"
+  city="Alofi"
+  country="Hungary"
+  firstname2="Charlena"
+  lastname2="Evvie"
+  email="Charlena.Evvie@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>77.383</random_float>
+  <bool>true</bool>
+  <date>1985-10-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Shel</elt><elt>Riannon</elt><elt>Christy</elt><elt>Codie</elt><elt>Melisent</elt>  
+  <Charlena>
+    <age>28</age>
+  </Charlena>
+</root>

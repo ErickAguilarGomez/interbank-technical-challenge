@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyndie"
+  lastname="Wooster"
+  city="Durban"
+  country="United States Minor Outlying Islands"
+  firstname2="Netty"
+  lastname2="Lacombe"
+  email="Netty.Lacombe@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>10.443</random_float>
+  <bool>false</bool>
+  <date>1982-03-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Sybille</elt><elt>Winifred</elt><elt>Carol-Jean</elt><elt>Arabel</elt><elt>Gretal</elt>  
+  <Netty>
+    <age>18</age>
+  </Netty>
+</root>

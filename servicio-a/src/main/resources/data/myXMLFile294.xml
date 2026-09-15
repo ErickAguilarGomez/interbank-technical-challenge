@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paulita"
+  lastname="Kiyoshi"
+  city="Tokyo"
+  country="Zambia"
+  firstname2="Mildrid"
+  lastname2="Nedrud"
+  email="Mildrid.Nedrud@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>41.266</random_float>
+  <bool>true</bool>
+  <date>1997-03-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Charmaine</elt><elt>Carmencita</elt><elt>Ketti</elt><elt>Shaylyn</elt><elt>Nataline</elt>  
+  <Mildrid>
+    <age>79</age>
+  </Mildrid>
+</root>

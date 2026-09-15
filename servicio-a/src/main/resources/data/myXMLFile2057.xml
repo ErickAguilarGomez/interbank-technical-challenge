@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deedee"
+  lastname="Lay"
+  city="Almaty"
+  country="Panama"
+  firstname2="Randa"
+  lastname2="Hilbert"
+  email="Randa.Hilbert@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>81.644</random_float>
+  <bool>false</bool>
+  <date>1982-09-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Anthia</elt><elt>Kelly</elt><elt>Helsa</elt><elt>Lynde</elt><elt>Edith</elt>  
+  <Randa>
+    <age>48</age>
+  </Randa>
+</root>

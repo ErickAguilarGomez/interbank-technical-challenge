@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paulita"
+  lastname="Mandler"
+  city="Dhaka"
+  country="Hong Kong"
+  firstname2="Jaime"
+  lastname2="Teddman"
+  email="Jaime.Teddman@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>95.558</random_float>
+  <bool>false</bool>
+  <date>1991-08-15</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sandie</elt><elt>Ginnie</elt><elt>Tobe</elt><elt>Jere</elt><elt>Ardeen</elt>  
+  <Jaime>
+    <age>40</age>
+  </Jaime>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Veda"
+  lastname="Read"
+  city="Nashville"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Asia"
+  lastname2="Quinn"
+  email="Asia.Quinn@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>98.904</random_float>
+  <bool>false</bool>
+  <date>1986-01-23</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kelly</elt><elt>Gerrie</elt><elt>Gratia</elt><elt>Celisse</elt><elt>Camile</elt>  
+  <Asia>
+    <age>26</age>
+  </Asia>
+</root>

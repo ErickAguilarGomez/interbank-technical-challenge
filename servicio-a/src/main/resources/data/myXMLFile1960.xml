@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jasmina"
+  lastname="Land"
+  city="Malacca Town"
+  country="Spain"
+  firstname2="Raquela"
+  lastname2="Jenness"
+  email="Raquela.Jenness@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>26.693</random_float>
+  <bool>true</bool>
+  <date>1991-03-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Chere</elt><elt>Wilma</elt><elt>Ginnie</elt><elt>Alleen</elt><elt>Zondra</elt>  
+  <Raquela>
+    <age>29</age>
+  </Raquela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Millie"
+  lastname="Primalia"
+  city="Maseru"
+  country="Japan"
+  firstname2="Marguerite"
+  lastname2="Pelagias"
+  email="Marguerite.Pelagias@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>96.586</random_float>
+  <bool>false</bool>
+  <date>1989-05-20</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Danny</elt><elt>Wilma</elt><elt>Magdalena</elt><elt>Benita</elt><elt>Bernie</elt>  
+  <Marguerite>
+    <age>93</age>
+  </Marguerite>
+</root>

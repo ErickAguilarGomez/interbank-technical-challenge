@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Peg"
+  city="Murmansk"
+  country="United Arab Emirates"
+  firstname2="Evaleen"
+  lastname2="Madox"
+  email="Evaleen.Madox@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>16.859</random_float>
+  <bool>false</bool>
+  <date>1989-07-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ginnie</elt><elt>Leona</elt><elt>Darci</elt><elt>Lita</elt><elt>Eolanda</elt>  
+  <Evaleen>
+    <age>22</age>
+  </Evaleen>
+</root>

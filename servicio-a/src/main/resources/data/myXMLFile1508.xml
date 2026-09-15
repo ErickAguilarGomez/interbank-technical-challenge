@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hyacinthe"
+  lastname="My"
+  city="Jakarta"
+  country="Hong Kong"
+  firstname2="Ariela"
+  lastname2="Leary"
+  email="Ariela.Leary@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>71.646</random_float>
+  <bool>true</bool>
+  <date>1981-06-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Collen</elt><elt>Oralee</elt><elt>Natka</elt><elt>Corly</elt><elt>Marylou</elt>  
+  <Ariela>
+    <age>76</age>
+  </Ariela>
+</root>

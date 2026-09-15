@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Moseley"
+  city="Norilsk"
+  country="Chile"
+  firstname2="Mildrid"
+  lastname2="Korey"
+  email="Mildrid.Korey@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>60.691</random_float>
+  <bool>true</bool>
+  <date>1980-02-12</date>
+  <regEx>hellooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Albertina</elt><elt>Helsa</elt><elt>Noelle</elt><elt>Amelia</elt><elt>Gerrie</elt>  
+  <Mildrid>
+    <age>33</age>
+  </Mildrid>
+</root>

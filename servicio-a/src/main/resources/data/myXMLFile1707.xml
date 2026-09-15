@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dacia"
+  lastname="Gillan"
+  city="Tehran"
+  country="Guinea"
+  firstname2="Ulrike"
+  lastname2="Artie"
+  email="Ulrike.Artie@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>64.384</random_float>
+  <bool>true</bool>
+  <date>1992-05-19</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Romona</elt><elt>Konstance</elt><elt>Glenda</elt><elt>Gusella</elt><elt>Theodora</elt>  
+  <Ulrike>
+    <age>95</age>
+  </Ulrike>
+</root>

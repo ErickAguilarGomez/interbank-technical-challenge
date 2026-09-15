@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Freddi"
+  city="Milan"
+  country="Belarus"
+  firstname2="Melina"
+  lastname2="Marlie"
+  email="Melina.Marlie@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>64.563</random_float>
+  <bool>true</bool>
+  <date>1986-07-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Desirae</elt><elt>Kial</elt><elt>Deloria</elt><elt>Benita</elt><elt>Sheelagh</elt>  
+  <Melina>
+    <age>27</age>
+  </Melina>
+</root>

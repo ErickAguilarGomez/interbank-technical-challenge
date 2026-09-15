@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darci"
+  lastname="Baylor"
+  city="Lilongwe"
+  country="Chile"
+  firstname2="Alisha"
+  lastname2="Goddard"
+  email="Alisha.Goddard@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>17.847</random_float>
+  <bool>false</bool>
+  <date>1992-10-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Di</elt><elt>Lita</elt><elt>Rivalee</elt><elt>Bobinette</elt><elt>Riannon</elt>  
+  <Alisha>
+    <age>52</age>
+  </Alisha>
+</root>

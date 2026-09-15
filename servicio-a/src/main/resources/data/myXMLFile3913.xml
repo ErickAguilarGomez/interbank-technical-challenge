@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ginnie"
+  lastname="Ezar"
+  city="Anadyr (town)"
+  country="Monaco"
+  firstname2="Ira"
+  lastname2="Muriel"
+  email="Ira.Muriel@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>74.728</random_float>
+  <bool>true</bool>
+  <date>1986-02-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sheree</elt><elt>Tani</elt><elt>Catrina</elt><elt>Wendi</elt><elt>Frances</elt>  
+  <Ira>
+    <age>34</age>
+  </Ira>
+</root>

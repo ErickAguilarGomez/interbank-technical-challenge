@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gabi"
+  lastname="Devlen"
+  city="Sukhumi"
+  country="Namibia"
+  firstname2="Korrie"
+  lastname2="Strephon"
+  email="Korrie.Strephon@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>60.359</random_float>
+  <bool>true</bool>
+  <date>1988-10-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Caryl</elt><elt>Kirbee</elt><elt>Zia</elt><elt>Phedra</elt><elt>Mary</elt>  
+  <Korrie>
+    <age>22</age>
+  </Korrie>
+</root>

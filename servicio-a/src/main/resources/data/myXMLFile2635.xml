@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ellette"
+  lastname="Gladstone"
+  city="Rabat"
+  country="Estonia"
+  firstname2="Olwen"
+  lastname2="Sabella"
+  email="Olwen.Sabella@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>12.03</random_float>
+  <bool>false</bool>
+  <date>1994-02-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Linet</elt><elt>Ebonee</elt><elt>Randa</elt><elt>Merrie</elt><elt>Nariko</elt>  
+  <Olwen>
+    <age>45</age>
+  </Olwen>
+</root>

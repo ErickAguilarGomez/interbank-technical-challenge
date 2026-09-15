@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elise"
+  lastname="Natalia"
+  city="Skopje"
+  country="Grenada"
+  firstname2="Bobbi"
+  lastname2="Buttaro"
+  email="Bobbi.Buttaro@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>22.216</random_float>
+  <bool>true</bool>
+  <date>1982-05-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Britte</elt><elt>Corly</elt><elt>Dale</elt><elt>Zaria</elt><elt>Ricky</elt>  
+  <Bobbi>
+    <age>99</age>
+  </Bobbi>
+</root>

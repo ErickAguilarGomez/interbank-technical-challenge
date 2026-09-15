@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Priscilla"
+  lastname="Thar"
+  city="Mersin"
+  country="Latvia"
+  firstname2="Clementine"
+  lastname2="Stelle"
+  email="Clementine.Stelle@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>69.572</random_float>
+  <bool>true</bool>
+  <date>1982-05-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Layla</elt><elt>Gusella</elt><elt>Hope</elt><elt>Siana</elt><elt>Asia</elt>  
+  <Clementine>
+    <age>25</age>
+  </Clementine>
+</root>

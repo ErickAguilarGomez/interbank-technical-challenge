@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susette"
+  lastname="Pascia"
+  city="Osaka"
+  country="Qatar"
+  firstname2="Donetta"
+  lastname2="Slifka"
+  email="Donetta.Slifka@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>8.782</random_float>
+  <bool>true</bool>
+  <date>1984-12-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aurore</elt><elt>Sindee</elt><elt>Maurene</elt><elt>Yolane</elt><elt>Courtnay</elt>  
+  <Donetta>
+    <age>29</age>
+  </Donetta>
+</root>

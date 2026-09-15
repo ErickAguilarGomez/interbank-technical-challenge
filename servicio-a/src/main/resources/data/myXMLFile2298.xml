@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tersina"
+  lastname="Beniamino"
+  city="Regina"
+  country="Palau"
+  firstname2="Celisse"
+  lastname2="Gusella"
+  email="Celisse.Gusella@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>60.678</random_float>
+  <bool>false</bool>
+  <date>1996-10-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Doralynne</elt><elt>Gwyneth</elt><elt>Malina</elt><elt>Corry</elt><elt>Frances</elt>  
+  <Celisse>
+    <age>42</age>
+  </Celisse>
+</root>

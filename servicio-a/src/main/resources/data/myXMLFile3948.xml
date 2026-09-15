@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joy"
+  lastname="Parette"
+  city="Ho Chi Minh City"
+  country="Samoa"
+  firstname2="Penelopa"
+  lastname2="Means"
+  email="Penelopa.Means@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>71.214</random_float>
+  <bool>false</bool>
+  <date>1993-06-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Alyssa</elt><elt>Hermione</elt><elt>Margarette</elt><elt>Madalyn</elt><elt>Alejandra</elt>  
+  <Penelopa>
+    <age>43</age>
+  </Penelopa>
+</root>

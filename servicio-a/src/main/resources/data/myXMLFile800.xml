@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roseline"
+  lastname="Xerxes"
+  city="Toronto"
+  country="Mali"
+  firstname2="Emelina"
+  lastname2="Plato"
+  email="Emelina.Plato@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>12.46</random_float>
+  <bool>true</bool>
+  <date>1981-01-29</date>
+  <regEx>helloooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Laure</elt><elt>Ivett</elt><elt>Joleen</elt><elt>Aaren</elt><elt>Mariann</elt>  
+  <Emelina>
+    <age>93</age>
+  </Emelina>
+</root>

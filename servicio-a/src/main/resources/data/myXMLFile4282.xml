@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lulita"
+  lastname="Fink"
+  city="Naples"
+  country="Turkmenistan"
+  firstname2="Madalyn"
+  lastname2="Konyn"
+  email="Madalyn.Konyn@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>85.49</random_float>
+  <bool>true</bool>
+  <date>1994-07-11</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Roslyn</elt><elt>Constance</elt><elt>Zondra</elt><elt>Renie</elt><elt>Nickie</elt>  
+  <Madalyn>
+    <age>18</age>
+  </Madalyn>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jean"
+  lastname="Terrence"
+  city="Wuhan"
+  country="Central African Republic"
+  firstname2="Robinia"
+  lastname2="Jagir"
+  email="Robinia.Jagir@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>93.596</random_float>
+  <bool>true</bool>
+  <date>1994-06-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Genovera</elt><elt>Veda</elt><elt>Emmey</elt><elt>Cyb</elt><elt>Halette</elt>  
+  <Robinia>
+    <age>50</age>
+  </Robinia>
+</root>

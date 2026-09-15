@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Ochs"
+  city="Edinburgh"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Cristabel"
+  lastname2="Hepsibah"
+  email="Cristabel.Hepsibah@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>45.663</random_float>
+  <bool>false</bool>
+  <date>1992-03-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sheree</elt><elt>Amara</elt><elt>Celisse</elt><elt>Chandra</elt><elt>Courtnay</elt>  
+  <Cristabel>
+    <age>56</age>
+  </Cristabel>
+</root>

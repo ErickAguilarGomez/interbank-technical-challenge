@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candi"
+  lastname="Knowling"
+  city="Ulan Bator"
+  country="Nicaragua"
+  firstname2="Dennie"
+  lastname2="Payson"
+  email="Dennie.Payson@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>56.999</random_float>
+  <bool>true</bool>
+  <date>1988-02-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Perry</elt><elt>Lily</elt><elt>Carree</elt><elt>Lanna</elt><elt>Karina</elt>  
+  <Dennie>
+    <age>33</age>
+  </Dennie>
+</root>

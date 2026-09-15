@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ketti"
+  lastname="My"
+  city="Guatemala City"
+  country="Kenya"
+  firstname2="Liana"
+  lastname2="Leifeste"
+  email="Liana.Leifeste@yopmail.com"
+  />
+  <random>5</random>
+  <random_float>59.839</random_float>
+  <bool>false</bool>
+  <date>1994-10-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ann-Marie</elt><elt>Sharlene</elt><elt>Max</elt><elt>Cassondra</elt><elt>Carree</elt>  
+  <Liana>
+    <age>39</age>
+  </Liana>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tera"
+  lastname="Eugenia"
+  city="Iqaluit"
+  country="Botswana"
+  firstname2="Katharina"
+  lastname2="Pierette"
+  email="Katharina.Pierette@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>49.736</random_float>
+  <bool>true</bool>
+  <date>1985-12-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dominga</elt><elt>Dania</elt><elt>Amara</elt><elt>Nadine</elt><elt>Chastity</elt>  
+  <Katharina>
+    <age>38</age>
+  </Katharina>
+</root>

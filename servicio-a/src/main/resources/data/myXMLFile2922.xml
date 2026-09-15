@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurelie"
+  lastname="Kathie"
+  city="Taichung"
+  country="Guam"
+  firstname2="Madelle"
+  lastname2="Stilwell"
+  email="Madelle.Stilwell@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>79.109</random_float>
+  <bool>true</bool>
+  <date>1980-02-26</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cindelyn</elt><elt>Valera</elt><elt>Kathi</elt><elt>Alyssa</elt><elt>Mallory</elt>  
+  <Madelle>
+    <age>64</age>
+  </Madelle>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vere"
+  lastname="Roxanna"
+  city="Nagoya"
+  country="Virgin Islands, U.S."
+  firstname2="Oralee"
+  lastname2="Artie"
+  email="Oralee.Artie@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>42.408</random_float>
+  <bool>false</bool>
+  <date>1987-03-10</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elmira</elt><elt>Kylynn</elt><elt>Blake</elt><elt>Darci</elt><elt>Elise</elt>  
+  <Oralee>
+    <age>81</age>
+  </Oralee>
+</root>

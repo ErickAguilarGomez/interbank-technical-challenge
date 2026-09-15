@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Estell"
+  lastname="Dosia"
+  city="Guayaquil"
+  country="Lao People"S Democratic Republic"
+  firstname2="Kial"
+  lastname2="Albertine"
+  email="Kial.Albertine@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>4.048</random_float>
+  <bool>false</bool>
+  <date>1991-11-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Anestassia</elt><elt>Augustine</elt><elt>Doro</elt><elt>Imojean</elt><elt>Dode</elt>  
+  <Kial>
+    <age>45</age>
+  </Kial>
+</root>

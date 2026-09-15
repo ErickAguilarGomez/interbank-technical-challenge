@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanny"
+  lastname="Loleta"
+  city="Almaty"
+  country="Bermuda"
+  firstname2="Tani"
+  lastname2="Behre"
+  email="Tani.Behre@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>66.319</random_float>
+  <bool>true</bool>
+  <date>1995-10-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Giustina</elt><elt>Orsola</elt><elt>Agnese</elt><elt>Jaclyn</elt><elt>Roxane</elt>  
+  <Tani>
+    <age>97</age>
+  </Tani>
+</root>

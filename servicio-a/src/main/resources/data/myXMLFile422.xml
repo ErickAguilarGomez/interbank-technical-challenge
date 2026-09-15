@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carree"
+  lastname="Palocz"
+  city="Regina"
+  country="Timor-Leste"
+  firstname2="Fredericka"
+  lastname2="Rubie"
+  email="Fredericka.Rubie@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>87.879</random_float>
+  <bool>true</bool>
+  <date>1992-09-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Christian</elt><elt>Mary</elt><elt>Caryl</elt><elt>Talya</elt><elt>Vinita</elt>  
+  <Fredericka>
+    <age>98</age>
+  </Fredericka>
+</root>

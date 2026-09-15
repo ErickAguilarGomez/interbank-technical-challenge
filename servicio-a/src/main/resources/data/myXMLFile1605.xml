@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adriana"
+  lastname="Pattin"
+  city="Calgary"
+  country="Korea, Republic of"
+  firstname2="Esmeralda"
+  lastname2="Destinee"
+  email="Esmeralda.Destinee@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>19.991</random_float>
+  <bool>true</bool>
+  <date>1999-04-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Claresta</elt><elt>Tiffie</elt><elt>Cherilyn</elt><elt>Ericka</elt><elt>Tina</elt>  
+  <Esmeralda>
+    <age>22</age>
+  </Esmeralda>
+</root>

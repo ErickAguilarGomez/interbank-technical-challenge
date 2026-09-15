@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Joleen"
+  lastname="Hashim"
+  city="Fredericton"
+  country="Algeria"
+  firstname2="Florencia"
+  lastname2="Creamer"
+  email="Florencia.Creamer@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>59.415</random_float>
+  <bool>true</bool>
+  <date>1990-10-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cordi</elt><elt>Deloria</elt><elt>Carol-Jean</elt><elt>Joelly</elt><elt>Mildrid</elt>  
+  <Florencia>
+    <age>40</age>
+  </Florencia>
+</root>

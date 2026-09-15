@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Guildroy"
+  city="Sydney"
+  country="Mali"
+  firstname2="Petronia"
+  lastname2="Yerkovich"
+  email="Petronia.Yerkovich@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>36.393</random_float>
+  <bool>true</bool>
+  <date>1994-06-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Chickie</elt><elt>Ernesta</elt><elt>Eolanda</elt><elt>Roseline</elt><elt>Tani</elt>  
+  <Petronia>
+    <age>30</age>
+  </Petronia>
+</root>

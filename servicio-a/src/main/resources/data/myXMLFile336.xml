@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alejandra"
+  lastname="Kathie"
+  city="Innsbruck"
+  country="Tuvalu"
+  firstname2="Cacilie"
+  lastname2="Nelsen"
+  email="Cacilie.Nelsen@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>87.731</random_float>
+  <bool>true</bool>
+  <date>1995-01-24</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nadine</elt><elt>Georgina</elt><elt>Gilda</elt><elt>Krystle</elt><elt>Verla</elt>  
+  <Cacilie>
+    <age>53</age>
+  </Cacilie>
+</root>

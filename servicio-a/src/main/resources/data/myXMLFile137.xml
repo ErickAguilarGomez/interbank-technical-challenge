@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Bryna"
+  city="Rabat"
+  country="Togo"
+  firstname2="Roz"
+  lastname2="Zola"
+  email="Roz.Zola@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>30.687</random_float>
+  <bool>true</bool>
+  <date>1980-12-11</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kelly</elt><elt>Judy</elt><elt>Kellen</elt><elt>Lily</elt><elt>Lucy</elt>  
+  <Roz>
+    <age>45</age>
+  </Roz>
+</root>

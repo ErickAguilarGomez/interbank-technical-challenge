@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Micheline"
+  lastname="Janene"
+  city="Lilongwe"
+  country="Marshall Islands"
+  firstname2="Correy"
+  lastname2="Armanda"
+  email="Correy.Armanda@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>21.469</random_float>
+  <bool>true</bool>
+  <date>1982-03-08</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Paola</elt><elt>Karly</elt><elt>Alleen</elt><elt>Adelle</elt><elt>Ginnie</elt>  
+  <Correy>
+    <age>80</age>
+  </Correy>
+</root>

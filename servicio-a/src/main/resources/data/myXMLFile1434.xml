@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winny"
+  lastname="Fancie"
+  city="Pittsburgh"
+  country="Saudi Arabia"
+  firstname2="Reeba"
+  lastname2="Schonfeld"
+  email="Reeba.Schonfeld@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>40.628</random_float>
+  <bool>false</bool>
+  <date>1986-10-19</date>
+  <regEx>helloooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Charlena</elt><elt>Marylou</elt><elt>Lonnie</elt><elt>Marika</elt><elt>Christy</elt>  
+  <Reeba>
+    <age>45</age>
+  </Reeba>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oralee"
+  lastname="Tengdin"
+  city="Havana"
+  country="Equatorial Guinea"
+  firstname2="Esmeralda"
+  lastname2="Elephus"
+  email="Esmeralda.Elephus@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>59.603</random_float>
+  <bool>false</bool>
+  <date>1999-03-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Patricia</elt><elt>Gerrie</elt><elt>Roseline</elt><elt>Dorthy</elt><elt>Morganica</elt>  
+  <Esmeralda>
+    <age>43</age>
+  </Esmeralda>
+</root>

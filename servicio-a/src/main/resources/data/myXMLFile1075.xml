@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chandra"
+  lastname="Allys"
+  city="Bandung"
+  country="Samoa"
+  firstname2="Vinita"
+  lastname2="Reidar"
+  email="Vinita.Reidar@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>73.632</random_float>
+  <bool>true</bool>
+  <date>1984-06-10</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Mahalia</elt><elt>Kenna</elt><elt>Vevay</elt><elt>Florie</elt><elt>Charlena</elt>  
+  <Vinita>
+    <age>33</age>
+  </Vinita>
+</root>

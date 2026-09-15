@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mary"
+  lastname="McLaughlin"
+  city="Strasbourg"
+  country="AndorrA"
+  firstname2="Linzy"
+  lastname2="Craggie"
+  email="Linzy.Craggie@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>24.887</random_float>
+  <bool>false</bool>
+  <date>1991-01-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Amelia</elt><elt>Hayley</elt><elt>Zaria</elt><elt>Mahalia</elt><elt>Marcy</elt>  
+  <Linzy>
+    <age>20</age>
+  </Linzy>
+</root>

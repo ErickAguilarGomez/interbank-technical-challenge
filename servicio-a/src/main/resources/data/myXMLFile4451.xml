@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emma"
+  lastname="Taam"
+  city="Charlotte"
+  country="Finland"
+  firstname2="Kirbee"
+  lastname2="Beebe"
+  email="Kirbee.Beebe@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>15.414</random_float>
+  <bool>true</bool>
+  <date>1999-06-12</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lorenza</elt><elt>Clementine</elt><elt>Sam</elt><elt>Ernesta</elt><elt>Gavrielle</elt>  
+  <Kirbee>
+    <age>24</age>
+  </Kirbee>
+</root>

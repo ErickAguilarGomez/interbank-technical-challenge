@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brandise"
+  lastname="Amand"
+  city="Sitka"
+  country="Nigeria"
+  firstname2="Ketti"
+  lastname2="Knowling"
+  email="Ketti.Knowling@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>40.877</random_float>
+  <bool>false</bool>
+  <date>1998-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Marline</elt><elt>Fanchon</elt><elt>Lexine</elt><elt>Aubrie</elt><elt>Roseline</elt>  
+  <Ketti>
+    <age>87</age>
+  </Ketti>
+</root>

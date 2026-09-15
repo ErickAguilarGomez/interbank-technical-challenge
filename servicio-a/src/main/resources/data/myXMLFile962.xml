@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maridel"
+  lastname="Blisse"
+  city="Ashgabat"
+  country="Latvia"
+  firstname2="Bibby"
+  lastname2="Glovsky"
+  email="Bibby.Glovsky@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>74.993</random_float>
+  <bool>true</bool>
+  <date>1990-10-21</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Odessa</elt><elt>Mariele</elt><elt>Marsiella</elt><elt>Marline</elt><elt>Eadie</elt>  
+  <Bibby>
+    <age>99</age>
+  </Bibby>
+</root>

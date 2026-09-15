@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathy"
+  lastname="Anderea"
+  city="San Diego"
+  country="Bhutan"
+  firstname2="Maurene"
+  lastname2="Stuart"
+  email="Maurene.Stuart@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>34.509</random_float>
+  <bool>false</bool>
+  <date>1987-03-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dominga</elt><elt>Ileana</elt><elt>Lorie</elt><elt>Dolli</elt><elt>Linet</elt>  
+  <Maurene>
+    <age>97</age>
+  </Maurene>
+</root>

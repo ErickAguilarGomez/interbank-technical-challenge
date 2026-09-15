@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ermengarde"
+  lastname="Ries"
+  city="Koulikoro"
+  country="Puerto Rico"
+  firstname2="Priscilla"
+  lastname2="Drus"
+  email="Priscilla.Drus@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>57.626</random_float>
+  <bool>true</bool>
+  <date>1983-08-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mary</elt><elt>Konstance</elt><elt>Brooks</elt><elt>Alex</elt><elt>Taffy</elt>  
+  <Priscilla>
+    <age>29</age>
+  </Priscilla>
+</root>

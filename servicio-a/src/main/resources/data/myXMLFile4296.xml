@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kellen"
+  lastname="Emmy"
+  city="Beijing"
+  country="Philippines"
+  firstname2="Ellette"
+  lastname2="Schalles"
+  email="Ellette.Schalles@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>5.131</random_float>
+  <bool>false</bool>
+  <date>1995-12-24</date>
+  <regEx>hellooo world</regEx>
+  <enum>generator</enum>
+  <elt>Clementine</elt><elt>Elora</elt><elt>Vonny</elt><elt>Corina</elt><elt>Rebeca</elt>  
+  <Ellette>
+    <age>27</age>
+  </Ellette>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Averyl"
+  lastname="Tomasina"
+  city="Thimphu"
+  country="Uruguay"
+  firstname2="Rosabelle"
+  lastname2="Virgin"
+  email="Rosabelle.Virgin@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>54.228</random_float>
+  <bool>false</bool>
+  <date>1983-02-18</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Camile</elt><elt>Roslyn</elt><elt>Diena</elt><elt>Aili</elt><elt>Berget</elt>  
+  <Rosabelle>
+    <age>65</age>
+  </Rosabelle>
+</root>

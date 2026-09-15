@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Han"
+  city="Albuquerque"
+  country="Zambia"
+  firstname2="Joane"
+  lastname2="Gilbertson"
+  email="Joane.Gilbertson@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>96.738</random_float>
+  <bool>false</bool>
+  <date>1988-08-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ingrid</elt><elt>Neila</elt><elt>Eadie</elt><elt>Randa</elt><elt>Lindie</elt>  
+  <Joane>
+    <age>53</age>
+  </Joane>
+</root>

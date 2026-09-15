@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maye"
+  lastname="Linehan"
+  city="Ürümqi"
+  country="Lesotho"
+  firstname2="Mignon"
+  lastname2="Randene"
+  email="Mignon.Randene@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>58.29</random_float>
+  <bool>true</bool>
+  <date>1994-08-30</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lusa</elt><elt>Noelle</elt><elt>Aaren</elt><elt>Myrtice</elt><elt>Joeann</elt>  
+  <Mignon>
+    <age>85</age>
+  </Mignon>
+</root>

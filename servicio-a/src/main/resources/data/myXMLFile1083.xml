@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Daune"
+  lastname="Tarrant"
+  city="Rome"
+  country="Cocos (Keeling) Islands"
+  firstname2="Albertina"
+  lastname2="Gombach"
+  email="Albertina.Gombach@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>54.295</random_float>
+  <bool>false</bool>
+  <date>1981-04-11</date>
+  <regEx>hellooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Chickie</elt><elt>Ericka</elt><elt>Arabel</elt><elt>Starla</elt><elt>Ulrike</elt>  
+  <Albertina>
+    <age>53</age>
+  </Albertina>
+</root>

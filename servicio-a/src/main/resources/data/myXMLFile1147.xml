@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blake"
+  lastname="Moseley"
+  city="Charlotte Amalie"
+  country="Pitcairn"
+  firstname2="Blake"
+  lastname2="Guildroy"
+  email="Blake.Guildroy@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>68.662</random_float>
+  <bool>false</bool>
+  <date>1990-12-30</date>
+  <regEx>helloooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mara</elt><elt>Minne</elt><elt>Laure</elt><elt>Albertina</elt><elt>Max</elt>  
+  <Blake>
+    <age>38</age>
+  </Blake>
+</root>

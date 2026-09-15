@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Florie"
+  lastname="Parsaye"
+  city="Houston"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Jacquetta"
+  lastname2="Gordon"
+  email="Jacquetta.Gordon@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>42.82</random_float>
+  <bool>false</bool>
+  <date>1988-01-14</date>
+  <regEx>helloooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hallie</elt><elt>Coral</elt><elt>Hildegaard</elt><elt>Coral</elt><elt>Margalo</elt>  
+  <Jacquetta>
+    <age>28</age>
+  </Jacquetta>
+</root>

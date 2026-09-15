@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Romona"
+  lastname="Engdahl"
+  city="Ibiza"
+  country="Saint Kitts and Nevis"
+  firstname2="Mallory"
+  lastname2="Hashim"
+  email="Mallory.Hashim@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>80.499</random_float>
+  <bool>false</bool>
+  <date>1996-11-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ernesta</elt><elt>Rivalee</elt><elt>Myrtice</elt><elt>Doro</elt><elt>Jacenta</elt>  
+  <Mallory>
+    <age>91</age>
+  </Mallory>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rozele"
+  lastname="Newell"
+  city="Belgrade"
+  country="Barbados"
+  firstname2="Anestassia"
+  lastname2="Ralfston"
+  email="Anestassia.Ralfston@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>64.021</random_float>
+  <bool>false</bool>
+  <date>1994-10-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rubie</elt><elt>Mary</elt><elt>Harmonia</elt><elt>Marylou</elt><elt>Sissy</elt>  
+  <Anestassia>
+    <age>37</age>
+  </Anestassia>
+</root>

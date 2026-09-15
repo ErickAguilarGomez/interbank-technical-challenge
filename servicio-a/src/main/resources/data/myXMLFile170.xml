@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aeriela"
+  lastname="Agle"
+  city="Tel Aviv"
+  country="Costa Rica"
+  firstname2="Fidelia"
+  lastname2="Bates"
+  email="Fidelia.Bates@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>96.056</random_float>
+  <bool>true</bool>
+  <date>1991-08-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Janenna</elt><elt>Sherrie</elt><elt>Helena</elt><elt>Melanie</elt><elt>Deirdre</elt>  
+  <Fidelia>
+    <age>43</age>
+  </Fidelia>
+</root>

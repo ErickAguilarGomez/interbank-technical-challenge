@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Renae"
+  lastname="Rossner"
+  city="Daegu"
+  country="Viet Nam"
+  firstname2="Lonnie"
+  lastname2="Hartnett"
+  email="Lonnie.Hartnett@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>55.174</random_float>
+  <bool>true</bool>
+  <date>1990-10-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tonia</elt><elt>Audrie</elt><elt>Ileana</elt><elt>Adriana</elt><elt>Nyssa</elt>  
+  <Lonnie>
+    <age>64</age>
+  </Lonnie>
+</root>

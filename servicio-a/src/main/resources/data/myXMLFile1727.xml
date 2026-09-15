@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dyann"
+  lastname="August"
+  city="Vientiane"
+  country="Vanuatu"
+  firstname2="Sonni"
+  lastname2="Cyrie"
+  email="Sonni.Cyrie@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>10.012</random_float>
+  <bool>true</bool>
+  <date>1992-12-19</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Patricia</elt><elt>Carol-Jean</elt><elt>Annice</elt><elt>Eadie</elt><elt>Vevay</elt>  
+  <Sonni>
+    <age>69</age>
+  </Sonni>
+</root>

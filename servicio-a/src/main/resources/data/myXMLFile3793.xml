@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Palocz"
+  city="Ottawa"
+  country="Latvia"
+  firstname2="Ariela"
+  lastname2="Tremayne"
+  email="Ariela.Tremayne@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>22.065</random_float>
+  <bool>true</bool>
+  <date>1984-04-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Minda</elt><elt>Rori</elt><elt>Mathilda</elt><elt>Sadie</elt><elt>Merrie</elt>  
+  <Ariela>
+    <age>96</age>
+  </Ariela>
+</root>

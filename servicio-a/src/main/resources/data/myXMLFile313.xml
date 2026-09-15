@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deirdre"
+  lastname="Arquit"
+  city="Enugu"
+  country="United Arab Emirates"
+  firstname2="Allyce"
+  lastname2="Ade"
+  email="Allyce.Ade@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>77.644</random_float>
+  <bool>true</bool>
+  <date>1984-10-19</date>
+  <regEx>hellooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nyssa</elt><elt>Noelle</elt><elt>Vonny</elt><elt>Julieta</elt><elt>Nerta</elt>  
+  <Allyce>
+    <age>53</age>
+  </Allyce>
+</root>

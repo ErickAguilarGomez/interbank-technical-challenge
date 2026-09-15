@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Heida"
+  lastname="Hanshaw"
+  city="Bilbao"
+  country="Haiti"
+  firstname2="Gianina"
+  lastname2="Vittoria"
+  email="Gianina.Vittoria@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>4.647</random_float>
+  <bool>true</bool>
+  <date>1999-09-11</date>
+  <regEx>helloooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sidoney</elt><elt>Valera</elt><elt>Ileana</elt><elt>Rosabelle</elt><elt>Priscilla</elt>  
+  <Gianina>
+    <age>88</age>
+  </Gianina>
+</root>

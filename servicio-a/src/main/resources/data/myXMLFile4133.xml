@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janeczka"
+  lastname="Amasa"
+  city="Algiers"
+  country="British Indian Ocean Territory"
+  firstname2="Lynde"
+  lastname2="Primalia"
+  email="Lynde.Primalia@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>47.672</random_float>
+  <bool>false</bool>
+  <date>1999-10-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Jessamyn</elt><elt>Ruthe</elt><elt>Judy</elt><elt>Tori</elt><elt>Perry</elt>  
+  <Lynde>
+    <age>50</age>
+  </Lynde>
+</root>

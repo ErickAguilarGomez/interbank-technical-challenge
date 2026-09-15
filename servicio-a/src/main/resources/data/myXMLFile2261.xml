@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jorry"
+  lastname="Imelida"
+  city="Santiago"
+  country="Kazakhstan"
+  firstname2="Allyce"
+  lastname2="Sinegold"
+  email="Allyce.Sinegold@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>85.199</random_float>
+  <bool>false</bool>
+  <date>1994-02-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gui</elt><elt>Kaia</elt><elt>Roberta</elt><elt>Lita</elt><elt>Caritta</elt>  
+  <Allyce>
+    <age>64</age>
+  </Allyce>
+</root>

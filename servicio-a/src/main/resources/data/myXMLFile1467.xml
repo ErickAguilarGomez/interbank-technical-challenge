@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ileana"
+  lastname="Rodmann"
+  city="San Francisco"
+  country="United States"
+  firstname2="Inga"
+  lastname2="Brotherson"
+  email="Inga.Brotherson@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>42.676</random_float>
+  <bool>true</bool>
+  <date>1990-12-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Averyl</elt><elt>Jacquetta</elt><elt>Hyacinthe</elt><elt>Darci</elt><elt>Katharina</elt>  
+  <Inga>
+    <age>37</age>
+  </Inga>
+</root>

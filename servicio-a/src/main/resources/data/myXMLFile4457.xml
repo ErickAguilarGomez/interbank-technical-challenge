@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lilith"
+  lastname="Even"
+  city="Tianjin"
+  country="Egypt"
+  firstname2="Glynnis"
+  lastname2="Thad"
+  email="Glynnis.Thad@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>8.835</random_float>
+  <bool>false</bool>
+  <date>1999-09-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Gianina</elt><elt>Camile</elt><elt>Petronia</elt><elt>Kimberley</elt><elt>Latisha</elt>  
+  <Glynnis>
+    <age>89</age>
+  </Glynnis>
+</root>

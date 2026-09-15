@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vanessa"
+  lastname="Gert"
+  city="Las Vegas"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Audrie"
+  lastname2="Sidonius"
+  email="Audrie.Sidonius@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>5.502</random_float>
+  <bool>false</bool>
+  <date>1997-06-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Brena</elt><elt>Raf</elt><elt>Sonni</elt><elt>Sashenka</elt><elt>Margalo</elt>  
+  <Audrie>
+    <age>33</age>
+  </Audrie>
+</root>

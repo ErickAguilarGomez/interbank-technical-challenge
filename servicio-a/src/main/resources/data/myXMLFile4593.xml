@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Antonietta"
+  lastname="Chick"
+  city="Port Louis"
+  country="Fiji"
+  firstname2="Robbi"
+  lastname2="Jarib"
+  email="Robbi.Jarib@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>27.381</random_float>
+  <bool>false</bool>
+  <date>1981-04-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Yolane</elt><elt>Viki</elt><elt>Alyssa</elt><elt>Gwenneth</elt><elt>Gianina</elt>  
+  <Robbi>
+    <age>54</age>
+  </Robbi>
+</root>

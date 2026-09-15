@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kalina"
+  lastname="Seligman"
+  city="Montreal"
+  country="Antigua and Barbuda"
+  firstname2="Merry"
+  lastname2="Allare"
+  email="Merry.Allare@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>49.244</random_float>
+  <bool>false</bool>
+  <date>1989-03-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sarette</elt><elt>Aeriela</elt><elt>Renie</elt><elt>Keelia</elt><elt>Amara</elt>  
+  <Merry>
+    <age>89</age>
+  </Merry>
+</root>

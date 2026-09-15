@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tilly"
+  lastname="Ivens"
+  city="Oslo"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Mellicent"
+  lastname2="Dawkins"
+  email="Mellicent.Dawkins@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>67.993</random_float>
+  <bool>true</bool>
+  <date>1988-04-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Roslyn</elt><elt>Mara</elt><elt>Lacie</elt><elt>Kimmy</elt><elt>Mamie</elt>  
+  <Mellicent>
+    <age>97</age>
+  </Mellicent>
+</root>

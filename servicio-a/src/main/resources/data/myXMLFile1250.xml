@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nikki"
+  lastname="Vale"
+  city="Nanning"
+  country="Cayman Islands"
+  firstname2="Brena"
+  lastname2="Grosz"
+  email="Brena.Grosz@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>76.474</random_float>
+  <bool>false</bool>
+  <date>1995-09-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Etta</elt><elt>Maridel</elt><elt>Ira</elt><elt>Alie</elt><elt>Dacia</elt>  
+  <Brena>
+    <age>38</age>
+  </Brena>
+</root>

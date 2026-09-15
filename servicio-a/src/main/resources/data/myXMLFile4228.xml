@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorice"
+  lastname="Burkle"
+  city="Detroit"
+  country="Puerto Rico"
+  firstname2="Dania"
+  lastname2="Killigrew"
+  email="Dania.Killigrew@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>90.108</random_float>
+  <bool>true</bool>
+  <date>1997-08-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Antonietta</elt><elt>Donnie</elt><elt>Kerrin</elt><elt>Ira</elt><elt>Jaime</elt>  
+  <Dania>
+    <age>79</age>
+  </Dania>
+</root>

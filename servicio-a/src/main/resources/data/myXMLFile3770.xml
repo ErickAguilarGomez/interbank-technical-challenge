@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kore"
+  lastname="Milson"
+  city="Palikir"
+  country="Cocos (Keeling) Islands"
+  firstname2="Ileana"
+  lastname2="Cloris"
+  email="Ileana.Cloris@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>31.297</random_float>
+  <bool>true</bool>
+  <date>1991-12-19</date>
+  <regEx>helloooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jillayne</elt><elt>Basia</elt><elt>Regina</elt><elt>Goldie</elt><elt>June</elt>  
+  <Ileana>
+    <age>49</age>
+  </Ileana>
+</root>

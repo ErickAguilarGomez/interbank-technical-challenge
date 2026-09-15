@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beth"
+  lastname="Posner"
+  city="Gothenburg"
+  country="Tunisia"
+  firstname2="Jolyn"
+  lastname2="Gavrila"
+  email="Jolyn.Gavrila@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>16.037</random_float>
+  <bool>true</bool>
+  <date>1997-07-20</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kaja</elt><elt>Kellen</elt><elt>Lulita</elt><elt>Caressa</elt><elt>Monika</elt>  
+  <Jolyn>
+    <age>86</age>
+  </Jolyn>
+</root>

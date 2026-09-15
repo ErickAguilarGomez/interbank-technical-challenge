@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jillayne"
+  lastname="Raychel"
+  city="Rabi Island"
+  country="Peru"
+  firstname2="Mamie"
+  lastname2="Colbert"
+  email="Mamie.Colbert@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>67.71</random_float>
+  <bool>false</bool>
+  <date>1986-01-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cathyleen</elt><elt>Randa</elt><elt>Arabel</elt><elt>Layla</elt><elt>Blake</elt>  
+  <Mamie>
+    <age>24</age>
+  </Mamie>
+</root>

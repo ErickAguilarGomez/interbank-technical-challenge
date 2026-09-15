@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aurore"
+  lastname="Wenoa"
+  city="Sabha"
+  country="Cameroon"
+  firstname2="Minda"
+  lastname2="Lory"
+  email="Minda.Lory@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>90.875</random_float>
+  <bool>true</bool>
+  <date>1991-12-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Consuela</elt><elt>Elfreda</elt><elt>Dacia</elt><elt>Zaria</elt><elt>Laurene</elt>  
+  <Minda>
+    <age>38</age>
+  </Minda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rayna"
+  lastname="Dimitris"
+  city="Kharkiv"
+  country="Paraguay"
+  firstname2="Tiffie"
+  lastname2="Yam"
+  email="Tiffie.Yam@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>4.078</random_float>
+  <bool>true</bool>
+  <date>1980-11-22</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Paulita</elt><elt>Melisent</elt><elt>Bee</elt><elt>Fanny</elt><elt>Sara-Ann</elt>  
+  <Tiffie>
+    <age>90</age>
+  </Tiffie>
+</root>

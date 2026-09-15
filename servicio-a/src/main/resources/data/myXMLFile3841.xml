@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristan"
+  lastname="Bohlin"
+  city="Roseau"
+  country="Jordan"
+  firstname2="Tiffie"
+  lastname2="Tatianas"
+  email="Tiffie.Tatianas@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>58.15</random_float>
+  <bool>true</bool>
+  <date>1995-02-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Margarette</elt><elt>Aryn</elt><elt>Tami</elt><elt>Cissiee</elt><elt>Misha</elt>  
+  <Tiffie>
+    <age>81</age>
+  </Tiffie>
+</root>

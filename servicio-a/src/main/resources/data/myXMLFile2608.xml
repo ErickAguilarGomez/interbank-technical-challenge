@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kimberley"
+  lastname="Joeann"
+  city="Paris"
+  country="RWANDA"
+  firstname2="Vita"
+  lastname2="Cath"
+  email="Vita.Cath@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>62.793</random_float>
+  <bool>false</bool>
+  <date>1997-11-02</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Stevana</elt><elt>Nessie</elt><elt>Kassey</elt><elt>Edyth</elt><elt>Jennica</elt>  
+  <Vita>
+    <age>37</age>
+  </Vita>
+</root>

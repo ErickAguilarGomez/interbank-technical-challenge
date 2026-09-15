@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Zachary"
+  city="Dammam"
+  country="New Caledonia"
+  firstname2="Pierette"
+  lastname2="Erminia"
+  email="Pierette.Erminia@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>42.295</random_float>
+  <bool>false</bool>
+  <date>1991-05-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Emelina</elt><elt>Chrystel</elt><elt>Ginnie</elt><elt>Sidoney</elt><elt>Nannie</elt>  
+  <Pierette>
+    <age>69</age>
+  </Pierette>
+</root>

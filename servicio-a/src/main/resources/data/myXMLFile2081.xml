@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Kaete"
+  city="Colombo"
+  country="Cayman Islands"
+  firstname2="Konstance"
+  lastname2="Gemini"
+  email="Konstance.Gemini@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>3.476</random_float>
+  <bool>false</bool>
+  <date>1994-10-10</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Celisse</elt><elt>Tobe</elt><elt>Harmonia</elt><elt>Oralee</elt><elt>Adelle</elt>  
+  <Konstance>
+    <age>29</age>
+  </Konstance>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Valera"
+  lastname="Khorma"
+  city="Puerto Williams"
+  country="French Polynesia"
+  firstname2="Jeanna"
+  lastname2="Carey"
+  email="Jeanna.Carey@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>5.711</random_float>
+  <bool>false</bool>
+  <date>1995-08-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Molli</elt><elt>Elsie</elt><elt>Patricia</elt><elt>Evita</elt><elt>Veda</elt>  
+  <Jeanna>
+    <age>65</age>
+  </Jeanna>
+</root>

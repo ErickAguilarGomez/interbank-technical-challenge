@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Di"
+  lastname="Taam"
+  city="Abidjan"
+  country="Lesotho"
+  firstname2="Rayna"
+  lastname2="Fiann"
+  email="Rayna.Fiann@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>40.14</random_float>
+  <bool>true</bool>
+  <date>1989-09-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Wilma</elt><elt>Deirdre</elt><elt>Glynnis</elt><elt>Cristine</elt><elt>Diena</elt>  
+  <Rayna>
+    <age>96</age>
+  </Rayna>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elena"
+  lastname="Aldric"
+  city="Davao City"
+  country="Suriname"
+  firstname2="Ricky"
+  lastname2="Hollingsworth"
+  email="Ricky.Hollingsworth@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>50.623</random_float>
+  <bool>false</bool>
+  <date>1994-02-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dione</elt><elt>Elmira</elt><elt>Elbertina</elt><elt>Lilith</elt><elt>Dawn</elt>  
+  <Ricky>
+    <age>54</age>
+  </Ricky>
+</root>

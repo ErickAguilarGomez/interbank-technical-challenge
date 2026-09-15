@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mathilda"
+  lastname="Rustice"
+  city="Ponta Delgada"
+  country="Bahrain"
+  firstname2="Blondelle"
+  lastname2="Ricarda"
+  email="Blondelle.Ricarda@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>63.064</random_float>
+  <bool>false</bool>
+  <date>1982-05-31</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Chickie</elt><elt>Queenie</elt><elt>Fidelia</elt><elt>Bobbi</elt><elt>Sadie</elt>  
+  <Blondelle>
+    <age>52</age>
+  </Blondelle>
+</root>

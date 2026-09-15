@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allis"
+  lastname="O'Rourke"
+  city="Forked River"
+  country="Belarus"
+  firstname2="Corene"
+  lastname2="Docilla"
+  email="Corene.Docilla@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>46.121</random_float>
+  <bool>true</bool>
+  <date>1986-06-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Celene</elt><elt>Mildrid</elt><elt>Sidoney</elt><elt>Kathi</elt><elt>Gabriellia</elt>  
+  <Corene>
+    <age>91</age>
+  </Corene>
+</root>

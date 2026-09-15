@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosanne"
+  lastname="Karl"
+  city="Murmansk"
+  country="Romania"
+  firstname2="Adele"
+  lastname2="Lanita"
+  email="Adele.Lanita@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>61.907</random_float>
+  <bool>false</bool>
+  <date>1983-06-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Diena</elt><elt>Cassondra</elt><elt>Carlie</elt><elt>Elie</elt><elt>Madalyn</elt>  
+  <Adele>
+    <age>92</age>
+  </Adele>
+</root>

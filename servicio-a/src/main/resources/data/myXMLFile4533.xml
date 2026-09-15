@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Queenie"
+  lastname="Alwin"
+  city="Rio de Janeiro"
+  country="Guinea"
+  firstname2="Fawne"
+  lastname2="Thilda"
+  email="Fawne.Thilda@yopmail.com"
+  />
+  <random>31</random>
+  <random_float>18.864</random_float>
+  <bool>false</bool>
+  <date>1999-04-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Riannon</elt><elt>Krystle</elt><elt>Rani</elt><elt>Belva</elt><elt>Elmira</elt>  
+  <Fawne>
+    <age>98</age>
+  </Fawne>
+</root>

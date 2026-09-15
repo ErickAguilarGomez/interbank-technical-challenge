@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corina"
+  lastname="Judye"
+  city="Jerusalem"
+  country="American Samoa"
+  firstname2="Jacenta"
+  lastname2="Ardra"
+  email="Jacenta.Ardra@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>45.488</random_float>
+  <bool>false</bool>
+  <date>1994-10-27</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Emylee</elt><elt>Angelique</elt><elt>Carmencita</elt><elt>Etta</elt><elt>Nita</elt>  
+  <Jacenta>
+    <age>73</age>
+  </Jacenta>
+</root>

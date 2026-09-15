@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Jaylene"
+  city="Nassau"
+  country="Jamaica"
+  firstname2="Brana"
+  lastname2="An"
+  email="Brana.An@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>11.12</random_float>
+  <bool>false</bool>
+  <date>1987-03-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Sonni</elt><elt>Damaris</elt><elt>Albertina</elt><elt>Blinni</elt><elt>Christy</elt>  
+  <Brana>
+    <age>45</age>
+  </Brana>
+</root>

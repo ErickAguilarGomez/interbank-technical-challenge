@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Amii"
+  lastname="Abram"
+  city="Honolulu"
+  country="Cuba"
+  firstname2="Albertina"
+  lastname2="Felizio"
+  email="Albertina.Felizio@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>59.229</random_float>
+  <bool>true</bool>
+  <date>1996-02-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sam</elt><elt>Mignon</elt><elt>Caryl</elt><elt>Raf</elt><elt>Dulce</elt>  
+  <Albertina>
+    <age>31</age>
+  </Albertina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andree"
+  lastname="Florina"
+  city="Suva"
+  country="Cape Verde"
+  firstname2="Merrie"
+  lastname2="Romelda"
+  email="Merrie.Romelda@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>8.866</random_float>
+  <bool>true</bool>
+  <date>1993-02-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rosaline</elt><elt>Helsa</elt><elt>Florencia</elt><elt>Blinni</elt><elt>Marnia</elt>  
+  <Merrie>
+    <age>84</age>
+  </Merrie>
+</root>

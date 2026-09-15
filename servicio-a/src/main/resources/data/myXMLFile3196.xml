@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charmaine"
+  lastname="Diann"
+  city="Hagåtña"
+  country="Paraguay"
+  firstname2="Cassandra"
+  lastname2="Hessler"
+  email="Cassandra.Hessler@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>90.28</random_float>
+  <bool>false</bool>
+  <date>1982-12-07</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Shandie</elt><elt>Elsie</elt><elt>Nelle</elt><elt>Cherilyn</elt><elt>Marinna</elt>  
+  <Cassandra>
+    <age>94</age>
+  </Cassandra>
+</root>

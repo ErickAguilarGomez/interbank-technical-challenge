@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blake"
+  lastname="Zola"
+  city="Dallas"
+  country="Venezuela"
+  firstname2="Randa"
+  lastname2="Killigrew"
+  email="Randa.Killigrew@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>45.051</random_float>
+  <bool>true</bool>
+  <date>1997-10-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Hettie</elt><elt>Maridel</elt><elt>Orsola</elt><elt>Gilda</elt><elt>Roz</elt>  
+  <Randa>
+    <age>64</age>
+  </Randa>
+</root>

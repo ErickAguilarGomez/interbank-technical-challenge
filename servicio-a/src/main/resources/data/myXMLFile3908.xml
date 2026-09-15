@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Adelle"
+  lastname="Vanni"
+  city="Kyoto"
+  country="Namibia"
+  firstname2="Jinny"
+  lastname2="Mott"
+  email="Jinny.Mott@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>31.95</random_float>
+  <bool>true</bool>
+  <date>1992-06-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Myrtice</elt><elt>Fernande</elt><elt>Ericka</elt><elt>Alejandra</elt><elt>Adele</elt>  
+  <Jinny>
+    <age>33</age>
+  </Jinny>
+</root>

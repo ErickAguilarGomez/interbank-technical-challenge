@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harrietta"
+  lastname="Tamsky"
+  city="Prague"
+  country="Togo"
+  firstname2="Britni"
+  lastname2="Milde"
+  email="Britni.Milde@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>68.492</random_float>
+  <bool>false</bool>
+  <date>1997-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Linet</elt><elt>Kylynn</elt><elt>Cacilie</elt><elt>Elyssa</elt><elt>Bernardine</elt>  
+  <Britni>
+    <age>22</age>
+  </Britni>
+</root>

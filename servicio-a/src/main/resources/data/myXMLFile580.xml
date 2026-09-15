@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darlleen"
+  lastname="Lissi"
+  city="Roseau"
+  country="Saint Helena"
+  firstname2="Alejandra"
+  lastname2="Aaberg"
+  email="Alejandra.Aaberg@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>62.389</random_float>
+  <bool>true</bool>
+  <date>1982-11-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lauryn</elt><elt>Addia</elt><elt>Elise</elt><elt>Gloria</elt><elt>Sindee</elt>  
+  <Alejandra>
+    <age>60</age>
+  </Alejandra>
+</root>

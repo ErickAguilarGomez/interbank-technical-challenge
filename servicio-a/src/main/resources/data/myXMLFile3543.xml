@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ruthe"
+  lastname="Connelly"
+  city="Port Vila"
+  country="Ethiopia"
+  firstname2="Diena"
+  lastname2="Allina"
+  email="Diena.Allina@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>7.236</random_float>
+  <bool>true</bool>
+  <date>1980-08-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Margarette</elt><elt>Anthia</elt><elt>Lily</elt><elt>Siana</elt><elt>Netty</elt>  
+  <Diena>
+    <age>81</age>
+  </Diena>
+</root>

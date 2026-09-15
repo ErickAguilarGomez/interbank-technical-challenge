@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kayla"
+  lastname="Vittoria"
+  city="Surat Thani"
+  country="Mozambique"
+  firstname2="Caritta"
+  lastname2="Neva"
+  email="Caritta.Neva@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>96.018</random_float>
+  <bool>false</bool>
+  <date>2000-01-11</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marguerite</elt><elt>Mariele</elt><elt>Alia</elt><elt>Jenda</elt><elt>Agnese</elt>  
+  <Caritta>
+    <age>73</age>
+  </Caritta>
+</root>

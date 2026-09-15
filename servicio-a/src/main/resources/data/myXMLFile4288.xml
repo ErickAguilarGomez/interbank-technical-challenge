@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Agnese"
+  lastname="Imelida"
+  city="Boston"
+  country="Algeria"
+  firstname2="Mignon"
+  lastname2="Kiersten"
+  email="Mignon.Kiersten@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>61.017</random_float>
+  <bool>true</bool>
+  <date>1984-08-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Amelia</elt><elt>Fayre</elt><elt>Dotty</elt><elt>Ivett</elt><elt>Joleen</elt>  
+  <Mignon>
+    <age>85</age>
+  </Mignon>
+</root>

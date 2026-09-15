@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Jorgan"
+  city="Kota Kinabalu"
+  country="Suriname"
+  firstname2="Ofilia"
+  lastname2="Nerita"
+  email="Ofilia.Nerita@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>31.391</random_float>
+  <bool>true</bool>
+  <date>1992-03-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Brana</elt><elt>Celene</elt><elt>Arlina</elt><elt>Gui</elt><elt>Pamella</elt>  
+  <Ofilia>
+    <age>71</age>
+  </Ofilia>
+</root>

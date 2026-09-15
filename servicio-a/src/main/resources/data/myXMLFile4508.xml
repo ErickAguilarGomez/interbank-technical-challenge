@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jasmina"
+  lastname="Harl"
+  city="Siem Reap"
+  country="Palestinian Territory, Occupied"
+  firstname2="Sandie"
+  lastname2="Euridice"
+  email="Sandie.Euridice@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>11.356</random_float>
+  <bool>false</bool>
+  <date>1983-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jessy</elt><elt>Frances</elt><elt>Tiffie</elt><elt>Noelle</elt><elt>Winny</elt>  
+  <Sandie>
+    <age>62</age>
+  </Sandie>
+</root>

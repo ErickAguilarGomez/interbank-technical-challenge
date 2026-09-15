@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deloria"
+  lastname="Guildroy"
+  city="Saint John"
+  country="Portugal"
+  firstname2="Bibby"
+  lastname2="Raychel"
+  email="Bibby.Raychel@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>5.246</random_float>
+  <bool>true</bool>
+  <date>1999-03-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Britte</elt><elt>Andree</elt><elt>Sara-Ann</elt><elt>Janey</elt><elt>Yolane</elt>  
+  <Bibby>
+    <age>52</age>
+  </Bibby>
+</root>

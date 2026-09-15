@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Silvana"
+  lastname="Narton"
+  city="Santa Cruz de la Sierra"
+  country="Maldives"
+  firstname2="Myrtice"
+  lastname2="Genna"
+  email="Myrtice.Genna@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>29.244</random_float>
+  <bool>false</bool>
+  <date>1994-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ida</elt><elt>Elvira</elt><elt>Arabel</elt><elt>Mureil</elt><elt>Pierette</elt>  
+  <Myrtice>
+    <age>69</age>
+  </Myrtice>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Georgina"
+  lastname="Sammons"
+  city="Hat Yai"
+  country="Guadeloupe"
+  firstname2="Roseline"
+  lastname2="Truc"
+  email="Roseline.Truc@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>49.811</random_float>
+  <bool>false</bool>
+  <date>1987-12-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Antonietta</elt><elt>Lacie</elt><elt>Kaia</elt><elt>Cathyleen</elt><elt>Zsa Zsa</elt>  
+  <Roseline>
+    <age>33</age>
+  </Roseline>
+</root>

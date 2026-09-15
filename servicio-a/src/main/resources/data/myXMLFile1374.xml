@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacquetta"
+  lastname="Tound"
+  city="Antofagasta"
+  country="Venezuela"
+  firstname2="Celisse"
+  lastname2="Holtz"
+  email="Celisse.Holtz@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>70.439</random_float>
+  <bool>true</bool>
+  <date>1995-08-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Fawne</elt><elt>Margarette</elt><elt>Gerrie</elt><elt>Cecile</elt><elt>Natka</elt>  
+  <Celisse>
+    <age>95</age>
+  </Celisse>
+</root>

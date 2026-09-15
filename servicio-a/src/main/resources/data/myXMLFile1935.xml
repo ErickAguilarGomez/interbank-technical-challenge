@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Konstance"
+  lastname="Wyn"
+  city="Turin"
+  country="Cuba"
+  firstname2="Cherilyn"
+  lastname2="Byrne"
+  email="Cherilyn.Byrne@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>36.406</random_float>
+  <bool>false</bool>
+  <date>1998-10-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gusty</elt><elt>Gavrielle</elt><elt>Ebonee</elt><elt>Tressa</elt><elt>Marnia</elt>  
+  <Cherilyn>
+    <age>92</age>
+  </Cherilyn>
+</root>

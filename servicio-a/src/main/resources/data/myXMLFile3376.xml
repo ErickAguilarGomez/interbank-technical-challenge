@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wilma"
+  lastname="Iphlgenia"
+  city="Vatican City"
+  country="Guinea"
+  firstname2="Delilah"
+  lastname2="Paton"
+  email="Delilah.Paton@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>87.661</random_float>
+  <bool>false</bool>
+  <date>1984-02-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Libbie</elt><elt>Roxane</elt><elt>Petronia</elt><elt>Lisette</elt><elt>Shell</elt>  
+  <Delilah>
+    <age>41</age>
+  </Delilah>
+</root>

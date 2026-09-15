@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shell"
+  lastname="Auberbach"
+  city="Iquitos"
+  country="French Southern Territories"
+  firstname2="Linet"
+  lastname2="Bow"
+  email="Linet.Bow@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>11.596</random_float>
+  <bool>true</bool>
+  <date>1986-08-20</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Carmencita</elt><elt>Dione</elt><elt>Starla</elt><elt>Brynna</elt><elt>Rayna</elt>  
+  <Linet>
+    <age>25</age>
+  </Linet>
+</root>

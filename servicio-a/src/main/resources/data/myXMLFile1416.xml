@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jolyn"
+  lastname="Oster"
+  city="Hargeisa"
+  country="Northern Mariana Islands"
+  firstname2="Dode"
+  lastname2="McAdams"
+  email="Dode.McAdams@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>15.023</random_float>
+  <bool>false</bool>
+  <date>1997-12-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Ursulina</elt><elt>Christy</elt><elt>Mildrid</elt><elt>Aili</elt><elt>Yvonne</elt>  
+  <Dode>
+    <age>94</age>
+  </Dode>
+</root>

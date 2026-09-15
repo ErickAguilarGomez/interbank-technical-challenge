@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Doro"
+  lastname="Voletta"
+  city="Abidjan"
+  country="Benin"
+  firstname2="Halette"
+  lastname2="Telfer"
+  email="Halette.Telfer@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>13.727</random_float>
+  <bool>false</bool>
+  <date>1988-06-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Keelia</elt><elt>Hollie</elt><elt>Ericka</elt><elt>Adelle</elt><elt>Latisha</elt>  
+  <Halette>
+    <age>42</age>
+  </Halette>
+</root>

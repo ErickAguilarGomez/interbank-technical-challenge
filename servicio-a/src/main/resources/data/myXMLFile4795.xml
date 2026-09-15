@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Verla"
+  lastname="Sikorski"
+  city="Padang"
+  country="Moldova, Republic of"
+  firstname2="Jobi"
+  lastname2="Elbertina"
+  email="Jobi.Elbertina@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>55.362</random_float>
+  <bool>false</bool>
+  <date>1997-09-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Meg</elt><elt>Joelly</elt><elt>Camile</elt><elt>Hollie</elt><elt>Basia</elt>  
+  <Jobi>
+    <age>37</age>
+  </Jobi>
+</root>

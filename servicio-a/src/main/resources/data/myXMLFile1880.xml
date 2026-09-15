@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kelly"
+  lastname="Cristi"
+  city="Miri"
+  country="Botswana"
+  firstname2="Atlanta"
+  lastname2="Noman"
+  email="Atlanta.Noman@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>72.503</random_float>
+  <bool>true</bool>
+  <date>1993-03-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tobe</elt><elt>Netty</elt><elt>Merle</elt><elt>Patricia</elt><elt>Adriana</elt>  
+  <Atlanta>
+    <age>38</age>
+  </Atlanta>
+</root>

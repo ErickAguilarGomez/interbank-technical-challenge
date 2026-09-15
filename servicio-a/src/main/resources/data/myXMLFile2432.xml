@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chandra"
+  lastname="Septima"
+  city="Durango"
+  country="Timor-Leste"
+  firstname2="Nadine"
+  lastname2="Ferino"
+  email="Nadine.Ferino@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>43.263</random_float>
+  <bool>true</bool>
+  <date>1992-05-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Emylee</elt><elt>Cassondra</elt><elt>Gwyneth</elt><elt>Ericka</elt><elt>Madalyn</elt>  
+  <Nadine>
+    <age>69</age>
+  </Nadine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alameda"
+  lastname="Wolfgram"
+  city="Antananarivo"
+  country="Myanmar"
+  firstname2="Allis"
+  lastname2="Larochelle"
+  email="Allis.Larochelle@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>87.144</random_float>
+  <bool>true</bool>
+  <date>1981-11-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tori</elt><elt>Chere</elt><elt>Aimil</elt><elt>Marleah</elt><elt>Binny</elt>  
+  <Allis>
+    <age>47</age>
+  </Allis>
+</root>

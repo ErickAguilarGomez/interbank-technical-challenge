@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Miquela"
+  lastname="Shields"
+  city="Barranquilla"
+  country="United States Minor Outlying Islands"
+  firstname2="Florencia"
+  lastname2="Stav"
+  email="Florencia.Stav@yopmail.com"
+  />
+  <random>60</random>
+  <random_float>62.63</random_float>
+  <bool>true</bool>
+  <date>1991-08-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Sibella</elt><elt>Minda</elt><elt>Korrie</elt><elt>Flo</elt><elt>Monika</elt>  
+  <Florencia>
+    <age>52</age>
+  </Florencia>
+</root>

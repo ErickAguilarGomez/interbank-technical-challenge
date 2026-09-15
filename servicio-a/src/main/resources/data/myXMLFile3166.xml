@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zaria"
+  lastname="Schroth"
+  city="Port Moresby"
+  country="Hong Kong"
+  firstname2="Shel"
+  lastname2="Bakerman"
+  email="Shel.Bakerman@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>94.553</random_float>
+  <bool>true</bool>
+  <date>1984-07-08</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Adelle</elt><elt>Genovera</elt><elt>Glynnis</elt><elt>Henriette</elt><elt>Maridel</elt>  
+  <Shel>
+    <age>36</age>
+  </Shel>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kylynn"
+  lastname="Decato"
+  city="Warsaw"
+  country="Western Sahara"
+  firstname2="Mignon"
+  lastname2="Vharat"
+  email="Mignon.Vharat@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>68.699</random_float>
+  <bool>false</bool>
+  <date>1999-03-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gavrielle</elt><elt>Jinny</elt><elt>Corene</elt><elt>Genovera</elt><elt>Dale</elt>  
+  <Mignon>
+    <age>71</age>
+  </Mignon>
+</root>

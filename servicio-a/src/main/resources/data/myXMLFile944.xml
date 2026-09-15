@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brietta"
+  lastname="Corabella"
+  city="Edinburgh"
+  country="United States Minor Outlying Islands"
+  firstname2="Andree"
+  lastname2="Dex"
+  email="Andree.Dex@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>27.125</random_float>
+  <bool>true</bool>
+  <date>1987-03-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tami</elt><elt>Gretal</elt><elt>Alleen</elt><elt>Tonia</elt><elt>Chandra</elt>  
+  <Andree>
+    <age>91</age>
+  </Andree>
+</root>

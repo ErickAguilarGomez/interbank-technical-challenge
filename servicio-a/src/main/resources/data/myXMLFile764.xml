@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nikki"
+  lastname="Ries"
+  city="Dunedin"
+  country="Venezuela"
+  firstname2="Almeta"
+  lastname2="Bearnard"
+  email="Almeta.Bearnard@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>26.185</random_float>
+  <bool>true</bool>
+  <date>1987-05-03</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Aurelie</elt><elt>Caryl</elt><elt>Tiffie</elt><elt>Oralee</elt><elt>Zaria</elt>  
+  <Almeta>
+    <age>94</age>
+  </Almeta>
+</root>

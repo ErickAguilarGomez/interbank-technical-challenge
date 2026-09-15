@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Darlleen"
+  lastname="Mike"
+  city="Da Nang"
+  country="Georgia"
+  firstname2="Kalina"
+  lastname2="Ventre"
+  email="Kalina.Ventre@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>20.123</random_float>
+  <bool>false</bool>
+  <date>1997-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ruthe</elt><elt>Madalyn</elt><elt>Mallory</elt><elt>Althea</elt><elt>Valeda</elt>  
+  <Kalina>
+    <age>46</age>
+  </Kalina>
+</root>

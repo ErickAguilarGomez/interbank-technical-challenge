@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ingrid"
+  lastname="Fairweather"
+  city="Saskatoon"
+  country="Kyrgyzstan"
+  firstname2="Jobi"
+  lastname2="Nelsen"
+  email="Jobi.Nelsen@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>96.761</random_float>
+  <bool>true</bool>
+  <date>1983-06-11</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ericka</elt><elt>Vere</elt><elt>Letizia</elt><elt>Fred</elt><elt>Penelopa</elt>  
+  <Jobi>
+    <age>24</age>
+  </Jobi>
+</root>

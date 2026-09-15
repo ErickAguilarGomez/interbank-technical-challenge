@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Silvana"
+  lastname="Tarrant"
+  city="Bursa"
+  country="Benin"
+  firstname2="Deirdre"
+  lastname2="Lalitta"
+  email="Deirdre.Lalitta@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>12.855</random_float>
+  <bool>true</bool>
+  <date>1996-05-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rubie</elt><elt>Molli</elt><elt>Jolyn</elt><elt>Aeriela</elt><elt>Dede</elt>  
+  <Deirdre>
+    <age>96</age>
+  </Deirdre>
+</root>

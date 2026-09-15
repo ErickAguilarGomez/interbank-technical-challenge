@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Norine"
+  lastname="Codding"
+  city="Lyon"
+  country="Palestinian Territory, Occupied"
+  firstname2="Celisse"
+  lastname2="Cleavland"
+  email="Celisse.Cleavland@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>30.51</random_float>
+  <bool>true</bool>
+  <date>1992-09-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dominga</elt><elt>Meriel</elt><elt>Vinita</elt><elt>Monika</elt><elt>Nonnah</elt>  
+  <Celisse>
+    <age>41</age>
+  </Celisse>
+</root>

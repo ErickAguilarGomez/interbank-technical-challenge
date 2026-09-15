@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Renae"
+  lastname="Jacinda"
+  city="Tskhinvali"
+  country="Jersey"
+  firstname2="Doralynne"
+  lastname2="Woodberry"
+  email="Doralynne.Woodberry@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>92.733</random_float>
+  <bool>true</bool>
+  <date>1984-08-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nadine</elt><elt>Glenda</elt><elt>Katuscha</elt><elt>Helena</elt><elt>Agathe</elt>  
+  <Doralynne>
+    <age>33</age>
+  </Doralynne>
+</root>

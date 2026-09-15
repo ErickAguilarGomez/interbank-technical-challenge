@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Neila"
+  lastname="Korey"
+  city="Praia"
+  country="Eritrea"
+  firstname2="Patricia"
+  lastname2="Amand"
+  email="Patricia.Amand@yopmail.com"
+  />
+  <random>84</random>
+  <random_float>90.564</random_float>
+  <bool>true</bool>
+  <date>1995-12-18</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hope</elt><elt>Ashlee</elt><elt>Ardenia</elt><elt>Kirstin</elt><elt>Georgina</elt>  
+  <Patricia>
+    <age>20</age>
+  </Patricia>
+</root>

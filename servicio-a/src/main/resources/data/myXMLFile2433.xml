@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maisey"
+  lastname="Delp"
+  city="Makassar"
+  country="Aruba"
+  firstname2="Juliane"
+  lastname2="Florina"
+  email="Juliane.Florina@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>17.169</random_float>
+  <bool>false</bool>
+  <date>1990-01-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Blinni</elt><elt>Alexine</elt><elt>Odessa</elt><elt>Krystle</elt><elt>Tabbatha</elt>  
+  <Juliane>
+    <age>90</age>
+  </Juliane>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Perry"
+  lastname="Warthman"
+  city="Macapá"
+  country="Turkmenistan"
+  firstname2="Linet"
+  lastname2="Dosia"
+  email="Linet.Dosia@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>95.479</random_float>
+  <bool>true</bool>
+  <date>1997-10-09</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Philis</elt><elt>Daryl</elt><elt>Elyssa</elt><elt>Regina</elt><elt>Meghann</elt>  
+  <Linet>
+    <age>18</age>
+  </Linet>
+</root>

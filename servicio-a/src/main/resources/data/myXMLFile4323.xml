@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Phedra"
+  lastname="Sheng"
+  city="Balikpapan"
+  country="Turkmenistan"
+  firstname2="Tobe"
+  lastname2="Durante"
+  email="Tobe.Durante@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>77.2</random_float>
+  <bool>false</bool>
+  <date>1999-06-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lorenza</elt><elt>Cassondra</elt><elt>Shandie</elt><elt>Jaime</elt><elt>Lynea</elt>  
+  <Tobe>
+    <age>69</age>
+  </Tobe>
+</root>

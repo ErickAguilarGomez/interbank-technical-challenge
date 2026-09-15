@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Flita"
+  city="Davao City"
+  country="Lesotho"
+  firstname2="Theodora"
+  lastname2="Aaberg"
+  email="Theodora.Aaberg@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>98.163</random_float>
+  <bool>true</bool>
+  <date>1983-08-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Paola</elt><elt>Kylynn</elt><elt>Codie</elt><elt>Caritta</elt><elt>Camile</elt>  
+  <Theodora>
+    <age>96</age>
+  </Theodora>
+</root>

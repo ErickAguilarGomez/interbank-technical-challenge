@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vita"
+  lastname="Dudley"
+  city="Mashhad"
+  country="Viet Nam"
+  firstname2="Vinita"
+  lastname2="Raychel"
+  email="Vinita.Raychel@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>36.169</random_float>
+  <bool>false</bool>
+  <date>1991-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Dulce</elt><elt>Sonni</elt><elt>Eadie</elt><elt>Dominga</elt><elt>Shirlee</elt>  
+  <Vinita>
+    <age>72</age>
+  </Vinita>
+</root>

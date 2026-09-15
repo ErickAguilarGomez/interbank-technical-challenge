@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roxane"
+  lastname="Sasnett"
+  city="Paramaribo"
+  country="Nigeria"
+  firstname2="Kaja"
+  lastname2="Buckler"
+  email="Kaja.Buckler@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>61.729</random_float>
+  <bool>false</bool>
+  <date>1991-03-13</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Daryl</elt><elt>Sadie</elt><elt>Letizia</elt><elt>Nadine</elt><elt>Judy</elt>  
+  <Kaja>
+    <age>29</age>
+  </Kaja>
+</root>

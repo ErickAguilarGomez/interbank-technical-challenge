@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ermengarde"
+  lastname="Jerold"
+  city="Santa Cruz de Tenerife"
+  country="Benin"
+  firstname2="Ericka"
+  lastname2="Virgin"
+  email="Ericka.Virgin@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>79.532</random_float>
+  <bool>false</bool>
+  <date>1988-04-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Vanessa</elt><elt>Caressa</elt><elt>Chandra</elt><elt>Eadie</elt><elt>Yetty</elt>  
+  <Ericka>
+    <age>96</age>
+  </Ericka>
+</root>

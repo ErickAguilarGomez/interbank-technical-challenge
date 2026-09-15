@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Minne"
+  lastname="Brittani"
+  city="Douala"
+  country="Venezuela"
+  firstname2="Donnie"
+  lastname2="Halla"
+  email="Donnie.Halla@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>5.078</random_float>
+  <bool>true</bool>
+  <date>1999-03-17</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Valli</elt><elt>Emelina</elt><elt>Annaliese</elt><elt>Tybie</elt><elt>Millie</elt>  
+  <Donnie>
+    <age>20</age>
+  </Donnie>
+</root>

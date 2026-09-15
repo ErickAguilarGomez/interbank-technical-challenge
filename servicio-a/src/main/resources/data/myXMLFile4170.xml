@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cordi"
+  lastname="Millda"
+  city="Gibraltar"
+  country="Antigua and Barbuda"
+  firstname2="Brena"
+  lastname2="Darian"
+  email="Brena.Darian@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>49.936</random_float>
+  <bool>false</bool>
+  <date>1990-06-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Yolane</elt><elt>Phylis</elt><elt>Jaime</elt><elt>Kore</elt><elt>Ricky</elt>  
+  <Brena>
+    <age>19</age>
+  </Brena>
+</root>

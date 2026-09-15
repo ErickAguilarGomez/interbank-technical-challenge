@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jere"
+  lastname="Ade"
+  city="Lilongwe"
+  country="Fiji"
+  firstname2="Dorice"
+  lastname2="Colbert"
+  email="Dorice.Colbert@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>52.463</random_float>
+  <bool>true</bool>
+  <date>1993-08-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Taffy</elt><elt>Judy</elt><elt>Daune</elt><elt>Desirae</elt><elt>Dione</elt>  
+  <Dorice>
+    <age>19</age>
+  </Dorice>
+</root>

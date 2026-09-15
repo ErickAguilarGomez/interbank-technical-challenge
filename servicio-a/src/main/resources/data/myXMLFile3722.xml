@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tarra"
+  lastname="Sundin"
+  city="Whitehorse"
+  country="Swaziland"
+  firstname2="Betta"
+  lastname2="Schroth"
+  email="Betta.Schroth@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>13.576</random_float>
+  <bool>false</bool>
+  <date>1993-03-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Doralynne</elt><elt>Debee</elt><elt>Kittie</elt><elt>Cassandra</elt><elt>Ekaterina</elt>  
+  <Betta>
+    <age>41</age>
+  </Betta>
+</root>

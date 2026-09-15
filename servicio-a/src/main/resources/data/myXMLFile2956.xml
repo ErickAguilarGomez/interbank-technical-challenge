@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mallory"
+  lastname="Yate"
+  city="Vatican City"
+  country="Estonia"
+  firstname2="Frieda"
+  lastname2="Berne"
+  email="Frieda.Berne@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>7.803</random_float>
+  <bool>false</bool>
+  <date>1987-08-09</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nita</elt><elt>Mellicent</elt><elt>Claudina</elt><elt>Minne</elt><elt>Harmonia</elt>  
+  <Frieda>
+    <age>62</age>
+  </Frieda>
+</root>

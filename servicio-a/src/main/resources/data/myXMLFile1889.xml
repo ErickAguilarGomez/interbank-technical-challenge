@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jessamyn"
+  lastname="Shaver"
+  city="Campinas"
+  country="Zambia"
+  firstname2="Aaren"
+  lastname2="Bury"
+  email="Aaren.Bury@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>72.547</random_float>
+  <bool>true</bool>
+  <date>1983-10-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Donnie</elt><elt>Susette</elt><elt>Dyann</elt><elt>Danny</elt><elt>Beatriz</elt>  
+  <Aaren>
+    <age>96</age>
+  </Aaren>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andeee"
+  lastname="Moina"
+  city="Rochester"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Jenda"
+  lastname2="Wandie"
+  email="Jenda.Wandie@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>9.435</random_float>
+  <bool>true</bool>
+  <date>1999-07-26</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Chastity</elt><elt>Cacilie</elt><elt>Robbi</elt><elt>Etta</elt><elt>Bernie</elt>  
+  <Jenda>
+    <age>68</age>
+  </Jenda>
+</root>

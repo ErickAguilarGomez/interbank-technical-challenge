@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Drucie"
+  lastname="Alabaster"
+  city="Bahía Blanca"
+  country="Israel"
+  firstname2="Kore"
+  lastname2="Swigart"
+  email="Kore.Swigart@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>37.978</random_float>
+  <bool>false</bool>
+  <date>1997-04-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Renie</elt><elt>Regina</elt><elt>Fred</elt><elt>Robbi</elt><elt>Vita</elt>  
+  <Kore>
+    <age>78</age>
+  </Kore>
+</root>

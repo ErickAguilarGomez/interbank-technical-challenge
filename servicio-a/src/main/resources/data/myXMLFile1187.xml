@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marleah"
+  lastname="Arvo"
+  city="Belfast"
+  country="United States Minor Outlying Islands"
+  firstname2="Sarette"
+  lastname2="Schroth"
+  email="Sarette.Schroth@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>96.342</random_float>
+  <bool>false</bool>
+  <date>1993-12-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Therine</elt><elt>Elvira</elt><elt>Marguerite</elt><elt>Tabbatha</elt><elt>Chrystel</elt>  
+  <Sarette>
+    <age>54</age>
+  </Sarette>
+</root>

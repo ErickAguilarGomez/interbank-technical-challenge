@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="Wadell"
+  city="Incheon"
+  country="Dominican Republic"
+  firstname2="Ernesta"
+  lastname2="Fillbert"
+  email="Ernesta.Fillbert@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>23.466</random_float>
+  <bool>true</bool>
+  <date>1996-12-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frieda</elt><elt>Laurene</elt><elt>Roberta</elt><elt>Olivette</elt><elt>Jean</elt>  
+  <Ernesta>
+    <age>74</age>
+  </Ernesta>
+</root>

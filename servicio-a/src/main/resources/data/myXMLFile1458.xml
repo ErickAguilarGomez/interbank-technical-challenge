@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jackie"
+  lastname="Hertzfeld"
+  city="Christchurch"
+  country="Latvia"
+  firstname2="Rosabelle"
+  lastname2="Mandler"
+  email="Rosabelle.Mandler@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>96.99</random_float>
+  <bool>true</bool>
+  <date>1994-06-22</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dari</elt><elt>Addia</elt><elt>Thalia</elt><elt>Dawn</elt><elt>Mara</elt>  
+  <Rosabelle>
+    <age>20</age>
+  </Rosabelle>
+</root>

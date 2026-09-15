@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blinni"
+  lastname="Edvard"
+  city="Maracaibo"
+  country="AndorrA"
+  firstname2="Michaelina"
+  lastname2="Colp"
+  email="Michaelina.Colp@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>24.105</random_float>
+  <bool>true</bool>
+  <date>1986-10-22</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tani</elt><elt>Ira</elt><elt>Riannon</elt><elt>Sabina</elt><elt>Aaren</elt>  
+  <Michaelina>
+    <age>29</age>
+  </Michaelina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jessamyn"
+  lastname="Solitta"
+  city="Yokohama"
+  country="Qatar"
+  firstname2="Dennie"
+  lastname2="Seligman"
+  email="Dennie.Seligman@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>4.386</random_float>
+  <bool>false</bool>
+  <date>1989-06-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Audrie</elt><elt>Patricia</elt><elt>Margalo</elt><elt>Penelopa</elt><elt>Lesly</elt>  
+  <Dennie>
+    <age>33</age>
+  </Dennie>
+</root>

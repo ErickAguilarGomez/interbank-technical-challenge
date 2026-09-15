@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Maryellen"
+  lastname="Cassius"
+  city="Port Blair"
+  country="China"
+  firstname2="Cathyleen"
+  lastname2="Hilbert"
+  email="Cathyleen.Hilbert@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>21.295</random_float>
+  <bool>false</bool>
+  <date>1992-11-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Yetty</elt><elt>Jsandye</elt><elt>Roz</elt><elt>Carilyn</elt><elt>Merrie</elt>  
+  <Cathyleen>
+    <age>65</age>
+  </Cathyleen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Romona"
+  lastname="Cullin"
+  city="Hiroshima"
+  country="Cyprus"
+  firstname2="Anthia"
+  lastname2="Ortrude"
+  email="Anthia.Ortrude@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>9.898</random_float>
+  <bool>false</bool>
+  <date>1993-04-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Briney</elt><elt>Suzette</elt><elt>Carol-Jean</elt><elt>Joane</elt><elt>Suzette</elt>  
+  <Anthia>
+    <age>41</age>
+  </Anthia>
+</root>

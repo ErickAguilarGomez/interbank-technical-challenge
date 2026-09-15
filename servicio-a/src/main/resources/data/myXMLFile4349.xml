@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Norine"
+  lastname="Carbo"
+  city="Sana'a"
+  country="Ecuador"
+  firstname2="Yetty"
+  lastname2="Zola"
+  email="Yetty.Zola@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>60.354</random_float>
+  <bool>true</bool>
+  <date>1986-12-30</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Katleen</elt><elt>Nananne</elt><elt>Correy</elt><elt>Roz</elt><elt>Marinna</elt>  
+  <Yetty>
+    <age>80</age>
+  </Yetty>
+</root>

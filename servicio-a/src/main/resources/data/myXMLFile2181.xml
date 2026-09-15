@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Celestyna"
+  lastname="Alejoa"
+  city="Maputo"
+  country="Equatorial Guinea"
+  firstname2="Sandie"
+  lastname2="Kenney"
+  email="Sandie.Kenney@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>13.718</random_float>
+  <bool>true</bool>
+  <date>1981-10-22</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nerta</elt><elt>Gilligan</elt><elt>Kirstin</elt><elt>Shauna</elt><elt>Ekaterina</elt>  
+  <Sandie>
+    <age>58</age>
+  </Sandie>
+</root>

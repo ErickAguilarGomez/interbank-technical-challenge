@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lanae"
+  lastname="Persse"
+  city="Chişinău"
+  country="Isle of Man"
+  firstname2="Tonia"
+  lastname2="Maurine"
+  email="Tonia.Maurine@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>10.303</random_float>
+  <bool>true</bool>
+  <date>1997-09-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ashlee</elt><elt>Antonietta</elt><elt>Janis</elt><elt>Edyth</elt><elt>Ardenia</elt>  
+  <Tonia>
+    <age>43</age>
+  </Tonia>
+</root>

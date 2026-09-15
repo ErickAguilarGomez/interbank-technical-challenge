@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kenna"
+  lastname="Joachim"
+  city="Vaduz"
+  country="Montserrat"
+  firstname2="Nerta"
+  lastname2="Autrey"
+  email="Nerta.Autrey@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>43.004</random_float>
+  <bool>true</bool>
+  <date>1998-03-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Barbara</elt><elt>Tybie</elt><elt>Bernardine</elt><elt>Emmey</elt><elt>Doralynne</elt>  
+  <Nerta>
+    <age>20</age>
+  </Nerta>
+</root>

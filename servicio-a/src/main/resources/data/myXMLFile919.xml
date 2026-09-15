@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Wynne"
+  lastname="Allina"
+  city="Jersey City"
+  country="New Zealand"
+  firstname2="Joy"
+  lastname2="Liebermann"
+  email="Joy.Liebermann@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>52.369</random_float>
+  <bool>true</bool>
+  <date>1985-01-15</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Caritta</elt><elt>Carol-Jean</elt><elt>Ariela</elt><elt>Sindee</elt><elt>Alyda</elt>  
+  <Joy>
+    <age>74</age>
+  </Joy>
+</root>

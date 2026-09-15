@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ofilia"
+  lastname="Simmonds"
+  city="Papeete"
+  country="Liechtenstein"
+  firstname2="Regina"
+  lastname2="Bollay"
+  email="Regina.Bollay@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>28.053</random_float>
+  <bool>true</bool>
+  <date>1991-08-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Estell</elt><elt>Micheline</elt><elt>Dorothy</elt><elt>Dyann</elt><elt>Micheline</elt>  
+  <Regina>
+    <age>26</age>
+  </Regina>
+</root>

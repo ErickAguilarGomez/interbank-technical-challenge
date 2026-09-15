@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Susannah"
+  city="Norilsk"
+  country="New Caledonia"
+  firstname2="Kristina"
+  lastname2="Gibbeon"
+  email="Kristina.Gibbeon@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>35.602</random_float>
+  <bool>true</bool>
+  <date>1993-04-24</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Selma</elt><elt>Nanete</elt><elt>Anestassia</elt><elt>Silvana</elt><elt>Cathyleen</elt>  
+  <Kristina>
+    <age>81</age>
+  </Kristina>
+</root>

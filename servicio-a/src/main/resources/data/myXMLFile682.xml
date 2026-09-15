@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brynna"
+  lastname="Sisile"
+  city="Lima"
+  country="Saint Pierre and Miquelon"
+  firstname2="Riannon"
+  lastname2="Eugenia"
+  email="Riannon.Eugenia@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>44.011</random_float>
+  <bool>true</bool>
+  <date>1992-03-13</date>
+  <regEx>hello to you</regEx>
+  <enum>generator</enum>
+  <elt>Marjie</elt><elt>Kaja</elt><elt>Judy</elt><elt>Ruthe</elt><elt>Bettine</elt>  
+  <Riannon>
+    <age>86</age>
+  </Riannon>
+</root>

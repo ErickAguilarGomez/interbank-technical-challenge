@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Janith"
+  city="Montevideo"
+  country="Belarus"
+  firstname2="Barbara"
+  lastname2="Charity"
+  email="Barbara.Charity@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>19.796</random_float>
+  <bool>false</bool>
+  <date>1997-06-02</date>
+  <regEx>hellooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Margarette</elt><elt>Joleen</elt><elt>Cassandra</elt><elt>Jessamyn</elt><elt>Ebonee</elt>  
+  <Barbara>
+    <age>89</age>
+  </Barbara>
+</root>

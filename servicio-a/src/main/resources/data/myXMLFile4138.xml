@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fanny"
+  lastname="Alfons"
+  city="Cotonou"
+  country="Paraguay"
+  firstname2="Kary"
+  lastname2="Karl"
+  email="Kary.Karl@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>66.445</random_float>
+  <bool>false</bool>
+  <date>1990-12-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Desirae</elt><elt>Sashenka</elt><elt>Carly</elt><elt>Gilda</elt><elt>Ivett</elt>  
+  <Kary>
+    <age>28</age>
+  </Kary>
+</root>

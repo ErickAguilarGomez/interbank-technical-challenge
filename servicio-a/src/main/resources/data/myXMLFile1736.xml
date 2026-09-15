@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kathy"
+  lastname="Gregrory"
+  city="Warsaw"
+  country="Qatar"
+  firstname2="Anestassia"
+  lastname2="Sisile"
+  email="Anestassia.Sisile@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>3.324</random_float>
+  <bool>true</bool>
+  <date>1985-04-05</date>
+  <regEx>hellooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alexine</elt><elt>June</elt><elt>Taffy</elt><elt>Bettine</elt><elt>Molli</elt>  
+  <Anestassia>
+    <age>50</age>
+  </Anestassia>
+</root>

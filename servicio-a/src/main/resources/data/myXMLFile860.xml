@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dari"
+  lastname="Kinnard"
+  city="Cairns"
+  country="Georgia"
+  firstname2="Judy"
+  lastname2="Ortrude"
+  email="Judy.Ortrude@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>83.673</random_float>
+  <bool>false</bool>
+  <date>1996-02-04</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sam</elt><elt>Gusty</elt><elt>Brynna</elt><elt>Renae</elt><elt>Angelique</elt>  
+  <Judy>
+    <age>43</age>
+  </Judy>
+</root>

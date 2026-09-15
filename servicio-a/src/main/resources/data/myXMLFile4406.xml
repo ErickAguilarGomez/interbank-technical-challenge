@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winny"
+  lastname="Sisile"
+  city="Malang"
+  country="Luxembourg"
+  firstname2="Roberta"
+  lastname2="Peti"
+  email="Roberta.Peti@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>86.506</random_float>
+  <bool>true</bool>
+  <date>1995-02-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Anestassia</elt><elt>Quintina</elt><elt>Susette</elt><elt>Priscilla</elt><elt>Romona</elt>  
+  <Roberta>
+    <age>84</age>
+  </Roberta>
+</root>

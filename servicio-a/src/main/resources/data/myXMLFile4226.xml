@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marsiella"
+  lastname="Bashemeth"
+  city="Apia"
+  country="Guinea"
+  firstname2="Tarra"
+  lastname2="Monaco"
+  email="Tarra.Monaco@yopmail.com"
+  />
+  <random>79</random>
+  <random_float>75.6</random_float>
+  <bool>true</bool>
+  <date>1989-02-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Carilyn</elt><elt>Steffane</elt><elt>Deedee</elt><elt>Ira</elt><elt>Cherrita</elt>  
+  <Tarra>
+    <age>85</age>
+  </Tarra>
+</root>

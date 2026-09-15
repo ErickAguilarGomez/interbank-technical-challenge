@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emelina"
+  lastname="Plato"
+  city="Xi'an"
+  country="Cook Islands"
+  firstname2="Joeann"
+  lastname2="Connelly"
+  email="Joeann.Connelly@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>4.254</random_float>
+  <bool>true</bool>
+  <date>1982-07-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nonnah</elt><elt>Elbertina</elt><elt>Kittie</elt><elt>Konstance</elt><elt>Deloria</elt>  
+  <Joeann>
+    <age>21</age>
+  </Joeann>
+</root>

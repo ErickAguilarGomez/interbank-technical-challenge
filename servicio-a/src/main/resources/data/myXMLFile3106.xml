@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winny"
+  lastname="Cloris"
+  city="Kigali"
+  country="Austria"
+  firstname2="Micheline"
+  lastname2="Ardeha"
+  email="Micheline.Ardeha@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>33.573</random_float>
+  <bool>false</bool>
+  <date>1981-07-08</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Donetta</elt><elt>Nollie</elt><elt>Isa</elt><elt>Ida</elt><elt>Wynne</elt>  
+  <Micheline>
+    <age>40</age>
+  </Micheline>
+</root>

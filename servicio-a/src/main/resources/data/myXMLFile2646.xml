@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Drucie"
+  lastname="Buffum"
+  city="Kabul"
+  country="Cameroon"
+  firstname2="Chrystel"
+  lastname2="Wareing"
+  email="Chrystel.Wareing@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>47.231</random_float>
+  <bool>false</bool>
+  <date>1990-10-09</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gale</elt><elt>Rosanne</elt><elt>Gusty</elt><elt>Taffy</elt><elt>Max</elt>  
+  <Chrystel>
+    <age>30</age>
+  </Chrystel>
+</root>

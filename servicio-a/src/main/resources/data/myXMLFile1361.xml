@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gilda"
+  lastname="Merat"
+  city="Chaguanas"
+  country="Cyprus"
+  firstname2="Aurore"
+  lastname2="Myrilla"
+  email="Aurore.Myrilla@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>65.039</random_float>
+  <bool>false</bool>
+  <date>1997-06-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rochette</elt><elt>Shauna</elt><elt>Devina</elt><elt>Theodora</elt><elt>Averyl</elt>  
+  <Aurore>
+    <age>84</age>
+  </Aurore>
+</root>

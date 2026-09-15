@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marita"
+  lastname="Roarke"
+  city="Avarua"
+  country="Latvia"
+  firstname2="Mireielle"
+  lastname2="Margret"
+  email="Mireielle.Margret@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>31.056</random_float>
+  <bool>false</bool>
+  <date>1989-01-25</date>
+  <regEx>helloo world</regEx>
+  <enum>xml</enum>
+  <elt>Olivette</elt><elt>Judy</elt><elt>Harrietta</elt><elt>Renae</elt><elt>Estell</elt>  
+  <Mireielle>
+    <age>74</age>
+  </Mireielle>
+</root>

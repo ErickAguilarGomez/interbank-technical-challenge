@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Hessler"
+  city="Shanghai"
+  country="Zambia"
+  firstname2="Carol-Jean"
+  lastname2="Briney"
+  email="Carol-Jean.Briney@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>84.873</random_float>
+  <bool>false</bool>
+  <date>1996-12-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nataline</elt><elt>Lauryn</elt><elt>Aimil</elt><elt>Meg</elt><elt>Kenna</elt>  
+  <Carol-Jean>
+    <age>25</age>
+  </Carol-Jean>
+</root>

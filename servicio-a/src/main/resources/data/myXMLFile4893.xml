@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Antonietta"
+  lastname="Arvo"
+  city="Oslo"
+  country="Ghana"
+  firstname2="Molli"
+  lastname2="Redmond"
+  email="Molli.Redmond@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>42.218</random_float>
+  <bool>true</bool>
+  <date>1991-05-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mahalia</elt><elt>June</elt><elt>Nananne</elt><elt>Nerta</elt><elt>Max</elt>  
+  <Molli>
+    <age>30</age>
+  </Molli>
+</root>

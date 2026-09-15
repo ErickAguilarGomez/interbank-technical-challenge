@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sherrie"
+  lastname="Israeli"
+  city="Mbabane"
+  country="Turks and Caicos Islands"
+  firstname2="Sharlene"
+  lastname2="Dawkins"
+  email="Sharlene.Dawkins@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>34.045</random_float>
+  <bool>false</bool>
+  <date>1992-01-30</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Tilly</elt><elt>Giustina</elt><elt>Karina</elt><elt>Fred</elt><elt>Valli</elt>  
+  <Sharlene>
+    <age>61</age>
+  </Sharlene>
+</root>

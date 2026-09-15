@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Henriette"
+  lastname="Wenda"
+  city="Palma"
+  country="Norfolk Island"
+  firstname2="Ada"
+  lastname2="Eldrid"
+  email="Ada.Eldrid@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>64.13</random_float>
+  <bool>true</bool>
+  <date>1980-05-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Briney</elt><elt>Tersina</elt><elt>Melina</elt><elt>Karlee</elt><elt>Bibby</elt>  
+  <Ada>
+    <age>40</age>
+  </Ada>
+</root>

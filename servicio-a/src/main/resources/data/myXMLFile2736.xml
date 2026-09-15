@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gilligan"
+  lastname="Othilia"
+  city="Austin"
+  country="Samoa"
+  firstname2="Andree"
+  lastname2="Revkah"
+  email="Andree.Revkah@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>13.987</random_float>
+  <bool>false</bool>
+  <date>1986-03-04</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ericka</elt><elt>Pollyanna</elt><elt>Pearline</elt><elt>Dorene</elt><elt>Luci</elt>  
+  <Andree>
+    <age>21</age>
+  </Andree>
+</root>

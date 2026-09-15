@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Genovera"
+  lastname="Bouchard"
+  city="Hamilton"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Jobi"
+  lastname2="Nedrud"
+  email="Jobi.Nedrud@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>53.874</random_float>
+  <bool>false</bool>
+  <date>1998-12-24</date>
+  <regEx>helloooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Katharina</elt><elt>Cyndie</elt><elt>Kellen</elt><elt>Corry</elt><elt>Jacquetta</elt>  
+  <Jobi>
+    <age>38</age>
+  </Jobi>
+</root>

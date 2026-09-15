@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vivia"
+  lastname="Lilybelle"
+  city="Lima"
+  country="Angola"
+  firstname2="Roberta"
+  lastname2="Anis"
+  email="Roberta.Anis@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>20.162</random_float>
+  <bool>true</bool>
+  <date>1986-11-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ericka</elt><elt>Magdalena</elt><elt>Danika</elt><elt>Concettina</elt><elt>Lesly</elt>  
+  <Roberta>
+    <age>47</age>
+  </Roberta>
+</root>

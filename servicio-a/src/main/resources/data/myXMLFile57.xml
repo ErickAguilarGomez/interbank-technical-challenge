@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lucille"
+  lastname="Payson"
+  city="Basra"
+  country="Germany"
+  firstname2="Viki"
+  lastname2="Thunell"
+  email="Viki.Thunell@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>40.853</random_float>
+  <bool>true</bool>
+  <date>1992-07-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Olwen</elt><elt>Concettina</elt><elt>Emelina</elt><elt>Lolita</elt><elt>Kristina</elt>  
+  <Viki>
+    <age>33</age>
+  </Viki>
+</root>

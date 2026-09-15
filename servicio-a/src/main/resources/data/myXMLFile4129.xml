@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aigneis"
+  lastname="Jammal"
+  city="Bogor"
+  country="Macedonia, The Former Yugoslav Republic of"
+  firstname2="Dotty"
+  lastname2="Leonard"
+  email="Dotty.Leonard@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>15.752</random_float>
+  <bool>true</bool>
+  <date>1985-03-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sashenka</elt><elt>Layla</elt><elt>Christian</elt><elt>Myrtice</elt><elt>June</elt>  
+  <Dotty>
+    <age>85</age>
+  </Dotty>
+</root>

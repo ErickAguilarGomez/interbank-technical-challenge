@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Starla"
+  lastname="Delila"
+  city="Riga"
+  country="Norway"
+  firstname2="Nannie"
+  lastname2="Ovid"
+  email="Nannie.Ovid@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>69.518</random_float>
+  <bool>false</bool>
+  <date>1992-04-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Margalo</elt><elt>Edyth</elt><elt>Yolane</elt><elt>Rosabelle</elt><elt>Ann-Marie</elt>  
+  <Nannie>
+    <age>30</age>
+  </Nannie>
+</root>

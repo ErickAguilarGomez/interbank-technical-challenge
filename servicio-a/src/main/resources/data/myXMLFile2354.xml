@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Etta"
+  lastname="Jacinda"
+  city="Nairobi"
+  country="Denmark"
+  firstname2="Candi"
+  lastname2="Ardra"
+  email="Candi.Ardra@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>33.257</random_float>
+  <bool>true</bool>
+  <date>1995-04-07</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Sashenka</elt><elt>Jessy</elt><elt>Cacilie</elt><elt>Ronna</elt><elt>Sandie</elt>  
+  <Candi>
+    <age>28</age>
+  </Candi>
+</root>

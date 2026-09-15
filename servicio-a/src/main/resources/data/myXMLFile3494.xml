@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elka"
+  lastname="Ethban"
+  city="Vilnius"
+  country="Dominican Republic"
+  firstname2="Roseline"
+  lastname2="Edmund"
+  email="Roseline.Edmund@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>20.293</random_float>
+  <bool>false</bool>
+  <date>1991-07-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Miquela</elt><elt>Nita</elt><elt>Theodora</elt><elt>Etta</elt><elt>Genevra</elt>  
+  <Roseline>
+    <age>57</age>
+  </Roseline>
+</root>

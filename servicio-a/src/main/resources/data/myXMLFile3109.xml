@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Bohlin"
+  city="Córdoba"
+  country="Suriname"
+  firstname2="Gloria"
+  lastname2="Grayce"
+  email="Gloria.Grayce@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>38.022</random_float>
+  <bool>true</bool>
+  <date>1993-09-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Evaleen</elt><elt>Lila</elt><elt>Ann-Marie</elt><elt>Doro</elt><elt>Hallie</elt>  
+  <Gloria>
+    <age>71</age>
+  </Gloria>
+</root>

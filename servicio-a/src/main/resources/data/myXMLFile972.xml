@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Consuela"
+  lastname="Lesley"
+  city="Quetzaltenango"
+  country="Swaziland"
+  firstname2="Gusty"
+  lastname2="Dichy"
+  email="Gusty.Dichy@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>71.309</random_float>
+  <bool>false</bool>
+  <date>1980-06-13</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jordan</elt><elt>Correy</elt><elt>Dorthy</elt><elt>Joane</elt><elt>Nessie</elt>  
+  <Gusty>
+    <age>36</age>
+  </Gusty>
+</root>

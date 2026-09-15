@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Justinn"
+  lastname="Obed"
+  city="Iquique"
+  country="Slovakia"
+  firstname2="Andree"
+  lastname2="O'Rourke"
+  email="Andree.O'Rourke@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>10.19</random_float>
+  <bool>true</bool>
+  <date>1990-10-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Cathie</elt><elt>Sean</elt><elt>Hallie</elt><elt>Nicoli</elt><elt>Marylou</elt>  
+  <Andree>
+    <age>32</age>
+  </Andree>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Inga"
+  lastname="Afton"
+  city="Chihuahua"
+  country="Cook Islands"
+  firstname2="Ellette"
+  lastname2="Joeann"
+  email="Ellette.Joeann@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>93.571</random_float>
+  <bool>false</bool>
+  <date>1988-04-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Olwen</elt><elt>Teddie</elt><elt>Johna</elt><elt>Suzette</elt><elt>Sean</elt>  
+  <Ellette>
+    <age>60</age>
+  </Ellette>
+</root>

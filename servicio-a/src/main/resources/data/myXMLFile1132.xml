@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbara"
+  lastname="Earlie"
+  city="Nagoya"
+  country="Faroe Islands"
+  firstname2="Briney"
+  lastname2="Braun"
+  email="Briney.Braun@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>63.376</random_float>
+  <bool>false</bool>
+  <date>1992-02-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Charissa</elt><elt>Kayla</elt><elt>Selia</elt><elt>Kamilah</elt><elt>Aimil</elt>  
+  <Briney>
+    <age>99</age>
+  </Briney>
+</root>

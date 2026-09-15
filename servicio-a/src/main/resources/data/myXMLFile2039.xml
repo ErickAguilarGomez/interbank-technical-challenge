@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Starla"
+  lastname="Willie"
+  city="Enugu"
+  country="Paraguay"
+  firstname2="Nita"
+  lastname2="Edison"
+  email="Nita.Edison@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>84.019</random_float>
+  <bool>false</bool>
+  <date>1997-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nita</elt><elt>Rozele</elt><elt>Joelly</elt><elt>Susan</elt><elt>Priscilla</elt>  
+  <Nita>
+    <age>85</age>
+  </Nita>
+</root>

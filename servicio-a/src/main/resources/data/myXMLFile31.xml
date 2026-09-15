@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ethel"
+  lastname="Jary"
+  city="Montevideo"
+  country="Moldova, Republic of"
+  firstname2="Nananne"
+  lastname2="Hieronymus"
+  email="Nananne.Hieronymus@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>72.699</random_float>
+  <bool>false</bool>
+  <date>1982-10-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rosanne</elt><elt>Rosanne</elt><elt>Cristabel</elt><elt>Aigneis</elt><elt>Lauryn</elt>  
+  <Nananne>
+    <age>57</age>
+  </Nananne>
+</root>

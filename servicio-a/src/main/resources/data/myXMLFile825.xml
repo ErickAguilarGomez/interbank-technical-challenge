@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Regan"
+  city="Shigatse"
+  country="Aruba"
+  firstname2="Teriann"
+  lastname2="Kazimir"
+  email="Teriann.Kazimir@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>4.666</random_float>
+  <bool>true</bool>
+  <date>1980-06-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Chandra</elt><elt>Belva</elt><elt>Darci</elt><elt>Jacenta</elt><elt>Elie</elt>  
+  <Teriann>
+    <age>54</age>
+  </Teriann>
+</root>

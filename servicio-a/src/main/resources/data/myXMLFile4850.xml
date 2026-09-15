@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marcy"
+  lastname="Pearse"
+  city="Riverside"
+  country="Zimbabwe"
+  firstname2="Nonnah"
+  lastname2="Rugen"
+  email="Nonnah.Rugen@yopmail.com"
+  />
+  <random>85</random>
+  <random_float>33.173</random_float>
+  <bool>true</bool>
+  <date>1986-05-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Ginnie</elt><elt>Isa</elt><elt>Nickie</elt><elt>Lucille</elt><elt>Alexine</elt>  
+  <Nonnah>
+    <age>31</age>
+  </Nonnah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sabina"
+  lastname="Kermit"
+  city="Fairbanks"
+  country="Sri Lanka"
+  firstname2="Farrah"
+  lastname2="Haldas"
+  email="Farrah.Haldas@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>89.564</random_float>
+  <bool>false</bool>
+  <date>1990-01-25</date>
+  <regEx>helloooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Berget</elt><elt>Perry</elt><elt>Minda</elt><elt>Vonny</elt><elt>Leeanne</elt>  
+  <Farrah>
+    <age>18</age>
+  </Farrah>
+</root>

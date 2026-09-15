@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Garrison"
+  city="Chişinău"
+  country="Armenia"
+  firstname2="Valera"
+  lastname2="Howlyn"
+  email="Valera.Howlyn@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>80.135</random_float>
+  <bool>true</bool>
+  <date>1996-12-20</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Romona</elt><elt>Corina</elt><elt>Josephine</elt><elt>Eadie</elt><elt>Valli</elt>  
+  <Valera>
+    <age>34</age>
+  </Valera>
+</root>

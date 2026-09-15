@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mureil"
+  lastname="Shuler"
+  city="Dakar"
+  country="Qatar"
+  firstname2="Cissiee"
+  lastname2="Suk"
+  email="Cissiee.Suk@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>95.416</random_float>
+  <bool>false</bool>
+  <date>1996-12-31</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Alex</elt><elt>Merry</elt><elt>Deirdre</elt><elt>Valeda</elt><elt>Antonietta</elt>  
+  <Cissiee>
+    <age>99</age>
+  </Cissiee>
+</root>

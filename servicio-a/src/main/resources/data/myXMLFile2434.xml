@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Grayce"
+  city="Dublin"
+  country="Dominica"
+  firstname2="Zsa Zsa"
+  lastname2="Hermes"
+  email="Zsa Zsa.Hermes@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>24.318</random_float>
+  <bool>true</bool>
+  <date>1998-01-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Averyl</elt><elt>Tiffie</elt><elt>Babita</elt><elt>Consuela</elt><elt>Deedee</elt>  
+  <Zsa Zsa>
+    <age>33</age>
+  </Zsa Zsa>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karly"
+  lastname="Malanie"
+  city="Vancouver"
+  country="Denmark"
+  firstname2="Dawn"
+  lastname2="Ricki"
+  email="Dawn.Ricki@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>91.512</random_float>
+  <bool>false</bool>
+  <date>1987-02-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Genevra</elt><elt>Ardys</elt><elt>Juliane</elt><elt>Doralynne</elt><elt>Dode</elt>  
+  <Dawn>
+    <age>42</age>
+  </Dawn>
+</root>

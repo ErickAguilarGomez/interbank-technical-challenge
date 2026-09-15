@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Beverley"
+  lastname="Mike"
+  city="Luxembourg (city)"
+  country="Latvia"
+  firstname2="Fidelia"
+  lastname2="Allare"
+  email="Fidelia.Allare@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>86.713</random_float>
+  <bool>false</bool>
+  <date>1995-09-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nelle</elt><elt>Lolita</elt><elt>Paola</elt><elt>Dode</elt><elt>Annabela</elt>  
+  <Fidelia>
+    <age>21</age>
+  </Fidelia>
+</root>

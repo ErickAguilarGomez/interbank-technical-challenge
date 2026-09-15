@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jenilee"
+  lastname="Saunderson"
+  city="Stanley"
+  country="Trinidad and Tobago"
+  firstname2="Nonnah"
+  lastname2="Emmy"
+  email="Nonnah.Emmy@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>28.113</random_float>
+  <bool>true</bool>
+  <date>1999-06-21</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Carolina</elt><elt>Gloria</elt><elt>Winny</elt><elt>Fawne</elt><elt>Silvana</elt>  
+  <Nonnah>
+    <age>29</age>
+  </Nonnah>
+</root>

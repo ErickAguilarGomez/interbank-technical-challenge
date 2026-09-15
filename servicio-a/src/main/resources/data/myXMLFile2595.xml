@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Maples"
+  city="Iqaluit"
+  country="Mayotte"
+  firstname2="Dulcinea"
+  lastname2="Odysseus"
+  email="Dulcinea.Odysseus@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>64.059</random_float>
+  <bool>true</bool>
+  <date>1996-10-18</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ivett</elt><elt>Maye</elt><elt>Jenilee</elt><elt>Teddie</elt><elt>Janeczka</elt>  
+  <Dulcinea>
+    <age>80</age>
+  </Dulcinea>
+</root>

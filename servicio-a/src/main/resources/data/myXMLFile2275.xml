@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gianina"
+  lastname="Virgin"
+  city="Bloemfontein"
+  country="Zimbabwe"
+  firstname2="Cristine"
+  lastname2="Crudden"
+  email="Cristine.Crudden@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>44.895</random_float>
+  <bool>false</bool>
+  <date>1990-11-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Jackie</elt><elt>Annice</elt><elt>Annecorinne</elt><elt>Alisha</elt><elt>Kathy</elt>  
+  <Cristine>
+    <age>23</age>
+  </Cristine>
+</root>

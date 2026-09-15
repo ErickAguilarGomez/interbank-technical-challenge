@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Libbie"
+  lastname="Toor"
+  city="Saipan"
+  country="Bouvet Island"
+  firstname2="Marti"
+  lastname2="August"
+  email="Marti.August@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>90.883</random_float>
+  <bool>false</bool>
+  <date>1987-08-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Aeriela</elt><elt>Latisha</elt><elt>Hermione</elt><elt>Camile</elt><elt>Doralynne</elt>  
+  <Marti>
+    <age>66</age>
+  </Marti>
+</root>

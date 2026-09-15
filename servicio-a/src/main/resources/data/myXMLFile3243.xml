@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brandise"
+  lastname="Juan"
+  city="Tamale"
+  country="Guam"
+  firstname2="Lilith"
+  lastname2="Obed"
+  email="Lilith.Obed@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>84.916</random_float>
+  <bool>true</bool>
+  <date>1987-10-26</date>
+  <regEx>hellooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jessamyn</elt><elt>Fidelia</elt><elt>Alie</elt><elt>Cyndie</elt><elt>Johna</elt>  
+  <Lilith>
+    <age>26</age>
+  </Lilith>
+</root>

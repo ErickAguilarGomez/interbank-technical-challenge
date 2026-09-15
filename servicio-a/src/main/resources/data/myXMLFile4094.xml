@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Keelia"
+  lastname="Longfellow"
+  city="Malé"
+  country="Czech Republic"
+  firstname2="Moyna"
+  lastname2="Kauppi"
+  email="Moyna.Kauppi@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>62.142</random_float>
+  <bool>false</bool>
+  <date>1981-04-28</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sissy</elt><elt>Blake</elt><elt>Kaia</elt><elt>Sandie</elt><elt>Annabela</elt>  
+  <Moyna>
+    <age>82</age>
+  </Moyna>
+</root>

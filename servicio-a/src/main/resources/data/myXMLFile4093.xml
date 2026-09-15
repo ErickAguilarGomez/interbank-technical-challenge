@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corene"
+  lastname="Carolin"
+  city="Birkirkara"
+  country="New Zealand"
+  firstname2="Oona"
+  lastname2="Schroth"
+  email="Oona.Schroth@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>38.979</random_float>
+  <bool>true</bool>
+  <date>1980-02-20</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lucille</elt><elt>Raquela</elt><elt>Blondelle</elt><elt>Korrie</elt><elt>Kate</elt>  
+  <Oona>
+    <age>21</age>
+  </Oona>
+</root>

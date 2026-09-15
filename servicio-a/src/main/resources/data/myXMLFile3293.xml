@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rozele"
+  lastname="Beniamino"
+  city="Ponta Delgada"
+  country="Netherlands Antilles"
+  firstname2="Fawne"
+  lastname2="Kevon"
+  email="Fawne.Kevon@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>66.477</random_float>
+  <bool>false</bool>
+  <date>1997-07-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sashenka</elt><elt>Ursulina</elt><elt>Tatiania</elt><elt>Rebeca</elt><elt>June</elt>  
+  <Fawne>
+    <age>96</age>
+  </Fawne>
+</root>

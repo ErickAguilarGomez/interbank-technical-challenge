@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hollie"
+  lastname="Payson"
+  city="San Salvador"
+  country="Albania"
+  firstname2="Renae"
+  lastname2="Norvol"
+  email="Renae.Norvol@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>98.525</random_float>
+  <bool>true</bool>
+  <date>1980-08-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lanna</elt><elt>Mureil</elt><elt>Marinna</elt><elt>Frances</elt><elt>Maud</elt>  
+  <Renae>
+    <age>71</age>
+  </Renae>
+</root>

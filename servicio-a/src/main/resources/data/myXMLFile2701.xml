@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Brodench"
+  city="Providence"
+  country="Hong Kong"
+  firstname2="Melisent"
+  lastname2="Craggie"
+  email="Melisent.Craggie@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>25.545</random_float>
+  <bool>true</bool>
+  <date>1998-06-23</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gilda</elt><elt>Dania</elt><elt>Annora</elt><elt>Marsiella</elt><elt>Carree</elt>  
+  <Melisent>
+    <age>35</age>
+  </Melisent>
+</root>

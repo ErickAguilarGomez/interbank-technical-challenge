@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shel"
+  lastname="Edvard"
+  city="Belfast"
+  country="Lesotho"
+  firstname2="Courtnay"
+  lastname2="Burkle"
+  email="Courtnay.Burkle@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>50.206</random_float>
+  <bool>false</bool>
+  <date>1993-06-01</date>
+  <regEx>hellooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Drucie</elt><elt>Theodora</elt><elt>Gaylene</elt><elt>Joleen</elt><elt>Renae</elt>  
+  <Courtnay>
+    <age>90</age>
+  </Courtnay>
+</root>

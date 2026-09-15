@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Edyth"
+  lastname="Vins"
+  city="Lomé"
+  country="Trinidad and Tobago"
+  firstname2="Di"
+  lastname2="Kamaria"
+  email="Di.Kamaria@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>18.01</random_float>
+  <bool>false</bool>
+  <date>1990-01-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nita</elt><elt>Tressa</elt><elt>Rochette</elt><elt>Kelly</elt><elt>Adelle</elt>  
+  <Di>
+    <age>75</age>
+  </Di>
+</root>

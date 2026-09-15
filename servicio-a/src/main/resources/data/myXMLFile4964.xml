@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Justinn"
+  city="Liverpool"
+  country="Romania"
+  firstname2="Janis"
+  lastname2="Kress"
+  email="Janis.Kress@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>95.317</random_float>
+  <bool>true</bool>
+  <date>1980-02-22</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Joeann</elt><elt>Janenna</elt><elt>Alia</elt><elt>Deedee</elt><elt>Merci</elt>  
+  <Janis>
+    <age>78</age>
+  </Janis>
+</root>

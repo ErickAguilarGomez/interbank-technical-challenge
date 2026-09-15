@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nyssa"
+  lastname="Saint"
+  city="Pekanbaru"
+  country="Bahrain"
+  firstname2="Genovera"
+  lastname2="Bryna"
+  email="Genovera.Bryna@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>53.845</random_float>
+  <bool>true</bool>
+  <date>1996-07-13</date>
+  <regEx>helloooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Annecorinne</elt><elt>Reeba</elt><elt>Angela</elt><elt>Ardeen</elt><elt>Chloris</elt>  
+  <Genovera>
+    <age>50</age>
+  </Genovera>
+</root>

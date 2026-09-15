@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anestassia"
+  lastname="Pillsbury"
+  city="Kawasaki"
+  country="Tajikistan"
+  firstname2="Annice"
+  lastname2="Llovera"
+  email="Annice.Llovera@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>97.254</random_float>
+  <bool>true</bool>
+  <date>1981-01-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kathy</elt><elt>Siana</elt><elt>Thalia</elt><elt>Dennie</elt><elt>Marti</elt>  
+  <Annice>
+    <age>48</age>
+  </Annice>
+</root>

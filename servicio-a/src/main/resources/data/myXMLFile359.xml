@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yvonne"
+  lastname="Gabrielli"
+  city="Nice"
+  country="El Salvador"
+  firstname2="Kittie"
+  lastname2="Reidar"
+  email="Kittie.Reidar@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>15.283</random_float>
+  <bool>false</bool>
+  <date>1985-04-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Adore</elt><elt>Mary</elt><elt>Rubie</elt><elt>Dari</elt><elt>Ginnie</elt>  
+  <Kittie>
+    <age>61</age>
+  </Kittie>
+</root>

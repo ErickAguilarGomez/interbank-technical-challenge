@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Amalie"
+  lastname="Darbie"
+  city="Bahía Blanca"
+  country="Algeria"
+  firstname2="Rochette"
+  lastname2="Pyle"
+  email="Rochette.Pyle@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>51.4</random_float>
+  <bool>false</bool>
+  <date>1985-04-26</date>
+  <regEx>hellooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nannie</elt><elt>Ileana</elt><elt>Ivett</elt><elt>Layla</elt><elt>Helena</elt>  
+  <Rochette>
+    <age>28</age>
+  </Rochette>
+</root>

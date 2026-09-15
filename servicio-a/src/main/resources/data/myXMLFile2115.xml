@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardenia"
+  lastname="Irmine"
+  city="Porto Velho"
+  country="Guinea"
+  firstname2="Cathie"
+  lastname2="Sidonius"
+  email="Cathie.Sidonius@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>85.428</random_float>
+  <bool>true</bool>
+  <date>1997-06-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bertine</elt><elt>Sheelagh</elt><elt>Nerta</elt><elt>Fredericka</elt><elt>Cordi</elt>  
+  <Cathie>
+    <age>82</age>
+  </Cathie>
+</root>

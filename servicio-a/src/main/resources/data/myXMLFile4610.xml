@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gavrielle"
+  lastname="Mintz"
+  city="Astana"
+  country="Åland Islands"
+  firstname2="Dorthy"
+  lastname2="Berriman"
+  email="Dorthy.Berriman@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>91.788</random_float>
+  <bool>true</bool>
+  <date>1998-08-19</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ileana</elt><elt>Jemie</elt><elt>Corry</elt><elt>Aigneis</elt><elt>Joane</elt>  
+  <Dorthy>
+    <age>20</age>
+  </Dorthy>
+</root>

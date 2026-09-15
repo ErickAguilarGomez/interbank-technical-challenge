@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Yolane"
+  lastname="Rodmann"
+  city="Kandy"
+  country="Belize"
+  firstname2="Daune"
+  lastname2="Tatianas"
+  email="Daune.Tatianas@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>39.268</random_float>
+  <bool>false</bool>
+  <date>1995-09-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Deirdre</elt><elt>Brandise</elt><elt>Robbi</elt><elt>Kenna</elt><elt>Maurene</elt>  
+  <Daune>
+    <age>70</age>
+  </Daune>
+</root>

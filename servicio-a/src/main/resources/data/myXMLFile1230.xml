@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orsola"
+  lastname="Wildermuth"
+  city="Antwerp"
+  country="Uganda"
+  firstname2="Dagmar"
+  lastname2="Secrest"
+  email="Dagmar.Secrest@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>36.996</random_float>
+  <bool>false</bool>
+  <date>1994-07-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Maud</elt><elt>Dennie</elt><elt>Anica</elt><elt>Luci</elt><elt>Consuela</elt>  
+  <Dagmar>
+    <age>43</age>
+  </Dagmar>
+</root>

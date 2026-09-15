@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Talya"
+  lastname="Eno"
+  city="Porto"
+  country="Montserrat"
+  firstname2="Norine"
+  lastname2="Rad"
+  email="Norine.Rad@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>50.31</random_float>
+  <bool>true</bool>
+  <date>1990-08-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Odessa</elt><elt>Oona</elt><elt>Jaclyn</elt><elt>Amara</elt><elt>Chere</elt>  
+  <Norine>
+    <age>74</age>
+  </Norine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Odessa"
+  lastname="Roarke"
+  city="Houston"
+  country="Bahamas"
+  firstname2="Maisey"
+  lastname2="Dearborn"
+  email="Maisey.Dearborn@yopmail.com"
+  />
+  <random>37</random>
+  <random_float>81.553</random_float>
+  <bool>true</bool>
+  <date>1988-03-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Dacia</elt><elt>Dari</elt><elt>Zaria</elt><elt>Josephine</elt><elt>Amara</elt>  
+  <Maisey>
+    <age>98</age>
+  </Maisey>
+</root>

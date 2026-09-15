@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Barbi"
+  lastname="Arvo"
+  city="Maracaibo"
+  country="AndorrA"
+  firstname2="Maurene"
+  lastname2="Raama"
+  email="Maurene.Raama@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>46.863</random_float>
+  <bool>true</bool>
+  <date>1987-11-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Chloris</elt><elt>Charissa</elt><elt>Letizia</elt><elt>Riannon</elt><elt>Arlina</elt>  
+  <Maurene>
+    <age>95</age>
+  </Maurene>
+</root>

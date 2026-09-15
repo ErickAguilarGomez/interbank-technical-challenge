@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Iseabal"
+  lastname="Mayeda"
+  city="Qingdao"
+  country="Pitcairn"
+  firstname2="Cristine"
+  lastname2="Cavan"
+  email="Cristine.Cavan@yopmail.com"
+  />
+  <random>54</random>
+  <random_float>82.288</random_float>
+  <bool>true</bool>
+  <date>1991-07-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Andeee</elt><elt>Lenna</elt><elt>Rosaline</elt><elt>Michaelina</elt><elt>Olivette</elt>  
+  <Cristine>
+    <age>90</age>
+  </Cristine>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheelagh"
+  lastname="Oriana"
+  city="Guwahati"
+  country="Aruba"
+  firstname2="Marinna"
+  lastname2="Tacye"
+  email="Marinna.Tacye@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>100.501</random_float>
+  <bool>false</bool>
+  <date>1983-04-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Annecorinne</elt><elt>Carol-Jean</elt><elt>Gerianna</elt><elt>Lizzie</elt><elt>Rozele</elt>  
+  <Marinna>
+    <age>92</age>
+  </Marinna>
+</root>

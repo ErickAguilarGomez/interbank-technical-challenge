@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardys"
+  lastname="Thema"
+  city="Assis"
+  country="Jersey"
+  firstname2="Belva"
+  lastname2="Aida"
+  email="Belva.Aida@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>85.652</random_float>
+  <bool>true</bool>
+  <date>1993-03-08</date>
+  <regEx>helloo world</regEx>
+  <enum>generator</enum>
+  <elt>Marylou</elt><elt>Phedra</elt><elt>Kara-Lynn</elt><elt>Daryl</elt><elt>Jennica</elt>  
+  <Belva>
+    <age>72</age>
+  </Belva>
+</root>

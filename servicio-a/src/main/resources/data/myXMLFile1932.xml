@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Zondra"
+  lastname="Santoro"
+  city="Mogadishu"
+  country="Tonga"
+  firstname2="Katharina"
+  lastname2="Si"
+  email="Katharina.Si@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>7.134</random_float>
+  <bool>false</bool>
+  <date>1993-12-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Emmey</elt><elt>Oralee</elt><elt>Ruthe</elt><elt>Gusella</elt><elt>Leona</elt>  
+  <Katharina>
+    <age>61</age>
+  </Katharina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Justinn"
+  lastname="Posner"
+  city="Zapopan"
+  country="Djibouti"
+  firstname2="Odessa"
+  lastname2="Valoniah"
+  email="Odessa.Valoniah@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>73.292</random_float>
+  <bool>false</bool>
+  <date>1998-10-02</date>
+  <regEx>helloooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Briney</elt><elt>Evita</elt><elt>Queenie</elt><elt>Aaren</elt><elt>Louella</elt>  
+  <Odessa>
+    <age>81</age>
+  </Odessa>
+</root>

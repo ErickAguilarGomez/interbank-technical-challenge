@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Asia"
+  lastname="Tjon"
+  city="Brasília"
+  country="Tuvalu"
+  firstname2="Glenda"
+  lastname2="Parette"
+  email="Glenda.Parette@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>93.248</random_float>
+  <bool>true</bool>
+  <date>1995-05-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Zsa Zsa</elt><elt>Marjie</elt><elt>Kelly</elt><elt>Jaime</elt><elt>Inga</elt>  
+  <Glenda>
+    <age>93</age>
+  </Glenda>
+</root>

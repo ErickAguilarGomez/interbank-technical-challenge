@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Natka"
+  lastname="Wilona"
+  city="Townsville"
+  country="Senegal"
+  firstname2="Darlleen"
+  lastname2="Olin"
+  email="Darlleen.Olin@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>100.901</random_float>
+  <bool>false</bool>
+  <date>1986-07-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Taffy</elt><elt>Florie</elt><elt>Norine</elt><elt>Alie</elt><elt>Renae</elt>  
+  <Darlleen>
+    <age>91</age>
+  </Darlleen>
+</root>

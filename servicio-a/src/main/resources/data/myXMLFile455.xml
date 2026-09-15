@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oralee"
+  lastname="Wildermuth"
+  city="Auckland"
+  country="Norfolk Island"
+  firstname2="Janenna"
+  lastname2="Evvie"
+  email="Janenna.Evvie@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>24.635</random_float>
+  <bool>false</bool>
+  <date>1988-10-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rubie</elt><elt>Neila</elt><elt>Kittie</elt><elt>Fina</elt><elt>Bobbi</elt>  
+  <Janenna>
+    <age>56</age>
+  </Janenna>
+</root>

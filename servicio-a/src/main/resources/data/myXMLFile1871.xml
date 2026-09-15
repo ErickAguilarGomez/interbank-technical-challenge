@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chastity"
+  lastname="Shanley"
+  city="Munich"
+  country="Bermuda"
+  firstname2="Ermengarde"
+  lastname2="Delp"
+  email="Ermengarde.Delp@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>38.029</random_float>
+  <bool>true</bool>
+  <date>1998-05-17</date>
+  <regEx>hellooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Susette</elt><elt>Merle</elt><elt>Ginnie</elt><elt>Sallie</elt><elt>Meghann</elt>  
+  <Ermengarde>
+    <age>54</age>
+  </Ermengarde>
+</root>

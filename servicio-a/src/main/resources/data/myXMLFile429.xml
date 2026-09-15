@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deane"
+  lastname="Eno"
+  city="Mexicali"
+  country="Kenya"
+  firstname2="Tarra"
+  lastname2="Loring"
+  email="Tarra.Loring@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>11.169</random_float>
+  <bool>true</bool>
+  <date>1998-03-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Winny</elt><elt>Tina</elt><elt>Pamella</elt><elt>Carmela</elt><elt>Kassey</elt>  
+  <Tarra>
+    <age>51</age>
+  </Tarra>
+</root>

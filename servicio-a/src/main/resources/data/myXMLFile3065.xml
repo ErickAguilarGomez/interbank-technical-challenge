@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lynde"
+  lastname="Terencio"
+  city="Castries"
+  country="Botswana"
+  firstname2="Blake"
+  lastname2="Nisbet"
+  email="Blake.Nisbet@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>51.152</random_float>
+  <bool>true</bool>
+  <date>1980-01-12</date>
+  <regEx>helloooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Minda</elt><elt>Caritta</elt><elt>Glynnis</elt><elt>Leia</elt><elt>Ardenia</elt>  
+  <Blake>
+    <age>41</age>
+  </Blake>
+</root>

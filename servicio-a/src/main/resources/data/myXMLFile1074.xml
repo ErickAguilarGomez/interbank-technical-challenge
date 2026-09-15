@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Hunfredo"
+  city="Perth"
+  country="British Indian Ocean Territory"
+  firstname2="Andree"
+  lastname2="Edmund"
+  email="Andree.Edmund@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>8.009</random_float>
+  <bool>false</bool>
+  <date>1993-07-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kial</elt><elt>Talya</elt><elt>Leeanne</elt><elt>Jeanna</elt><elt>Beverley</elt>  
+  <Andree>
+    <age>97</age>
+  </Andree>
+</root>

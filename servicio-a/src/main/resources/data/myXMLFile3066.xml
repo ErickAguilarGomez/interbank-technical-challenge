@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cristine"
+  lastname="Decato"
+  city="Kigali"
+  country="Russian Federation"
+  firstname2="Delilah"
+  lastname2="Noam"
+  email="Delilah.Noam@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>20.239</random_float>
+  <bool>true</bool>
+  <date>1988-07-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Lynnea</elt><elt>Paule</elt><elt>Dorice</elt><elt>Misha</elt><elt>Livvyy</elt>  
+  <Delilah>
+    <age>87</age>
+  </Delilah>
+</root>

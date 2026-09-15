@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kaia"
+  lastname="Jotham"
+  city="Saipan"
+  country="Benin"
+  firstname2="Jessamyn"
+  lastname2="Nore"
+  email="Jessamyn.Nore@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>65.648</random_float>
+  <bool>false</bool>
+  <date>1995-04-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Melina</elt><elt>Tilly</elt><elt>Randa</elt><elt>Lulita</elt><elt>Flo</elt>  
+  <Jessamyn>
+    <age>80</age>
+  </Jessamyn>
+</root>

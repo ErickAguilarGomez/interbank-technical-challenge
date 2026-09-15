@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Liana"
+  lastname="Talia"
+  city="Miami"
+  country="Serbia and Montenegro"
+  firstname2="Ivett"
+  lastname2="Markman"
+  email="Ivett.Markman@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>5.211</random_float>
+  <bool>false</bool>
+  <date>1982-01-07</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sidoney</elt><elt>Molli</elt><elt>Hope</elt><elt>Roberta</elt><elt>Roz</elt>  
+  <Ivett>
+    <age>78</age>
+  </Ivett>
+</root>

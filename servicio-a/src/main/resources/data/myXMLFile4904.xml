@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aimil"
+  lastname="Kussell"
+  city="Amritsar"
+  country="Benin"
+  firstname2="Hollie"
+  lastname2="Kat"
+  email="Hollie.Kat@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>65.52</random_float>
+  <bool>true</bool>
+  <date>1984-12-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Merrie</elt><elt>Georgina</elt><elt>Gilda</elt><elt>Ebonee</elt><elt>Ronna</elt>  
+  <Hollie>
+    <age>42</age>
+  </Hollie>
+</root>

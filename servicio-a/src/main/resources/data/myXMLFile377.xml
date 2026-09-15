@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Talia"
+  city="Livingstone"
+  country="Timor-Leste"
+  firstname2="Bernie"
+  lastname2="Fairweather"
+  email="Bernie.Fairweather@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>22.581</random_float>
+  <bool>true</bool>
+  <date>1998-04-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Wilma</elt><elt>Joy</elt><elt>Fayre</elt><elt>Willetta</elt><elt>Nelle</elt>  
+  <Bernie>
+    <age>22</age>
+  </Bernie>
+</root>

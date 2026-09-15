@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Redmond"
+  city="Moroni"
+  country="Lao People"S Democratic Republic"
+  firstname2="Chrystel"
+  lastname2="Willie"
+  email="Chrystel.Willie@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>87.626</random_float>
+  <bool>true</bool>
+  <date>1988-10-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Eugine</elt><elt>Giustina</elt><elt>Tressa</elt><elt>Blondelle</elt><elt>Tressa</elt>  
+  <Chrystel>
+    <age>42</age>
+  </Chrystel>
+</root>

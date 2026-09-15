@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Ovid"
+  city="Basse-Terre"
+  country="Marshall Islands"
+  firstname2="Cassondra"
+  lastname2="Gert"
+  email="Cassondra.Gert@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>88.458</random_float>
+  <bool>false</bool>
+  <date>1988-05-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Karlee</elt><elt>Violet</elt><elt>Joleen</elt><elt>Cindelyn</elt><elt>Robbi</elt>  
+  <Cassondra>
+    <age>49</age>
+  </Cassondra>
+</root>

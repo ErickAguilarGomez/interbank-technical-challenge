@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annora"
+  lastname="Charity"
+  city="Pristina"
+  country="Virgin Islands, U.S."
+  firstname2="Perry"
+  lastname2="Fontana"
+  email="Perry.Fontana@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>40.941</random_float>
+  <bool>true</bool>
+  <date>1988-12-30</date>
+  <regEx>helloo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lulita</elt><elt>Nariko</elt><elt>Etta</elt><elt>Fanny</elt><elt>Patricia</elt>  
+  <Perry>
+    <age>53</age>
+  </Perry>
+</root>

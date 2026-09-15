@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marika"
+  lastname="Ade"
+  city="San Salvador"
+  country="Belgium"
+  firstname2="Mahalia"
+  lastname2="Podvin"
+  email="Mahalia.Podvin@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>28.421</random_float>
+  <bool>true</bool>
+  <date>1995-10-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rozele</elt><elt>Ardys</elt><elt>Tami</elt><elt>Cassandra</elt><elt>Janey</elt>  
+  <Mahalia>
+    <age>31</age>
+  </Mahalia>
+</root>

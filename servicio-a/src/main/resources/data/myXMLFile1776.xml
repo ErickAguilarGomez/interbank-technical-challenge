@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nessie"
+  lastname="Leifeste"
+  city="Sana'a"
+  country="Estonia"
+  firstname2="Siana"
+  lastname2="Hillel"
+  email="Siana.Hillel@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>61.714</random_float>
+  <bool>true</bool>
+  <date>1998-06-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Mallory</elt><elt>Genevra</elt><elt>Vonny</elt><elt>Celisse</elt><elt>Amara</elt>  
+  <Siana>
+    <age>98</age>
+  </Siana>
+</root>

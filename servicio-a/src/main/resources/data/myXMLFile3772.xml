@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katuscha"
+  lastname="Argus"
+  city="Makassar"
+  country="Faroe Islands"
+  firstname2="Tobe"
+  lastname2="Ogren"
+  email="Tobe.Ogren@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>68.927</random_float>
+  <bool>true</bool>
+  <date>1996-04-01</date>
+  <regEx>hellooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Ketti</elt><elt>Aigneis</elt><elt>Fina</elt><elt>Dyann</elt><elt>Clementine</elt>  
+  <Tobe>
+    <age>59</age>
+  </Tobe>
+</root>

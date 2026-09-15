@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Paule"
+  lastname="Mandler"
+  city="Road Town"
+  country="United States Minor Outlying Islands"
+  firstname2="Angela"
+  lastname2="Grosz"
+  email="Angela.Grosz@yopmail.com"
+  />
+  <random>33</random>
+  <random_float>88.784</random_float>
+  <bool>false</bool>
+  <date>1982-08-06</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dorice</elt><elt>Shaine</elt><elt>Shaine</elt><elt>Tilly</elt><elt>Leontine</elt>  
+  <Angela>
+    <age>37</age>
+  </Angela>
+</root>

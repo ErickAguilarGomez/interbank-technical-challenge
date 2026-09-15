@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nyssa"
+  lastname="Poll"
+  city="Calgary"
+  country="Luxembourg"
+  firstname2="Aeriela"
+  lastname2="Olympium"
+  email="Aeriela.Olympium@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>88.422</random_float>
+  <bool>false</bool>
+  <date>1999-08-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kate</elt><elt>Trixi</elt><elt>Devina</elt><elt>Gusty</elt><elt>Florie</elt>  
+  <Aeriela>
+    <age>70</age>
+  </Aeriela>
+</root>

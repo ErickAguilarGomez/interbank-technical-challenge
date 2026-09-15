@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Steffane"
+  lastname="Presber"
+  city="Berlin"
+  country="Switzerland"
+  firstname2="Carmela"
+  lastname2="Geffner"
+  email="Carmela.Geffner@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>81.96</random_float>
+  <bool>false</bool>
+  <date>1993-02-17</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Ellette</elt><elt>Kelly</elt><elt>Maryellen</elt><elt>Winny</elt><elt>Dotty</elt>  
+  <Carmela>
+    <age>37</age>
+  </Carmela>
+</root>

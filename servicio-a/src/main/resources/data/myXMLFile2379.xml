@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carmela"
+  lastname="Rudolph"
+  city="Adelaide"
+  country="Holy See (Vatican City State)"
+  firstname2="Delilah"
+  lastname2="Ogren"
+  email="Delilah.Ogren@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>78.881</random_float>
+  <bool>true</bool>
+  <date>1997-06-17</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Paola</elt><elt>Sue</elt><elt>Lilith</elt><elt>Vevay</elt><elt>Gwyneth</elt>  
+  <Delilah>
+    <age>18</age>
+  </Delilah>
+</root>

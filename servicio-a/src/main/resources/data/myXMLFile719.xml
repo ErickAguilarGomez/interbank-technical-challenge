@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorthy"
+  lastname="Gino"
+  city="Daegu"
+  country="Iceland"
+  firstname2="Ottilie"
+  lastname2="Vivle"
+  email="Ottilie.Vivle@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>47.969</random_float>
+  <bool>true</bool>
+  <date>1983-06-16</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kirstin</elt><elt>Sharlene</elt><elt>Devina</elt><elt>Mady</elt><elt>Britte</elt>  
+  <Ottilie>
+    <age>67</age>
+  </Ottilie>
+</root>

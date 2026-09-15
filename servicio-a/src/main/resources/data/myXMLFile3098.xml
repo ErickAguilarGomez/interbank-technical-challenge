@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ira"
+  lastname="Garlinda"
+  city="La Serena"
+  country="Dominican Republic"
+  firstname2="Nananne"
+  lastname2="Dahlia"
+  email="Nananne.Dahlia@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>34.571</random_float>
+  <bool>true</bool>
+  <date>1991-09-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tybie</elt><elt>Ira</elt><elt>Sophia</elt><elt>Trixi</elt><elt>Mariele</elt>  
+  <Nananne>
+    <age>32</age>
+  </Nananne>
+</root>

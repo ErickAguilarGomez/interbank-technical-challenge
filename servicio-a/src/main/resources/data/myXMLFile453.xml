@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Belva"
+  lastname="Celestine"
+  city="Cannes"
+  country="Poland"
+  firstname2="Florencia"
+  lastname2="Honoria"
+  email="Florencia.Honoria@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>27.633</random_float>
+  <bool>true</bool>
+  <date>1986-09-29</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Candi</elt><elt>Riannon</elt><elt>Cassandra</elt><elt>Shaylyn</elt><elt>Rochette</elt>  
+  <Florencia>
+    <age>77</age>
+  </Florencia>
+</root>

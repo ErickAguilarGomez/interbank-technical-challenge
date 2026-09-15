@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Rossner"
+  city="Omdurman"
+  country="Mauritania"
+  firstname2="Sara-Ann"
+  lastname2="Daegal"
+  email="Sara-Ann.Daegal@yopmail.com"
+  />
+  <random>36</random>
+  <random_float>75.366</random_float>
+  <bool>false</bool>
+  <date>1996-02-29</date>
+  <regEx>hellooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Roxane</elt><elt>Chrystel</elt><elt>Alexine</elt><elt>Veda</elt><elt>Georgina</elt>  
+  <Sara-Ann>
+    <age>79</age>
+  </Sara-Ann>
+</root>

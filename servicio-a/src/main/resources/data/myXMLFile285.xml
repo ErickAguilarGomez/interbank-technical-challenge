@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nelle"
+  lastname="Gerge"
+  city="Yogyakarta (city)"
+  country="Seychelles"
+  firstname2="Marinna"
+  lastname2="Terrence"
+  email="Marinna.Terrence@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>67.423</random_float>
+  <bool>true</bool>
+  <date>1995-02-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Silvana</elt><elt>Tami</elt><elt>Merle</elt><elt>Giustina</elt><elt>Shirlee</elt>  
+  <Marinna>
+    <age>96</age>
+  </Marinna>
+</root>

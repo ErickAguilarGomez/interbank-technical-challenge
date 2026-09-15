@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Miquela"
+  lastname="Henrie"
+  city="Bratsk"
+  country="Nigeria"
+  firstname2="Mignon"
+  lastname2="Hilbert"
+  email="Mignon.Hilbert@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>43.054</random_float>
+  <bool>false</bool>
+  <date>1981-08-31</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mariann</elt><elt>Elsie</elt><elt>Halette</elt><elt>Dagmar</elt><elt>Melanie</elt>  
+  <Mignon>
+    <age>63</age>
+  </Mignon>
+</root>

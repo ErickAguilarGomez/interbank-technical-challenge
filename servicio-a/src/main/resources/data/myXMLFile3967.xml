@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Deedee"
+  lastname="Magnolia"
+  city="Edinburgh"
+  country="Aruba"
+  firstname2="Selia"
+  lastname2="Decato"
+  email="Selia.Decato@yopmail.com"
+  />
+  <random>40</random>
+  <random_float>71.732</random_float>
+  <bool>true</bool>
+  <date>1980-10-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Dianemarie</elt><elt>Renie</elt><elt>Jacquetta</elt><elt>Bettine</elt><elt>Josephine</elt>  
+  <Selia>
+    <age>23</age>
+  </Selia>
+</root>

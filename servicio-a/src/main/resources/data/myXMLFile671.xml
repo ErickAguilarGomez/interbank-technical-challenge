@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roz"
+  lastname="Raul"
+  city="Bogor"
+  country="Cote D"Ivoire"
+  firstname2="Merrie"
+  lastname2="Saree"
+  email="Merrie.Saree@yopmail.com"
+  />
+  <random>96</random>
+  <random_float>20.451</random_float>
+  <bool>true</bool>
+  <date>1984-07-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Jean</elt><elt>Bill</elt><elt>Lilith</elt><elt>Tatiania</elt><elt>Maisey</elt>  
+  <Merrie>
+    <age>77</age>
+  </Merrie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Caritta"
+  lastname="Cookie"
+  city="Melbourne"
+  country="Western Sahara"
+  firstname2="Rayna"
+  lastname2="Destinee"
+  email="Rayna.Destinee@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>58.566</random_float>
+  <bool>true</bool>
+  <date>2000-01-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Marjie</elt><elt>Suzette</elt><elt>Jobi</elt><elt>Gertrud</elt><elt>Cindelyn</elt>  
+  <Rayna>
+    <age>51</age>
+  </Rayna>
+</root>

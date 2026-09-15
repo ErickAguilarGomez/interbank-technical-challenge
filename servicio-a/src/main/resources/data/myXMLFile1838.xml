@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kassey"
+  lastname="Colleen"
+  city="South Tarawa"
+  country="Angola"
+  firstname2="Roseline"
+  lastname2="Winthorpe"
+  email="Roseline.Winthorpe@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>5.713</random_float>
+  <bool>true</bool>
+  <date>1993-10-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Evita</elt><elt>Marcy</elt><elt>Kimberley</elt><elt>Binny</elt><elt>Celestyna</elt>  
+  <Roseline>
+    <age>67</age>
+  </Roseline>
+</root>

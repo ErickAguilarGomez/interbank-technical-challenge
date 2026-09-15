@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Carree"
+  lastname="Sadowski"
+  city="Angra do Heroísmo"
+  country="Cocos (Keeling) Islands"
+  firstname2="Dacia"
+  lastname2="Carlson"
+  email="Dacia.Carlson@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>38.992</random_float>
+  <bool>true</bool>
+  <date>1992-06-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lolita</elt><elt>Vivia</elt><elt>Celestyna</elt><elt>Estell</elt><elt>Wanda</elt>  
+  <Dacia>
+    <age>69</age>
+  </Dacia>
+</root>

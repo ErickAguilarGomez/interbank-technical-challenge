@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fidelia"
+  lastname="Anyah"
+  city="Tunis"
+  country="French Guiana"
+  firstname2="Rori"
+  lastname2="Dom"
+  email="Rori.Dom@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>7.928</random_float>
+  <bool>true</bool>
+  <date>1991-10-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Cathie</elt><elt>Devina</elt><elt>Kristina</elt><elt>Aimil</elt><elt>Flo</elt>  
+  <Rori>
+    <age>45</age>
+  </Rori>
+</root>

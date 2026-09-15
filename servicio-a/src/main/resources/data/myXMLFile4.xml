@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jan"
+  lastname="Arathorn"
+  city="Lahore"
+  country="Malawi"
+  firstname2="Devina"
+  lastname2="Lipson"
+  email="Devina.Lipson@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>69.418</random_float>
+  <bool>false</bool>
+  <date>1985-03-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Tatiania</elt><elt>Deirdre</elt><elt>Stevana</elt><elt>Marguerite</elt><elt>Correy</elt>  
+  <Devina>
+    <age>94</age>
+  </Devina>
+</root>

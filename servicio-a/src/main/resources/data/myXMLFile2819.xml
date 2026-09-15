@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hermione"
+  lastname="Kare"
+  city="Bloemfontein"
+  country="Zambia"
+  firstname2="Cyndie"
+  lastname2="Laverne"
+  email="Cyndie.Laverne@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>9.386</random_float>
+  <bool>false</bool>
+  <date>1999-07-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marnia</elt><elt>Yvonne</elt><elt>Dorthy</elt><elt>Anica</elt><elt>Nessie</elt>  
+  <Cyndie>
+    <age>63</age>
+  </Cyndie>
+</root>

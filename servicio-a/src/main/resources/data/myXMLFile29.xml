@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Orsola"
+  lastname="Gillan"
+  city="Mexicali"
+  country="Cyprus"
+  firstname2="Winifred"
+  lastname2="Halla"
+  email="Winifred.Halla@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>99.625</random_float>
+  <bool>false</bool>
+  <date>1984-11-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Mary</elt><elt>Melisent</elt><elt>Natka</elt><elt>Gabi</elt><elt>Darlleen</elt>  
+  <Winifred>
+    <age>91</age>
+  </Winifred>
+</root>

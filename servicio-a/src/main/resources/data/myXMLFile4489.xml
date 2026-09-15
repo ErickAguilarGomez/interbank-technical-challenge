@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Seligman"
+  city="Mumbai"
+  country="Guam"
+  firstname2="Joceline"
+  lastname2="Quinn"
+  email="Joceline.Quinn@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>51.829</random_float>
+  <bool>false</bool>
+  <date>1992-08-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rayna</elt><elt>Zaria</elt><elt>Jolyn</elt><elt>Marita</elt><elt>Coral</elt>  
+  <Joceline>
+    <age>76</age>
+  </Joceline>
+</root>

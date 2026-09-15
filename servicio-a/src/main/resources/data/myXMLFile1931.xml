@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Selma"
+  lastname="Codding"
+  city="São Paulo"
+  country="Mexico"
+  firstname2="Pearline"
+  lastname2="Noman"
+  email="Pearline.Noman@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>19.292</random_float>
+  <bool>false</bool>
+  <date>1980-05-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cathyleen</elt><elt>Tilly</elt><elt>Laure</elt><elt>Blinni</elt><elt>Sybille</elt>  
+  <Pearline>
+    <age>69</age>
+  </Pearline>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ida"
+  lastname="Ball"
+  city="Sacramento"
+  country="Hungary"
+  firstname2="Regina"
+  lastname2="Pascia"
+  email="Regina.Pascia@yopmail.com"
+  />
+  <random>51</random>
+  <random_float>31.839</random_float>
+  <bool>false</bool>
+  <date>1992-12-14</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Miquela</elt><elt>Debee</elt><elt>Rayna</elt><elt>Frances</elt><elt>Angela</elt>  
+  <Regina>
+    <age>64</age>
+  </Regina>
+</root>

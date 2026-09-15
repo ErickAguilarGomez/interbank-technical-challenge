@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Karl"
+  city="Amsterdam"
+  country="Kuwait"
+  firstname2="Mara"
+  lastname2="Bultman"
+  email="Mara.Bultman@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>16.451</random_float>
+  <bool>false</bool>
+  <date>1990-11-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Stacey</elt><elt>Chloris</elt><elt>Kylynn</elt><elt>Sibella</elt><elt>Pollyanna</elt>  
+  <Mara>
+    <age>37</age>
+  </Mara>
+</root>

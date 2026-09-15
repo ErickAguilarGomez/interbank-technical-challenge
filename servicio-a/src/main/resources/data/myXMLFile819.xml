@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susan"
+  lastname="Mintz"
+  city="Gaborone"
+  country="Myanmar"
+  firstname2="Averyl"
+  lastname2="Ruvolo"
+  email="Averyl.Ruvolo@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>87.434</random_float>
+  <bool>false</bool>
+  <date>1996-10-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Bernie</elt><elt>Lexine</elt><elt>Kathy</elt><elt>Lita</elt><elt>Corene</elt>  
+  <Averyl>
+    <age>61</age>
+  </Averyl>
+</root>

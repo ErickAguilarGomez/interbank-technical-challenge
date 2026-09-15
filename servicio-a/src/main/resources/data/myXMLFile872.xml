@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vanessa"
+  lastname="Boehike"
+  city="Forked River"
+  country="Saudi Arabia"
+  firstname2="Tami"
+  lastname2="Hamil"
+  email="Tami.Hamil@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>49.163</random_float>
+  <bool>false</bool>
+  <date>1985-05-06</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sindee</elt><elt>Devina</elt><elt>Valeda</elt><elt>Adriana</elt><elt>Blake</elt>  
+  <Tami>
+    <age>25</age>
+  </Tami>
+</root>

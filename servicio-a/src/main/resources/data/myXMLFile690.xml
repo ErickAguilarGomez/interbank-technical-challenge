@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cyb"
+  lastname="Stoller"
+  city="Lviv"
+  country="French Polynesia"
+  firstname2="Fred"
+  lastname2="Emerson"
+  email="Fred.Emerson@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>16.328</random_float>
+  <bool>false</bool>
+  <date>1980-02-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Constance</elt><elt>Dulcinea</elt><elt>Asia</elt><elt>Fanchon</elt><elt>Arlena</elt>  
+  <Fred>
+    <age>32</age>
+  </Fred>
+</root>

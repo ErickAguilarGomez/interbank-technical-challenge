@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raina"
+  lastname="Bonilla"
+  city="Cusco"
+  country="Tajikistan"
+  firstname2="Wileen"
+  lastname2="Prober"
+  email="Wileen.Prober@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>96.708</random_float>
+  <bool>true</bool>
+  <date>1996-09-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Gertrud</elt><elt>Xylina</elt><elt>Doro</elt><elt>Petronia</elt><elt>Hope</elt>  
+  <Wileen>
+    <age>21</age>
+  </Wileen>
+</root>

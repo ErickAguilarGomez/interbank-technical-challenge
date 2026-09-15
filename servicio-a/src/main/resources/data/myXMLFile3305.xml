@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gwyneth"
+  lastname="Carbo"
+  city="N'Djamena"
+  country="Viet Nam"
+  firstname2="Tracey"
+  lastname2="Borrell"
+  email="Tracey.Borrell@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>82.426</random_float>
+  <bool>true</bool>
+  <date>1996-04-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tani</elt><elt>Aaren</elt><elt>Agathe</elt><elt>Candy</elt><elt>Loree</elt>  
+  <Tracey>
+    <age>85</age>
+  </Tracey>
+</root>

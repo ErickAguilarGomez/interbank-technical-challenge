@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bernardine"
+  lastname="Agle"
+  city="Malabo"
+  country="Aruba"
+  firstname2="Gilda"
+  lastname2="Leler"
+  email="Gilda.Leler@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>89.93</random_float>
+  <bool>false</bool>
+  <date>1990-03-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gabriellia</elt><elt>Clementine</elt><elt>Gwenneth</elt><elt>Fanny</elt><elt>Alex</elt>  
+  <Gilda>
+    <age>49</age>
+  </Gilda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Olivette"
+  lastname="Penelopa"
+  city="Wollongong"
+  country="Australia"
+  firstname2="Gisela"
+  lastname2="Koziara"
+  email="Gisela.Koziara@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>94.38</random_float>
+  <bool>true</bool>
+  <date>1996-01-17</date>
+  <regEx>helloo world</regEx>
+  <enum>online</enum>
+  <elt>Harmonia</elt><elt>Etta</elt><elt>Malina</elt><elt>Fanchon</elt><elt>Frances</elt>  
+  <Gisela>
+    <age>41</age>
+  </Gisela>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jasmina"
+  lastname="Donell"
+  city="Libreville"
+  country="Belgium"
+  firstname2="Hildegaard"
+  lastname2="Olympium"
+  email="Hildegaard.Olympium@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>23.3</random_float>
+  <bool>true</bool>
+  <date>1982-05-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Alia</elt><elt>Lynnea</elt><elt>Cassandra</elt><elt>Chickie</elt><elt>Dale</elt>  
+  <Hildegaard>
+    <age>23</age>
+  </Hildegaard>
+</root>

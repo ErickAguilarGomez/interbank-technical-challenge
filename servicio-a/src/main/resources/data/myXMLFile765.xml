@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kerrin"
+  lastname="Cutlerr"
+  city="Praia"
+  country="Hong Kong"
+  firstname2="Queenie"
+  lastname2="Cottle"
+  email="Queenie.Cottle@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>6.857</random_float>
+  <bool>true</bool>
+  <date>1998-06-23</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lily</elt><elt>Quintina</elt><elt>Consuela</elt><elt>Jennica</elt><elt>Bobbi</elt>  
+  <Queenie>
+    <age>39</age>
+  </Queenie>
+</root>

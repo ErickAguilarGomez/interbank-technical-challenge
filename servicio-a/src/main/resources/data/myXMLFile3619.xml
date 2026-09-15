@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hildegaard"
+  lastname="Tannie"
+  city="Maracaibo"
+  country="Brunei Darussalam"
+  firstname2="Kamilah"
+  lastname2="Koziara"
+  email="Kamilah.Koziara@yopmail.com"
+  />
+  <random>62</random>
+  <random_float>15.1</random_float>
+  <bool>false</bool>
+  <date>1984-07-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Shauna</elt><elt>Willetta</elt><elt>Sibella</elt><elt>Ernesta</elt><elt>Edith</elt>  
+  <Kamilah>
+    <age>47</age>
+  </Kamilah>
+</root>

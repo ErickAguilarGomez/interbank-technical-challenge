@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aimil"
+  lastname="Mehalek"
+  city="Porto Alegre"
+  country="Mauritius"
+  firstname2="Brynna"
+  lastname2="Nedrud"
+  email="Brynna.Nedrud@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>35.126</random_float>
+  <bool>false</bool>
+  <date>1999-12-08</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Benita</elt><elt>Lita</elt><elt>Coral</elt><elt>Leontine</elt><elt>Binny</elt>  
+  <Brynna>
+    <age>75</age>
+  </Brynna>
+</root>

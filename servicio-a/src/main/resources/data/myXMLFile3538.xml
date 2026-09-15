@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tybie"
+  lastname="Cloris"
+  city="Luxembourg (city)"
+  country="Papua New Guinea"
+  firstname2="Belinda"
+  lastname2="Malanie"
+  email="Belinda.Malanie@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>21.9</random_float>
+  <bool>true</bool>
+  <date>1997-10-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lorne</elt><elt>Alyssa</elt><elt>Fredericka</elt><elt>Gretal</elt><elt>Sonni</elt>  
+  <Belinda>
+    <age>18</age>
+  </Belinda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nataline"
+  lastname="Maurine"
+  city="Kano"
+  country="Somalia"
+  firstname2="Ericka"
+  lastname2="Sisile"
+  email="Ericka.Sisile@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>24.892</random_float>
+  <bool>true</bool>
+  <date>1989-11-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Mallory</elt><elt>Kara-Lynn</elt><elt>Damaris</elt><elt>Karolina</elt><elt>Kassey</elt>  
+  <Ericka>
+    <age>45</age>
+  </Ericka>
+</root>

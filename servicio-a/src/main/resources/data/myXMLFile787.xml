@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hollie"
+  lastname="Caitlin"
+  city="San José"
+  country="Viet Nam"
+  firstname2="Wileen"
+  lastname2="Evangelia"
+  email="Wileen.Evangelia@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>85.733</random_float>
+  <bool>false</bool>
+  <date>1991-11-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Susan</elt><elt>June</elt><elt>Aigneis</elt><elt>Atlanta</elt><elt>Brana</elt>  
+  <Wileen>
+    <age>20</age>
+  </Wileen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tilly"
+  lastname="Tyson"
+  city="Thimphu"
+  country="Belgium"
+  firstname2="Cherilyn"
+  lastname2="Dunkin"
+  email="Cherilyn.Dunkin@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>43.853</random_float>
+  <bool>false</bool>
+  <date>1984-12-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lolita</elt><elt>Valli</elt><elt>Ada</elt><elt>Merci</elt><elt>Ilse</elt>  
+  <Cherilyn>
+    <age>67</age>
+  </Cherilyn>
+</root>

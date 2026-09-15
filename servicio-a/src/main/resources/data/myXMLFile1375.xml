@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Waite"
+  city="Seoul"
+  country="Portugal"
+  firstname2="Georgina"
+  lastname2="Olin"
+  email="Georgina.Olin@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>43.226</random_float>
+  <bool>true</bool>
+  <date>1994-05-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Letizia</elt><elt>Annabela</elt><elt>Sashenka</elt><elt>Anica</elt><elt>Florie</elt>  
+  <Georgina>
+    <age>87</age>
+  </Georgina>
+</root>

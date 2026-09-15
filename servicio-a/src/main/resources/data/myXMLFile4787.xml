@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaine"
+  lastname="Adore"
+  city="Cebu City"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Libbie"
+  lastname2="Maribeth"
+  email="Libbie.Maribeth@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>31.677</random_float>
+  <bool>false</bool>
+  <date>1983-12-27</date>
+  <regEx>hellooo to you</regEx>
+  <enum>online</enum>
+  <elt>Suzette</elt><elt>Jenilee</elt><elt>Marita</elt><elt>Jasmina</elt><elt>Aeriela</elt>  
+  <Libbie>
+    <age>49</age>
+  </Libbie>
+</root>

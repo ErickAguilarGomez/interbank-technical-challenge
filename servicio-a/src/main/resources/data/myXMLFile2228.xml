@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ninnetta"
+  lastname="Kendrick"
+  city="Ciudad del Este"
+  country="South Georgia and the South Sandwich Islands"
+  firstname2="Raina"
+  lastname2="Stevy"
+  email="Raina.Stevy@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>82.581</random_float>
+  <bool>true</bool>
+  <date>1986-06-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Albertina</elt><elt>Agnese</elt><elt>Marti</elt><elt>Jennica</elt><elt>Kary</elt>  
+  <Raina>
+    <age>46</age>
+  </Raina>
+</root>

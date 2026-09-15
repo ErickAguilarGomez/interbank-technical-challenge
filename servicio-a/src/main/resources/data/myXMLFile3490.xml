@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teriann"
+  lastname="Hunfredo"
+  city="Lilongwe"
+  country="Guam"
+  firstname2="Cissiee"
+  lastname2="Ricki"
+  email="Cissiee.Ricki@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>70.091</random_float>
+  <bool>false</bool>
+  <date>1995-10-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Janey</elt><elt>Lilith</elt><elt>Elise</elt><elt>Willetta</elt><elt>Sarette</elt>  
+  <Cissiee>
+    <age>33</age>
+  </Cissiee>
+</root>

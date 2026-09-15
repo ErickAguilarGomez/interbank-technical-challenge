@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Janenna"
+  lastname="Madelene"
+  city="Sarajevo"
+  country="Falkland Islands (Malvinas)"
+  firstname2="Edyth"
+  lastname2="Skurnik"
+  email="Edyth.Skurnik@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>66.811</random_float>
+  <bool>false</bool>
+  <date>1991-01-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Etta</elt><elt>Lusa</elt><elt>Gloria</elt><elt>Glenda</elt><elt>Lory</elt>  
+  <Edyth>
+    <age>55</age>
+  </Edyth>
+</root>

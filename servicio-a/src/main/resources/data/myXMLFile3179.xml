@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Constance"
+  lastname="Odysseus"
+  city="Fort-de-France"
+  country="Zambia"
+  firstname2="Cindelyn"
+  lastname2="McGrody"
+  email="Cindelyn.McGrody@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>22.005</random_float>
+  <bool>false</bool>
+  <date>1980-08-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aaren</elt><elt>Belinda</elt><elt>Hollie</elt><elt>Lelah</elt><elt>Frances</elt>  
+  <Cindelyn>
+    <age>48</age>
+  </Cindelyn>
+</root>

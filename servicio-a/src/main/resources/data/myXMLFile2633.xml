@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leanna"
+  lastname="Sherrie"
+  city="Vancouver"
+  country="Togo"
+  firstname2="Tobe"
+  lastname2="Thilda"
+  email="Tobe.Thilda@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>81.302</random_float>
+  <bool>true</bool>
+  <date>1982-09-02</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rayna</elt><elt>Chandra</elt><elt>Emmey</elt><elt>Xylina</elt><elt>Luci</elt>  
+  <Tobe>
+    <age>43</age>
+  </Tobe>
+</root>

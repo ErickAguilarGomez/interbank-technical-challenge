@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emylee"
+  lastname="Schalles"
+  city="Chihuahua"
+  country="Qatar"
+  firstname2="Jinny"
+  lastname2="Wallis"
+  email="Jinny.Wallis@yopmail.com"
+  />
+  <random>74</random>
+  <random_float>8.471</random_float>
+  <bool>true</bool>
+  <date>1985-09-08</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Lelah</elt><elt>Alyssa</elt><elt>Patricia</elt><elt>Aurelie</elt><elt>Kimberley</elt>  
+  <Jinny>
+    <age>99</age>
+  </Jinny>
+</root>

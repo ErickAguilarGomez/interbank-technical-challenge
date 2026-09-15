@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Lamoree"
+  city="Geelong"
+  country="Liechtenstein"
+  firstname2="Meghann"
+  lastname2="Ricki"
+  email="Meghann.Ricki@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>8.804</random_float>
+  <bool>false</bool>
+  <date>1987-09-26</date>
+  <regEx>helloooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Jany</elt><elt>Reeba</elt><elt>Marcy</elt><elt>Hettie</elt><elt>Flory</elt>  
+  <Meghann>
+    <age>34</age>
+  </Meghann>
+</root>

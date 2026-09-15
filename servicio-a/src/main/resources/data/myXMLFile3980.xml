@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nonnah"
+  lastname="Allys"
+  city="Pattaya"
+  country="Monaco"
+  firstname2="Nita"
+  lastname2="MacIntosh"
+  email="Nita.MacIntosh@yopmail.com"
+  />
+  <random>19</random>
+  <random_float>82.72</random_float>
+  <bool>false</bool>
+  <date>1998-04-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nadine</elt><elt>Liana</elt><elt>Donnie</elt><elt>Xylina</elt><elt>Chickie</elt>  
+  <Nita>
+    <age>31</age>
+  </Nita>
+</root>

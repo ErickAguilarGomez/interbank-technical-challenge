@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jessamyn"
+  lastname="Belanger"
+  city="Nairobi"
+  country="Syrian Arab Republic"
+  firstname2="Genevra"
+  lastname2="Nance"
+  email="Genevra.Nance@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>96.283</random_float>
+  <bool>true</bool>
+  <date>1990-08-14</date>
+  <regEx>helloooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Calla</elt><elt>Frieda</elt><elt>Olwen</elt><elt>Lexine</elt><elt>Charmaine</elt>  
+  <Genevra>
+    <age>96</age>
+  </Genevra>
+</root>

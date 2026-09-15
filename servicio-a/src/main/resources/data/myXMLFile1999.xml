@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Rebecka"
+  city="Durban"
+  country="Philippines"
+  firstname2="Kelly"
+  lastname2="Nickola"
+  email="Kelly.Nickola@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>6.894</random_float>
+  <bool>false</bool>
+  <date>1981-09-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cordi</elt><elt>Tatiania</elt><elt>Lynnea</elt><elt>Devina</elt><elt>Gale</elt>  
+  <Kelly>
+    <age>52</age>
+  </Kelly>
+</root>

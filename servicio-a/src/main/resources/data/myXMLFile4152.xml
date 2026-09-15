@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dorthy"
+  lastname="Karna"
+  city="San Francisco"
+  country="Seychelles"
+  firstname2="Genovera"
+  lastname2="LaRue"
+  email="Genovera.LaRue@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>51.927</random_float>
+  <bool>false</bool>
+  <date>1993-06-28</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Audrie</elt><elt>Myriam</elt><elt>Darlleen</elt><elt>Nita</elt><elt>Lonnie</elt>  
+  <Genovera>
+    <age>31</age>
+  </Genovera>
+</root>

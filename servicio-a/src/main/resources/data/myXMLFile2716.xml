@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leona"
+  lastname="August"
+  city="Las Palmas de Gran Canaria"
+  country="Reunion"
+  firstname2="Kalina"
+  lastname2="Kenney"
+  email="Kalina.Kenney@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>3.317</random_float>
+  <bool>true</bool>
+  <date>1986-12-02</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jolyn</elt><elt>Krystle</elt><elt>Heddie</elt><elt>Abbie</elt><elt>Deedee</elt>  
+  <Kalina>
+    <age>78</age>
+  </Kalina>
+</root>

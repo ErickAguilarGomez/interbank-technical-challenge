@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Michaelina"
+  lastname="Beebe"
+  city="Nakhon Ratchasima"
+  country="Jamaica"
+  firstname2="Trudie"
+  lastname2="Juan"
+  email="Trudie.Juan@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>51.457</random_float>
+  <bool>true</bool>
+  <date>1982-06-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Lita</elt><elt>Flo</elt><elt>Agnese</elt><elt>Sharlene</elt><elt>Elvira</elt>  
+  <Trudie>
+    <age>91</age>
+  </Trudie>
+</root>

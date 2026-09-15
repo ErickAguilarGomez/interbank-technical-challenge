@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anallese"
+  lastname="Monk"
+  city="Nassau"
+  country="Turkmenistan"
+  firstname2="Roslyn"
+  lastname2="Mitzi"
+  email="Roslyn.Mitzi@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>14.117</random_float>
+  <bool>true</bool>
+  <date>1991-04-02</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Lynnea</elt><elt>Aili</elt><elt>Jinny</elt><elt>Ayn</elt><elt>Corly</elt>  
+  <Roslyn>
+    <age>50</age>
+  </Roslyn>
+</root>

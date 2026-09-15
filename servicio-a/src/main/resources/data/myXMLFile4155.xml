@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aubrie"
+  lastname="Etom"
+  city="Brazzaville"
+  country="Switzerland"
+  firstname2="Joelly"
+  lastname2="Goerke"
+  email="Joelly.Goerke@yopmail.com"
+  />
+  <random>76</random>
+  <random_float>87.346</random_float>
+  <bool>false</bool>
+  <date>1995-08-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Aigneis</elt><elt>Delilah</elt><elt>Giustina</elt><elt>Arabel</elt><elt>Krystle</elt>  
+  <Joelly>
+    <age>56</age>
+  </Joelly>
+</root>

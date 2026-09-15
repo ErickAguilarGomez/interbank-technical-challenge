@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tomasina"
+  lastname="Giule"
+  city="Edmonton"
+  country="Russian Federation"
+  firstname2="Beverley"
+  lastname2="Loleta"
+  email="Beverley.Loleta@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>98.975</random_float>
+  <bool>true</bool>
+  <date>1996-05-23</date>
+  <regEx>hellooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Eugine</elt><elt>Wynne</elt><elt>Paulita</elt><elt>Natka</elt><elt>Carlie</elt>  
+  <Beverley>
+    <age>54</age>
+  </Beverley>
+</root>

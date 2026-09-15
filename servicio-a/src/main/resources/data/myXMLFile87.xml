@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherrita"
+  lastname="Elisha"
+  city="Fukuoka"
+  country="Saint Helena"
+  firstname2="Alisha"
+  lastname2="Gladstone"
+  email="Alisha.Gladstone@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>55.21</random_float>
+  <bool>true</bool>
+  <date>1998-11-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Thalia</elt><elt>Marylou</elt><elt>Cassondra</elt><elt>Eugine</elt><elt>Tarra</elt>  
+  <Alisha>
+    <age>33</age>
+  </Alisha>
+</root>

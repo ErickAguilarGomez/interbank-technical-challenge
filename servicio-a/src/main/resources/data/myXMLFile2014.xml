@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ivett"
+  lastname="Israeli"
+  city="Conakry"
+  country="Guadeloupe"
+  firstname2="Modestia"
+  lastname2="Felizio"
+  email="Modestia.Felizio@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>25.116</random_float>
+  <bool>true</bool>
+  <date>1995-08-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Charlena</elt><elt>Carly</elt><elt>Olwen</elt><elt>Karolina</elt><elt>Gloria</elt>  
+  <Modestia>
+    <age>61</age>
+  </Modestia>
+</root>

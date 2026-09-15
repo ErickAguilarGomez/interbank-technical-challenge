@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Jeanne"
+  city="Boa Vista"
+  country="El Salvador"
+  firstname2="Fanny"
+  lastname2="Abernon"
+  email="Fanny.Abernon@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>91.465</random_float>
+  <bool>true</bool>
+  <date>1983-06-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Gwenneth</elt><elt>Steffane</elt><elt>Chrystel</elt><elt>Roz</elt><elt>Jenda</elt>  
+  <Fanny>
+    <age>66</age>
+  </Fanny>
+</root>

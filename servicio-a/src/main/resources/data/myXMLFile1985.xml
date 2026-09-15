@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sheree"
+  lastname="Sikorski"
+  city="Durango"
+  country="Northern Mariana Islands"
+  firstname2="Ida"
+  lastname2="Harned"
+  email="Ida.Harned@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>4.976</random_float>
+  <bool>false</bool>
+  <date>1995-05-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Gretal</elt><elt>Dulcinea</elt><elt>Shauna</elt><elt>Audrie</elt><elt>Frieda</elt>  
+  <Ida>
+    <age>82</age>
+  </Ida>
+</root>

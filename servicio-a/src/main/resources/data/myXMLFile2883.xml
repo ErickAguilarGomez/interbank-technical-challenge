@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Charlena"
+  lastname="Lea"
+  city="Udon Thani"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Ursulina"
+  lastname2="Woodberry"
+  email="Ursulina.Woodberry@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>7.453</random_float>
+  <bool>true</bool>
+  <date>1991-11-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Chickie</elt><elt>Cecile</elt><elt>Jorry</elt><elt>Nadine</elt><elt>Zsa Zsa</elt>  
+  <Ursulina>
+    <age>65</age>
+  </Ursulina>
+</root>

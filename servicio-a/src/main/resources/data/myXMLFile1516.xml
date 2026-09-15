@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evita"
+  lastname="Anestassia"
+  city="Kobe"
+  country="Liberia"
+  firstname2="Drucie"
+  lastname2="Cleavland"
+  email="Drucie.Cleavland@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>83.591</random_float>
+  <bool>true</bool>
+  <date>1995-11-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kirstin</elt><elt>Deane</elt><elt>Carree</elt><elt>Dennie</elt><elt>Dennie</elt>  
+  <Drucie>
+    <age>62</age>
+  </Drucie>
+</root>

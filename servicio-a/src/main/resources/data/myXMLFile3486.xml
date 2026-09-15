@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tabbatha"
+  lastname="Miru"
+  city="Alor Star"
+  country="Nicaragua"
+  firstname2="Goldie"
+  lastname2="Boehike"
+  email="Goldie.Boehike@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>19.624</random_float>
+  <bool>true</bool>
+  <date>1984-08-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kary</elt><elt>Georgetta</elt><elt>Carol-Jean</elt><elt>Estell</elt><elt>Angela</elt>  
+  <Goldie>
+    <age>78</age>
+  </Goldie>
+</root>

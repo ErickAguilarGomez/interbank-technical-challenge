@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Delilah"
+  lastname="Lutero"
+  city="Tampere"
+  country="Bolivia"
+  firstname2="Pierette"
+  lastname2="Friede"
+  email="Pierette.Friede@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>97.725</random_float>
+  <bool>false</bool>
+  <date>1983-10-28</date>
+  <regEx>helloooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Nikki</elt><elt>Arabel</elt><elt>Kylynn</elt><elt>Jerry</elt><elt>Diena</elt>  
+  <Pierette>
+    <age>79</age>
+  </Pierette>
+</root>

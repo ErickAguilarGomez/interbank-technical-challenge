@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaine"
+  lastname="Westphal"
+  city="Riyadh"
+  country="Benin"
+  firstname2="Cecile"
+  lastname2="Shaver"
+  email="Cecile.Shaver@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>7.17</random_float>
+  <bool>false</bool>
+  <date>1983-04-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Misha</elt><elt>Dawn</elt><elt>Rayna</elt><elt>Mignon</elt><elt>Jaclyn</elt>  
+  <Cecile>
+    <age>36</age>
+  </Cecile>
+</root>

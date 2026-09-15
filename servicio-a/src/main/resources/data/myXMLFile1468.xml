@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mary"
+  lastname="Barbey"
+  city="Kano"
+  country="American Samoa"
+  firstname2="Mamie"
+  lastname2="Dosia"
+  email="Mamie.Dosia@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>73.165</random_float>
+  <bool>false</bool>
+  <date>1983-07-25</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Asia</elt><elt>Reeba</elt><elt>Violet</elt><elt>Daphne</elt><elt>Roberta</elt>  
+  <Mamie>
+    <age>48</age>
+  </Mamie>
+</root>

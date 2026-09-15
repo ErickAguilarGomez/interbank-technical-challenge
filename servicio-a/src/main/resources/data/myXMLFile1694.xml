@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elyssa"
+  lastname="Fry"
+  city="Bujumbura"
+  country="Mayotte"
+  firstname2="Farrah"
+  lastname2="Cleavland"
+  email="Farrah.Cleavland@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>11.54</random_float>
+  <bool>false</bool>
+  <date>1989-05-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sheree</elt><elt>Madeleine</elt><elt>Jillayne</elt><elt>Ellette</elt><elt>Delilah</elt>  
+  <Farrah>
+    <age>34</age>
+  </Farrah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Eve"
+  lastname="Rudolph"
+  city="Yogyakarta (city)"
+  country="Chad"
+  firstname2="Bee"
+  lastname2="Eachern"
+  email="Bee.Eachern@yopmail.com"
+  />
+  <random>50</random>
+  <random_float>36.143</random_float>
+  <bool>true</bool>
+  <date>1986-04-03</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Merci</elt><elt>Doralynne</elt><elt>Minne</elt><elt>Asia</elt><elt>Ofilia</elt>  
+  <Bee>
+    <age>40</age>
+  </Bee>
+</root>

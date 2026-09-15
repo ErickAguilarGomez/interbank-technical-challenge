@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Moyna"
+  lastname="Dunkin"
+  city="Guadalajara"
+  country="Cocos (Keeling) Islands"
+  firstname2="Juliane"
+  lastname2="Thad"
+  email="Juliane.Thad@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>2.87</random_float>
+  <bool>true</bool>
+  <date>1991-07-29</date>
+  <regEx>hellooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Celene</elt><elt>Tami</elt><elt>Viki</elt><elt>Clementine</elt><elt>Anallese</elt>  
+  <Juliane>
+    <age>81</age>
+  </Juliane>
+</root>

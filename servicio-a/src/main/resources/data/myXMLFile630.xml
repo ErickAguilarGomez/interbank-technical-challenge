@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tamqrah"
+  lastname="Mallon"
+  city="Road Town"
+  country="Libyan Arab Jamahiriya"
+  firstname2="Hallie"
+  lastname2="Kermit"
+  email="Hallie.Kermit@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>5.49</random_float>
+  <bool>true</bool>
+  <date>1990-12-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tina</elt><elt>Molli</elt><elt>Dorothy</elt><elt>Brana</elt><elt>Catrina</elt>  
+  <Hallie>
+    <age>62</age>
+  </Hallie>
+</root>

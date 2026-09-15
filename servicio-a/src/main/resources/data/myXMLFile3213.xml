@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bettine"
+  lastname="Chabot"
+  city="Nagoya"
+  country="Netherlands"
+  firstname2="Belva"
+  lastname2="Louanna"
+  email="Belva.Louanna@yopmail.com"
+  />
+  <random>75</random>
+  <random_float>29.604</random_float>
+  <bool>true</bool>
+  <date>1986-02-23</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Mallory</elt><elt>Deirdre</elt><elt>Elora</elt><elt>Ardys</elt><elt>Joceline</elt>  
+  <Belva>
+    <age>71</age>
+  </Belva>
+</root>

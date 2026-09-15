@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gui"
+  lastname="Horan"
+  city="Pago Pago"
+  country="Barbados"
+  firstname2="Deane"
+  lastname2="Pozzy"
+  email="Deane.Pozzy@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>94.781</random_float>
+  <bool>true</bool>
+  <date>1998-06-03</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Beth</elt><elt>Mureil</elt><elt>Natka</elt><elt>Cathie</elt><elt>Allis</elt>  
+  <Deane>
+    <age>100</age>
+  </Deane>
+</root>

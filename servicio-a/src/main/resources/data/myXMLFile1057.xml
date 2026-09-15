@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Oona"
+  lastname="Peti"
+  city="São José dos Campos"
+  country="Slovenia"
+  firstname2="Chrystel"
+  lastname2="Casimir"
+  email="Chrystel.Casimir@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>49.366</random_float>
+  <bool>false</bool>
+  <date>1984-07-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kimmy</elt><elt>Nanete</elt><elt>Asia</elt><elt>Karolina</elt><elt>Fina</elt>  
+  <Chrystel>
+    <age>38</age>
+  </Chrystel>
+</root>

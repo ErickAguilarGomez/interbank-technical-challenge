@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nanete"
+  lastname="Campball"
+  city="Adana"
+  country="Namibia"
+  firstname2="Madelle"
+  lastname2="Dielu"
+  email="Madelle.Dielu@yopmail.com"
+  />
+  <random>67</random>
+  <random_float>46.8</random_float>
+  <bool>true</bool>
+  <date>1985-08-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Wanda</elt><elt>Gretal</elt><elt>Alejandra</elt><elt>Winifred</elt><elt>Ellette</elt>  
+  <Madelle>
+    <age>71</age>
+  </Madelle>
+</root>

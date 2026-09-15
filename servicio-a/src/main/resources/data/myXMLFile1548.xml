@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lusa"
+  lastname="Rolf"
+  city="Srinagar"
+  country="Antigua and Barbuda"
+  firstname2="Iseabal"
+  lastname2="Emerson"
+  email="Iseabal.Emerson@yopmail.com"
+  />
+  <random>17</random>
+  <random_float>93.088</random_float>
+  <bool>false</bool>
+  <date>1990-10-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Cathyleen</elt><elt>Nollie</elt><elt>Alie</elt><elt>Elvira</elt><elt>Ulrike</elt>  
+  <Iseabal>
+    <age>27</age>
+  </Iseabal>
+</root>

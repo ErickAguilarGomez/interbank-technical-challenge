@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dode"
+  lastname="Elbertina"
+  city="Thessaloniki"
+  country="Hungary"
+  firstname2="Sandie"
+  lastname2="Bigner"
+  email="Sandie.Bigner@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>78.43</random_float>
+  <bool>true</bool>
+  <date>1981-07-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Molli</elt><elt>Andree</elt><elt>Nanete</elt><elt>Regina</elt><elt>Marleah</elt>  
+  <Sandie>
+    <age>39</age>
+  </Sandie>
+</root>

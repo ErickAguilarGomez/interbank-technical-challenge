@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rori"
+  lastname="Jary"
+  city="Lanzhou"
+  country="Turkmenistan"
+  firstname2="Tiffie"
+  lastname2="Riva"
+  email="Tiffie.Riva@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>61.829</random_float>
+  <bool>true</bool>
+  <date>1987-12-23</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Luci</elt><elt>Anestassia</elt><elt>Hannis</elt><elt>Beth</elt><elt>Riannon</elt>  
+  <Tiffie>
+    <age>63</age>
+  </Tiffie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nataline"
+  lastname="Lesley"
+  city="Tokyo"
+  country="Palestinian Territory, Occupied"
+  firstname2="Tracey"
+  lastname2="Ummersen"
+  email="Tracey.Ummersen@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>40.572</random_float>
+  <bool>false</bool>
+  <date>1984-08-13</date>
+  <regEx>hellooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Tarra</elt><elt>Dulce</elt><elt>Loree</elt><elt>Thalia</elt><elt>Etta</elt>  
+  <Tracey>
+    <age>29</age>
+  </Tracey>
+</root>

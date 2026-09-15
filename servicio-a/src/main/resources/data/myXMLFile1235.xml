@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Binny"
+  lastname="Darrell"
+  city="Marseille"
+  country="Western Sahara"
+  firstname2="Cam"
+  lastname2="Hashim"
+  email="Cam.Hashim@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>71.286</random_float>
+  <bool>true</bool>
+  <date>1991-11-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sabina</elt><elt>Danika</elt><elt>Blondelle</elt><elt>Damaris</elt><elt>Estell</elt>  
+  <Cam>
+    <age>35</age>
+  </Cam>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Priscilla"
+  lastname="Quinn"
+  city="Jaipur"
+  country="Tunisia"
+  firstname2="Abbie"
+  lastname2="Euridice"
+  email="Abbie.Euridice@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>37.813</random_float>
+  <bool>true</bool>
+  <date>1984-08-27</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Sadie</elt><elt>Nataline</elt><elt>Meghann</elt><elt>Stevana</elt><elt>Glynnis</elt>  
+  <Abbie>
+    <age>59</age>
+  </Abbie>
+</root>

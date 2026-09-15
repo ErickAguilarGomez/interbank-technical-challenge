@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Candy"
+  lastname="Adalbert"
+  city="Antofagasta"
+  country="Bolivia"
+  firstname2="Andree"
+  lastname2="Masao"
+  email="Andree.Masao@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>19.694</random_float>
+  <bool>true</bool>
+  <date>1991-06-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ofilia</elt><elt>Jessamyn</elt><elt>Myriam</elt><elt>Emelina</elt><elt>Ruthe</elt>  
+  <Andree>
+    <age>26</age>
+  </Andree>
+</root>

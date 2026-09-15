@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elena"
+  lastname="Fleeta"
+  city="Lviv"
+  country="El Salvador"
+  firstname2="Pamella"
+  lastname2="Idelia"
+  email="Pamella.Idelia@yopmail.com"
+  />
+  <random>14</random>
+  <random_float>32.403</random_float>
+  <bool>true</bool>
+  <date>1987-10-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Olwen</elt><elt>Keelia</elt><elt>Ruthe</elt><elt>Berget</elt><elt>Frieda</elt>  
+  <Pamella>
+    <age>70</age>
+  </Pamella>
+</root>

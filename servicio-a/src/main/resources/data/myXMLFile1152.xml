@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Harmonia"
+  lastname="Rheingold"
+  city="Paramaribo"
+  country="Haiti"
+  firstname2="Minda"
+  lastname2="Xerxes"
+  email="Minda.Xerxes@yopmail.com"
+  />
+  <random>26</random>
+  <random_float>88.278</random_float>
+  <bool>true</bool>
+  <date>1997-05-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Maud</elt><elt>Kylynn</elt><elt>Marline</elt><elt>Corina</elt><elt>Hallie</elt>  
+  <Minda>
+    <age>93</age>
+  </Minda>
+</root>

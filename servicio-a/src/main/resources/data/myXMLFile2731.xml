@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Millie"
+  lastname="Callista"
+  city="Memphis"
+  country="Bahamas"
+  firstname2="Micheline"
+  lastname2="Pyle"
+  email="Micheline.Pyle@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>7.164</random_float>
+  <bool>true</bool>
+  <date>1994-12-15</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Aurelie</elt><elt>Collen</elt><elt>Celene</elt><elt>Andeee</elt><elt>Doralynne</elt>  
+  <Micheline>
+    <age>96</age>
+  </Micheline>
+</root>

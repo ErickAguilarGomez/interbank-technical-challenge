@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sibella"
+  lastname="Garek"
+  city="Kraków"
+  country="British Indian Ocean Territory"
+  firstname2="Nonnah"
+  lastname2="Faria"
+  email="Nonnah.Faria@yopmail.com"
+  />
+  <random>32</random>
+  <random_float>43.957</random_float>
+  <bool>true</bool>
+  <date>1984-10-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kerrin</elt><elt>Teddie</elt><elt>Melanie</elt><elt>Gusty</elt><elt>Marsiella</elt>  
+  <Nonnah>
+    <age>18</age>
+  </Nonnah>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jillayne"
+  lastname="Ax"
+  city="Iloilo City"
+  country="Malawi"
+  firstname2="Zia"
+  lastname2="Dorine"
+  email="Zia.Dorine@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>92.728</random_float>
+  <bool>true</bool>
+  <date>1995-02-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Arabel</elt><elt>Katuscha</elt><elt>Consuela</elt><elt>Yolane</elt><elt>Alia</elt>  
+  <Zia>
+    <age>64</age>
+  </Zia>
+</root>

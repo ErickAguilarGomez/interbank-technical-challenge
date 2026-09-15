@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kerrin"
+  lastname="Joeann"
+  city="Columbus"
+  country="Anguilla"
+  firstname2="Maryellen"
+  lastname2="Hebner"
+  email="Maryellen.Hebner@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>44.417</random_float>
+  <bool>true</bool>
+  <date>1996-02-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Feliza</elt><elt>Jsandye</elt><elt>Siana</elt><elt>Janenna</elt><elt>Penelopa</elt>  
+  <Maryellen>
+    <age>42</age>
+  </Maryellen>
+</root>

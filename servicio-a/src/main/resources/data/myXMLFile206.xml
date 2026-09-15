@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hildegaard"
+  lastname="Glovsky"
+  city="Riyadh"
+  country="Venezuela"
+  firstname2="Fredericka"
+  lastname2="Ehrman"
+  email="Fredericka.Ehrman@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>30.613</random_float>
+  <bool>true</bool>
+  <date>1981-09-24</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Kimberley</elt><elt>Anthia</elt><elt>Zia</elt><elt>Jaclyn</elt><elt>Zsa Zsa</elt>  
+  <Fredericka>
+    <age>61</age>
+  </Fredericka>
+</root>

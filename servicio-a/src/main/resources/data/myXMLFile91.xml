@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Betta"
+  lastname="Harned"
+  city="Bangui"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Glenda"
+  lastname2="Killigrew"
+  email="Glenda.Killigrew@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>10.567</random_float>
+  <bool>false</bool>
+  <date>1989-07-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Anestassia</elt><elt>Chastity</elt><elt>Rebeca</elt><elt>Andree</elt><elt>Jere</elt>  
+  <Glenda>
+    <age>53</age>
+  </Glenda>
+</root>

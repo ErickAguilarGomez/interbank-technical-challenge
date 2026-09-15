@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Tarrant"
+  city="Shenzhen"
+  country="Bermuda"
+  firstname2="Daune"
+  lastname2="Ingra"
+  email="Daune.Ingra@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>25.236</random_float>
+  <bool>true</bool>
+  <date>1987-06-08</date>
+  <regEx>hellooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Minne</elt><elt>Mathilda</elt><elt>Angela</elt><elt>Maisey</elt><elt>Dale</elt>  
+  <Daune>
+    <age>44</age>
+  </Daune>
+</root>

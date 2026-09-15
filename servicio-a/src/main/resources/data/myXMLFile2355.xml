@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rhoda"
+  lastname="Adore"
+  city="Vladivostok"
+  country="Trinidad and Tobago"
+  firstname2="Ardeen"
+  lastname2="Fry"
+  email="Ardeen.Fry@yopmail.com"
+  />
+  <random>28</random>
+  <random_float>90.806</random_float>
+  <bool>true</bool>
+  <date>1995-09-09</date>
+  <regEx>hellooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Evita</elt><elt>Esmeralda</elt><elt>Clo</elt><elt>Jaime</elt><elt>Alie</elt>  
+  <Ardeen>
+    <age>46</age>
+  </Ardeen>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ronna"
+  lastname="Colleen"
+  city="Magadan"
+  country="Saint Vincent and the Grenadines"
+  firstname2="Dorene"
+  lastname2="Knowling"
+  email="Dorene.Knowling@yopmail.com"
+  />
+  <random>4</random>
+  <random_float>24.299</random_float>
+  <bool>false</bool>
+  <date>1993-04-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Perry</elt><elt>Kalina</elt><elt>Trixi</elt><elt>Agathe</elt><elt>Imojean</elt>  
+  <Dorene>
+    <age>78</age>
+  </Dorene>
+</root>

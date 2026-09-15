@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Katleen"
+  lastname="Nadia"
+  city="Saint Petersburg"
+  country="Finland"
+  firstname2="Starla"
+  lastname2="Martguerita"
+  email="Starla.Martguerita@yopmail.com"
+  />
+  <random>45</random>
+  <random_float>68.869</random_float>
+  <bool>false</bool>
+  <date>1980-07-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Merci</elt><elt>Clarice</elt><elt>Jenilee</elt><elt>Judy</elt><elt>Katharina</elt>  
+  <Starla>
+    <age>33</age>
+  </Starla>
+</root>

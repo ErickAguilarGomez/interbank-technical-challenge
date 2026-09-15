@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Leanna"
+  lastname="Chauncey"
+  city="İzmir"
+  country="Palestinian Territory, Occupied"
+  firstname2="Estell"
+  lastname2="Tarrant"
+  email="Estell.Tarrant@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>18.067</random_float>
+  <bool>false</bool>
+  <date>1997-10-07</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kenna</elt><elt>Cecile</elt><elt>Ketti</elt><elt>Linet</elt><elt>Ingrid</elt>  
+  <Estell>
+    <age>71</age>
+  </Estell>
+</root>

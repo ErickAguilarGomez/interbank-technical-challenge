@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Auberbach"
+  city="Vatican City"
+  country="Algeria"
+  firstname2="Neila"
+  lastname2="Elsinore"
+  email="Neila.Elsinore@yopmail.com"
+  />
+  <random>81</random>
+  <random_float>3.93</random_float>
+  <bool>false</bool>
+  <date>1984-07-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Therine</elt><elt>Giustina</elt><elt>Arlena</elt><elt>Phylis</elt><elt>Marcelline</elt>  
+  <Neila>
+    <age>79</age>
+  </Neila>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Addia"
+  lastname="Carolin"
+  city="Brazzaville"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Glynnis"
+  lastname2="Talia"
+  email="Glynnis.Talia@yopmail.com"
+  />
+  <random>16</random>
+  <random_float>26.834</random_float>
+  <bool>true</bool>
+  <date>1990-10-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Christy</elt><elt>Amara</elt><elt>Liana</elt><elt>Marguerite</elt><elt>Max</elt>  
+  <Glynnis>
+    <age>68</age>
+  </Glynnis>
+</root>

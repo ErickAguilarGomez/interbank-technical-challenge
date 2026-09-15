@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Anica"
+  lastname="Trace"
+  city="Basra"
+  country="Tuvalu"
+  firstname2="Tamqrah"
+  lastname2="Sherfield"
+  email="Tamqrah.Sherfield@yopmail.com"
+  />
+  <random>82</random>
+  <random_float>74.701</random_float>
+  <bool>true</bool>
+  <date>1990-12-09</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Rori</elt><elt>Orsola</elt><elt>Cristine</elt><elt>Renie</elt><elt>Nannie</elt>  
+  <Tamqrah>
+    <age>50</age>
+  </Tamqrah>
+</root>

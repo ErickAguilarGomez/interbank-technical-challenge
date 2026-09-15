@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Grier"
+  lastname="Newell"
+  city="Gothenburg"
+  country="Slovenia"
+  firstname2="Margalo"
+  lastname2="Eckblad"
+  email="Margalo.Eckblad@yopmail.com"
+  />
+  <random>8</random>
+  <random_float>80.884</random_float>
+  <bool>true</bool>
+  <date>1999-01-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Nonnah</elt><elt>Frances</elt><elt>Caryl</elt><elt>Chandra</elt><elt>Corina</elt>  
+  <Margalo>
+    <age>98</age>
+  </Margalo>
+</root>

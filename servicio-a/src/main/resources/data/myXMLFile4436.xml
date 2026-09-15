@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Trixi"
+  lastname="Ulphia"
+  city="Las Vegas"
+  country="Canada"
+  firstname2="Alyda"
+  lastname2="Suzetta"
+  email="Alyda.Suzetta@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>41.409</random_float>
+  <bool>false</bool>
+  <date>1995-01-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Kristina</elt><elt>Judy</elt><elt>Vita</elt><elt>Shaylyn</elt><elt>Dale</elt>  
+  <Alyda>
+    <age>25</age>
+  </Alyda>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marline"
+  lastname="Moina"
+  city="Portland"
+  country="Slovakia"
+  firstname2="Micheline"
+  lastname2="Cath"
+  email="Micheline.Cath@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>49.578</random_float>
+  <bool>false</bool>
+  <date>1995-02-11</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Alia</elt><elt>Carree</elt><elt>Wendi</elt><elt>Ivett</elt><elt>Tami</elt>  
+  <Micheline>
+    <age>83</age>
+  </Micheline>
+</root>

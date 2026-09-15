@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Silvana"
+  lastname="Adore"
+  city="Suva"
+  country="Bermuda"
+  firstname2="Felice"
+  lastname2="Pitt"
+  email="Felice.Pitt@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>73.999</random_float>
+  <bool>true</bool>
+  <date>1993-09-01</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Deloria</elt><elt>Ketti</elt><elt>Madelle</elt><elt>Letizia</elt><elt>Cathie</elt>  
+  <Felice>
+    <age>23</age>
+  </Felice>
+</root>

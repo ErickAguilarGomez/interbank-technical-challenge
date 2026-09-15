@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shaylyn"
+  lastname="Knowling"
+  city="Los Angeles"
+  country="Kyrgyzstan"
+  firstname2="Beverley"
+  lastname2="Lacombe"
+  email="Beverley.Lacombe@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>95.725</random_float>
+  <bool>false</bool>
+  <date>1993-06-10</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Meg</elt><elt>Neila</elt><elt>Arabel</elt><elt>Vinita</elt><elt>Linet</elt>  
+  <Beverley>
+    <age>53</age>
+  </Beverley>
+</root>

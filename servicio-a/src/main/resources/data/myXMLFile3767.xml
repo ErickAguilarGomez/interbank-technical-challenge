@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Blake"
+  lastname="Rugen"
+  city="Phuket (city)"
+  country="Argentina"
+  firstname2="Sandie"
+  lastname2="Iphlgenia"
+  email="Sandie.Iphlgenia@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>37.45</random_float>
+  <bool>false</bool>
+  <date>1988-06-18</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Petronia</elt><elt>Damaris</elt><elt>Fanchon</elt><elt>Molli</elt><elt>Atlanta</elt>  
+  <Sandie>
+    <age>95</age>
+  </Sandie>
+</root>

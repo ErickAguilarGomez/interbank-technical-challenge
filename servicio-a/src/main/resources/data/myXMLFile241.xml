@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clary"
+  lastname="Zamora"
+  city="Dongguan"
+  country="San Marino"
+  firstname2="Cherrita"
+  lastname2="Hourigan"
+  email="Cherrita.Hourigan@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>36.445</random_float>
+  <bool>false</bool>
+  <date>1991-09-12</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bernardine</elt><elt>Tonia</elt><elt>Misha</elt><elt>Halette</elt><elt>Nollie</elt>  
+  <Cherrita>
+    <age>93</age>
+  </Cherrita>
+</root>

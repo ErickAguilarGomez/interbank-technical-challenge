@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cherilyn"
+  lastname="Kazimir"
+  city="Toronto"
+  country="Cameroon"
+  firstname2="Eolanda"
+  lastname2="Chem"
+  email="Eolanda.Chem@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>87.489</random_float>
+  <bool>true</bool>
+  <date>1988-11-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frank</elt><elt>Bee</elt><elt>Lusa</elt><elt>Annecorinne</elt><elt>Briney</elt>  
+  <Eolanda>
+    <age>65</age>
+  </Eolanda>
+</root>

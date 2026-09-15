@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mary"
+  lastname="Chobot"
+  city="Porto"
+  country="Belgium"
+  firstname2="Dale"
+  lastname2="Haldas"
+  email="Dale.Haldas@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>2.441</random_float>
+  <bool>false</bool>
+  <date>1991-01-27</date>
+  <regEx>hellooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Wynne</elt><elt>Mary</elt><elt>Agathe</elt><elt>Willetta</elt><elt>Demetris</elt>  
+  <Dale>
+    <age>57</age>
+  </Dale>
+</root>

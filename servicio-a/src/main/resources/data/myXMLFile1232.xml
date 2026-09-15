@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aigneis"
+  lastname="Wildermuth"
+  city="Perm"
+  country="Netherlands Antilles"
+  firstname2="Edyth"
+  lastname2="Winthorpe"
+  email="Edyth.Winthorpe@yopmail.com"
+  />
+  <random>2</random>
+  <random_float>63.732</random_float>
+  <bool>false</bool>
+  <date>1993-06-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Eadie</elt><elt>Christal</elt><elt>Christian</elt><elt>Wynne</elt><elt>Catharine</elt>  
+  <Edyth>
+    <age>35</age>
+  </Edyth>
+</root>

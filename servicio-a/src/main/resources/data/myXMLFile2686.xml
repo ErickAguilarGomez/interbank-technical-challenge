@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gretal"
+  lastname="Hollingsworth"
+  city="Washington"
+  country="Bangladesh"
+  firstname2="Roxane"
+  lastname2="Redmond"
+  email="Roxane.Redmond@yopmail.com"
+  />
+  <random>69</random>
+  <random_float>15.726</random_float>
+  <bool>true</bool>
+  <date>1985-09-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Carmela</elt><elt>Rhea</elt><elt>Mady</elt><elt>Jaclyn</elt><elt>Karena</elt>  
+  <Roxane>
+    <age>19</age>
+  </Roxane>
+</root>

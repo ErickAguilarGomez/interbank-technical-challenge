@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ariela"
+  lastname="Bigner"
+  city="Luanda"
+  country="Kenya"
+  firstname2="Annice"
+  lastname2="Bari"
+  email="Annice.Bari@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>26.186</random_float>
+  <bool>false</bool>
+  <date>1982-11-08</date>
+  <regEx>helloooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Heddie</elt><elt>Shauna</elt><elt>Dyann</elt><elt>Marika</elt><elt>Rhea</elt>  
+  <Annice>
+    <age>88</age>
+  </Annice>
+</root>

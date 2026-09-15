@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gilligan"
+  lastname="Ariella"
+  city="Moscow"
+  country="Ukraine"
+  firstname2="Linet"
+  lastname2="Medrek"
+  email="Linet.Medrek@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>12.54</random_float>
+  <bool>true</bool>
+  <date>1983-09-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Agnese</elt><elt>Judy</elt><elt>Silvana</elt><elt>Raina</elt><elt>Gusty</elt>  
+  <Linet>
+    <age>54</age>
+  </Linet>
+</root>

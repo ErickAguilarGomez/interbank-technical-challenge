@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Netty"
+  lastname="Holbrook"
+  city="Alexandria"
+  country="Venezuela"
+  firstname2="Steffane"
+  lastname2="Rheingold"
+  email="Steffane.Rheingold@yopmail.com"
+  />
+  <random>49</random>
+  <random_float>53.707</random_float>
+  <bool>true</bool>
+  <date>1998-11-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Florie</elt><elt>Gui</elt><elt>Rhoda</elt><elt>Caritta</elt><elt>Christian</elt>  
+  <Steffane>
+    <age>48</age>
+  </Steffane>
+</root>

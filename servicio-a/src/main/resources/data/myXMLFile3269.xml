@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Lizzie"
+  lastname="Angelis"
+  city="Suva"
+  country="Virgin Islands, British"
+  firstname2="Lonnie"
+  lastname2="Duwalt"
+  email="Lonnie.Duwalt@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>86.65</random_float>
+  <bool>false</bool>
+  <date>1992-06-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Sharai</elt><elt>Jennica</elt><elt>Monika</elt><elt>Pollyanna</elt><elt>Fidelia</elt>  
+  <Lonnie>
+    <age>91</age>
+  </Lonnie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Allyce"
+  lastname="Haerr"
+  city="Monterrey"
+  country="Norfolk Island"
+  firstname2="Nessie"
+  lastname2="Delacourt"
+  email="Nessie.Delacourt@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>1.277</random_float>
+  <bool>true</bool>
+  <date>1992-12-21</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Hallie</elt><elt>Fernande</elt><elt>Audrie</elt><elt>Tamqrah</elt><elt>Ricky</elt>  
+  <Nessie>
+    <age>49</age>
+  </Nessie>
+</root>

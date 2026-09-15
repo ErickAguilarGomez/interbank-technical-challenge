@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dale"
+  lastname="Bertold"
+  city="Surabaya"
+  country="Paraguay"
+  firstname2="Romona"
+  lastname2="O'Rourke"
+  email="Romona.O'Rourke@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>30.95</random_float>
+  <bool>true</bool>
+  <date>1985-06-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Zaria</elt><elt>Mathilda</elt><elt>Rozele</elt><elt>Helsa</elt><elt>Jaclyn</elt>  
+  <Romona>
+    <age>83</age>
+  </Romona>
+</root>

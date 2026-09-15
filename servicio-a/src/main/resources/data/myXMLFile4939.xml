@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hope"
+  lastname="Catie"
+  city="Perm"
+  country="Brazil"
+  firstname2="Adore"
+  lastname2="Sacken"
+  email="Adore.Sacken@yopmail.com"
+  />
+  <random>91</random>
+  <random_float>100.056</random_float>
+  <bool>true</bool>
+  <date>1996-01-28</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Frances</elt><elt>Starla</elt><elt>Lisette</elt><elt>Jeanna</elt><elt>Katleen</elt>  
+  <Adore>
+    <age>77</age>
+  </Adore>
+</root>

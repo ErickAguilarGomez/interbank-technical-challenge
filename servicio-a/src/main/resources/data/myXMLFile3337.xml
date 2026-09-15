@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Brooks"
+  lastname="Hull"
+  city="La Serena"
+  country="Madagascar"
+  firstname2="Hope"
+  lastname2="Mandler"
+  email="Hope.Mandler@yopmail.com"
+  />
+  <random>72</random>
+  <random_float>51.064</random_float>
+  <bool>true</bool>
+  <date>1983-04-23</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Agathe</elt><elt>Sarette</elt><elt>Alex</elt><elt>Eadie</elt><elt>Gretal</elt>  
+  <Hope>
+    <age>22</age>
+  </Hope>
+</root>

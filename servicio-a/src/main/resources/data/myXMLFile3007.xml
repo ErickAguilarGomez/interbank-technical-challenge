@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Juliane"
+  lastname="Esmaria"
+  city="Hargeisa"
+  country="Barbados"
+  firstname2="Elfreda"
+  lastname2="Clywd"
+  email="Elfreda.Clywd@yopmail.com"
+  />
+  <random>6</random>
+  <random_float>84.693</random_float>
+  <bool>false</bool>
+  <date>1984-02-02</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Berta</elt><elt>Joleen</elt><elt>Darci</elt><elt>Concettina</elt><elt>Ana</elt>  
+  <Elfreda>
+    <age>64</age>
+  </Elfreda>
+</root>

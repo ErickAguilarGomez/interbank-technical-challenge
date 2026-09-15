@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jolyn"
+  lastname="Kussell"
+  city="Serekunda"
+  country="Niger"
+  firstname2="Ebonee"
+  lastname2="Amadas"
+  email="Ebonee.Amadas@yopmail.com"
+  />
+  <random>87</random>
+  <random_float>86.009</random_float>
+  <bool>false</bool>
+  <date>1986-05-03</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Cindelyn</elt><elt>Claudina</elt><elt>Oralee</elt><elt>Elsie</elt><elt>Demetris</elt>  
+  <Ebonee>
+    <age>27</age>
+  </Ebonee>
+</root>

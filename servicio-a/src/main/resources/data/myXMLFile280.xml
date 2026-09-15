@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Quintina"
+  lastname="Viddah"
+  city="Reykjavík"
+  country="Bosnia and Herzegovina"
+  firstname2="Evita"
+  lastname2="Allys"
+  email="Evita.Allys@yopmail.com"
+  />
+  <random>56</random>
+  <random_float>47.229</random_float>
+  <bool>true</bool>
+  <date>1997-10-12</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Elbertina</elt><elt>Alyssa</elt><elt>Deirdre</elt><elt>Mallory</elt><elt>Emmey</elt>  
+  <Evita>
+    <age>74</age>
+  </Evita>
+</root>

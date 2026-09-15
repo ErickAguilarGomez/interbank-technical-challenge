@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tani"
+  lastname="Bronk"
+  city="Fredericton"
+  country="Slovenia"
+  firstname2="Gabriellia"
+  lastname2="Evvie"
+  email="Gabriellia.Evvie@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>19.5</random_float>
+  <bool>false</bool>
+  <date>1983-10-24</date>
+  <regEx>helloooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Kore</elt><elt>Camile</elt><elt>Heida</elt><elt>Olivette</elt><elt>Norine</elt>  
+  <Gabriellia>
+    <age>75</age>
+  </Gabriellia>
+</root>

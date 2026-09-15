@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Luci"
+  lastname="Tristram"
+  city="Semarang"
+  country="Senegal"
+  firstname2="Viviene"
+  lastname2="Goddard"
+  email="Viviene.Goddard@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>99.785</random_float>
+  <bool>true</bool>
+  <date>1999-06-09</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Anestassia</elt><elt>Cristine</elt><elt>Cecile</elt><elt>Johna</elt><elt>Yvonne</elt>  
+  <Viviene>
+    <age>47</age>
+  </Viviene>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alisha"
+  lastname="Colbert"
+  city="Willemstad"
+  country="Australia"
+  firstname2="Randa"
+  lastname2="Shanley"
+  email="Randa.Shanley@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>77.026</random_float>
+  <bool>false</bool>
+  <date>1993-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Arlina</elt><elt>Courtnay</elt><elt>Kittie</elt><elt>Angelique</elt><elt>Maisey</elt>  
+  <Randa>
+    <age>92</age>
+  </Randa>
+</root>

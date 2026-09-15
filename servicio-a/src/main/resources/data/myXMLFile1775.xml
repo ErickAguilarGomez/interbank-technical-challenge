@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kristan"
+  lastname="Pauly"
+  city="Nukus"
+  country="Senegal"
+  firstname2="Sheree"
+  lastname2="Japeth"
+  email="Sheree.Japeth@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>98.412</random_float>
+  <bool>true</bool>
+  <date>1981-10-01</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Agnese</elt><elt>Doralynne</elt><elt>Orsola</elt><elt>Celene</elt><elt>Katleen</elt>  
+  <Sheree>
+    <age>77</age>
+  </Sheree>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elka"
+  lastname="Cordi"
+  city="Koror"
+  country="Central African Republic"
+  firstname2="Christian"
+  lastname2="Ramona"
+  email="Christian.Ramona@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>9.007</random_float>
+  <bool>true</bool>
+  <date>1980-05-02</date>
+  <regEx>hellooo world</regEx>
+  <enum>generator</enum>
+  <elt>Emelina</elt><elt>Letizia</elt><elt>Genevra</elt><elt>Lorenza</elt><elt>Olivette</elt>  
+  <Christian>
+    <age>88</age>
+  </Christian>
+</root>

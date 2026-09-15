@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Linet"
+  lastname="Jacqui"
+  city="Batticaloa"
+  country="Latvia"
+  firstname2="Althea"
+  lastname2="Bethany"
+  email="Althea.Bethany@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>87.306</random_float>
+  <bool>false</bool>
+  <date>1984-09-25</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Robinia</elt><elt>Emelina</elt><elt>Winny</elt><elt>Olwen</elt><elt>Tina</elt>  
+  <Althea>
+    <age>97</age>
+  </Althea>
+</root>

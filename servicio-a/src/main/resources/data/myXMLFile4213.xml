@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Karolina"
+  lastname="Newell"
+  city="Cleveland"
+  country="Ukraine"
+  firstname2="Chloris"
+  lastname2="Milde"
+  email="Chloris.Milde@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>65.384</random_float>
+  <bool>true</bool>
+  <date>1981-03-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gloria</elt><elt>Kellen</elt><elt>Drucie</elt><elt>Estell</elt><elt>Keelia</elt>  
+  <Chloris>
+    <age>45</age>
+  </Chloris>
+</root>

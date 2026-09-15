@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sue"
+  lastname="Adalbert"
+  city="Saskatoon"
+  country="Gabon"
+  firstname2="Lizzie"
+  lastname2="Cyrie"
+  email="Lizzie.Cyrie@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>86.26</random_float>
+  <bool>false</bool>
+  <date>1980-10-28</date>
+  <regEx>helloooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Rosaline</elt><elt>Aili</elt><elt>Desirae</elt><elt>Demetris</elt><elt>Celene</elt>  
+  <Lizzie>
+    <age>29</age>
+  </Lizzie>
+</root>

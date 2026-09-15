@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Madelle"
+  lastname="Pond"
+  city="Hargeisa"
+  country="Sao Tome and Principe"
+  firstname2="Annice"
+  lastname2="Suanne"
+  email="Annice.Suanne@yopmail.com"
+  />
+  <random>61</random>
+  <random_float>15.127</random_float>
+  <bool>false</bool>
+  <date>1980-09-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Jobi</elt><elt>Diena</elt><elt>Dyann</elt><elt>Marguerite</elt><elt>Inga</elt>  
+  <Annice>
+    <age>91</age>
+  </Annice>
+</root>

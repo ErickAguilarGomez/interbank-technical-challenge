@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dennie"
+  lastname="Emmaline"
+  city="Juneau"
+  country="Argentina"
+  firstname2="Cassondra"
+  lastname2="An"
+  email="Cassondra.An@yopmail.com"
+  />
+  <random>70</random>
+  <random_float>76.71</random_float>
+  <bool>true</bool>
+  <date>1987-10-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Kittie</elt><elt>Andree</elt><elt>Vonny</elt><elt>Sibella</elt><elt>Jennica</elt>  
+  <Cassondra>
+    <age>70</age>
+  </Cassondra>
+</root>

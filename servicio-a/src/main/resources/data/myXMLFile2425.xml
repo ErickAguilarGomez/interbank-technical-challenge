@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Teddie"
+  lastname="Iiette"
+  city="Campo Grande"
+  country="Virgin Islands, British"
+  firstname2="Allis"
+  lastname2="Paton"
+  email="Allis.Paton@yopmail.com"
+  />
+  <random>42</random>
+  <random_float>4.985</random_float>
+  <bool>false</bool>
+  <date>1986-09-26</date>
+  <regEx>helloooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Adriana</elt><elt>Janeczka</elt><elt>Tiffie</elt><elt>Dominga</elt><elt>Constance</elt>  
+  <Allis>
+    <age>22</age>
+  </Allis>
+</root>

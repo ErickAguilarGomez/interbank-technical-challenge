@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Concettina"
+  lastname="Noelyn"
+  city="Charlotte"
+  country="Faroe Islands"
+  firstname2="Noelle"
+  lastname2="Pettiford"
+  email="Noelle.Pettiford@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>47.229</random_float>
+  <bool>false</bool>
+  <date>1990-05-11</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Joelly</elt><elt>Daune</elt><elt>Hayley</elt><elt>Aigneis</elt><elt>Adele</elt>  
+  <Noelle>
+    <age>62</age>
+  </Noelle>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evita"
+  lastname="Nelsen"
+  city="Montreal"
+  country="Cocos (Keeling) Islands"
+  firstname2="Max"
+  lastname2="Bashemeth"
+  email="Max.Bashemeth@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>15.525</random_float>
+  <bool>false</bool>
+  <date>1991-12-18</date>
+  <regEx>hellooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Theodora</elt><elt>Ricky</elt><elt>Bibby</elt><elt>Clo</elt><elt>Desirae</elt>  
+  <Max>
+    <age>88</age>
+  </Max>
+</root>
