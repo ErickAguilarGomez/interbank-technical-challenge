@@ -22,6 +22,7 @@ services:
       interval: 5s
       timeout: 5s
       retries: 5
+      start_period: 10s
     deploy:
       resources:
         limits:
@@ -58,9 +59,10 @@ services:
       CLUSTER_ID: '${KAFKA_CLUSTER_ID:-MkU3OEVBNTcwNTJENDM2Qk}'
     healthcheck:
       test: ["CMD-SHELL", "kafka-cluster cluster-id --bootstrap-server localhost:9092 || exit 1"]
-      interval: 10s
+      interval: 5s
       timeout: 5s
-      retries: 5
+      retries: 10
+      start_period: 15s
     deploy:
       resources:
         limits:

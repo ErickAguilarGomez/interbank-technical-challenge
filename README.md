@@ -49,6 +49,9 @@ docker compose up --build -d
 docker compose ps
 ```
 
+> [!NOTE]
+> En el primer arranque, PostgreSQL y Kafka tardan entre 15 y 20 segundos en inicializar y pasar a estado `(healthy)`. Los microservicios esperan automáticamente a que ambos motores estén listos antes de iniciar (`depends_on: service_healthy`). Si al consultar `docker compose ps` ves algún contenedor iniciando, espera unos segundos a que pasen a estado activo antes de llamar a los endpoints.
+
 ---
 
 ## 4. Endpoints y Pruebas
